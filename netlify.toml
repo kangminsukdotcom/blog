@@ -6,6 +6,3 @@
 
 [build.environment]
   HUGO_VERSION = "0.101.0"
-
-[[plugins]]
-  package = "netlify-plugin-cypress"
