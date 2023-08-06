@@ -1,4 +1,20 @@
-baseURL = ''
-languageCode = 'en-us'
-title = 'Kang'
-theme = 'hugo-bearcub'
+baseURL = ""
+languageCode = "en-us"
+title = "Kang"
+theme = "hugo-bearcub-"
+copyright = "Minsuk Kang (CC BY 4.0)"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+
+[author]
+  name = "Minsuk Kang"
+
+[markup.highlight]
+  lineNos = true
+  lineNumbersInTable = false
+
+description = "Speak through creations."
+favicon = "images/favicon.png"
+title = "Bear Cub"
+dateFormat = "2006-01-02"
+email = "kang@cheesylazy.com"
