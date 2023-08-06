@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
 title = "Kang"
-theme = "hugo-bearcub-"
+theme = "hugo-bearcub"
 copyright = "Minsuk Kang (CC BY 4.0)"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
