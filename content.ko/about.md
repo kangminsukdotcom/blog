@@ -4,6 +4,6 @@ menu: "main"
 weight: 1
 ---
 
-[Kang](https://kangminsuk.com/)'s fictional stories.
+[Kang](https://kangminsuk.com/)
 
 kang@cheesylazy.com
