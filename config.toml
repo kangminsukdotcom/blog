@@ -18,3 +18,21 @@ favicon = "images/favicon.png"
 title = "Bear Cub"
 dateFormat = "2006-01-02"
 email = "kang@cheesylazy.com"
+
+[languages]
+  [languages.en]
+    title = "Kang"
+    languageName = "en"
+    LanguageCode = "en-US"
+    contentDir = "content"
+    [languages.en.params]
+      blogPath = "/blog" # Path to your blog section (used by RSS)
+      madeWith = "Speak through creations."
+  [languages.ko]
+    title = "강민석"
+    languageName = "한국어"
+    LanguageCode = "ko-KO"
+    contentDir = "content.ko"
+    [languages.ko.params]
+      blogPath = "/ko/blog" # Path to your blog section (used by RSS)
+      madeWith = "Speak through creations."
