@@ -15,14 +15,13 @@ enableRobotsTXT = true
 
 description = "Speak through creations."
 favicon = "images/favicon.png"
-title = "Bear Cub"
 dateFormat = "2006-01-02"
 email = "kang@cheesylazy.com"
 
 [languages]
   [languages.en]
     title = "Kang"
-    languageName = "en"
+    languageName = "En"
     LanguageCode = "en-US"
     contentDir = "content"
     [languages.en.params]
