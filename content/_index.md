@@ -1,8 +1,11 @@
 ---
-title: "About"
+title: "Home"
 menu: "main"
 weight: 1
 ---
+
+![-----1 (1).webp](https://kang.mataroa.blog/images/940c5ee3.webp)
+
 # Favorites
 
 ### *Products*
@@ -34,6 +37,3 @@ weight: 1
 - [Kofi](https://ko-fi.com/kangminsuk)
 - [토스](https://toss.me/kangminsuk)
 
-![-----1 (1).webp](https://kang.mataroa.blog/images/940c5ee3.webp)
-
-kang@cheesylazy.com
