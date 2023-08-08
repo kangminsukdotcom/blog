@@ -4,10 +4,6 @@ menu: "main"
 weight: 1
 ---
 
-![-----1 (1).webp](https://kang.mataroa.blog/images/940c5ee3.webp)
-
-# Favorites
-
 ### *Products*
 - [Mataroa](https://mataroa.blog) - naked blogging platform, for minimalists.
 - [Vore](https://vore.website/kang) - no-bullshit web-based rss/atom feed reader.
@@ -30,10 +26,3 @@ weight: 1
 - [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B08JV3W3VC)
 - [Influence](https://www.amazon.com/Influence-New-Expanded-Psychology-Persuasion-ebook/dp/B08HZ57WYN)
 - [The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness-ebook/dp/B084HJSJJ2)
-
-# Support
-
-### *Thank you for your support!*
-- [Kofi](https://ko-fi.com/kangminsuk)
-- [토스](https://toss.me/kangminsuk)
-
