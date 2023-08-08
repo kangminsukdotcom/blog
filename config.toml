@@ -14,7 +14,7 @@ enableRobotsTXT = true
   lineNumbersInTable = false
 
 description = "Speak through creations."
-favicon = "images/favicon.png"
+favicon = "favicon.png"
 dateFormat = "2006-01-02"
 email = "kang@cheesylazy.com"
 
