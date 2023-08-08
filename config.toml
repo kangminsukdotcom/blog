@@ -2,7 +2,7 @@ baseURL = ""
 languageCode = "en-us"
 title = "Kang"
 theme = "hugo-bearcub"
-copyright = "Minsuk Kang (CC BY 4.0)"
+copyright = "kang@cheesylazy.com"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 
