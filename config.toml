@@ -5,6 +5,8 @@ theme = "hugo-bearcub"
 copyright = "kang@cheesylazy.com"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
+dateFormat = "2006-01-02"
+email = "kang@cheesylazy.com"
 
 [author]
   name = "Minsuk Kang"
@@ -13,10 +15,9 @@ enableRobotsTXT = true
   lineNos = true
   lineNumbersInTable = false
 
-description = "Speak through creations."
-favicon = "static/images/favicon.png"
-dateFormat = "2006-01-02"
-email = "kang@cheesylazy.com"
+[params]
+  description = "Speak through creations."
+  favicon = "images/favicon.png"
 
 [languages]
   [languages.en]
