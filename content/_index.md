@@ -3,7 +3,7 @@ title: "Home"
 menu: "main"
 weight: 1
 ---
-Welcome to Kang's digital bunker. I want this website to be a safe space for my thoughts.
+Welcome to Kang's digital bunker. This website is a safe space for my thoughts.
 
 Here're some (maybe)interesting things about myself:
 - My wife and I own a small vegan sandwich shop called [CHEESYLAZY](https://cheesylazy.com/) in Jeju, South Korea. We also run a podcast, publish ebooks, and host workshops/meetings. Our goal is to be first-class content creators while maintaining the restaurant "too small to fail."   
