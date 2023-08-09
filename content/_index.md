@@ -6,9 +6,25 @@ weight: 1
 Hello there, welcome to Kang's digital bunker. I want this website to be a safe space for my thoughts.
 
 Here're some (maybe)interesting things about myself:
-- My wife and I own a small vegan sandwich shop called [CHEESYLAZY](https://cheesylazy.com/) in Jeju, South Korea. We also run a podcast, publish ebooks, and host workshops/meetings(in Korean). Our goal is to be first-class content creators while maintaining the restaurant "too small to fail."   
+- My wife and I own a small vegan sandwich shop called [CHEESYLAZY](https://cheesylazy.com/) in Jeju, South Korea. We also run a podcast, publish ebooks, and host workshops/meetings. Our goal is to be first-class content creators while maintaining the restaurant "too small to fail."   
 - I'm passionate about writing, programming, and baking. I'm inspired by those who send unique messages through their creations. Likewise, I'd like my blog, sandwich, and (someday) software, to embody my authentic philosophy of life.
 - I was born in Korea, but I lived two years in China (middle school) and eight years in the US (high school & college).
+
+### Feedback
+
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Name: <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Submit</button>
+  </p>
+</form>
+
+Or email me directly kang@cheesylazy.com
 
 ---
 
