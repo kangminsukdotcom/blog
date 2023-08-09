@@ -12,19 +12,7 @@ Here're some (maybe)interesting things about myself:
 
 ### Feedback
 
-<form name="contact" netlify>
-  <p>
-    <label>Name: <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Submit</button>
-  </p>
-</form>
-
-Or email me directly kang@cheesylazy.com
+Email me directly kang@cheesylazy.com
 
 ---
 
