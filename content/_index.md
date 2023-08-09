@@ -12,7 +12,7 @@ Here're some (maybe)interesting things about myself:
 
 ### Feedback
 
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact" netlify>
   <p>
     <label>Name: <input type="text" name="name" /></label>
   </p>

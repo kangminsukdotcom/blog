@@ -12,7 +12,7 @@ weight: 1
 
 **메시지 보내기**
 
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact" netlify>
   <p>
     <label>이름: <input type="text" name="name" /></label>
   </p>
