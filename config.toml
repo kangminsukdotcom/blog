@@ -11,9 +11,10 @@ email = "kang@cheesylazy.com"
 [author]
   name = "Minsuk Kang"
 
-[markup.highlight]
-  lineNos = true
-  lineNumbersInTable = false
+[markup]
+  [markup.highlight]
+    lineNos = true
+    lineNumbersInTable = false
 
 [params]
   description = "Speak through creations."
