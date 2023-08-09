@@ -15,6 +15,7 @@ email = "kang@cheesylazy.com"
   [markup.highlight]
     lineNos = true
     lineNumbersInTable = false
+    noClasses = false
 
 [params]
   description = "Speak through creations."
