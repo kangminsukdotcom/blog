@@ -5,13 +5,15 @@ weight: 1
 ---
 Hello there, welcome to Kang's digital bunker. I want this website to be a safe space for my thoughts.
 
-Here're some (un)interesting things about myself:
-- My wife and I own a small vegan sandwich shop called [CHEESYLAZY](https://cheesylazy.com/) in Jeju, South Korea. We also run a podcast, publish ebooks, and host workshops/meetings. Our goal is to be first-class content creators while maintaining the restaurant "too small to fail."   
-- I'm a passionate student of writing, programming, and baking. I'm inspired by those who send unique messages through their creations. I'd like my products, including the blog, sandwich, and (someday) software, to embody my authentic philosophy of life.
+Here're some (maybe)interesting things about myself:
+- My wife and I own a small vegan sandwich shop called [CHEESYLAZY](https://cheesylazy.com/) in Jeju, South Korea. We also run a podcast, publish ebooks, and host workshops/meetings(in Korean). Our goal is to be first-class content creators while maintaining the restaurant "too small to fail."   
+- I'm passionate about writing, programming, and baking. I'm inspired by those who send unique messages through their creations. Likewise, I'd like my blog, sandwich, and (someday) software, to embody my authentic philosophy of life.
 - I was born in Korea, but I lived two years in China (middle school) and eight years in the US (high school & college).
 
-### *Favorites*
-**Products**
+---
+
+### Favorites
+*Products*
 
 - [Mataroa](https://mataroa.blog) - naked blogging platform, for minimalists.
 - [Vore](https://vore.website/kang) - no-bullshit web-based rss/atom feed reader.
@@ -20,7 +22,7 @@ Here're some (un)interesting things about myself:
 - [Fast Comments](https://fastcomments.com/) - cheap, flexible commenting solution.
 - [Read Something Wonderful](https://readsomethingwonderful.com), an archive of great internet writing.
 
-**Books**
+*Books*
 
 - [Almanack of Naval Ravikant](https://www.navalmanack.com/)
 - [Zero to One](https://en.wikipedia.org/wiki/Zero_to_One)
@@ -36,7 +38,7 @@ Here're some (un)interesting things about myself:
 - [Influence](https://www.amazon.com/Influence-New-Expanded-Psychology-Persuasion-ebook/dp/B08HZ57WYN)
 - [The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness-ebook/dp/B084HJSJJ2)
 
-**Blogs**
+*Blogs*
 
 - [The Privacy Dad](https://theprivacydad.com/)
 - [nutcroft](https://nutcroft.com/)
