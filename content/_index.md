@@ -42,3 +42,4 @@ Here're some (maybe) interesting things about myself:
 
 - [The Privacy Dad](https://theprivacydad.com/)
 - [nutcroft](https://nutcroft.com/)
+- [Morgan Housel](https://collabfund.com/blog/authors/morgan/)

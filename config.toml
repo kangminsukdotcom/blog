@@ -22,7 +22,7 @@ email = "kang@cheesylazy.com"
 [languages]
   [languages.en]
     title = "Kang"
-    languageName = "En"
+    languageName = "English"
     LanguageCode = "en-US"
     contentDir = "content"
     [languages.en.params]
