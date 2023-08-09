@@ -10,10 +10,6 @@ Here're some (maybe)interesting things about myself:
 - I'm passionate about writing, programming, and baking. I'm inspired by those who send unique messages through their creations. Likewise, I'd like my blog, sandwich, and (someday) software, to embody my authentic philosophy of life.
 - I was born in Korea, but I lived two years in China (middle school) and eight years in the US (high school & college).
 
-### Feedback
-
-Email me directly kang@cheesylazy.com
-
 ---
 
 ### Favorites
