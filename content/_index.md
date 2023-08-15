@@ -43,4 +43,4 @@ Here are some (maybe) interesting things about myself:
 - [The Privacy Dad](https://theprivacydad.com/)
 - [nutcroft](https://nutcroft.com/)
 
-*You can support me on [Kofi](https://ko-fi.com/kangminsuk)*
+*You can support me on [Kofi](https://ko-fi.com/kangminsuk).*
