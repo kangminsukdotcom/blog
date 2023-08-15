@@ -42,4 +42,5 @@ Here are some (maybe) interesting things about myself:
 
 - [The Privacy Dad](https://theprivacydad.com/)
 - [nutcroft](https://nutcroft.com/)
-- [Morgan Housel](https://collabfund.com/blog/authors/morgan/)
+
+*You can support me on [Kofi](https://ko-fi.com/kangminsuk)*
