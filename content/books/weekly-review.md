@@ -7,7 +7,7 @@ I'll be publishing a weekly book review on this blog starting this Friday.
 
 My review will be deeply personal. There won't be a 5-star rating or structural analysis. I'll only share what I think is inspirational and interesting about the story. Nothing special, just a man's attempt to have a real conversation with another writer.
 
-I also hope this series to help me improve my information diet. Perusing books might be the best way to forget about the endless feed of entertainment on social media. 
+I also hope this series to help me improve my information diet. Perusing books could be the best way to forget about the endless feed of entertainment on social media. 
 
 Let me show you some candidates. It's actually just a list of unread books waiting to be opened on my Kindle.
 - 1984 by George Orwell.
@@ -40,4 +40,4 @@ Let me show you some candidates. It's actually just a list of unread books waiti
 - Beloved by Toni Morrison.
 - Salman Rushdie, Midnight's Children.
 
-Email me if you have any recommendations. I'd also like to read non-fiction books, but it's hard to find one without fluff. I recently realized reading essays is much more effective for self-improvement. Maybe I'm wrong about this take.
+Email me if you have any recommendations. I'd also like to read non-fiction books, but finding one without fluff has been difficult. I recently realized reading short essays is much more effective for self-improvement. Maybe I'm wrong about this take.
