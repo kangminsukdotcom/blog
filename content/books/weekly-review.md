@@ -38,6 +38,7 @@ Let me show you some candidates. It's actually just a list of unread books waiti
 - The Fountainhead by Ayn Rand.
 - The Stranger by Albert Camus.
 - Beloved by Toni Morrison.
-- Salman Rushdie, Midnight's Children.
+- Midnight's Children by Salman Rushdie.
+- Oblivion by David Foster Wallace. 
 
 Email me if you have any recommendations. I'd also like to read non-fiction books, but finding one without fluff has been difficult. I recently realized reading short essays is much more effective for self-improvement. I could be wrong about this take.
