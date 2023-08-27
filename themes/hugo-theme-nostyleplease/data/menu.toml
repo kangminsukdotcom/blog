@@ -3,6 +3,10 @@ title = "Info"
 url = "info"
 
 [[entries]]
+title = "소개"
+url = "ko/info"
+
+[[entries]]
 title = "All posts in English"
 
   [entries.post_list]
