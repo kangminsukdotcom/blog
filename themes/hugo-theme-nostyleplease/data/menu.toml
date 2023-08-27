@@ -11,7 +11,7 @@ title = "All posts in English"
 url = "blog"
 
 [[entries]]
-title = "한국어 글"
+title = "한국어 블로그"
 url = "ko/blog"
 
 [[entries]]
