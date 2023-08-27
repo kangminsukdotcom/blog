@@ -1,13 +1,13 @@
 [[entries]]
-title = "Info"
+title = "info"
 url = "info"
 
 [[entries]]
-title = "Blog"
+title = "blog"
 url = "blog"
 
 [[entries]]
-title = "RSS"
+title = "rss"
 url = "blog/index.xml"
 
 [[entries]]
