@@ -1,3 +1,8 @@
+---
+[[entries]]
+title = "Info"
+url = "info"
+
 [[entries]]
 title = "All posts in English"
 
@@ -17,9 +22,9 @@ title = "한국어"
   show_more_url = "ko/blog"
 
 [[entries]]
-title = "rss"
+title = "RSS"
 url = "blog/index.xml"
 
 [[entries]]
-title = "한국어 rss"
+title = "한국어 RSS"
 url = "ko/blog/index.xml"
