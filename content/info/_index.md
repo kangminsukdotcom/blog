@@ -1,9 +1,9 @@
 ---
-title: "Home"
+title: "Kang"
 menu: "main"
 weight: 1
 ---
-Welcome to Kang's blog.
+Welcome.
 
 Here are some (maybe) interesting things about myself:
 - My wife and I own a small vegan sandwich shop called [CHEESYLAZY](https://cheesylazy.com/) in Jeju, South Korea. We also run a podcast, publish ebooks, and host workshops/meetings. Our goal is to be first-class content creators while maintaining the restaurant "too small to fail."   
