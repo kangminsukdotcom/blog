@@ -3,20 +3,20 @@ title = "Info"
 url = "info"
 
 [[entries]]
-title = "소개"
-url = "ko/info"
-
-[[entries]]
 title = "All posts in English"
 url = "blog"
 
 [[entries]]
-title = "한국어 블로그"
-url = "ko/blog"
-
-[[entries]]
 title = "RSS"
 url = "blog/index.xml"
+
+[[entries]]
+title = "소개"
+url = "ko/info"
+
+[[entries]]
+title = "한국어 블로그"
+url = "ko/blog"
 
 [[entries]]
 title = "한국어 RSS"
