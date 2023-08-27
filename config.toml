@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
 title = "Kang"
-theme = "hugo-bearcub"
+theme = "nostyleplease"
 copyright = "kang@cheesylazy.com"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
