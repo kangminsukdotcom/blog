@@ -1,53 +1,25 @@
 [[entries]]
-title = "info"
-
-  [[entries.entries]]
-  title = "a (nearly) no-CSS, fast, minimalist Hugo theme ported from <a href='https://github.com/riggraz/no-style-please'>riggraz/no-style-please</a>."
-
-  [[entries.entries]]
-  title = "github repo"
-  url = "https://github.com/riggraz/no-style-please"
-
-  [[entries.entries]]
-  title = "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-
-[[entries]]
-title = "all posts"
+title = "All posts in English"
 
   [entries.post_list]
   limit = 5
   show_more = true
   show_more_text = "See archive..."
-  show_more_url = "posts"
+  show_more_url = "blog"
 
 [[entries]]
-title = "posts by category"
+title = "한국어"
 
   [entries.post_list]
-  section = "posts"
+  limit = 5
   show_more = true
-  show_more_text = "See more posts..."
-  show_more_url = "posts"
+  show_more_text = "아카이브"
+  show_more_url = "ko/blog"
 
 [[entries]]
 title = "rss"
-url = "index.xml"
+url = "blog/index.xml"
 
 [[entries]]
-title = "another list"
-
-  [[entries.entries]]
-  title = "with subitems"
-
-    [[entries.entries.entries]]
-    title = "with subsubitems"
-
-    [[entries.entries.entries]]
-    title = "example page"
-    url = "about"
-
-[[entries]]
-title = "PRO TIP"
-entries = [
-   { title = "to edit this menu, edit data/menu.toml file" }
-  ]
+title = "한국어 rss"
+url = "ko/blog/index.xml"
