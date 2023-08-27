@@ -2,7 +2,7 @@ baseURL = "https://kangminsuk.com/"
 languageCode = "en-us"
 title = "Kang"
 theme = "hugo-theme-nostyleplease"
-copyright = "copyright = "Minsuk Kang All rights reserved"
+copyright = "Minsuk Kang All rights reserved"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 dateFormat = "2006-01-02"
@@ -10,12 +10,6 @@ email = "kang@cheesylazy.com"
 
 [author]
   name = "Minsuk Kang"
-
-[markup]
-  [markup.highlight]
-    lineNos = true
-    lineNumbersInTable = false
-    noClasses = false
 
 [params]
   description = "Speak through creations."
