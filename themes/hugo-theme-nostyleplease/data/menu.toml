@@ -8,21 +8,11 @@ url = "ko/info"
 
 [[entries]]
 title = "All posts in English"
-
-  [entries.post_list]
-  limit = 5
-  show_more = true
-  show_more_text = "See archive..."
-  show_more_url = "blog"
+url = "blog"
 
 [[entries]]
-title = "한국어"
-
-  [entries.post_list]
-  limit = 5
-  show_more = true
-  show_more_text = "아카이브"
-  show_more_url = "ko/blog"
+title = "한국어 글"
+url = "ko/blog"
 
 [[entries]]
 title = "RSS"
