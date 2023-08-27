@@ -8,7 +8,7 @@ url = "blog"
 
 [[entries]]
 title = "RSS"
-url = "https://kangminsuk.com/blog/index.xml"
+url = "blog/index.xml"
 
 [[entries]]
 title = "소개"
@@ -20,4 +20,4 @@ url = "ko/blog"
 
 [[entries]]
 title = "한국어 RSS"
-url = "https://kangminsuk.com/ko/blog/index.xml"
+url = "ko/blog/index.xml"
