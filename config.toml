@@ -1,8 +1,8 @@
-baseURL = ""
+baseURL = "https://kangminsuk.com/"
 languageCode = "en-us"
 title = "Kang"
 theme = "hugo-theme-nostyleplease"
-copyright = "kang@cheesylazy.com"
+copyright = "copyright = "Minsuk Kang All rights reserved"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 dateFormat = "2006-01-02"
@@ -28,13 +28,11 @@ email = "kang@cheesylazy.com"
     LanguageCode = "en-US"
     contentDir = "content"
     [languages.en.params]
-      blogPath = "/blog" # Path to your blog section (used by RSS)
-      madeWith = "Speak through creations."
+      blogPath = "/blog"
   [languages.ko]
     title = "강민석"
     languageName = "한국어"
     LanguageCode = "ko-KO"
     contentDir = "content.ko"
     [languages.ko.params]
-      blogPath = "/ko/blog" # Path to your blog section (used by RSS)
-      madeWith = "Speak through creations."
+      blogPath = "/ko/blog"
