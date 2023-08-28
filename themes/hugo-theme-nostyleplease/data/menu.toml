@@ -10,14 +10,11 @@ title = "hi"
     url = "blog"
 
     [[entries.entries]]
-    title = "<a href='mailto:kang@cheesylazy.com'>email</a>"
-    
-    [[entries.entries]]
     title = "rss"
     url = "blog/index.xml"
 
 [[entries]]
-title = "반가워요"
+title = "안녕"
 
     [[entries.entries]]
     title = "소개"
@@ -28,5 +25,8 @@ title = "반가워요"
     url = "ko/blog"
 
     [[entries.entries]]
-    title = "한국어 rss"
+    title = "rss"
     url = "ko/blog/index.xml"
+
+[[entries]]
+title = "<a href='mailto:kang@cheesylazy.com'>email</a>"
