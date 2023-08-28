@@ -6,7 +6,7 @@ title = "hi"
     url = "info"
 
     [[entries.entries]]
-    title = "<a href='mailto:kang@cheesylazy.com'>email</a>
+    title = "<a href='mailto:kang@cheesylazy.com'>email</a>"
 
 [[entries]]
 title = "blog"
