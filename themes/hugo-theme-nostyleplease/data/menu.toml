@@ -6,24 +6,27 @@ title = "hi"
     url = "info"
 
     [[entries.entries]]
+    title = "blog"
+    url = "blog"
+
+    [[entries.entries]]
     title = "<a href='mailto:kang@cheesylazy.com'>email</a>"
+    
+    [[entries.entries]]
+    title = "rss"
+    url = "blog/index.xml"
 
 [[entries]]
-title = "blog"
-url = "blog"
+title = "반가워요"
 
-[[entries]]
-title = "rss"
-url = "blog/index.xml"
+    [[entries.entries]]
+    title = "소개"
+    url = "ko/info"
 
-[[entries]]
-title = "소개"
-url = "ko/info"
+    [[entries.entries]]
+    title = "블로그"
+    url = "ko/blog"
 
-[[entries]]
-title = "블로그"
-url = "ko/blog"
-
-[[entries]]
-title = "한국어 rss"
-url = "ko/blog/index.xml"
+    [[entries.entries]]
+    title = "한국어 rss"
+    url = "ko/blog/index.xml"
