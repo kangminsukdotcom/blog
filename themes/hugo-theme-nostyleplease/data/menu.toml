@@ -16,8 +16,6 @@ url = "blog"
 title = "rss"
 url = "blog/index.xml"
 
----
-
 [[entries]]
 title = "소개"
 url = "ko/info"
