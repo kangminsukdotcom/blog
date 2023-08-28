@@ -2,6 +2,10 @@
 title = "info"
 url = "info"
 
+  [[entries.entries]]
+  title = "email"
+  url = "mailto:kang@cheesylazy.com"
+
 [[entries]]
 title = "blog"
 url = "blog"
