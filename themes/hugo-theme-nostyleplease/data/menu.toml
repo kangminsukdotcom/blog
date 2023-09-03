@@ -1,8 +1,8 @@
 [[entries]]
-title = "hi"
+title = "hello"
 
     [[entries.entries]]
-    title = "info"  
+    title = "about"  
     url = "info"
 
     [[entries.entries]]
@@ -14,7 +14,7 @@ title = "hi"
     url = "blog/index.xml"
 
 [[entries]]
-title = "안녕"
+title = "안녕하세요"
 
     [[entries.entries]]
     title = "소개"
