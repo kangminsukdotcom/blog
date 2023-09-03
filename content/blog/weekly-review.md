@@ -3,13 +3,13 @@ title: I'm writing weekly book reviews
 date: 2023-08-22
 ---
 
-I'll be publishing a weekly book review on this blog starting next Friday.
+I'll be publishing book reviews on this blog.
 
 My review will be deeply personal. There won't be a 5-star rating or structural analysis. I'll only share what I think is inspirational and interesting about the story. Nothing special, just a man's attempt to have a real conversation with another writer.
 
 I also hope this series to help me improve my information diet. Perusing books could be the best way to forget about the endless feed of entertainment on social media. 
 
-Let me show you some candidates. It's actually just a list of unread books waiting to be opened on my Kindle.
+Let me show you some candidates. It's actually a list of unread books waiting to be opened on my Kindle.
 - 1984 by George Orwell.
 - Animal Farm by George Orwell.
 - Brave New World by Aldous Huxley.
