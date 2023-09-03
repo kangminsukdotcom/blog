@@ -27,6 +27,3 @@ title = "안녕하세요"
     [[entries.entries]]
     title = "rss"
     url = "ko/blog/index.xml"
-
-[[entries]]
-title = "<a href='mailto:kang@cheesylazy.com'>email</a>"
