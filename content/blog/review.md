@@ -1,5 +1,5 @@
 ---
-title: I'm writing weekly book reviews
+title: I'm writing book reviews
 date: 2023-08-22
 ---
 
