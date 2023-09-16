@@ -2,15 +2,15 @@
 title = "English"
 
     [[entries.entries]]
-    title = "info"  
+    title = "Info"  
     url = "info"
 
     [[entries.entries]]
-    title = "blog"
+    title = "Blog"
     url = "blog"
 
     [[entries.entries]]
-    title = "rss"
+    title = "RSS"
     url = "blog/index.xml"
 
 [[entries]]
@@ -25,5 +25,5 @@ title = "한국어"
     url = "ko/blog"
 
     [[entries.entries]]
-    title = "rss"
+    title = "RSS"
     url = "ko/blog/index.xml"
