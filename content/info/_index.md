@@ -17,6 +17,7 @@ Here are some (maybe) interesting things about myself:
 
 - [Mataroa](https://mataroa.blog) - naked blogging platform, for minimalists.
 - [Vore](https://vore.website/kang) - no-bullshit web-based rss/atom feed reader.
+- [Matter](https://hq.getmatter.com/) - fast, powerful reader I use for online reading.
 - [Kagi](https://kagi.com/) - ad-free, privacy-respecting search engine.
 - [Mullvad VPN](https://mullvad.net/en) - fast, simple, and reliable VPN. Their [browser](https://mullvad.net/en/browser) is amazing too.
 - [Fast Comments](https://fastcomments.com/) - cheap, flexible commenting solution.
