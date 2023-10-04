@@ -3,8 +3,6 @@ title: "Kang"
 menu: "main"
 weight: 1
 ---
-Welcome.
-
 Here are some (maybe) interesting things about myself:
 - My wife and I own a small vegan sandwich shop called [CHEESYLAZY](https://cheesylazy.com/) in Jeju, South Korea. We also run a podcast, publish ebooks, and host workshops/meetings. Our goal is to be first-class content creators while maintaining the restaurant "too small to fail."   
 - I'm passionate about writing, programming, and baking. I'm inspired by those who send unique messages through their creations. Likewise, I'd like my blog, sandwich, and (someday) software, to embody my authentic philosophy of life.
@@ -43,3 +41,7 @@ Here are some (maybe) interesting things about myself:
 
 - [The Privacy Dad](https://theprivacydad.com/)
 - [nutcroft](https://nutcroft.com/)
+
+---
+*Contact*
+- kang@cheesylazy.com
