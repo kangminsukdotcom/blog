@@ -30,5 +30,5 @@
 
 [params]
   [params.theme_config]
-    appearance = "auto"
+    appearance = "default"
     date_format = "2006-01-02"
