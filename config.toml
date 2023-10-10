@@ -12,7 +12,7 @@ email = "kang@cheesylazy.com"
   name = "Minsuk Kang"
 
 [params]
-  description = "Speak through creations."
+  description = "Kang's blog."
   favicon = "images/favicon.png"
 
 [languages]
