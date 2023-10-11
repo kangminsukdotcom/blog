@@ -2,7 +2,7 @@
 title = "English"
 
     [[entries.entries]]
-    title = "Who is Kang?"  
+    title = "About"  
     url = "info"
 
     [[entries.entries]]
@@ -17,7 +17,7 @@ title = "English"
 title = "한국어"
 
     [[entries.entries]]
-    title = "간단한 소개"
+    title = "소개"
     url = "ko/info"
 
     [[entries.entries]]
