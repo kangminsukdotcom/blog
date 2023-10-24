@@ -37,7 +37,9 @@ body {
 
 h2, h3, h4, h5, h6 { margin-top: 3rem; }
 
-hr { margin: 2rem 0; }
+hr { margin: 2rem 0;
+  border:1px dashed;
+ }
 
 p { margin: 1rem 0; }
 
@@ -54,14 +56,6 @@ li { margin: 0.4rem 0; }
 .toc {
   border: thin solid black;
   padding: 1rem;
-}
-
-hr {
-  text-align: center;
-  border: 0;
-
-  &:before { content: '/////' }
-  &:after { content: attr(data-content) '/////' }
 }
 
 pre {
