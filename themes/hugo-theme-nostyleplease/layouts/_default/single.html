@@ -18,16 +18,15 @@
 
     {{ .Content }}
     <hr></hr>
-    <div class="next-post">
+    <div class="previous-post" div style="display:inline">
+        {{ if .PrevPage }}
+        <a class="link-reverse" href="{{ .PrevPage.Permalink }}?ref=footer">Previous</a>
+        {{ end }}
+    <div class="next-post" div style="display:inline">
         {{ if .NextPage }}
-        <a class="link-reverse" href="{{ .NextPage.Permalink }}?ref=footer">« {{ .NextPage.Title | truncate 50 "..." }}</a>
+        <a class="link-reverse" href="{{ .NextPage.Permalink }}?ref=footer">Next</a>
         {{ end }}
     </div>
-    
-    <div class="previous-post">
-        {{ if .PrevPage }}
-        <a class="link-reverse" href="{{ .PrevPage.Permalink }}?ref=footer">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
-        {{ end }}
     </div>
 </article>
 {{ end }}
