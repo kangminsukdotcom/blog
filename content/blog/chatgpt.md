@@ -11,4 +11,5 @@ Immediate solutions could only be satisfying when asking plain questions such as
 
 I refuse to be a docile student of AI-generated wisdom. Consumers have already lost patience when it comes to entertainment. Some of us are drowning in a never-ending feed of content. Should we allow another algorithm to govern our lives?
 
-If you were going to Seoul for the first time, would you entrust ChatGPT as the mastermind behind your itinerary? I don't think so. I'm sure you would prefer unique experiences over generic touristy destinations. As a first-time human, that's how I feel about seeking life hacks through feeding prompts into a language model. I'm determined to get lost and explore the world on my own.
+If you were going to Seoul for the first time, would you entrust ChatGPT as the mastermind behind your itinerary? I don't think so. I'm sure you would prefer unique experiences over generic touristy destinations. As a first-time human, that's how I feel about seeking life hacks through feeding prompts into a language model. I want to get lost and explore the world on my own.
+
