@@ -22,4 +22,4 @@ About myself:
 
 ---
 *Contact*
-- kang@cheesylazy.com
+- <a href="mailto:kang@cheesylazy.com">Email</a>

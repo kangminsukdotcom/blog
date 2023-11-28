@@ -9,5 +9,5 @@ weight: 1
 - 아내와 함께 [뉴스레터](https://cheesylazy.com/all), [책](https://cheesylazy.com/too-small-to-fail/), [팟캐스트](https://cheesylazy.com/tag/podcast/)를 발행합니다.
 - 시간 날 때마다 글쓰기, 프로그래밍, 베이킹합니다.
 
-이메일
-- kang@cheesylazy.com
+문의
+- <a href="mailto:kang@cheesylazy.com">Email</a>
