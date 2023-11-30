@@ -19,7 +19,3 @@ About myself:
 - [Fast Comments](https://fastcomments.com/) - cheap, flexible commenting solution.
 - [Read Something Wonderful](https://readsomethingwonderful.com) - an archive of great internet writing.
 - [Sublime](https://sublime.app/) - my go-to platform to find the best(human-curated) content. No ads, likes, follower counts.
-
----
-*Contact*
-- <a href="mailto:kang@cheesylazy.com">Email</a>
