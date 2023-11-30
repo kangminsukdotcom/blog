@@ -9,7 +9,7 @@ That doesn't mean I need to consult with my computer whenever I have a burning q
 
 Immediate solutions could only be satisfying when asking plain questions such as "Where is Korea?" There can't be an absolute answer to multifaceted questions like "How can I make my business survive a hundred years?"AI could provide useful tips, but I must go through years of trial and error myself to learn numerous details of running a sustainable business. Complex tasks like writing a book, running a company, and maintaining relationships deserve a lifetime endeavor.
 
-I refuse to be a docile student of AI-generated wisdom. Look, some of us are drowning in a never-ending feed of content. Consumers have already lost patience when it comes to entertainment. Should we allow another algorithm to govern our lives?
+I refuse to be a docile student of AI-generated wisdom. Some of us are drowning in a never-ending feed of content. Consumers have already lost patience when it comes to entertainment. Should we allow another algorithm to govern our lives?
 
 If you were going to Seoul for the first time, would you entrust ChatGPT as the mastermind behind your itinerary? I don't think so. I'm sure you would prefer unique experiences over generic touristy destinations. As a first-time human, that's how I feel about seeking life hacks through feeding prompts into a language model.
 
