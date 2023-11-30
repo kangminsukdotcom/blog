@@ -2,14 +2,14 @@ baseURL = "https://kangminsuk.com/"
 languageCode = "en-us"
 title = "Kang"
 theme = "hugo-theme-nostyleplease"
-copyright = "Minsuk Kang All rights reserved"
+copyright = "Minsuk Kang 강민석 All rights reserved"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 dateFormat = "2006-01-02"
 email = "kang@cheesylazy.com"
 
 [author]
-  name = "Minsuk Kang"
+  name = "Minsuk Kang 강민석"
 
 [params]
   description = "Kang's blog."
