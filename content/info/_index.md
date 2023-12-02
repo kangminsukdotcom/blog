@@ -18,4 +18,4 @@ About myself:
 - [Mullvad VPN](https://mullvad.net/en) - fast, simple, and reliable VPN.
 - [Fast Comments](https://fastcomments.com/) - cheap, flexible commenting solution.
 - [Read Something Wonderful](https://readsomethingwonderful.com) - an archive of great internet writing.
-- [Sublime](https://sublime.app/) - my go-to platform to find the best(human-curated) content. No ads, likes, follower counts.
+- [Sublime](https://sublime.app/kang) - my go-to platform to find the best(human-curated) content. No ads, likes, follower counts.
