@@ -12,8 +12,8 @@ email = "kang@cheesylazy.com"
   name = "Kang 강민석"
 
 [params]
-  description = "Kang's blog."
-  favicon = "images/favicon.png"
+  description = "Personal words."
+  favicon = "images/favicon.jpg"
 
 [languages]
   [languages.en]
