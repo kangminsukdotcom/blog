@@ -2,7 +2,6 @@ baseURL = "https://kangminsuk.com/"
 languageCode = "en-us"
 title = "Kang"
 theme = "hugo-theme-nostyleplease"
-copyright = "Kang 강민석 All rights reserved"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 dateFormat = "2006-01-02"
@@ -13,7 +12,6 @@ email = "kang@cheesylazy.com"
 
 [params]
   description = "Personal words."
-  favicon = "images/favicon.jpg"
 
 [languages]
   [languages.en]
