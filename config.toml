@@ -11,7 +11,7 @@ email = "kang@cheesylazy.com"
   name = "Kang 강민석"
 
 [params]
-  description = "Personal words."
+  description = "Personal stories of Kang."
 
 [languages]
   [languages.en]
