@@ -7,9 +7,6 @@ enableRobotsTXT = true
 dateFormat = "2006-01-02"
 email = "kang@cheesylazy.com"
 
-[author]
-  name = "Kang 강민석"
-
 [params]
   description = "Personal stories of Kang."
 

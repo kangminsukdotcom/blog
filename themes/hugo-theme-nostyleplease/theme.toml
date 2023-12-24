@@ -10,10 +10,6 @@ tags = ["blog", "minimalist"]
 features = []
 min_version = "0.41.0"
 
-[author]
-  name = "Masellum"
-  homepage = "Masellum.github.io"
-
 # If porting an existing theme
 [original]
   name = "riggraz"
