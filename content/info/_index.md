@@ -4,8 +4,9 @@ menu: "main"
 weight: 1
 ---
 About myself:
-- My wife and I own a small vegan sandwich shop called [CHEESYLAZY](https://cheesylazy.com/) in Jeju, South Korea. We also run a podcast, publish ebooks, and host workshops. Our goal is to be first-class content creators while maintaining the restaurant "too small to fail."   
-- I'm passionate about writing, programming, and baking. I'm inspired by those who send unique messages through their creations. I'd like my blog, sandwich, and (someday) software, to embody my authentic philosophy of life.
+- I work with my wife to publish a podcast, write books, and host workshops. We found a two-person publishing house called [Jagunbae](https://en.jagunbae.com/), which means "a small ship" in Korean.
+- From 2022 to 2023, for 18 months, My wife and I ran a vegan sandwich shop called CHEESYLAZY in Jeju, South Korea.
+- I'm passionate about writing, programming, and baking. I'm inspired by those who send unique messages through their creations. I'd like my blog, bread, and (someday) software, to embody my authentic philosophy of life.
 - I was born in Korea, but I lived two years in China (middle school) and eight years in the US (high school & college).
 
 ---
