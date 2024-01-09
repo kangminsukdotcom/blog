@@ -21,4 +21,4 @@ About myself:
 - [Read Something Wonderful](https://readsomethingwonderful.com) - an archive of great internet writing.
 - [Sublime](https://sublime.app/kang) - my go-to platform to find the best(human-curated) content. No ads, likes, follower counts.
 
-<a href="https://kangminsuk.com/message/"><em>Get in touch.</em></a>
+*Get in touch[https://kangminsuk.com/message/]*.
