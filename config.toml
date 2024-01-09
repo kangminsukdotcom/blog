@@ -5,10 +5,10 @@ theme = "hugo-theme-nostyleplease"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 dateFormat = "2006-01-02"
-email = "kang@cheesylazy.com"
+email = "kang@jagunbae.com"
 
 [params]
-  description = "Personal stories of Kang."
+  description = "Kang's blog."
 
 [languages]
   [languages.en]
