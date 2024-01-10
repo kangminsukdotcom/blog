@@ -12,14 +12,14 @@ email = "kang@jagunbae.com"
 
 [languages]
   [languages.en]
-    title = "Kang's blog"
+    title = "Kang"
     languageName = "English"
     LanguageCode = "en-US"
     contentDir = "content"
     [languages.en.params]
       blogPath = "/blog"
   [languages.ko]
-    title = "강민석 블로그"
+    title = "강민석"
     languageName = "한국어"
     LanguageCode = "ko-KO"
     contentDir = "content.ko"
