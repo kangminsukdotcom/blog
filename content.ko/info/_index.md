@@ -9,4 +9,4 @@ weight: 1
 - 아내와 함께 뉴스레터, 책, 팟캐스트를 발행합니다.
 - 시간 날 때마다 글쓰기, 프로그래밍, 베이킹합니다.
 
-<a href="https://kangminsuk.com/message/"><em>Get in touch.</em></a>
+*[Get in touch](https://kangminsuk.com/message/)*.
