@@ -1,6 +1,6 @@
 baseURL = "https://kangminsuk.com/"
 languageCode = "en-us"
-title = "Kang"
+title = "Kang's blog"
 theme = "hugo-theme-nostyleplease"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
