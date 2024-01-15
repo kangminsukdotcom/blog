@@ -9,16 +9,4 @@
 {{ .Content }}
 {{ partial "menu_item.html" (dict "context" . "collection" $.Site.Data.menu.entries) }}
 
-<form
-  action="https://buttondown.email/api/emails/embed-subscribe/kangminsuk"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/kangminsuk', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
-  <input type="email" placeholder="Enter your email" size="15" name="email" id="bd-email" />
-  
-  <input type="submit" value="Subscribe" />
-</form>
-
 {{ end }}
