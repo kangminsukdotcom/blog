@@ -21,6 +21,8 @@ Again, [email me](mailto:kang@jagunbae.com) your name, phone number, and chosen 
 
 ### Reviews
 
-- > I can't even remember the last time I focused on reading without checking my phone constantly.
-- > I finished two books today.
-- > Fresh bread and soup made my day.
+> I can't even remember the last time I focused on reading without checking my phone constantly.
+
+> I finished two books today.
+
+> Fresh bread and soup made my day.
