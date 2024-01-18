@@ -1,5 +1,16 @@
 {{ define "main" }}
-
+<div id="search">
+    <form method="get" action="/search">
+    <fieldset >
+        <div class="field">
+            <label><span class="hide">Search</span>
+                <i class="fa fa-search"></i>
+                <input type="text" id="searchtext" class="input_text" name="q" value="" size="15" >
+            </label>
+        </div>
+    </fieldset>
+    </form>
+</div>
 <header>
     <a href="https://kangminsuk.com/" style="text-decoration: none;"><h1>{{ $.Site.Title }}</h1></a></header>
     {{- if $.Site.Params.theme_config.show_description -}}
