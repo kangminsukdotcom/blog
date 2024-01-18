@@ -13,7 +13,7 @@ About myself:
 
 ### Favorites
 - [Mataroa](https://mataroa.blog) - naked blogging platform, for minimalists.
-- [Vore](https://vore.website/kang) - no-bullshit web-based rss/atom feed reader.
+- [Vore](https://vore.website/kang) - no-bullshit web-based rss/atom feed reader. *Vore's server's down for days. I don't know why. I'm currently using [Collie](https://github.com/parksb/collie) instead.
 - [Matter](https://hq.getmatter.com/) - fast, powerful reader I use for online reading.
 - [Kagi](https://kagi.com/) - ad-free, privacy-respecting search engine.
 - [Mullvad VPN](https://mullvad.net/en) - fast, simple, and reliable VPN.
