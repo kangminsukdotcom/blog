@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "fuse.js": "^7.0.0"
+    "hugo": "^0.0.3",
+    "lunr": "^2.3.9"
   }
 }

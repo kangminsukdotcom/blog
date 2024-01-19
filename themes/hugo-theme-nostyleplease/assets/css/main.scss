@@ -167,3 +167,11 @@ p.byline {
 .skip-link:focus {
   transform: translateY(0%);
 }
+
+.asterisk {
+  cursor: pointer;
+  height: 0.8em;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: -8.5px;
+}
