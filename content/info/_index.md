@@ -16,8 +16,8 @@ About myself:
 - [Kagi](https://kagi.com/) - ad-free, privacy-respecting search engine.
 - [Mullvad VPN](https://mullvad.net/en) - fast, simple, and reliable VPN.
 - [Fast Comments](https://fastcomments.com/) - cheap, flexible commenting solution.
-- [Micro.blog](https://micro.kangminsuk.com/) - Mastodon + personal blogging.
-- [Google Workspace](https://workspace.google.com/) - Email and cloud.
-- [Dabble.me](https://workspace.google.com/) - Private journaling via email.
-- [Digital Ocean](https://www.digitalocean.com/) - Hosting for [Jagunbae's website](https://jagunbae.com/).
-- [Netlify](https://www.netlify.com/) - Hosting for [my blog](https://kangminsuk.com/) and other projects.
+- [Micro.blog](https://micro.kangminsuk.com/) - mastodon + personal blogging.
+- [Google Workspace](https://workspace.google.com/) - email and cloud.
+- [Dabble.me](https://workspace.google.com/) - private journaling via email.
+- [Digital Ocean](https://www.digitalocean.com/) - hosting for [Jagunbae's website](https://jagunbae.com/).
+- [Netlify](https://www.netlify.com/) - hosting for [my blog](https://kangminsuk.com/) and other projects.
