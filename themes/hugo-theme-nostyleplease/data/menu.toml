@@ -10,10 +10,6 @@ title = "English"
     url = "blog"
 
     [[entries.entries]]
-    title = "Stories"
-    url = "/stories"
-
-    [[entries.entries]]
     title = "RSS"
     url = "blog/index.xml"
 
@@ -27,10 +23,6 @@ title = "한국어"
     [[entries.entries]]
     title = "블로그"
     url = "ko/blog"
-
-    [[entries.entries]]
-    title = "소설"
-    url = "ko/stories"
 
     [[entries.entries]]
     title = "RSS"
