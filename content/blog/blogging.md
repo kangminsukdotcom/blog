@@ -22,10 +22,6 @@ All of these services are subscription-based and privacy-friendly.
 
 - My choice of markdown editor. I like its minimal design, features like focus mode, and customization options like different themes. To me, $15 price tag is reasonable(much cheaper than iA writer). If you're looking for a free option, there's [Marktext](https://www.marktext.cc/).
 
-[Squoosh](https://squoosh.app/)
-
-- I use Squoosh to turn all my images into webp format. We all want faster websites, right?
-
 [Wormhole](https://wormhole.app/)
 
 - Free end-to-end encrypted file sharing tool. Wormhole just works like magic. 
