@@ -11,12 +11,13 @@ About myself:
 
 ---
 
-### Favorites
-- [Mataroa](https://mataroa.blog) - naked blogging platform, for minimalists.
-- [Vore](https://vore.website/kang) - no-bullshit web-based rss/atom feed reader. *Vore's server's down for days. I don't know why. I'm currently using [Collie](https://github.com/parksb/collie) instead.
-- [Matter](https://hq.getmatter.com/) - fast, powerful reader I use for online reading.
+### My subscriptions
+- [Miniflux](https://miniflux.app/) - no-bullshit web-based rss/atom feed reader.
 - [Kagi](https://kagi.com/) - ad-free, privacy-respecting search engine.
 - [Mullvad VPN](https://mullvad.net/en) - fast, simple, and reliable VPN.
 - [Fast Comments](https://fastcomments.com/) - cheap, flexible commenting solution.
-- [Read Something Wonderful](https://readsomethingwonderful.com) - an archive of great internet writing.
-- [Sublime](https://sublime.app/kang) - my go-to platform to find the best(human-curated) content. No ads, likes, follower counts.
+- [Micro.blog](https://micro.kangminsuk.com/) - Mastodon + personal blogging.
+- [Google Workspace](https://workspace.google.com/) - Email and cloud.
+- [Dabble.me] - Private journaling via email.
+- [Digital Ocean](https://www.digitalocean.com/) - Hosting for [Jagunbae's website](https://jagunbae.com/).
+- [Netlify] - Hosting for [my blog](https://kangminsuk.com/) and other projects.
