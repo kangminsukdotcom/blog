@@ -11,7 +11,9 @@ My mind played the same question over and over. Does the world need more books? 
 
 In South Korea, at least [60,000 titles were published in 2022](https://www.eroun.net/news/articleView.html?idxno=34927). [53% of Koreans above 18 don't even read a single book per year](https://www.mk.co.kr/news/society/10482768). In this country, books in warehouses are stacked like mountains. Clearly, people around me don't read Laozi, Plato, and Adam Smith anymore. Shorts, gossip, and porn have replaced great books.
 
-I'm not Tom Cruise, and my book is not *Mission Impossible*. If I want my book to be perused by many, I must convince readers that I crafted attention-worthy content. In retrospect, I was thrilled to pay for books by Morgan Housel, Tim Ferriss, Derek Sivers, and Rick Rubin because I had gained so much through their previous posts and podcasts. Hearing the news of their upcoming books, I was already sold these creators were committed to helping others and presenting modern classics. Like friends supporting one another, buying these books felt like a private way of saying *Thank you*.
+I'm not Tom Cruise, and my book is not *Mission Impossible*. If I want my book to be perused by many, I must convince readers that I crafted attention-worthy content.
+
+I was thrilled to pay for books by Morgan Housel, Tim Ferriss, Derek Sivers, and Rick Rubin because I had gained so much through their previous posts and podcasts. Hearing the news of their upcoming books, I was already sold these creators were committed to helping others and presenting modern classics. Like friends supporting one another, buying these books felt like a private way of saying *Thank you*.
 
 I want my readers to feel the same. I want to persuade others through consistent work and actions. Sleek copywriting and photography might pull off some sales. But having *a New York Times Bestseller* badge loses meaning if no one's actually reading it. The grand prize for publishing a book must be the authentic connection through personal ideas and stories. That's why I'm determined to share my rocky journey of running a publisher while writing a book. 
 
