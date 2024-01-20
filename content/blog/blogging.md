@@ -3,7 +3,7 @@ title: These are my favorite blogging platforms and tools
 date: 2024-01-19
 ---
 
-All of these services are subscription-based and privacy-friendly.
+All of these services are subscription-based and privacy-friendly. [Let me know](https://kangminsuk.com/message/) if you need help setting up your blog. I'd love to help as a fellow blogger.
 
 [Mataroa](https://mataroa.blog/)
 
