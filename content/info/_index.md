@@ -3,10 +3,10 @@ title: "Kang"
 menu: "main"
 weight: 1
 ---
-About myself:
+
 - I work with my wife to publish a podcast, write books, and host workshops. We found a two-person publishing house called [Jagunbae](https://micro.kangminsuk.com/jagunbae/).
 - From 2022 to 2023, for 18 months, my wife and I ran a vegan sandwich shop called CHEESYLAZY in Jeju, South Korea.
-- I'm passionate about writing, programming, and baking. I'm inspired by those who send unique messages through their creations. I'd like my blog, bread, and (someday) software, to embody my authentic philosophy of life.
+- I'm inspired by those who send unique messages through their creations. I'd like my blog, bread, and (someday) books, to embody my authentic philosophy of life.
 - I was born in Korea, but I lived two years in China (middle school) and eight years in the US (high school & college).
 
 ---
