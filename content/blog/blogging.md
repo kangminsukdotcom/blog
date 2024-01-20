@@ -3,8 +3,6 @@ title: These are my favorite blogging platforms and tools
 date: 2024-01-19
 ---
 
-*Last updated 24-01-19*
-
 All of these services are subscription-based and privacy-friendly.
 
 [Mataroa](https://mataroa.blog/)
