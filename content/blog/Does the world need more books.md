@@ -3,7 +3,7 @@ title: Does the world need my books?
 date: 2024-01-19
 ---
 
-I'm writing a book about death. This book will be [Jagunbae](https://micro.kangminsuk.com/jagunbae/)'s first publication.
+I'm writing a book about death. This book will be [Jagunbae](https://en.jagunbae.com/)'s first publication.
 
 I was nervous when I decided to close my restaurant to start a publisher. My heart said I was on the right path, but I wasn't sure if my creation could be a meaningful contribution to the ever-growing space of information.
 
