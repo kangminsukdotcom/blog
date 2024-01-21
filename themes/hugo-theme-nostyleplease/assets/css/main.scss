@@ -5,7 +5,7 @@ body {
   padding: 20px;
   max-width: 720px;
   text-align: left;
-  background-color: #282a36;
+  background-color: #1d1f27;
   word-wrap: break-word;
   overflow-wrap: break-word;
   line-height: 1.5;
@@ -31,6 +31,7 @@ a {
 
 a:hover {
   text-decoration: underline;
+  text-underline-offset: 0.23em;
   background: blue;
   color: white;
 }
