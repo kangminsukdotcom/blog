@@ -1,7 +1,5 @@
 ---
 title: "강민석"
-menu: "main"
-weight: 1
 ---
 
 ![profile](https://cdn.uploads.micro.blog/140962/2024/profile-pic-1.webp)
