@@ -14,7 +14,7 @@ weight: 1
 ---
 
 ### My subscriptions
-- [Miniflux](https://miniflux.app/) - no-bullshit web-based rss/atom feed reader.
+- [Miniflux](https://miniflux.app/) - web-based rss/atom feed reader.
 - [Kagi](https://kagi.com/) - ad-free, privacy-respecting search engine.
 - [Mullvad VPN](https://mullvad.net/en) - fast, simple, and reliable VPN.
 - [Fast Comments](https://fastcomments.com/) - cheap, flexible commenting solution.
