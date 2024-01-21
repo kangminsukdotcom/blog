@@ -1,9 +1,11 @@
 {{ define "main" }}
 <header>
-    <a href="https://kangminsuk.com/info/"><h1>{{ $.Site.Title }}</h1></a>
+    <a href="https://kangminsuk.com/info/"><p style="display:inline;background:#3737b3;padding:5px;border:2px solid #dbdbdb;font-size:120%;">{{ $.Site.Title }}</p></a>
 </header>
 {{ .Content }}
 {{ partial "menu_item.html" (dict "context" . "collection" $.Site.Data.menu.entries) }}
-<div><a href="https://kangminsuk.com/newsletter/"><em>Subscribe via email</em></a>.</div>
-<div><a href="https://micro.blog/kang"><em>Follow on micro.blog</em></a>.</div>
+<ul>
+<li><a href="https://kangminsuk.com/newsletter/"><em>Subscribe via email.</em></a></li>
+<li><a href="https://micro.blog/kang"><em>Follow on micro.blog.</em></a></li>
+</ul>
 {{ end }}
