@@ -4,6 +4,8 @@ menu: "main"
 weight: 1
 ---
 
+![profile](https://cdn.uploads.micro.blog/140962/2024/profile-pic-1.webp)
+
 - I work with my wife to publish a podcast, write books, and host workshops. We found a two-person publishing house called [Jagunbae](https://en.jagunbae.com/).
 - From 2022 to 2023, for 18 months, my wife and I ran a vegan sandwich shop called CHEESYLAZY in Jeju, South Korea.
 - I'm inspired by those who send unique messages through their creations. I'd like my blog, bread, and (someday) books, to embody my authentic philosophy of life.
