@@ -13,7 +13,7 @@ weight: 1
 
 ---
 
-### My subscriptions
+### Subscriptions
 - [Miniflux](https://miniflux.app/) - web-based rss/atom feed reader.
 - [Kagi](https://kagi.com/) - ad-free, privacy-respecting search engine.
 - [Mullvad VPN](https://mullvad.net/en) - fast, simple, and reliable VPN.
@@ -24,9 +24,5 @@ weight: 1
 - [Tinylitics](https://tinylytics.app/) - privacy-friendly analytics for small websites.
 - [Digital Ocean](https://www.digitalocean.com/) - hosting for [Jagunbae's website](https://jagunbae.com/).
 - [Netlify](https://www.netlify.com/) - hosting for [my blog](https://kangminsuk.com/) and other projects.
-
-### My favorite websites
-- [Standard Ebooks](https://standardebooks.org/) - Free and liberated ebooks.
-- [Neal.fun](https://neal.fun/) - Amazing web games by Neal.
 
 [*Say hi.*](https://kangminsuk.com/message/)
