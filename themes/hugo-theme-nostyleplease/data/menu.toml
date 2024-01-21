@@ -2,10 +2,6 @@
 title = "English"
 
     [[entries.entries]]
-    title = "About"  
-    url = "info"
-
-    [[entries.entries]]
     title = "Blog"
     url = "blog"
 
@@ -15,10 +11,6 @@ title = "English"
 
 [[entries]]
 title = "한국어"
-
-    [[entries.entries]]
-    title = "소개"
-    url = "ko/info"
 
     [[entries.entries]]
     title = "블로그"
