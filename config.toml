@@ -9,7 +9,6 @@ email = "kang@jagunbae.com"
 
 [params]
   description = "Kang's blog."
-  favicon = "images/favicon.png"  
 
 [languages]
   [languages.en]
