@@ -9,8 +9,6 @@ title: "Home"
 - I'm inspired by those who send unique messages through their creations. My blog, bread, and books are attempts to convey my authentic philosophy of life.
 - I was born in Korea, but I lived two years in China (middle school) and eight years in the US (high school & college).
 
----
-
 ### Subscriptions
 - [Miniflux](https://miniflux.app/) - web-based rss/atom feed reader.
 - [Kagi](https://kagi.com/) - ad-free, privacy-respecting search engine.
@@ -22,3 +20,5 @@ title: "Home"
 - [Tinylitics](https://tinylytics.app/) - privacy-friendly analytics for small websites.
 - [Digital Ocean](https://www.digitalocean.com/) - hosting for [Jagunbae's website](https://jagunbae.com/).
 - [Netlify](https://www.netlify.com/) - hosting for [my blog](https://kangminsuk.com/) and other projects.
+
+**This blog is powered by [Hugo](https://gohugo.io/), [Bearcub](https://github.com/clente/hugo-bearcub), and [Netlify](https://www.netlify.com/).*
