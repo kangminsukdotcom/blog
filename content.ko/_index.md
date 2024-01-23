@@ -16,9 +16,9 @@ title: "강민석"
 - [Kagi](https://kagi.com/) - 검색엔진.
 - [Mullvad VPN](https://mullvad.net/en) - VPN.
 - [Fast Comments](https://fastcomments.com/) - jagunbae.com 댓글 솔루션.
-- [Micro.blog](https://micro.kangminsuk.com/) - mastodon + 블로그.
+- [Micro.blog](https://micro.kangminsuk.com/) - Mastodon + 블로그.
 - [Google Workspace](https://workspace.google.com/) - 이메일과 스토리지.
 - [Dabble.me](https://workspace.google.com/) - 이메일로 쓰는 일기장.
 - [Tinylitics](https://tinylytics.app/) - 작은 웹사이트를 위한 애널리틱스.
 - [Digital Ocean](https://www.digitalocean.com/) - [작은배](https://jagunbae.com/) 서버.
-- [Netlify](https://www.netlify.com/) - [강민석 블로그](https://kangminsuk.com/) 및 기타 정적 프로젝트 호스팅.
+- [Netlify](https://www.netlify.com/) - [강민석 블로그](https://kangminsuk.com/) 및 기타 정적 사이트 호스팅.
