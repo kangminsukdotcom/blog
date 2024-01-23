@@ -1,5 +1,5 @@
 ---
-title: Friends
+title: Neighbors
 menu: "main"
 type: page
 weight: 3
