@@ -27,6 +27,6 @@ img {
 - [Dabble.me](https://workspace.google.com/) - 이메일로 쓰는 일기장.
 - [Tinylitics](https://tinylytics.app/) - 작은 웹사이트를 위한 애널리틱스.
 - [Digital Ocean](https://www.digitalocean.com/) - [작은배](https://jagunbae.com/) 서버.
-- [Netlify](https://www.netlify.com/) - [강민석 블로그](https://kangminsuk.com/) 및 기타 정적 사이트 호스팅.
+- [Netlify](https://www.netlify.com/) - 정적 사이트 호스팅.
 
 **This blog is powered by [Hugo](https://gohugo.io/), [Bearcub](https://github.com/clente/hugo-bearcub), and [Netlify](https://www.netlify.com/).*
