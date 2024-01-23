@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-![profile](https://cdn.uploads.micro.blog/140962/2024/profile-pic-1.webp)
+![profile](https://micro.kangminsuk.com/uploads/2024/3bcbb4c447.webp?w=300)
 
 - I work with my wife to publish a podcast, write books, and host workshops. We found a two-person publishing house called [Jagunbae](https://en.jagunbae.com/).
 - From 2022 to 2023, for 18 months, my wife and I ran a vegan sandwich shop called [CHEESYLAZY](https://reviews.cheesylazy.com/) in Jeju, South Korea.

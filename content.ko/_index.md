@@ -2,7 +2,7 @@
 title: "강단"
 ---
 
-![profile](https://cdn.uploads.micro.blog/140962/2024/profile-pic-1.webp)
+![profile](https://micro.kangminsuk.com/uploads/2024/3bcbb4c447.webp)
 
 반갑습니다. 아내와 [출판사 작은배](https://jagunbae.com/about/)를 운영하고 있는 강단 입니다. 
 
