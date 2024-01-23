@@ -13,10 +13,13 @@ email = "kang@jagunbae.com"
     lineNumbersInTable = false
     noClasses = false
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   description = "Kang's blog."
   favicon = "images/favicon.png"
-  
+
 [languages]
   [languages.en]
     title = "Kang"

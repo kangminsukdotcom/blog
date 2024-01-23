@@ -3,11 +3,11 @@ title: "Home"
 ---
 <style>
 img {
-max-width: 50px;
-border-radius: 50%;
+    max-width:100px;
+    border-radius:50%;
 }
 </style>
-![profile](https://micro.kangminsuk.com/uploads/2024/profile-pic-1-1.webp)
+![profile](https://micro.kangminsuk.com/uploads/2024/profile.webp)
 
 Hey, I'm Kang. I'm glad you are here.
 
