@@ -29,7 +29,7 @@ email = "kang@jagunbae.com"
     [languages.en.params]
       blogPath = "/blog"
   [languages.ko]
-    title = "강민석"
+    title = "강단"
     languageName = "한국어"
     LanguageCode = "ko-KO"
     contentDir = "content.ko"
