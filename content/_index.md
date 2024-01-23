@@ -1,8 +1,13 @@
 ---
 title: "Home"
 ---
-
-![profile](https://micro.kangminsuk.com/uploads/2024/3bcbb4c447.webp?w=300)
+<style>
+img {
+max-width: 50px;
+border-radius: 50%;
+}
+</style>
+![profile](https://micro.kangminsuk.com/uploads/2024/profile-pic-1-1.webp)
 
 Hey, I'm Kang. I'm glad you are here.
 
