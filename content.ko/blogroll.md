@@ -1,5 +1,5 @@
 ---
-title: 소개
+title: 이웃
 menu: "main"
 type: page
 weight: 3
