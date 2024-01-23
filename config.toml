@@ -1,15 +1,22 @@
 baseURL = "https://kangminsuk.com/"
 languageCode = "en-us"
 title = "Kang's blog"
-theme = "hugo-theme-nostyleplease"
+theme = "bearcub"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 dateFormat = "2006-01-02"
 email = "kang@jagunbae.com"
 
+[markup]
+  [markup.highlight]
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+
 [params]
   description = "Kang's blog."
-  favicon = "logo.webp"
+  favicon = "images/favicon.webp"
+  contentTypeName = "posts"
 [languages]
   [languages.en]
     title = "Kang"

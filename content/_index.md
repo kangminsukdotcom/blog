@@ -1,5 +1,5 @@
 ---
-title: "Kang"
+title: "Home"
 ---
 
 ![profile](https://cdn.uploads.micro.blog/140962/2024/profile-pic-1.webp)
@@ -22,5 +22,3 @@ title: "Kang"
 - [Tinylitics](https://tinylytics.app/) - privacy-friendly analytics for small websites.
 - [Digital Ocean](https://www.digitalocean.com/) - hosting for [Jagunbae's website](https://jagunbae.com/).
 - [Netlify](https://www.netlify.com/) - hosting for [my blog](https://kangminsuk.com/) and other projects.
-
-[*Say hi.*](https://kangminsuk.com/message/)
