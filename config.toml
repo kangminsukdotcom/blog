@@ -18,7 +18,8 @@ email = "kang@jagunbae.com"
 
 [params]
   description = "Kang's blog."
-  favicon = "📘"
+  
+  favicon = "images/profile.webp"
 
 [languages]
   [languages.en]
