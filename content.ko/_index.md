@@ -1,5 +1,5 @@
 ---
-title: "강단"
+title: "홈"
 ---
 <style>
 img {
