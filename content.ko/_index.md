@@ -3,7 +3,8 @@ title: "강단"
 ---
 <style>
 img {
-    max-width:100px;
+    width:100px;
+    height:100px;
     border-radius:50%;
 }
 </style>
