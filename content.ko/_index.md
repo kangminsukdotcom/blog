@@ -30,4 +30,4 @@ img {
 - [Digital Ocean](https://www.digitalocean.com/) - [작은배](https://jagunbae.com/) 서버.
 - [Netlify](https://www.netlify.com/) - 정적 사이트 호스팅.
 
-**This blog is powered by [Hugo](https://gohugo.io/), [Bearcub](https://github.com/clente/hugo-bearcub), and [Netlify](https://www.netlify.com/).*
+**This blog is powered by [Hugo](https://gohugo.io/), [Bear Cub](https://github.com/clente/hugo-bearcub), and [Netlify](https://www.netlify.com/).*

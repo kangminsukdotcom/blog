@@ -3,7 +3,8 @@ title: "Home"
 ---
 <style>
 img {
-    max-width:100px;
+    width:100px;
+    height:100px;
     border-radius:50%;
 }
 </style>
@@ -28,4 +29,4 @@ Hey, I'm Kang. I'm glad you are here.
 - [Digital Ocean](https://www.digitalocean.com/) - hosting for [Jagunbae's website](https://jagunbae.com/).
 - [Netlify](https://www.netlify.com/) - hosting for [my blog](https://kangminsuk.com/) and other projects.
 
-**This blog is powered by [Hugo](https://gohugo.io/), [Bearcub](https://github.com/clente/hugo-bearcub), and [Netlify](https://www.netlify.com/).*
+**This blog is powered by [Hugo](https://gohugo.io/), [Bear Cub](https://github.com/clente/hugo-bearcub), and [Netlify](https://www.netlify.com/).*
