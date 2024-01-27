@@ -10,6 +10,17 @@
 {{ end }}
 <content>
   {{ .Content }}
+  <hr></hr>
+  <div class="previous-post" div style="display:inline">
+      {{ if .PrevPage }}
+      <a class="link-reverse" href="{{ .PrevPage.Permalink }}?ref=footer">Previous</a>
+      {{ end }}
+  <div class="next-post" div style="display:inline">
+      {{ if .NextPage }}
+      <a class="link-reverse" href="{{ .NextPage.Permalink }}?ref=footer">Next</a>
+      {{ end }}
+  </div>
+  </div>
 </content>
 <p>
   {{ range (.GetTerms "tags") }}
