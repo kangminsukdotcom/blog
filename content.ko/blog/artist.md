@@ -3,6 +3,7 @@ title: 네, 저 아티스트 맞습니다
 date: 2024-01-27
 description: 누군가가 나를 '아티스트'라 불렀다.
 ---
+![네맞습니다](https://jagunbae.com/content/images/size/w2000/2024/01/------------------.webp)
 
 > 예술에 가장 중요한 건 노동이다. 매일같이 앉아서 노력하는 것 외로 필요한 건 아무것도 없다. - Steven Pressfield
 
