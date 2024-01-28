@@ -11,7 +11,7 @@ date = 2021-02-21
 
 ![](https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http%3A//t1.daumcdn.net/brunch/service/user/1Zjd/image/21oPP0ugsyWLWkofWnzH0tvvPQs)
 
-만약 농구를 좋아하면 넷플릭스에서 [The Last Dance](https://www.netflix.com/kr/title/80203144)를 영어 자막 틀고 반복해서 보면 된다. 기술에 관심이 많으면 실리콘 밸리 유명 투자자나 창업가의 [블로그](http://www.paulgraham.com/articles.html) 혹은 [트위터](https://twitter.com/elonmusk)에 들어가 파헤쳐보면 된다. 영화를 좋아한다면 [레딧](https://www.reddit.com/r/movies/)에서 영화 관련 커뮤니티를 찾아보면 된다. 뭘 좋아하는지 잘 모르겠다면? [Read Something Great](https://www.readsomethinggreat.com/)에서 아무 글이나 읽어보면 된다.
+만약 농구를 좋아하면 넷플릭스에서 *The Last Dance*를 영어 자막 틀고 반복해서 보면 된다. 기술에 관심이 많으면 실리콘 밸리 유명 투자자나 창업가의 [블로그](http://www.paulgraham.com/articles.html) 혹은 [트위터](https://twitter.com/elonmusk)에 들어가 파헤쳐보면 된다. 영화를 좋아한다면 [레딧](https://www.reddit.com/r/movies/)에서 영화 관련 커뮤니티를 찾아보면 된다. 뭘 좋아하는지 잘 모르겠다면? [Read Something Great](https://www.readsomethinggreat.com/)에서 아무 글이나 읽어보면 된다.
 
 당연한 말일 수 있지만 어떤 주제의 글, 영상, 오디오를 통해 공부하느냐에 따라 느껴지는 재미가 달라진다. 평소에 나는 한국어로 어떤 정보를 찾아보는지 생각해보고 영어로 똑같이 하면 된다.
 
