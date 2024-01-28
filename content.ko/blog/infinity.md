@@ -37,7 +37,7 @@ date = 2021-03-18
 
 [나심 탈레브](https://www.millie.co.kr/v3/bookdetail/5507187?nav_hidden=y)는 메소 아메리카 사람들이 동그란 바퀴를 발명한 이후 바퀴 달린 가방이 탄생하기까지 6,000년이 걸렸다는 사실을 예시로 “정답이 단순하고 뻔할수록 발견하기 어렵다”고 주장한다.
 
-이론과 토론으로 모든 문제를 해결할 수는 없다. [테플론](https://www.samsungsemiconstory.com/1474), [케블러](https://www.usatoday.com/story/money/business/2014/06/20/kevlar-inventor-stephanie-kwolek-dies/11133717/), 전구, 그리고 [포스트잇](https://www.sciencetimes.co.kr/news/%EC%8B%A4%ED%8C%A8%ED%95%9C-%EC%A0%91%EC%B0%A9%EC%A0%9C%EA%B0%80-%ED%98%81%EC%8B%A0%EC%9D%84-%EB%82%B3%EB%8B%A4/) 모두 예측하지 못한 실수 혹은 시행착오로 인해 만들어졌다. 작가 [매트 리들리](https://www.amazon.com/How-Innovation-Works-Flourishes-Freedom/dp/0062916599#:\~:text=Matt%20Ridley%20argues%20in%20this,developing%20according%20to%20a%20plan.)가 말하듯 발전은 자유로운 환경 속 점진적인 시행착오를 거쳐 발생한다.
+이론과 토론으로 모든 문제를 해결할 수는 없다. 테플론, [케블러](https://www.usatoday.com/story/money/business/2014/06/20/kevlar-inventor-stephanie-kwolek-dies/11133717/), 전구, 그리고 [포스트잇](https://www.sciencetimes.co.kr/news/%EC%8B%A4%ED%8C%A8%ED%95%9C-%EC%A0%91%EC%B0%A9%EC%A0%9C%EA%B0%80-%ED%98%81%EC%8B%A0%EC%9D%84-%EB%82%B3%EB%8B%A4/) 모두 예측하지 못한 실수 혹은 시행착오로 인해 만들어졌다. 작가 [매트 리들리](https://www.amazon.com/How-Innovation-Works-Flourishes-Freedom/dp/0062916599#:\~:text=Matt%20Ridley%20argues%20in%20this,developing%20according%20to%20a%20plan.)가 말하듯 발전은 자유로운 환경 속 점진적인 시행착오를 거쳐 발생한다.
 
 ## **시도**
 

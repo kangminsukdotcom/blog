@@ -4,7 +4,7 @@ date = 2021-06-07
 +++
 
 > 실패한 레스토랑이 묻힌 무덤은 매우 조용하다.
-> [Nassim Taleb](https://cheesylazy.com/long-term/www.yes24.com/Product/Goods/3100233)
+> Nassim Taleb
 
 ## 식당은 망한다
 

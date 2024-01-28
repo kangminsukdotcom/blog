@@ -27,7 +27,7 @@ However, in 1997, the country faced a load of economic problems during [the Asia
 
 Wait, why talk about the financial crisis? Because it allowed PC bang to spread all over the country. Those who got kicked out of their companies still had to do something to make ends meet. And lots of them chose to open up a PC bang because it only required an empty space full of computers and chairs. It definitely seemed like a safer investment than owning a restaurant.
 
-In addition, because PC bang charged about 1,000 won (~$1) per hour, playing games at PC bang was one of the cheapest options for entertainment. Despite the devastating consequences, the financial crisis enabled the PC bangs to reach all corners. In just 4 years after the crisis, there were more than [20,000 PC bangs](https://www.mk.co.kr/news/home/view/2001/07/177350/) around the country.
+In addition, because PC bang charged about 1,000 won (~$1) per hour, playing games at PC bang was one of the cheapest options for entertainment. Despite the devastating consequences, the financial crisis enabled the PC bangs to reach all corners. In just 4 years after the crisis, there were more than 20,000 PC bangs around the country.
 
 ### StarCraft meets PC bang
 

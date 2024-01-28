@@ -50,7 +50,7 @@ Do these patterns only apply to those fast-food chains that serve burgers and fr
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1663332943.webp)
 
-Cafes are literally everywhere in this country. According to [a data](http://newslabit.hankyung.com/article/202007099677G#:~:text=%EC%A0%84%EA%B5%AD%208%EB%A7%8C3692%EA%B3%B3%EC%97%90,41.8%25%EC%97%90%20%EB%8B%AC%ED%95%98%EB%8A%94%20%EB%B9%84%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4) from 2020, there are 83,692 coffee shops in Korea, and 18,535 of them are located in Seoul.[^6] Because of this extremely competitive environment, about 50% of new cafes close their business within [three years](https://www.sedaily.com/NewsVIew/1Z1NVAXATT#:~:text=%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EB%AC%B8%EC%9D%84%20%EC%97%B0,%EC%A4%91%20%EC%B5%9C%EA%B3%A0%EC%B9%98%EB%A5%BC%20%EA%B8%B0%EB%A1%9D%ED%96%88%EB%8B%A4).
+Cafes are literally everywhere in this country. According to the data from 2020, there are 83,692 coffee shops in Korea, and 18,535 of them are located in Seoul.[^6] Because of this extremely competitive environment, about 50% of new cafes close their business within [three years](https://www.sedaily.com/NewsVIew/1Z1NVAXATT#:~:text=%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EB%AC%B8%EC%9D%84%20%EC%97%B0,%EC%A4%91%20%EC%B5%9C%EA%B3%A0%EC%B9%98%EB%A5%BC%20%EA%B8%B0%EB%A1%9D%ED%96%88%EB%8B%A4).
 
 No doubt, there are a lot of great coffee shops that brew excellent coffee for a reasonable price.[^7] However, none of the Korean-born cafes can expect to create a line as long as that of the first Blue Bottle Coffee.
 

@@ -31,6 +31,6 @@ Ghost는 멤버십 그리고 뉴스레터 기능을 기본으로 제공한다. �
 
 그렇다고 Ghost가 완벽한 건 아니다. 예를 들어, 여러 영역에서 한국어 지원이 안 되어 코드 수정이 필요했다. 이미지 정렬이 중앙으로 되지 않거나 본문 폰트만 다르게 나오는 문제가 발생하기도 했다. 나 같은 경우 고생했지만, HTML과 CSS에 익숙하다면 빠르게 해결할 수 있는 문제다.
 
-지난 며칠에 거쳐 Ghost로 이전하면서 [많은 걸](https://kangminsuk.com/ghost-tips/) 배웠다. [Headless CMS](https://calvinsnax.com/blog/36783)나 [SSG](https://62che.com/blog/vuepress/%EC%A0%95%EC%A0%81-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%9D%EC%84%B1%EA%B8%B0%EB%9E%80.html#%E1%84%8E%E1%85%AC%E1%84%89%E1%85%B5%E1%86%AB-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A3%E1%86%BC)가 뭔지 알고 곧 [Gatsby](https://gatsby.ghost.org/about/)를 front-end로 가져와야겠다고 결심도 했다. 무엇보다 서비스를 선택하기 전 충분히 장단점을 비교해봐야 한다는 걸 깨달았다.
+지난 며칠에 거쳐 Ghost로 이전하면서 많은 걸 배웠다. Headless CMS나 [SSG](https://62che.com/blog/vuepress/%EC%A0%95%EC%A0%81-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%9D%EC%84%B1%EA%B8%B0%EB%9E%80.html#%E1%84%8E%E1%85%AC%E1%84%89%E1%85%B5%E1%86%AB-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A3%E1%86%BC)가 뭔지 알고 곧 [Gatsby](https://gatsby.ghost.org/about/)를 front-end로 가져와야겠다고 결심도 했다. 무엇보다 서비스를 선택하기 전 충분히 장단점을 비교해봐야 한다는 걸 깨달았다.
 
 오락가락하기는 했지만, 드디어 원하던 시작이다.

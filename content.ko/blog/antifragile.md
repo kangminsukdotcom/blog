@@ -27,7 +27,7 @@ date = 2021-04-13
 
 진실 혹은 거짓을 잣대로 생각하면 감정과 편견에 휩쓸리게 된다. 반면에 스토아적 사고를 훈련하면 주변 환경을 고유한 시각으로 바라보고 해석할 수 있다.
 
-## [스토아 철학](https://kangminsuk.com/stoicism/) (Stoicism)
+## [스토아 철학](https://kangminsuk.com/ko/blog/stoicism/) (Stoicism)
 
 > 현대 사회에서 스토아 현자는 두려움을 신중함으로, 실수를 새로운 시작으로, 욕망을 사업으로 변형시킨다.
 

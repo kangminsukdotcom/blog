@@ -5,7 +5,7 @@ date = 2021-04-04
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662217261.webp)
 
-2005년에 있었던 Kenyon College [졸업 연설](https://www.youtube.com/watch?v=8CrOL-ydFMI)에서 데이비드 포스터 월리스는 기본 설정(default setting)에서 벗어난 독립적 사고방식이 무엇이고 어떤 의미를 가지는지 설명한다.
+2005년에 있었던 Kenyon College 졸업 연설에서 데이비드 포스터 월리스는 기본 설정(default setting)에서 벗어난 독립적 사고방식이 무엇이고 어떤 의미를 가지는지 설명한다.
 
 고등학생 시절 우연히 이 연설을 듣게 된 이후 여러 차례 찾아 들을 정도로 좋아했기에 가장 와 닿았던 부분을 번역해 본다.
 
