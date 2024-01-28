@@ -6,7 +6,6 @@ img {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    loading: "lazy";
 }
 </style>
 ![profile](https://micro.kangminsuk.com/uploads/2024/profile.webp)
