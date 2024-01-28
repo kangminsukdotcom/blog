@@ -76,9 +76,6 @@ td {
 img {
   object-fit: cover;
   aspect-ratio: 1;
-
-  /* Optional: constrain image size */
-  max-block-size: 250px;
 }
 
 code {
@@ -178,4 +175,8 @@ figcaption > p {
   text-align: center;
   font-style: italic;
   color: #ccc;
+}
+
+::selection {
+  background-color:#dedf40;
 }
