@@ -178,6 +178,6 @@ figcaption > p {
 }
 
 ::selection {
-  color: black;
+  color: #1d1f27;
   background-color: #dedf40;
 }
