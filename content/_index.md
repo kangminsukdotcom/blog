@@ -8,7 +8,7 @@ img {
     border-radius: 50%;
 }
 </style>
-![profile](https://micro.kangminsuk.com/uploads/2024/profile.webp)
+![profile](https://micro.kangminsuk.com/uploads/2024/profile.jpg)
 
 Hey, I'm Kang. I'm glad you are here.
 
