@@ -75,7 +75,7 @@ td {
 
 img {
   object-fit: cover;
-  max-width: 100%;
+  max-width: 500px;
 }
 
 code {
