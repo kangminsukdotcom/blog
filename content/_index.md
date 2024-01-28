@@ -3,9 +3,10 @@ title: "Home"
 ---
 <style>
 img {
-    width:100px;
-    height:100px;
-    border-radius:50%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    loading: "lazy";
 }
 </style>
 ![profile](https://micro.kangminsuk.com/uploads/2024/profile.webp)
@@ -17,7 +18,7 @@ Hey, I'm Kang. I'm glad you are here.
 - I'm inspired by those who send unique messages through their creations. My blog, bread, and books are attempts to convey my authentic philosophy of life.
 - I was born in Korea, but I lived two years in China (middle school) and eight years in the US (high school & college).
 
-### Subscriptions
+## Subscriptions
 - [Miniflux](https://miniflux.app/) - web-based rss/atom feed reader.
 - [Kagi](https://kagi.com/) - ad-free, privacy-respecting search engine.
 - [Mullvad VPN](https://mullvad.net/en) - fast, simple, and reliable VPN.
