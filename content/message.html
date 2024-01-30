@@ -4,16 +4,22 @@ type: page
 ---
 <style>
   p.byline {display: none;}
-  textarea {width: auto;}
+  textarea {width: fit-content;}
 </style>
 
 <form name="contact" netlify>
     <p>
-        <label>Message <textarea name="message"></textarea></label>
-      </p>
+      <label>Name: <input type="text" name="name" /></label>
+    </p>
+    <p>
+      <label>Website: <input type="url" name="website"></label>
+    </p>
+    <p>
+      <label>Message: <textarea name="message"></textarea></label>
+    </p>
     <p>
       <button type="submit">Send</button>
     </p>
   </form>
 
-<a href="mailto:kang@jagunbae.com?subject=Hey Kang">or Email.</a>
+<a href="mailto:kang@jagunbae.com?subject=Hey Kang">or Email me.</a>
