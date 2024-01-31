@@ -26,6 +26,11 @@ a {
   color: #8cc2dd;
 }
 
+a:hover {
+  background: #8cc2dd;
+  color: #1d1f27;
+}
+
 .title {
   text-decoration: none;
   border: 0;
@@ -96,7 +101,6 @@ blockquote {
   border-left: 1px solid #999;
   color: #ccc;
   padding-left: 20px;
-  font-style: italic;
 }
 
 footer {
