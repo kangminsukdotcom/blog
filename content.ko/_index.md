@@ -8,7 +8,7 @@ img {
     border-radius: 50%;
 }
 </style>
-![profile](https://micro.kangminsuk.com/uploads/2024/profile.jpg)
+![profile](https://micro.kangminsuk.com/uploads/2024/minse.jpg)
 
 대단히 반갑습니다. 아내와 [출판사 작은배](https://jagunbae.com/about/)를 운영하는 강민석 입니다.
 
