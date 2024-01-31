@@ -5,7 +5,7 @@ type: page
 weight: 3
 ---
 
-아끼는 블로그를 소개합니다. 
+몹시 아끼는 블로그만 소개합니다. 
 - [응그래](https://eungyes.com)
 - [로그아웃아일랜드](https://www.logoutisland.com/)
 

@@ -5,7 +5,7 @@ type: page
 weight: 3
 ---
 
-Here's a list of my favorite blogs.
+Here's a growing list of my favorite blogs.
 
 - [The Privacy Dad](https://theprivacydad.com/)
 - [Nutcroft](https://nutcroft.com/)
