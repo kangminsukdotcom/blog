@@ -17,7 +17,7 @@ Hey, I'm Kang. I'm super glad you are here.
 - I'm inspired by those who send unique messages through their creations. My blog, bread, and books are attempts to convey my authentic philosophy of life.
 - I was born in Korea, but I lived two years in China (middle school) and eight years in the US (high school & college).
 
-## Subscriptions
+## What I Use
 - [Miniflux](https://miniflux.app/) - web-based rss/atom feed reader.
 - [Kagi](https://kagi.com/) - ad-free, privacy-respecting search engine.
 - [Mullvad VPN](https://mullvad.net/en) - fast, simple, and reliable VPN.
