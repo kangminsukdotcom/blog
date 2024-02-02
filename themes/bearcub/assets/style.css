@@ -157,6 +157,11 @@ p.byline {
   font-style: italic;
 }
 
+hr {
+  border-top: 1px dotted;
+  border-bottom: none;
+ }
+
 /* "Skip to main content" link */
 .skip-link {
   position: absolute;
