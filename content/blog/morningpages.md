@@ -4,6 +4,8 @@ date: 2024-02-02
 description: I wished to cultivate the nonconformist spirit within me.
 ---
 
+> I’ve had a sign over my typewriter for over 25 years now, which reads “Don’t think!” You must never think at the typewriter — you must feel. … The worst thing you do when you think is lie — you can make up reasons that are not true for the things that you did, and what you’re trying to do as a creative person is surprise yourself — find out who you really are, and try not to lie, try to tell the truth all the time. And the only way to do this is by being very active and very emotional, and get it out of yourself. - Ray Bradbury
+
 For two weeks, as soon as I woke up, I opened my laptop and wrote whatever came into my mind.[^1] Julia Cameron suggested filling three pages, but I didn’t want to let this routine be another form of homework. I just stopped whenever I felt like I was done after 20 to 30 minutes. Sometimes, I wrote more than three pages and sometimes only a few paragraphs.
 
 [^1]: I set up [Dabble Me](https://dabble.me) to send me an email every morning. I wrote my morning page as a reply to the email so I didn’t need to worry about managing all the data. Writing on my desktop email app also helped me be more lighthearted. I could pretend like I was writing a letter to myself.
