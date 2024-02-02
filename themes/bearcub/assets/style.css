@@ -27,8 +27,8 @@ a {
 }
 
 a:hover {
-  background: blue;
-  color: white;
+  background: #8cc2dd;
+  color: #1d1f27;
 }
 
 .title {
@@ -133,10 +133,6 @@ ul.blog-posts li {
 
 ul.blog-posts li span {
   flex: 0 0 130px;
-}
-
-ul.blog-posts li a:visited {
-  color: #8b6fcb;
 }
 
 a.blog-tags {
