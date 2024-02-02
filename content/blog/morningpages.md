@@ -12,6 +12,8 @@ For two weeks, as soon as I woke up, I opened my laptop and wrote whatever came 
 
 I decided to give morning pages a try because I wanted to form a habit of writing without the fear of self-censorship and criticism. I didn’t want to be the adult who was once an artist as a child. I wished to cultivate the nonconformist spirit within me.
 
+> The amount of eccentricity in a society has generally been proportional to the amount of genius, mental vigour, and moral courage which it contained. That so few now dare to be eccentric, marks the chief danger of the time. - John Stuart Mill
+
 After two weeks, the impact was less than transformative. There was no enlightenment. My life was not magically charged with the sudden burst of creative energy. I still struggled to focus on a single project and often stared at the monitor lifelessly.
 
 However, when I reread my journal, I realized what I wrote in the morning was worth revisiting. The sentences were not refined but seemed more authentic than my blog posts. Some ideas were genuinely exciting and inspired me to work on long-form writings. 
