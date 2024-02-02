@@ -4,7 +4,7 @@ date: 2024-02-02
 description: I wished to cultivate the nonconformist spirit within me.
 ---
 
-For two weeks, as soon as I woke up, I opened my laptop and wrote whatever came into my mind.[^1] Julia Cameron suggested filling three pages. But I didn’t want to let this routine be another form of homework. I just stopped whenever I felt like I was done after 20 to 30 minutes. Sometimes, I wrote more than three pages and sometimes ended with only a few paragraphs.
+For two weeks, as soon as I woke up, I opened my laptop and wrote whatever came into my mind.[^1] Julia Cameron suggested filling three pages, but I didn’t want to let this routine be another form of homework. I just stopped whenever I felt like I was done after 20 to 30 minutes. Sometimes, I wrote more than three pages and sometimes only a few paragraphs.
 
 [^1]: I set up [Dabble Me](https://dabble.me) to send me an email every morning. I wrote my morning page as a reply to the email so I didn’t need to worry about managing all the data. Writing on my desktop email app also helped me be more lighthearted. I could pretend like I was writing a letter to myself.
 
