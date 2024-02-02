@@ -27,8 +27,8 @@ a {
 }
 
 a:hover {
-  background: #8cc2dd;
-  color: #1d1f27;
+  background: blue;
+  color: white;
 }
 
 .title {
