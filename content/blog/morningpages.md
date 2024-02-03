@@ -16,7 +16,7 @@ I decided to give morning pages a try because I wanted to form a habit of writin
 
 After two weeks, the impact was less than transformative. There was no enlightenment. My life was not magically charged with the sudden burst of creative energy. I still struggled to focus on a single project and often stared at the monitor lifelessly.
 
-However, when I reread my journal, I realized what I wrote in the morning was worth revisiting. The sentences were not refined but seemed more authentic than my blog posts. Some ideas were genuinely exciting and inspired me to work on long-form writings. 
+However, when I reread my journal, I realized what I wrote in the morning was worth revisiting. The sentences were not refined but seemed more authentic than my blog posts. Some ideas even inspired me to work on long-form writings. 
 
 Curious to have a peek? Here’s some snippets from my morning pages this week (never sharing my journal again):
 
