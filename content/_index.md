@@ -28,5 +28,3 @@ Hey, I'm Kang. I don't know you yet, but I'm super glad you are here.
 - [Tinylitics](https://tinylytics.app/) - privacy-friendly analytics for small websites.
 - [Digital Ocean](https://www.digitalocean.com/) - hosting for [Jagunbae's website](https://jagunbae.com/).
 - [Netlify](https://www.netlify.com/) - hosting for [my blog](https://kangminsuk.com/) and other projects.
-
-**This blog is powered by [Hugo](https://gohugo.io/), [Bear Cub](https://github.com/clente/hugo-bearcub), and [Netlify](https://www.netlify.com/).*
