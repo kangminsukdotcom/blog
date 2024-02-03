@@ -1,6 +1,0 @@
-[submodule "hugo-theme-nostyleplease"]
-	path = hugo-theme-nostyleplease
-	url = https://github.com/Masellum/hugo-theme-nostyleplease
-[submodule "hugo-search-fuse-js"]
-	path = hugo-search-fuse-js
-	url = https://github.com/kaushalmodi/hugo-search-fuse-js
