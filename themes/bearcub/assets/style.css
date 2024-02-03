@@ -157,7 +157,7 @@ hr {
   border: none;
 }
 hr::before {
-  content: '***';
+  content: '✿✿✿';
   display: block;
   text-align: center;
 }
