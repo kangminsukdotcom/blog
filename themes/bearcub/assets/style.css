@@ -154,9 +154,13 @@ p.byline {
 }
 
 hr {
-  border-top: 1px dotted;
-  border-bottom: none;
- }
+  border: none;
+}
+hr::before {
+  content: '***';
+  display: block;
+  text-align: center;
+}
 
 /* "Skip to main content" link */
 .skip-link {
