@@ -20,6 +20,8 @@ However, when I reread my journal, I realized what I wrote in the morning was wo
 
 Curious to have a peek? Here’s some snippets from my morning pages this week (never sharing my journal again):
 
+---
+
 ## Monday
 - My wish is to be a great creator, teacher, and friend.
 - I’m using this tool called MarkEdit. It’s super fast. Crisp and simple. I’m thinking of using this to write for my blog posts in the future. The details of design matter right? Some apps just feel right. Feel like a breath of fresh air. Tastes like freedom almost. Why is that? Are we making a brand that makes people feel that way? 'Damn these guys are doing something different' should be the first impression.
