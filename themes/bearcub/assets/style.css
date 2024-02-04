@@ -171,7 +171,7 @@ hr::before {
   top: 5;
   transform: translateY(-600%);
   transition: transform 0.5s;
-  background-color: #1d1f27;
+  background-color: #1f2736;
   padding: 6px;
 }
 
