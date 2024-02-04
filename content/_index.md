@@ -25,6 +25,5 @@ Hey, I'm Kang. I don't know you yet, but I'm super glad you are here.
 - [Micro.blog](https://micro.kangminsuk.com/) - Mastodon + personal blogging.
 - [Google Workspace](https://workspace.google.com/) - email and cloud.
 - [Dabble.me](https://workspace.google.com/) - private journaling via email.
-- [Tinylitics](https://tinylytics.app/) - privacy-friendly analytics for small websites.
 - [Digital Ocean](https://www.digitalocean.com/) - hosting for [Jagunbae's website](https://jagunbae.com/).
 - [Netlify](https://www.netlify.com/) - hosting for [my blog](https://kangminsuk.com/) and other projects.
