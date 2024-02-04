@@ -22,7 +22,7 @@ email = "kang@jagunbae.com"
 
 [languages]
   [languages.en]
-    title = "Kang"
+    title = "KANG"
     languageName = "English"
     LanguageCode = "en-US"
     contentDir = "content"

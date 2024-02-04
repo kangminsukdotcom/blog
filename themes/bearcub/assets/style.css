@@ -41,8 +41,6 @@ ul.blog-posts li a:visited {
 .title h1 {
   font-size: 24px;
   margin: 19.92px 0 19.92px 0;
-  transform: rotate(1.2deg);
-  text-decoration: underline;
 }
 
 .title span {
