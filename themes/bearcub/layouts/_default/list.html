@@ -1,37 +1,33 @@
+{{ define "header" }}
+{{ partialCached "header.html" . }}
+{{ end }}
+
 {{ define "main" }}
-<p><em>I'm just trying to teach myself.</em></p>
-<content>
-  {{ if .Data.Singular }}
-    <h3 class="blog-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
-  {{ end }}
-  <ul class="blog-posts">
-    {{ range .Pages }}
-    <li>
-      <span>
-        <i>
-          <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
-            {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
-          </time>
-        </i>
-      </span>
-      {{ if .Params.link }}
-        <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
-      {{ else }}
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      {{ end }}
-    </li>
-    {{ else }}
-    <li>
-      {{ i18n "no-posts" }}
-    </li>
-    {{ end }}
-  </ul>
-  {{ if not .Data.Singular }}
-    <div>
-      {{ range .Site.Taxonomies.tags }}
-        <a class="blog-tags" href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;&nbsp;
-      {{ end }}
-    </div>
-  {{ end }}
-</content>
+	<main class="site-main section-inner thin animated fadeIn faster">
+		<h1>{{ .Title }}</h1>
+    <p><em>I'm just trying to teach myself.</em></p>
+		{{- if .Content }}
+		<div class="content">
+			{{ .Content }}
+		</div>
+		{{- end }}
+		{{- range .Data.Pages.GroupByDate "2006" }}
+		<div class="posts-group">
+			<div class="post-year" id="{{ .Key }}">{{ .Key }}</div>
+			<ul class="posts-list">
+				{{- range .Pages }}
+				<li class="post-item">
+					<a href="{{.Permalink}}">
+						<span class="post-title">{{.Title}}</span>
+          </a>
+				</li>
+				{{- end }}
+			</ul>
+		</div>
+		{{- end }}
+	</main>
+{{ end }}
+
+{{ define "footer" }}
+{{ partialCached "footer.html" . }}
 {{ end }}

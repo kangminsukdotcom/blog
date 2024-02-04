@@ -27,8 +27,11 @@ a {
 }
 
 a:hover {
-  background: #8cc2dd;
-  color: #1d1f27;
+  color: #eee;
+}
+
+ul.blog-posts li a:visited {
+  color: #8b6fcb;
 }
 
 .title {
@@ -236,4 +239,46 @@ figcaption > p {
   border-color: #e77600;
   box-shadow: rgba(228, 121, 17, .5) 0 0 3px 2px;
   outline: 0;
+}
+
+.posts-group {
+  display: flex;
+  margin-bottom: 1.9em;
+  line-height: normal;
+
+  .post-year {
+    padding-top: 6px;
+    margin-right: 1.8em;
+    font-size: 1.6em;
+    @include dimmed;
+
+    &:hover {
+      text-decoration: underline;
+      cursor: pointer;
+    }
+  }
+
+  .posts-list {
+    flex-grow: 1;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .post-item {
+    border-bottom: 1px $highlight-grey dashed;
+
+    a {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      padding: 12px 0;
+    }
+  }
+
+  .post-day {
+    flex-shrink: 0;
+    margin-left: 1em;
+    @include dimmed;
+  }
 }
