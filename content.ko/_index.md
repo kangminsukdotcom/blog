@@ -23,9 +23,8 @@ img {
 - [Kagi](https://kagi.com/) - 검색엔진.
 - [Mullvad VPN](https://mullvad.net/en) - VPN.
 - [Fast Comments](https://fastcomments.com/) - jagunbae.com 댓글 솔루션.
-- [Micro.blog](https://micro.kangminsuk.com/) - Mastodon + 블로그.
-- [Google Workspace](https://workspace.google.com/) - 이메일과 스토리지.
-- [Dabble.me](https://workspace.google.com/) - 이메일로 쓰는 일기장.
-- [Tinylitics](https://tinylytics.app/) - 작은 웹사이트를 위한 애널리틱스.
+- [Micro.blog](https://micro.kangminsuk.com/) - 소셜미디어.
+- [Google Workspace](https://workspace.google.com/) - 이메일, 클라우드.
+- [Dabble.me](https://workspace.google.com/) - 일기장.
 - [Digital Ocean](https://www.digitalocean.com/) - [작은배](https://jagunbae.com/) 서버.
 - [Netlify](https://www.netlify.com/) - 정적 사이트 호스팅.
