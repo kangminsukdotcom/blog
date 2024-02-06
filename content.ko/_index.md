@@ -10,7 +10,7 @@ img {
 </style>
 ![profile](https://micro.kangminsuk.com/uploads/2024/minse.jpg)
 
-허벌나게 반갑습니다. 아내와 [출판사 작은배](https://jagunbae.com/about/)를 운영하는 강민석 입니다.
+아내와 [출판사 작은배](https://jagunbae.com/about/)를 운영하는 강민석 입니다.
 
 ## 일
 - [강단과 소신 팟캐스트](https://www.youtube.com/playlist?list=PLxwFutPC1Kq53Iam6OeVNUNdpFJqK5ArH) - 출판사 '작은배'의 강단과 소신이 나누는 일과 삶에 대한 진지한 대화.

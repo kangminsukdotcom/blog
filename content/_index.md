@@ -10,7 +10,7 @@ img {
 </style>
 ![profile](https://micro.kangminsuk.com/uploads/2024/minse.jpg)
 
-Hey, I'm Kang. I don't know you yet, but I'm super glad you are here.
+Hey, I'm Kang. I'm super glad you are here.
 
 - I work with my wife to publish a podcast, write books, and host workshops. We found a two-person publishing house called [Jagunbae](https://en.jagunbae.com/).
 - From 2022 to 2023, for 18 months, my wife and I ran a vegan sandwich shop called [CHEESYLAZY](https://reviews.cheesylazy.com/) in Jeju, South Korea.
