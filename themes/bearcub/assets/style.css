@@ -4,11 +4,11 @@ body {
   padding: 20px;
   max-width: 720px;
   text-align: left;
-  background-color: rgb(31, 39, 54);
+  background-color: rgb(74, 74, 77);
   word-wrap: break-word;
   overflow-wrap: break-word;
   line-height: 1.5;
-  color: #eee;
+  color: rgba(255, 255, 255, 0.78);
 }
 
 h1,
@@ -23,7 +23,7 @@ b {
 }
 
 a {
-  color: #8cc2dd;
+  color: rgb(90, 200, 250);
 }
 
 a:hover {
