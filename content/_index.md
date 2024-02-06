@@ -17,13 +17,13 @@ Hey, I'm Kang. I'm super glad you are here.
 - I'm inspired by those who send unique messages through their creations. My blog, bread, and books are attempts to convey my authentic philosophy of life.
 - I was born in Korea, but I lived two years in China (middle school) and eight years in the US (high school & college).
 
-## My Robots
-- [Miniflux](https://miniflux.app/) - web-based rss/atom feed reader.
+## Tools
+- [Miniflux](https://miniflux.app/) - web-based rss feed reader.
 - [Kagi](https://kagi.com/) - ad-free, privacy-respecting search engine.
-- [Mullvad VPN](https://mullvad.net/en) - fast, simple, and reliable VPN.
+- [Mullvad VPN](https://mullvad.net/en) - fast, simple VPN.
 - [Fast Comments](https://fastcomments.com/) - cheap, flexible commenting solution.
 - [Micro.blog](https://micro.kangminsuk.com/) - Mastodon + personal blogging.
 - [Google Workspace](https://workspace.google.com/) - email and cloud.
 - [Dabble.me](https://workspace.google.com/) - private journaling via email.
 - [Digital Ocean](https://www.digitalocean.com/) - hosting for [Jagunbae's website](https://jagunbae.com/).
-- [Netlify](https://www.netlify.com/) - hosting for [my blog](https://kangminsuk.com/) and other projects.
+- [Netlify](https://www.netlify.com/) - hosting for this blog and other projects.
