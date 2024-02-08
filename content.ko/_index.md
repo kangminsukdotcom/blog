@@ -23,4 +23,5 @@ img {
 - [Kagi](https://kagi.com/) - 검색엔진.
 - [Fast Comments](https://fastcomments.com/) - 댓글 솔루션.
 - [Dabble.me](https://workspace.google.com/) - 일기장.
+- [Wormhole](https://wormhole.app) - 파일 공유.
 - [nobody](https://www.youtube.com/@nobodyplaylists) - 플레이리스트.

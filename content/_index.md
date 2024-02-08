@@ -23,4 +23,5 @@ Hey, I'm Kang. I'm super glad you are here.
 - [Kagi](https://kagi.com/) - ad-free, privacy-respecting search engine.
 - [Fast Comments](https://fastcomments.com/) - cheap and fast commenting solution.
 - [Dabble.me](https://workspace.google.com/) - private journaling via email.
+- [Wormhole](https://wormhole.app) - private file sharing.
 - [nobody](https://www.youtube.com/@nobodyplaylists) - playlist.
