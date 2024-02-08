@@ -20,7 +20,6 @@ Hey, I'm Kang. I'm super glad you are here.
 ## Tools
 - [Miniflux](https://miniflux.app/) - web-based rss feed reader.
 - [Kagi](https://kagi.com/) - ad-free, privacy-respecting search engine.
-- [Mullvad VPN](https://mullvad.net/en) - fast, simple VPN.
 - [Fast Comments](https://fastcomments.com/) - cheap, flexible commenting solution.
 - [Google Workspace](https://workspace.google.com/) - email and cloud.
 - [Dabble.me](https://workspace.google.com/) - private journaling via email.

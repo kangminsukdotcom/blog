@@ -21,7 +21,6 @@ img {
 ## 툴
 - [Miniflux](https://miniflux.app/) - RSS 피드 리더기.
 - [Kagi](https://kagi.com/) - 검색엔진.
-- [Mullvad VPN](https://mullvad.net/en) - VPN.
 - [Fast Comments](https://fastcomments.com/) - jagunbae.com 댓글 솔루션.
 - [Google Workspace](https://workspace.google.com/) - 이메일, 클라우드.
 - [Dabble.me](https://workspace.google.com/) - 일기장.
