@@ -16,7 +16,7 @@ Now, I stopped using any social media. I’ve decided to put all my creative ene
 
 [My RSS feed reader](https://miniflux.app) is my new social media. In fact, all of the authentic relationships I’ve built online were through blogs. I love exchanging emails with other bloggers because reading each other’s writing is really the best way to develop strong connections. Blogging could sound lonely and boring, but my readers know more about me than most of my offline friends. I have to remind myself that I’m here to make friends, not followers.
 
-Here’s my conclusion. I’m not productizing myself or creating a personal brand. I don’t want to worry about selling before I have the skill set to be considered a writer. Most importantly, I’m happy with books and blogs on my hands.
+Here’s my conclusion. I’m not productizing myself or creating a personal brand. I don’t want to worry about selling before I have the skill set to be considered a writer. I won’t miss social media either. I’m happy with books and blogs on my hands.
 
 > You must stay drunk on writing so reality cannot destroy you. - Ray Bradbury
 
