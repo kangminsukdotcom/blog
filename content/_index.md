@@ -22,7 +22,6 @@ Hey, I'm Kang. I'm super glad you are here.
 - [Kagi](https://kagi.com/) - ad-free, privacy-respecting search engine.
 - [Mullvad VPN](https://mullvad.net/en) - fast, simple VPN.
 - [Fast Comments](https://fastcomments.com/) - cheap, flexible commenting solution.
-- [Micro.blog](https://micro.kangminsuk.com/) - Mastodon + personal blogging.
 - [Google Workspace](https://workspace.google.com/) - email and cloud.
 - [Dabble.me](https://workspace.google.com/) - private journaling via email.
 - [Digital Ocean](https://www.digitalocean.com/) - hosting for [Jagunbae's website](https://jagunbae.com/).
