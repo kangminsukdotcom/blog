@@ -13,7 +13,7 @@ img {
 Hey, I'm Kang. I'm super glad you are here.
 
 ### Who I am
-- I work with my wife to publish a podcast, write books, and host workshops. We found a publisher called [Jagunbae](https://en.jagunbae.com/).
+- My wife and I found a publisher called [Jagunbae](https://en.jagunbae.com/). We host a podcast, write books, and organize workshops.
 - From 2022 to 2023, for 18 months, my wife and I ran a vegan sandwich shop called [CHEESYLAZY](https://reviews.cheesylazy.com/) in Jeju, South Korea.
 - I'm inspired by those who send unique messages through their creations. My blog, bread, and books are attempts to convey my authentic philosophy of life.
 - I was born in Korea, but I lived two years in China (middle school) and eight years in the US (high school & college).
