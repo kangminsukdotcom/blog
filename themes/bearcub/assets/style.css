@@ -31,7 +31,7 @@ a:hover {
   color: #eee;
 }
 
-li a:visited {
+ul.posts-list a:visited {
   color: #8b6fcb;
 }
 
