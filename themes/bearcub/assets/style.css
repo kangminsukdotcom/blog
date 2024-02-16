@@ -1,5 +1,5 @@
 body {
-  font-family: system-ui, sans-serif;
+  font-family: monospace;
   margin: auto;
   padding: 20px;
   max-width: 720px;
@@ -30,7 +30,7 @@ a:hover {
   color: #eee;
 }
 
-ul.blog-posts li a:visited {
+a:visited {
   color: #8b6fcb;
 }
 
