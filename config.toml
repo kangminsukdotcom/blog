@@ -2,7 +2,6 @@ baseURL = "https://kangminsuk.com/"
 languageCode = "en-us"
 title = "Kang's blog"
 theme = "bearcub"
-defaultContentLanguage = "en"
 enableRobotsTXT = true
 dateFormat = "2006-01-02"
 email = "kang@jagunbae.com"

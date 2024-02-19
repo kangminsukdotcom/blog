@@ -165,20 +165,6 @@ hr::before {
   text-align: center;
 }
 
-/* "Skip to main content" link */
-.skip-link {
-  position: absolute;
-  top: 5;
-  transform: translateY(-600%);
-  transition: transform 0.5s;
-  background-color: #1f2736;
-  padding: 6px;
-}
-
-.skip-link:focus {
-  transform: translateY(0%);
-}
-
 figure {
   margin-inline-start: 0em;
   margin-inline-end: 0em;
