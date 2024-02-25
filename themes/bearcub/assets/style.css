@@ -1,5 +1,5 @@
 body {
-  font-family: Nanum Myeongjo, "Family", Serif;
+  font-family: system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
   font-feature-settings: "liga","dlig";
   font-size: 16px;
