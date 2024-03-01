@@ -2,8 +2,8 @@
 title = "에어로프레스 - 앨런 애들러"
 date = 2021-10-07
 aliases = [
-    "/aeropress",
-    "/blog/aeropress"
+    "/aeropress/",
+    "/blog/aeropress/"
 ]
 +++
 
