@@ -1,6 +1,10 @@
 +++
 title = "Obsidian을 쓰는 이유"
 date = 2021-04-08
+aliases = [
+    "/obsidian",
+    "/blog/obsidian"
+]
 +++
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662217589.PNG)
