@@ -18,13 +18,8 @@ h2,
 h3,
 h4,
 h5,
-h6,
-strong,
-b {
+h6 {
   color: #eee;
-}
-
-h1 {
   font-family: monospace;
 }
 
