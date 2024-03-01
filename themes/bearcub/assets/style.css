@@ -155,6 +155,7 @@ h3.blog-filter {
 
 p.byline {
   font-style: italic;
+  font-family: monospace;
 }
 
 hr {
