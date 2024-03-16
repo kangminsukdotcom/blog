@@ -1,1 +1,0 @@
-“I’m grateful,” Hoon nodded like a fat pigeon. No one cared about the boy's struggle to survive in the strange environment. Why is everyone jealous of me? Hoon wanted to cry like he did in his school bathroom. He stared at the window as if he could fly out of the room filled with ignorance and lies. 

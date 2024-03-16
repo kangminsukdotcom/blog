@@ -1,30 +1,28 @@
-{{ define "header" }}
-{{ partialCached "header.html" . }}
-{{ end }}
-
 {{ define "main" }}
-	<main class="site-main section-inner thin animated fadeIn faster">
-    <p>I'm just trying to teach myself.</p>
-		{{- if .Content }}
-		<div class="content">
-			{{ .Content }}
-		</div>
-		{{- end }}
-		{{- range .Data.Pages.GroupByDate "2006" }}
-		<div class="posts-group">
-			<div class="post-year" id="{{ .Key }}">{{ .Key }}</div>
-			<ul class="posts-list">
-				{{- range .Pages }}
-				<li class="post-item">
-					<a href="{{.Permalink}}">
-						<span class="post-title">{{.Title}}</span>
-          </a>
-				</li>
-				{{- end }}
-			</ul>
-		</div>
-		{{- end }}
-	</main>
+<main>
+  {{ $listtitle := .Title }}
+  {{ if or .Title .Content }}
+  <div>
+    {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+    {{ with .Content }}<div>{{ . }}</div>{{ end }}
+  </div>
+  {{ end }}
+
+  <ul>
+    {{ range .Paginator.Pages }}
+    <li>
+      <div class="post-title">
+        {{ if and (ne $listtitle "Posts") (ne $listtitle "Categories") (ne $listtitle "Tags") }}
+          {{ .Date.Format "2006-01-02" }}
+        {{ else }}
+        {{ end }}
+          <a href="{{ .RelPermalink }}">{{.Title }}</a>
+        </div>
+    </li>
+    {{ end }}
+  </ul>
+  {{ partial "pagination.html" . }}
+</main>
 {{ end }}
 
 {{ define "footer" }}
