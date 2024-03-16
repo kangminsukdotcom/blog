@@ -24,6 +24,8 @@ h6 {
 
 a {
   color: rgb(90, 200, 250);
+  text-decoration-thickness: 0.05em;
+  text-underline-offset: 0.23em;
 }
 
 a:hover {
