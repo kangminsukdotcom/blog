@@ -13,7 +13,6 @@
     <li>
       <div class="post-title">
         {{ if and (ne $listtitle "Posts") (ne $listtitle "Categories") (ne $listtitle "Tags") }}
-          {{ .Date.Format "2006-01-02" }}
         {{ else }}
         {{ end }}
           <a href="{{ .RelPermalink }}">{{.Title }}</a>
