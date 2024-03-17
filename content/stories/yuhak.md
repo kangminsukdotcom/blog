@@ -19,4 +19,4 @@ A day after his arrival, Hoon joined a big family lunch in a Chinese restaurant.
 
 No one was interested in the boy's struggle in another country. Why is everyone jealous of me? He stared at the closest window as if he could fly out of the room filled with ignorance and lies. 
 
-"Welcome back home", someone in the room said. Daydreaming, Hoon turned to say thanks.
+"Welcome back home," someone in the room said. Still daydreaming, Hoon turned to say thanks.
