@@ -11,3 +11,4 @@ Here's a growing list of my favorite blogs.
 - [Nutcroft](https://nutcroft.com/)
 - [Nana](https://nana.bearblog.dev/)
 - [pj](https://pj.bearblog.dev)
+- [The Jolly Teapot](https://thejollyteapot.com)
