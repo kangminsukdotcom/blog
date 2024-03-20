@@ -1,6 +1,5 @@
 body {
-  font-family: system-ui, sans-serif;
-  -webkit-font-smoothing: antialiased;
+  font-family: Nanum, 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
   text-rendering: optimizeLegibility;
   font-size: 100%;
   margin: auto;
