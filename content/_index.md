@@ -10,7 +10,7 @@ img {
 </style>
 ![profile](https://micro.kangminsuk.com/uploads/2024/minse.jpg)
 
-I'm Kang. I'm a writer, baker, and small-business owner.
+I'm a writer, baker, and small-business owner.
 
 - My wife and I found a publisher called [Jagunbae](https://en.jagunbae.com/). We host a podcast, write books, and organize workshops.
 - From 2022 to 2023, for 18 months, my wife and I ran a vegan sandwich shop called [CHEESYLAZY](https://reviews.cheesylazy.com/) in Jeju, South Korea.

@@ -10,7 +10,7 @@ img {
 </style>
 ![profile](https://micro.kangminsuk.com/uploads/2024/minse.jpg)
 
-아내와 [출판사 작은배](https://jagunbae.com/about/)를 운영하는 강민석 입니다.
+아내와 [출판사 작은배](https://jagunbae.com/about/)를 운영합니다.
 
 - [강단과 소신 팟캐스트](https://www.youtube.com/playlist?list=PLxwFutPC1Kq53Iam6OeVNUNdpFJqK5ArH) - 출판사 '작은배'의 강단과 소신이 나누는 일과 삶에 대한 진지한 대화.
 - [블로그 만세!](http://blogmansae.com/) - [글 쓰는 블로그](https://blogs.jagunbae.com)를 찾아 소개합니다. 
