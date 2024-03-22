@@ -1,22 +1,37 @@
 ---
-title: Get in touch
+title: Comment
 type: page
 ---
 <style>
   p.byline {display: none;}
+  footer {display: none;}
   textarea {width: fit-content;}
+  button,
+  input,
+  select,
+  content,
+  textarea {
+  font-family: monospace;
+  font-size: 100%;
+}
 </style>
 
-<form name="contact" netlify>
-    <p>
-      <label>Name: <input type="text" name="name" /></label>
-    </p>
-    <p>
-      <label>Message: <textarea name="message"></textarea></label>
-    </p>
-    <p>
-      <button type="submit">Send</button>
-    </p>
-  </form>
 
-<a href="mailto:kang@jagunbae.com?subject=Hey Kang">or Email me.</a>
+<form action="https://riku.miso.town/submit?user_id=42&label=blog" method="post">
+  <div class="field">
+    <label for="name">Name</label>
+    <input type="text" name="name" id="name" required>
+  </div>
+
+  <div class="field">
+    <label for="email">Email (optional)</label>
+    <input type="email" name="email" id="email">
+  </div>
+
+  <div class="field">
+    <label for="message">Message</label>
+    <textarea name="message" id="message" required></textarea>
+  </div>
+
+  <input type="submit" value="Submit">
+</form>
