@@ -11,6 +11,7 @@ body {
   overflow-wrap: break-word;
   line-height: 1.5;
   color: #e1dfdc;
+  word-break: keep-all;
 }
 
 h1,
