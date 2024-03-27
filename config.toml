@@ -1,5 +1,4 @@
 baseURL = "https://kangminsuk.com/"
-languageCode = "en-us"
 title = "Kang's blog"
 theme = "bearcub"
 enableRobotsTXT = true
@@ -33,3 +32,7 @@ dateFormat = "2006-01-02"
     contentDir = "content.ko"
     [languages.ko.params]
       blogPath = "/ko/blog"
+  [[languages.ko.menu.main]]
+  name = "서점"
+  url = "https://store.jagunbae.com"
+  weight = 4
