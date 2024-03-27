@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link rel="shortcut icon" href="https://kangminsuk.com/images/favicon.jpg" />
-<title>Get in touch | KANG MINSUK</title>
-<meta name="title" content="Get in touch" />
-<meta name="description" content=" Name: Message: Send or Email me. " />
+<link rel="shortcut icon" href="http://localhost:1313/images/favicon.jpg" />
+<title>Comment | KANG MINSUK</title>
+<meta name="title" content="Comment" />
+<meta name="description" content=" Name Email (optional) Message " />
 <meta name="keywords" content="" />
 
 
@@ -17,25 +17,25 @@
 
 
   
-  <meta property="og:title" content="Get in touch" />
-<meta property="og:description" content=" Name: Message: Send or Email me. " />
+  <meta property="og:title" content="Comment" />
+<meta property="og:description" content=" Name Email (optional) Message " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://kangminsuk.com/message/" /><meta property="article:section" content="" />
+<meta property="og:url" content="http://localhost:1313/message/" /><meta property="article:section" content="" />
 
 
 
 
 
   
-  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Get in touch"/>
-<meta name="twitter:description" content=" Name: Message: Send or Email me. "/>
+  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Comment"/>
+<meta name="twitter:description" content=" Name Email (optional) Message "/>
 
 
   
-  <meta itemprop="name" content="Get in touch">
-<meta itemprop="description" content=" Name: Message: Send or Email me. ">
+  <meta itemprop="name" content="Comment">
+<meta itemprop="description" content=" Name Email (optional) Message ">
 
-<meta itemprop="wordCount" content="6">
+<meta itemprop="wordCount" content="4">
 <meta itemprop="keywords" content="" />
 
 <meta name="referrer" content="no-referrer-when-downgrade" />
@@ -58,6 +58,8 @@
   <a href="/subscribe/">Subscribe</a>
 
   <a href="/stories/">Stories</a>
+
+  <a href="/search/">Search</a>
 
 
 
@@ -83,7 +85,7 @@
 </header>
   <main id="main-content">
 
-<h1>Get in touch</h1>
+<h1>Comment</h1>
 <p class="byline">
   <time datetime='0001-01-01' pubdate>
     0001-01-01
@@ -94,22 +96,39 @@
 <content>
   <style>
   p.byline {display: none;}
+  footer {display: none;}
   textarea {width: fit-content;}
+  button,
+  input,
+  select,
+  content,
+  textarea {
+  font-family: monospace;
+  font-size: 100%;
+}
 </style>
 
-<form name="contact" netlify>
-    <p>
-      <label>Name: <input type="text" name="name" /></label>
-    </p>
-    <p>
-      <label>Message: <textarea name="message"></textarea></label>
-    </p>
-    <p>
-      <button type="submit">Send</button>
-    </p>
-  </form>
 
-<a href="mailto:kang@jagunbae.com?subject=Hey Kang">or Email me.</a>
+<form action="https://riku.miso.town/submit?user_id=42&label=blog" method="post">
+  <input type="hidden" name="redirect" value="https://kangminsuk.com/thank-you">
+  <div class="field">
+    <label for="name">Name</label>
+    <input type="text" name="name" id="name" required>
+  </div>
+
+  <div class="field">
+    <label for="email">Email (optional)</label>
+    <input type="email" name="email" id="email">
+  </div>
+
+  <div class="field">
+    <label for="message">Message</label>
+    <textarea name="message" id="message" required></textarea>
+  </div>
+
+  <input type="submit" value="Submit">
+
+</form>
 
 </content>
 <p>
@@ -118,7 +137,7 @@
 
   </main>
   <footer><small>
-  <a href="mailto:kang@jagunbae.com?subject=Hey Kang"><em>Reply via email</em></a>
+  <a href="https://kangminsuk.com/message/"><em>Comment</em></a>
 </small>
 </footer>
 
