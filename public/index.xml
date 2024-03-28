@@ -1440,14 +1440,13 @@ Baek is not a chef but an incredible food researcher. The man has studied so muc
     margin-bottom: 15px;
   }
   label {
-  display: inline-block;
-  width: 150px; /* Adjust as needed */
+  width: 150px; 
   text-align: right;
-  margin-right: 10px; /* Space between label and input */
+  margin-right: 10px;
   }
   input[type="text"] {
-  width: 200px; /* Adjust as needed */
-  line-height: 1.5; /* Adjust for better readability */
+  width: 200px; 
+  line-height: 1.5;
   }
 </style>
 
