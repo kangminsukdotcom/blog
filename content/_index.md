@@ -16,4 +16,4 @@ I'm a writer, baker, and small-business owner.
 - From 2022 to 2023, for 18 months, my wife and I ran a vegan sandwich shop called [CHEESYLAZY](https://reviews.cheesylazy.com/) in Jeju, South Korea.
 - I'm inspired by those who send unique messages through their creations. My blog, bread, and books are attempts to convey my authentic philosophy of life.
 - I was born in Korea, but I lived two years in China (middle school) and eight years in the US (high school & college).
-- I like to bookmark interesting tools, articles, podcasts, and videos. You can browse [all of my bookmarks here]((https://links.kangminsuk.com/bookmarks/shared)).
+- I like to bookmark interesting tools, articles, podcasts, and videos. You can browse [all of my bookmarks here](https://links.kangminsuk.com/bookmarks/shared).
