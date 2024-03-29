@@ -3,6 +3,7 @@ title = "Kang Minsuk 강민석"
 theme = "bearcub"
 enableRobotsTXT = true
 dateFormat = "2006-01-02"
+paginate = 20
 
 [markup]
   [markup.highlight]
