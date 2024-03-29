@@ -8,7 +8,7 @@
 <link rel="shortcut icon" href="https://kangminsuk.com/images/favicon.jpg" />
 <title>Comment | KANG MINSUK</title>
 <meta name="title" content="Comment" />
-<meta name="description" content=" Name Email (optional) Message " />
+<meta name="description" content=" Name Email (optional) Website (optional) Message Keep this field blank " />
 <meta name="keywords" content="" />
 
 
@@ -18,7 +18,7 @@
 
   
   <meta property="og:title" content="Comment" />
-<meta property="og:description" content=" Name Email (optional) Message " />
+<meta property="og:description" content=" Name Email (optional) Website (optional) Message Keep this field blank " />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://kangminsuk.com/message/" /><meta property="article:section" content="" />
 
@@ -28,14 +28,14 @@
 
   
   <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Comment"/>
-<meta name="twitter:description" content=" Name Email (optional) Message "/>
+<meta name="twitter:description" content=" Name Email (optional) Website (optional) Message Keep this field blank "/>
 
 
   
   <meta itemprop="name" content="Comment">
-<meta itemprop="description" content=" Name Email (optional) Message ">
+<meta itemprop="description" content=" Name Email (optional) Website (optional) Message Keep this field blank ">
 
-<meta itemprop="wordCount" content="4">
+<meta itemprop="wordCount" content="10">
 <meta itemprop="keywords" content="" />
 
 <meta name="referrer" content="no-referrer-when-downgrade" />
@@ -104,10 +104,6 @@
   input,
   select,
   content,
-  textarea {
-  font-family: monospace;
-  font-size: 100%;
-}
   .field {
     margin-bottom: 15px;
   }
@@ -136,8 +132,18 @@
   </div>
 
   <div class="field">
+  <label for="website">Website (optional)</label>
+  <input type="url" id="website" name="website">
+  </div>
+
+  <div class="field">
     <label for="message">Message</label>
     <textarea name="message" id="message" required></textarea>
+  </div>
+
+  <div style="display:none;">
+    <label for="honeypot">Keep this field blank</label>
+    <input type="text" id="honeypot" name="honeypot">
   </div>
 
   <input type="submit" value="Submit">

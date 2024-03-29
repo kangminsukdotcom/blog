@@ -10,10 +10,6 @@ type: page
   input,
   select,
   content,
-  textarea {
-  font-family: monospace;
-  font-size: 100%;
-}
   .field {
     margin-bottom: 15px;
   }
@@ -42,8 +38,18 @@ type: page
   </div>
 
   <div class="field">
+  <label for="website">Website (optional)</label>
+  <input type="url" id="website" name="website">
+  </div>
+
+  <div class="field">
     <label for="message">Message</label>
     <textarea name="message" id="message" required></textarea>
+  </div>
+
+  <div style="display:none;">
+    <label for="honeypot">Keep this field blank</label>
+    <input type="text" id="honeypot" name="honeypot">
   </div>
 
   <input type="submit" value="Submit">
