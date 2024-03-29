@@ -8,9 +8,11 @@
   {{ with .Params.author }}· {{.}}{{ end }}
 </p>
 {{ end }}
+<main data-pagefind-body>
 <content>
   {{ .Content }}
 </content>
+</main>
 <p>
   {{ range (.GetTerms "tags") }}
     <a class="blog-tags" href="{{ .Permalink }}">#{{ .LinkTitle }}</a>&nbsp;&nbsp;
