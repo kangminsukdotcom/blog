@@ -40,7 +40,6 @@
       <guid>https://kangminsuk.com/search/</guid>
       <description>🤖 </description>
       <content:encoded><![CDATA[<h3>🤖</h3>
-<hr></hr>
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
 <div id="search"></div>
@@ -48,7 +47,13 @@
     window.addEventListener('DOMContentLoaded', (event) => {
         new PagefindUI({ element: "#search", showSubResults: true });
     });
-</script>]]></content:encoded>
+</script>
+
+<style>
+    footer {
+        display: none;
+    }
+</style>]]></content:encoded>
     </item>
     <item>
       <title>Yuhak</title>
