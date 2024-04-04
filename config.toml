@@ -26,6 +26,10 @@ paginate = 20
     contentDir = "content"
     [languages.en.params]
       blogPath = "/blog"
+  [[languages.en.menu.main]]
+  name = "Stories"
+  url = "https://kangmins.uk"
+  weight = 3
   [languages.ko]
     title = "강민석"
     languageName = "한국어"

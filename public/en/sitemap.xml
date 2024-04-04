@@ -27,9 +27,6 @@
                 href="https://kangminsuk.com/subscribe/"
                 />
   </url><url>
-    <loc>https://kangminsuk.com/stories/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://kangminsuk.com/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -54,6 +51,9 @@
                 hreflang="en-US"
                 href="https://kangminsuk.com/"
                 />
+  </url><url>
+    <loc>https://kangminsuk.com/stories/</loc>
+    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kangminsuk.com/stories/yuhak/</loc>
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
