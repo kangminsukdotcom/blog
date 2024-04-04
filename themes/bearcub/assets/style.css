@@ -1,14 +1,5 @@
-@font-face {
-  font-family: 'Cascadia Code';
-  src: url('/fonts/CascadiaCode.woff2') format('woff2'),
-       url('/fonts/CascadiaCodeItalic.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
 body {
-  font-family: "Cascadia Code", monospace;
+  font-family: system-ui, sans-serif;
   text-rendering: optimizeLegibility;
   font-size: 100%;
   margin: auto;
