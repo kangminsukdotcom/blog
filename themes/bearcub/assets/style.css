@@ -1,5 +1,12 @@
+@font-face {
+  font-family: 'Source Han Serif';
+  src: url('/fonts/SourceHanSerifK-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
-  font-family: system-ui, sans-serif;
+  font-family: 'Source Han Serif', serif;
   text-rendering: optimizeLegibility;
   font-size: 100%;
   margin: auto;
