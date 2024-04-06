@@ -1,28 +1,37 @@
 {{ define "main" }}
-<main>
-  {{ $listtitle := .Title }}
-  {{ if or .Title .Content }}
-  <div>
-    {{ with .Content }}<div>{{ . }}</div>{{ end }}
-  </div>
+<content>
+  {{ if .Data.Singular }}
+    <h3 class="blog-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
   {{ end }}
-
-  <ul>
-    {{ range .Paginator.Pages }}
+  <ul class="blog-posts">
+    {{ range .Pages }}
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
     <li>
-      <div class="post-title">
-        {{ if and (ne $listtitle "Posts") (ne $listtitle "Categories") (ne $listtitle "Tags") }}
-        {{ else }}
-        {{ end }}
-          <a href="{{ .RelPermalink }}">{{.Title }}</a>
-        </div>
+      {{ if .Params.link }}
+        <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
+      {{ else }}
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ end }}
+    </li>
+    {{ else }}
+    <li>
+      {{ i18n "no-posts" }}
     </li>
     {{ end }}
   </ul>
-  {{ partial "pagination.html" . }}
-</main>
-{{ end }}
-
-{{ define "footer" }}
-{{ partialCached "footer.html" . }}
+  {{ if not .Data.Singular }}
+    <div>
+      {{ range .Site.Taxonomies.tags }}
+        <a class="blog-tags" href="{{ .Page.RelPermalink }}">#{{ lower .Page.Title }}</a>
+      {{ end }}
+    </div>
+  {{ end }}
+</content>
 {{ end }}
