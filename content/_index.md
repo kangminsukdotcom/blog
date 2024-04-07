@@ -8,7 +8,7 @@ img {
     border-radius: 50%;
 }
 </style>
-![profile](https://mataroa.blog/images/9eec7c03.webp)
+![profile](https://mataroa.blog/images/6644b39a.webp)
 
 I'm a writer, baker, and small-business owner.
 
