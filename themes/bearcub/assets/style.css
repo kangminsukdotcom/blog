@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'Orbit';
+  src: url('/fonts/Orbit.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
   font-family: system-ui, sans-serif;
   text-rendering: optimizeLegibility;
@@ -26,6 +33,7 @@ h4,
 h5,
 h6 {
   color: #eee;
+  font-family: Orbit;
 }
 
 a {
@@ -46,9 +54,11 @@ ul.posts-list a:visited {
   text-decoration: none;
   border: 0;
 }
+
 .title h1 {
   font-size: 24px;
   margin: 19.92px 0 19.92px 0;
+  font-family: Orbit;
 }
 
 .title span {
@@ -98,6 +108,7 @@ code {
   padding: 2px 5px;
   color: #f8f8f2;
   background-color: #1d1f27;
+  font-family: Orbit;
 }
 
 pre code {

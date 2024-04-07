@@ -11,7 +11,7 @@ type: page
   select,
   content,
   textarea {
-  font-family: monospace;
+  font-family: Orbit;
   font-size: 100%;
 }
 </style>
