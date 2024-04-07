@@ -8,7 +8,7 @@ img {
     border-radius: 50%;
 }
 </style>
-![profile](https://micro.kangminsuk.com/uploads/2024/minse.jpg)
+![profile](https://mataroa.blog/images/9eec7c03.webp)
 
 I'm a writer, baker, and small-business owner.
 

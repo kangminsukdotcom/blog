@@ -8,7 +8,7 @@ img {
     border-radius: 50%;
 }
 </style>
-![profile](https://micro.kangminsuk.com/uploads/2024/minse.jpg)
+![profile](https://mataroa.blog/images/9eec7c03.webp)
 
 아내와 [출판사 작은배](https://jagunbae.com/about/)를 운영합니다.
 
