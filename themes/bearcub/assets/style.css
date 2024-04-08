@@ -6,14 +6,6 @@
   font-display: swap;
 }
 
-@font-face {
-  font-family: 'Danjo';
-  src: url('/fonts/Danjo.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
 body {
   font-family: system-ui, sans-serif;
   text-rendering: optimizeLegibility;
@@ -42,7 +34,7 @@ h4,
 h5,
 h6 {
   color: #eee;
-  font-family: "Danjo";
+  font-family: "Orbit";
 }
 
 a {
@@ -67,7 +59,7 @@ ul.posts-list a:visited {
 .title h1 {
   font-size: 24px;
   margin: 19.92px 0 19.92px 0;
-  font-family: "Danjo";
+  font-family: "Orbit";
 }
 
 .title span {
