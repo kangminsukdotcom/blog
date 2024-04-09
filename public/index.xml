@@ -6,7 +6,7 @@
     <description>Recent content on KANG MINSUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kangminsuk.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Subscribe</title>
@@ -54,6 +54,57 @@
         display: none;
     }
 </style>]]></content:encoded>
+    </item>
+    <item>
+      <title>I’ve Helped 17 People Ditch Naver Blog and Start Personal Blogging</title>
+      <link>https://kangminsuk.com/blog/workshops/</link>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://kangminsuk.com/blog/workshops/</guid>
+      <description>In South Korea, most bloggers use Naver Blog to publish their writings.1 The indie blogging culture is almost nonexistant. If you say &amp;ldquo;I blog&amp;rdquo; in this country, most people would assume you are writing on Naver Blog.&#xA;Although Naver Blog is infamous for its overwhelming amount of bot-generated-crappy-sponsored-SEO content, most writers still stay on Naver Blog because they simply are not aware of another option. Naver also makes sure only the content stamped &amp;ldquo;Naver&amp;rdquo; rank high in its search results.</description>
+      <content:encoded><![CDATA[<p><img src="https://jagunbae.com/content/images/size/w1600/2024/04/KakaoTalk_Photo_2024-04-04-06-33-16-008.jpeg" alt="1:1 blogging session"></p>
+<p>In South Korea, most bloggers use Naver Blog to publish their writings.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> The indie blogging culture is almost nonexistant. If you say &ldquo;I blog&rdquo; in this country, most people would assume you are writing on Naver Blog.</p>
+<p>Although Naver Blog is infamous for its overwhelming amount of bot-generated-crappy-sponsored-SEO content, most writers still stay on Naver Blog because they simply are not aware of another option. Naver also makes sure only the content stamped &ldquo;Naver&rdquo; rank high in its search results. So for Korean bloggers, migrating to another platform or publishing on a custom domain could lead to giving up a shit ton of traffic.</p>
+<p>I wanted to challenge this Naver-ruled bloggging landscape. I&rsquo;m no web developer, but I could explain how to buy a domain, choose a platform, write in Markdown, and use an RSS feed reader. Some of my friends had asked me to teach them how to start a blog like <a href="https://kangminsuk.com">mine</a>, so I knew there was a demand for my skills. I had alreay spent hundreds of hours building and polishing my blog, so I felt confident to prepare for a personal blogging workshop. I was excited to build a new community of writers.</p>
+<h2 id="the-first-workshop">The First Workshop</h2>
+<p>I&rsquo;ve hosted three &ldquo;Let&rsquo;s Start a Personal Blog&rdquo; workshops in my office this year. The first workshop was in January. There were seven people, including me, and I taught how to purchase a domain, create a blog, and write in Markdown all within two hours.</p>
+<p>No need to open a code editor or terminal. I tried to make the first workshop as easygoing as possible without the need for any programming knowledge. The workshop was about online writing, not web development.</p>
+<p>Here&rsquo;s how the workshop went:</p>
+<ol>
+<li>Talked about what developers care about when building &ldquo;a perfect website&rdquo;. I showed <a href="http://motherfuckingwebsite.com/">Motherfucking Website</a> series like <a href="http://bettermotherfuckingwebsite.com">this one</a>, <a href="https://thebestmotherfucking.website">this one</a>, and <a href="https://perfectmotherfuckingwebsite.com">this one</a>.</li>
+<li>Bought domains on <a href="https://porkbun.com">Porkbun</a>.</li>
+<li>Signed up for accounts on <a href="https://mataroa.blog">Mataroa</a>.</li>
+<li>Connected custom domains on Mataroa and practiced how to publish posts and pages, manage images, and use a feature like theme, newsletter, and comment.</li>
+<li>Practiced how to write in Markdown. Introduced Markdown editors like <a href="https://github.com/MarkEdit-app/MarkEdit">MarkEdit</a> and <a href="https://www.marktext.cc">MarkText</a>.</li>
+<li>Subscribed to each other&rsquo;s blog using a RSS feed reader like <a href="https://mire.meadowing.club">Mire</a>, <a href="https://github.com/parksb/collie">Collie</a>, <a href="https://netnewswire.com">NetNewsWire</a>, and <a href="https://www.commafeed.com/#/app/category/all">CommaFeed</a>. I intentionally introduced free &amp; minimal feed readers.</li>
+</ol>
+<h2 id="the-second-workshop">The Second Workshop</h2>
+<p>The second workshop happened a month after the first one. I had to make a few changes to improve our meeting:</p>
+<ol>
+<li>Two hours was not enough to talk about everything I knew about personal blogging. In addition, the participants wanted to have a longer chat with each other. I couldn&rsquo;t provide enough time to discuss each other&rsquo;s domain name and writing topics. To make sure there&rsquo;s enough time to share knowledge and network with fellow bloggers, I extended the workshop to two separate meetings. Once a week, six people met in the office for two hours.</li>
+<li>All members of the first workshop were satisfied with Mataroa, but I wanted to introduce more blogging platforms for the second workshop. So I provided four different options: Mataroa, <a href="https://bearblog.dev">Bear Blog</a>, <a href="https://pika.page">Pika</a>, and <a href="https://smol.pub">Smol Pub</a>. In the end, two chose Mataroa, one chose Bear Blog, and one chose Pika.</li>
+</ol>
+<p>I loved our conversations about domain names, website designs, and the differences between the four platforms. However, I also realized meeting twice to create a minimalist blog could feel a little time-wasting to some people.</p>
+<h2 id="the-third-workshop">The Third Workshop</h2>
+<p><img src="https://jagunbae.com/content/images/2024/04/KakaoTalk_Photo_2024-04-04-06-33-16-003.webp" alt="1:1 blogging session"></p>
+<p>The third one was held during &ldquo;<a href="https://jagunbae.com/stopbooks2-review/">The Stop for Readers</a>,&rdquo; which was a mini festival filled with 19 different bookstores selling already-read books.</p>
+<p>I was in charge of a program called &ldquo;30-minute Instant Blog.&rdquo; For two days, I met 7 people 1:1 to tailor-make a personal blog. I worked with the participants to look for a perfect domain name on <a href="https://domaintyper.com">DomainTyper</a>, choose between Mataroa and Bear Blog, and write on a Markdown editor. Although I promised 30 minutes, I spent around 50 minutes per session. Signing up and paying for the domain and platform took more than I expected.</p>
+<h2 id="what-i-learned">What I Learned</h2>
+<p>So far, I&rsquo;ve helped 17 people create personal blogs. I compiled <a href="https://blogs.jagunbae.com">16 of the RSS feeds on my website</a> if you&rsquo;re interested in checking them out(all blogs are in Korean of course).</p>
+<p>Last, I&rsquo;d like to share some lessons from the three workshops:</p>
+<ol>
+<li>Everyone agreed writing on profit-driven corporate platforms sucks so much ass. I tried, especially during the first two workshops, to explain why I think it&rsquo;s crucial to own one&rsquo;s data. Most participants expressed gratitudes for indie platforms like Mataroa because they finally could focus on writing instead of catering to algorithmic ranking and placing ad banners. Online writing is much more fun on the platforms made for writers, not users. I also tried to make sure that it was important to pay for great softwares to support developers.</li>
+<li>Most of the members had never purchased a domain name. Once again, I realized a simple task like buying a domain name could sound like a huge barrier. Everyone was surprised how easy it was to set up a DNS record. Thanks to amazing tools, building on the Internet has become so easy, but many of us still wait for big tech companies to upgrade features and solve problems. No one had heard of Markdown, RSS, and alternative blogging platforms either.</li>
+<li>After building a blog together, some writers still have not published their first post. I don&rsquo;t blame them, but I wonder if there was anything I could do to help building writing habits.</li>
+</ol>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Naver is a dominant tech conglomerate in South Korea. It is commonly referred to as &ldquo;Google of Korea.&rdquo;&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content:encoded>
     </item>
     <item>
       <title>Yuhak</title>
