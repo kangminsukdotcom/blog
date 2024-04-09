@@ -6,6 +6,10 @@
   font-display: swap;
 }
 
+:lang(ko) {
+  word-break: keep-all;
+}
+
 body {
   font-family: system-ui, sans-serif;
   text-rendering: optimizeLegibility;
@@ -19,7 +23,6 @@ body {
   overflow-wrap: break-word;
   line-height: 1.5;
   color: #e1dfdc;
-  word-break: keep-all;
   --pagefind-ui-primary: #eeeeee;
   --pagefind-ui-text: #eeeeee;
   --pagefind-ui-background: #152028;
