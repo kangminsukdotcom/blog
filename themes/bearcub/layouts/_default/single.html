@@ -2,8 +2,6 @@
 {{ if not .Params.menu }}
 <main data-pagefind-body>
 <h1>{{ .Title }}</h1>
-  {{ with .Params.author }}· {{.}}{{ end }}
-</p>
 {{ end }}
 <content>
   {{ .Content }}
