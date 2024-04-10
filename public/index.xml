@@ -34,28 +34,6 @@
 </form>]]></content:encoded>
     </item>
     <item>
-      <title>Search</title>
-      <link>https://kangminsuk.com/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kangminsuk.com/search/</guid>
-      <description>🤖 </description>
-      <content:encoded><![CDATA[<h3 style="text-align: center;">🤖</h3>
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/pagefind/pagefind-ui.js"></script>
-<div id="search"></div>
-<script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search", showSubResults: true });
-    });
-</script>
-
-<style>
-    footer {
-        display: none;
-    }
-</style>]]></content:encoded>
-    </item>
-    <item>
       <title>I’ve Helped 17 People Ditch Naver Blog and Start Personal Blogging</title>
       <link>https://kangminsuk.com/blog/workshops/</link>
       <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
