@@ -110,10 +110,12 @@
       showImages: false, 
       showEmptyFilters: false,
       resetStyles: false,
-      transformer: (result) => {
-        result.title = result.data.title; 
-        return result;
-      }
+      template: (result) => `
+        <div class="search-result">
+          <h3><a href="${result.url}">${result.data.title}</a></h3>
+          <p>${result.excerpt}</p>
+        </div>
+      `
     });
   });
     </script>
