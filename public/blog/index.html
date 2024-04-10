@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   searchIcon.addEventListener('click', function() {
     searchOverlay.style.display = 'block';
-    searchInput.focus();
+    searchInput.focus(); 
   });
 
   searchOverlay.addEventListener('click', function(event) {
@@ -103,13 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
       searchOverlay.style.display = 'none';
     }
   });
-
-  
-  searchOverlay.addEventListener('transitionend', function() {
-    if (searchOverlay.style.display === 'block') {
-      searchInput.focus();
-    }
-  });
+});
     
     new PagefindUI({
       element: '#search-results',
