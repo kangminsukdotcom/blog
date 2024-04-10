@@ -111,13 +111,7 @@
       showImages: false, 
       showEmptyFilters: false,
       resetStyles: false,
-      transformer: function (result) {
-        const props = result.data.pagefind || result.data;
-        return {
-          ...result,
-          title: props.title,
-        };
-      },
+      titleField: "title" 
     });
   });
     </script>
