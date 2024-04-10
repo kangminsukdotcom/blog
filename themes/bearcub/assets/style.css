@@ -231,6 +231,7 @@ figcaption > p {
   height: 100%;
   background-color: rgba(0, 0, 0, 0.8);
   z-index: 999;
+  overflow-y: auto;
 }
 
 .search-box {
@@ -242,6 +243,8 @@ figcaption > p {
   padding: 20px;
   border-radius: 5px;
   background-color: #2E3440;
+  overflow-y: auto;
+  max-height: 80vh;
 }
 
 #search-input {
@@ -252,4 +255,6 @@ figcaption > p {
 
 #search-results {
   margin-top: 20px;
+  max-height: calc(80vh - 100px);
+  overflow-y: auto;
 }
