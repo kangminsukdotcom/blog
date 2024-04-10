@@ -1,10 +1,10 @@
 {{ define "main" }}
 {{ if not .Params.menu }}
+<main data-pagefind-body>
 <h1>{{ .Title }}</h1>
   {{ with .Params.author }}· {{.}}{{ end }}
 </p>
 {{ end }}
-<main data-pagefind-body>
 <content>
   {{ .Content }}
 </content>

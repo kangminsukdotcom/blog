@@ -30,14 +30,20 @@
         }
       });
     
-        new PagefindUI({ 
-            element: '#search-results',
-            showImages: false, 
-            showEmptyFilters: false,
-            resetStyles: false,
-            titleField: "title"  // Add this line
-        });
+      new PagefindUI({
+      element: '#search-results',
+      showImages: false, 
+      showEmptyFilters: false,
+      resetStyles: false,
+      transformer: function (result) {
+        const props = result.data.pagefind || result.data;
+        return {
+          ...result,
+          title: props.title,
+        };
+      },
     });
+  });
     </script>
 
   <!-- Add the search icon and Pagefind elements -->

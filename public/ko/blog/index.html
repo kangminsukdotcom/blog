@@ -43,8 +43,7 @@
   
 
   <link rel="alternate" type="application/rss+xml" href="https://kangminsuk.com/ko/blog/index.xml" title="강민석" />
-  
-  <link rel="preload" href="/fonts/Orbit.woff2" as="font" type="font/woff2" crossorigin><meta name="naver-site-verification" content="5f6fbf827984fd89b1daf6435c58e29fafeb1071" />
+  <meta name="naver-site-verification" content="5f6fbf827984fd89b1daf6435c58e29fafeb1071" />
 </head>
 
 <body>
@@ -105,14 +104,20 @@
         }
       });
     
-        new PagefindUI({ 
-            element: '#search-results',
-            showImages: false, 
-            showEmptyFilters: false,
-            resetStyles: false,
-            titleField: "title"  
-        });
+      new PagefindUI({
+      element: '#search-results',
+      showImages: false, 
+      showEmptyFilters: false,
+      resetStyles: false,
+      transformer: function (result) {
+        const props = result.data.pagefind || result.data;
+        return {
+          ...result,
+          title: props.title,
+        };
+      },
     });
+  });
     </script>
 
   
