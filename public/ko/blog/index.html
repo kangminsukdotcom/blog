@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
     searchOverlay.style.display = 'block';
     setTimeout(function() {
       searchInput.focus(); 
-    }, 100); 
+    }, 0);
   });
 
   searchOverlay.addEventListener('click', function(event) {
@@ -105,22 +105,23 @@ document.addEventListener('DOMContentLoaded', function() {
       searchOverlay.style.display = 'none';
     }
   });
-
-  new PagefindUI({
-    element: '#search-results',
-    showImages: false, 
-    showEmptyFilters: false,
-    resetStyles: false,
+    
+    new PagefindUI({
+      element: '#search-results',
+      showImages: false, 
+      showEmptyFilters: false,
+      resetStyles: false,
+    });
   });
-});
 </script>
 
   
   <div class="search-container">
     <button id="search-icon" class="search-icon">🔎</button>
     <div id="search-overlay" class="search-overlay">
-      <input id="search-box" class="search-box"></input>
+      <div id="search-box" class="search-box">
         <div id="search-results"></div>
+      </div>
     </div>
   </div>
 
