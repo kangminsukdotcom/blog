@@ -31,13 +31,6 @@ document.addEventListener('DOMContentLoaded', function() {
       searchOverlay.style.display = 'none';
     }
   });
-
-  // Auto-focus the search input field when the search popup is displayed
-  searchOverlay.addEventListener('transitionend', function() {
-    if (searchOverlay.style.display === 'block') {
-      searchInput.focus();
-    }
-  });
     
     new PagefindUI({
       element: '#search-results',
