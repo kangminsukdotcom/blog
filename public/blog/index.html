@@ -104,9 +104,10 @@
           searchOverlay.style.display = 'none';
         }
       });
-
+    
+    window.addEventListener('DOMContentLoaded', (event) => {
         new PagefindUI({ 
-            element: "#search",
+            element: '#search-results',
             showImages: false, 
             showEmptyFilters: false,
             resetStyles: false,
