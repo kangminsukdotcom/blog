@@ -112,7 +112,10 @@
         showImages: false, 
         showEmptyFilters: false,
         resetStyles: false,
-        titleField: "title"
+        transformer: (result) => {
+            result.meta.title = result.data.title;
+            return result;
+        }
       });
     });
     </script>
