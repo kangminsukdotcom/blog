@@ -260,3 +260,7 @@ figcaption > p {
   max-height: calc(80vh - 100px);
   overflow-y: auto;
 }
+
+.pagefind-ui__search-clear {
+  display: none;
+}
