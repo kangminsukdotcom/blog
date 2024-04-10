@@ -205,3 +205,51 @@ figcaption > p {
   color: #1d1f27;
   background-color: #dedf40;
 }
+
+.search-container {
+  position: relative;
+  display: inline-block;
+}
+
+.search-icon {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+  margin-top: 1em; /* Add equal margins on top and bottom */
+  padding: 5px; /* Add some padding around the icon */
+  display: inline-block; /* Ensure the icon is treated as an inline-block element */
+  vertical-align: middle; /* Vertically align the icon with the navigation */
+}
+
+.search-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 999;
+}
+
+.search-box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  max-width: 600px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+#search-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+#search-results {
+  margin-top: 20px;
+}
