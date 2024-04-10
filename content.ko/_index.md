@@ -1,17 +1,10 @@
 ---
 title: "홈"
 ---
-<style>
-img {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-}
-</style>
-![profile](https://mataroa.blog/images/6644b39a.webp)
 
-아내와 [출판사 작은배](https://jagunbae.com/about/)를 운영합니다.
+# 글 쓰고, 빵 굽고, 행동하는 작은배
 
+- 아내와 함께 [출판사 작은배](https://jagunbae.com/about/)를 운영합니다. 매주 '작은배 레터'를 보내고, 종종 온/오프라인 모임을 열어요.
 - [강단과 소신 팟캐스트](https://www.youtube.com/playlist?list=PLxwFutPC1Kq53Iam6OeVNUNdpFJqK5ArH) - 출판사 '작은배'의 강단과 소신이 나누는 일과 삶에 대한 진지한 대화. 2주에 한번 애플 팟캐스트, 스포티파이, 유튜브에 발행합니다.
 - [블로그 만세!](http://blogmansae.com/) - 광고와 과금 없는 블로그를 찾아 소개하는 개인 프로젝트입니다.
 - [글 쓰는 블로그 시작하기 모임](https://jagunbae.com/tag/personal-blog/) - 더 많은 사람이 고유한 도메인에 글을 쓰면 좋겠다는 마음으로 모임을 운영합니다. 모임을 통해 만들어진 모든 블로그는 [여기](https://blogs.jagunbae.com)에서 구경할 수 있습니다. 
