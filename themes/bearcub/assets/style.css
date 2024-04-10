@@ -6,23 +6,28 @@
   font-display: swap;
 }
 
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 :lang(ko) {
   word-break: keep-all;
 }
 
 body {
-  font-family: system-ui, sans-serif;
+  font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
   text-rendering: optimizeLegibility;
-  font-size: 100%;
+  font-size: 16px;
   margin: auto;
-  padding: 20px;
-  max-width: 720px;
+  padding: 1.25em;
+  max-width: 650px;
   text-align: left;
-  background-color: #424242;
+  background-color: #333333;
   word-wrap: break-word;
   overflow-wrap: break-word;
-  line-height: 1.5;
-  color: #e1dfdc;
+  line-height: 1.6;
+  color: #f0f0f0;
   --pagefind-ui-primary: #eeeeee;
   --pagefind-ui-text: #eeeeee;
   --pagefind-ui-background: #152028;
@@ -60,8 +65,8 @@ ul.posts-list a:visited {
 }
 
 .title h1 {
-  font-size: 24px;
-  margin: 19.92px 0 19.92px 0;
+  font-size: 1.5em;
+  margin: 1.25em 0;
   font-family: "Orbit";
 }
 
@@ -70,20 +75,20 @@ ul.posts-list a:visited {
 }
 
 nav a {
-  margin-right: 10px;
+  margin-right: 0.625em;
 }
 
 textarea {
   background-color: #252525;
   color: #ddd;
   width: 100%;
-  font-size: 16px;
+  font-size: 1em;
 }
 
 input {
   background-color: #252525;
   color: #ddd;
-  font-size: 16px;
+  font-size: 1em;
 }
 
 content {
@@ -100,7 +105,7 @@ td {
   border: 1px solid;
   border-collapse: collapse;
   border-color: #c9d1d9;
-  padding: 5px;
+  padding: 0.3125em;
 }
 
 img {
@@ -109,29 +114,29 @@ img {
 }
 
 code {
-  padding: 2px 5px;
+  padding: 0.125em 0.3125em;
   color: #f8f8f2;
   background-color: #1d1f27;
-  font-family: Orbit;
+  font-family: 'Fira Code', 'Source Code Pro', 'Consolas', monospace;
 }
 
 pre code {
   display: block;
-  padding: 20px;
+  padding: 1.25em;
   white-space: pre-wrap;
-  font-size: 14px;
+  font-size: 1em;
   overflow-x: auto;
 }
 
 blockquote {
   border-left: 1px solid #999;
   color: #D8DEE9;
-  padding-left: 20px;
+  padding-left: 1.25em;
   font-style: italic;
 }
 
 footer {
-  padding: 25px;
+  padding: 1.5625em;
   text-align: center;
 }
 
@@ -153,11 +158,11 @@ ul.blog-posts {
 
 ul.blog-posts li {
   display: flex;
-  margin-bottom: 10px;
+  margin-bottom: 0.625em;
 }
 
 ul.blog-posts li span {
-  flex: 0 0 130px;
+  flex: 0 0 8.125em;
 }
 
 a.blog-tags {
@@ -177,6 +182,7 @@ h3.blog-filter {
 hr {
   border: none;
 }
+
 hr::before {
   content: '✿✿✿';
   display: block;
