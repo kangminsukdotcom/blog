@@ -106,18 +106,21 @@
         }
       });
     
-      new PagefindUI({
+    new PagefindUI({
       element: '#search-results',
       showImages: false, 
       showEmptyFilters: false,
       resetStyles: false,
       transformer: (result) => {
-                result.meta.title = result.data.title;
-                return result;
-            }
-    });
+        const props = result.data.pagefind || result.data;
+        return {
+        ...result,
+        title: props.title,
+    };
+  },
+});
   });
-    </script>
+</script>
 
   
   <div class="search-container">
