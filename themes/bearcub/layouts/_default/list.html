@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   <!-- Add the search icon and Pagefind elements -->
   <div class="search-container">
-    <button id="search-icon" class="search-icon">🔎</button>
+    <button id="search-icon" class="search-icon">🔍</button>
     <div id="search-overlay" class="search-overlay">
       <div id="search-box" class="search-box">
         <div id="search-results"></div>
@@ -51,21 +51,24 @@ document.addEventListener('DOMContentLoaded', function() {
     </div>
   </div>
 
-  <ul class="blog-posts">
-    {{ range .Pages }}
-    <li>
-      {{ if .Params.link }}
-        <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
-      {{ else }}
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      {{ end }}
-    </li>
+  <div class="blog-posts">
+    {{ range .Pages.GroupByDate "2006" }}
+      <h2>{{ .Key }}</h2> <!-- This prints the year -->
+      <ul>
+        {{ range .Pages }}
+          <li>
+            {{ if .Params.link }}
+              <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
+            {{ else }}
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ end }}
+          </li>
+        {{ end }}
+      </ul>
     {{ else }}
-    <li>
-      {{ i18n "no-posts" }}
-    </li>
+      <p>{{ i18n "no-posts" }}</p>
     {{ end }}
-  </ul>
+  </div>
 
   {{ if not .Data.Singular }}
     <div>

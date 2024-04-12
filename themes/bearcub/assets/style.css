@@ -7,7 +7,6 @@ html {
   word-break: keep-all;
 }
 
-:lang(en) {
 h1,
 h2,
 h3,
@@ -16,7 +15,6 @@ h5,
 h6 {
   color: #eee;
   font-family: Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', 'Nimbus Sans Narrow', sans-serif-condensed, sans-serif;
-}
 }
 
 body {
@@ -37,15 +35,6 @@ body {
   --pagefind-ui-background: #152028;
   --pagefind-ui-border: #152028;
   --pagefind-ui-tag: #152028;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: #eee;
 }
 
 a {
@@ -221,7 +210,11 @@ figcaption > p {
   margin-top: 1em; /* Add equal margins on top and bottom */
   padding: 5px; /* Add some padding around the icon */
   display: inline-block; /* Ensure the icon is treated as an inline-block element */
-  vertical-align: middle; /* Vertically align the icon with the navigation */
+  vertical-align: middle;
+}
+
+.search-icon:hover{
+  background-color: gray;
 }
 
 .search-overlay {
@@ -263,4 +256,15 @@ figcaption > p {
 
 .pagefind-ui__search-clear {
   display: none;
+}
+
+.copy-link {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.copy-link:hover {
+  background-color: gray;
 }
