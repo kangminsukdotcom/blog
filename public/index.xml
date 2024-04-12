@@ -1457,7 +1457,7 @@ Baek is not a chef but an incredible food researcher. The man has studied so muc
       <link>https://kangminsuk.com/message/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kangminsuk.com/message/</guid>
-      <description> Message Keep this field blank </description>
+      <description> Keep this field blank </description>
       <content:encoded><![CDATA[<style>
   p.byline {display: none;}
   footer {display: none;}
@@ -1485,8 +1485,7 @@ Baek is not a chef but an incredible food researcher. The man has studied so muc
   <input type="hidden" name="redirect" value="https://kangminsuk.com/thank-you">
 
   <div class="field">
-    <label for="message">Message</label>
-    <textarea name="message" id="message" required></textarea>
+    <textarea name="message" placeholder="Hello there! This is a private HTML form." id="message" required></textarea>
   </div>
 
   <div style="display:none;">
@@ -1504,7 +1503,7 @@ Baek is not a chef but an incredible food researcher. The man has studied so muc
       <link>https://kangminsuk.com/thank-you/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kangminsuk.com/thank-you/</guid>
-      <description>The message has been sent.</description>
+      <description>Your message has been sent.</description>
       <content:encoded><![CDATA[<style>
   p.byline {display: none;}
   footer {display: none;}
@@ -1517,7 +1516,7 @@ Baek is not a chef but an incredible food researcher. The man has studied so muc
   font-size: 100%;
 }
 </style>
-<p>The message has been sent.</p>]]></content:encoded>
+<p>Your message has been sent.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>

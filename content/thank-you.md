@@ -15,4 +15,4 @@ type: page
 }
 </style>
 
-<p>The message has been sent.</p>
+<p>Your message has been sent.</p>
