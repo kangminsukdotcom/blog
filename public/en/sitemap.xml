@@ -43,6 +43,22 @@
     <loc>https://kangminsuk.com/blog/workshops/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://kangminsuk.com/tags/fiction/</loc>
+    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kangminsuk.com/tags/</loc>
+    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-KO"
+                href="https://kangminsuk.com/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://kangminsuk.com/tags/"
+                />
+  </url><url>
     <loc>https://kangminsuk.com/blog/yuhak/</loc>
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -279,18 +295,6 @@
                 />
   </url><url>
     <loc>https://kangminsuk.com/message/</loc>
-  </url><url>
-    <loc>https://kangminsuk.com/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-KO"
-                href="https://kangminsuk.com/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://kangminsuk.com/tags/"
-                />
   </url><url>
     <loc>https://kangminsuk.com/thank-you/</loc>
   </url>

@@ -13,8 +13,9 @@
       <link>https://kangminsuk.com/subscribe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kangminsuk.com/subscribe/</guid>
-      <description>RSS Feeds English 한국어 Occasional Emails </description>
-      <content:encoded><![CDATA[<h3>RSS Feeds</h3>
+      <description> RSS Feeds English 한국어 Occasional Emails </description>
+      <content:encoded><![CDATA[
+<h3>RSS Feeds</h3>
 <ul>
   <li><a href="https://kangminsuk.com/blog/index.xml">English</a></li>
   <li><a href="https://kangminsuk.com/ko/blog/index.xml">한국어</a></li>
