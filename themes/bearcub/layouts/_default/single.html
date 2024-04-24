@@ -1,8 +1,8 @@
 {{ define "main" }}
 {{ if not .Params.menu }}
-<main data-pagefind-body>
 <h1 data-pagefind-meta="title">{{ .Title }} <button id="copy-link" class="copy-link" onclick="copyToClipboard(window.location.href)">🔗</button></h1>
 {{ end }}
+<main data-pagefind-body>
 <content>
   {{ .Content }}
 </content>
