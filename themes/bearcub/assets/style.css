@@ -13,14 +13,14 @@ h3,
 h4,
 h5,
 h6 {
-  color: #eee;
+  color: #ffffff;
+  font-weight: bold;
   font-family: Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', 'Nimbus Sans Narrow', sans-serif-condensed, sans-serif;
 }
 
 body {
-  font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
-  text-rendering: optimizeLegibility;
-  font-size: 16px;
+  font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
+  font-size: 18px;
   margin: auto;
   padding: 1.25em;
   max-width: 650px;
@@ -28,7 +28,7 @@ body {
   background-color: #333333;
   word-wrap: break-word;
   overflow-wrap: break-word;
-  line-height: 1.6;
+  line-height: 1.4;
   color: #f0f0f0;
   --pagefind-ui-primary: #eeeeee;
   --pagefind-ui-text: #eeeeee;
@@ -120,10 +120,10 @@ pre code {
 }
 
 blockquote {
-  border-left: 1px solid #999;
-  color: #D8DEE9;
-  padding-left: 1.25em;
-  font-style: italic;
+  border-left: 4px solid #ccc; /* Solid line to the left */
+  color: #ffffff;
+  padding-left: 1em; /* Space from the border */
+  margin-left: 0; /* Align with the body text */
 }
 
 footer {
