@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-# I'm a writer, baker, and small-business owner.
+# I write, bake, and host podcasts
 
 - My wife and I found a publisher called [Jagunbae](https://en.jagunbae.com/). We host a podcast, write books, and organize workshops.
 - From 2022 to 2023, for 18 months, my wife and I ran a vegan sandwich shop called [CHEESYLAZY](https://reviews.cheesylazy.com/) in Jeju, South Korea.

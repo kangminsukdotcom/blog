@@ -121,7 +121,8 @@ pre code {
 
 blockquote {
   border-left: 4px solid #ccc; /* Solid line to the left */
-  color: #ffffff;
+  color: #FFFAF0;
+  font-style: italic;
   padding-left: 1em; /* Space from the border */
   margin-left: 0; /* Align with the body text */
 }
