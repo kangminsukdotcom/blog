@@ -8,6 +8,6 @@ content:
   - name: 글
     label: 글
     path: content.ko/blog
-    type: file
+    type: collection
     fields:
       (...)
