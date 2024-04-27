@@ -1,0 +1,13 @@
+content:
+  - name: posts
+    label: Posts
+    path: content/blog
+    type: collection
+    fields:
+      (...)
+  - name: 글
+    label: 글
+    path: content.ko/blog
+    type: file
+    fields:
+      (...)
