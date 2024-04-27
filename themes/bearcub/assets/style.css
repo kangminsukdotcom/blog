@@ -19,17 +19,17 @@ h6 {
 }
 
 body {
-  font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
-  font-size: 18px;
+  font-family: system-ui, sans-serif;
+  font-size: 16px;
   margin: auto;
   padding: 1.25em;
-  max-width: 650px;
+  max-width: 720px;
   text-align: left;
-  background-color: #333333;
+  background-color: #282a36;
   word-wrap: break-word;
   overflow-wrap: break-word;
-  line-height: 1.4;
-  color: #f0f0f0;
+  line-height: 1.6;
+  color: #f8f8f2;
   --pagefind-ui-primary: #eeeeee;
   --pagefind-ui-text: #eeeeee;
   --pagefind-ui-background: #152028;
