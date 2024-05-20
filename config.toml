@@ -25,6 +25,7 @@ dateFormat = "2006-01-02"
     contentDir = "content"
     [languages.en.params]
       blogPath = "/blog"
+      titleImage = "/images/kang.jpg"
   [languages.ko]
     title = "강민석"
     languageName = "한국어"
@@ -32,3 +33,4 @@ dateFormat = "2006-01-02"
     contentDir = "content.ko"
     [languages.ko.params]
       blogPath = "/ko/blog"
+      titleImage = "/images/kang2.jpg"
