@@ -269,3 +269,8 @@ figcaption > p {
 .copy-link:hover {
   background-color: gray;
 }
+
+#back-to-top {
+  margin-left: auto;
+  margin-right: auto;
+}

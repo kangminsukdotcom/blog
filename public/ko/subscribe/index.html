@@ -8,7 +8,7 @@
 <link rel="shortcut icon" href="https://kangminsuk.com/images/favicon.jpg" />
 <title>구독 | 강민석</title>
 <meta name="title" content="구독" />
-<meta name="description" content="RSS 피드 English 한국어 이메일 구독 " />
+<meta name="description" content=" RSS 피드 English 한국어 이메일 구독 " />
 <meta name="keywords" content="" />
 
 
@@ -18,7 +18,7 @@
 
   
   <meta property="og:title" content="구독" />
-<meta property="og:description" content="RSS 피드 English 한국어 이메일 구독 " />
+<meta property="og:description" content=" RSS 피드 English 한국어 이메일 구독 " />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://kangminsuk.com/ko/subscribe/" /><meta property="article:section" content="" />
 
@@ -28,12 +28,12 @@
 
   
   <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="구독"/>
-<meta name="twitter:description" content="RSS 피드 English 한국어 이메일 구독 "/>
+<meta name="twitter:description" content=" RSS 피드 English 한국어 이메일 구독 "/>
 
 
   
   <meta itemprop="name" content="구독">
-<meta itemprop="description" content="RSS 피드 English 한국어 이메일 구독 ">
+<meta itemprop="description" content=" RSS 피드 English 한국어 이메일 구독 ">
 
 <meta itemprop="wordCount" content="6">
 <meta itemprop="keywords" content="" />
@@ -63,6 +63,8 @@
 
   <a href="/ko/subscribe/">구독</a>
 
+  <a href="/ko/message/">편지</a>
+
 
 
 
@@ -88,7 +90,11 @@
 
 <main data-pagefind-body>
 <content>
-  <h3>RSS 피드</h3>
+  <style>
+  footer {display: none;}
+</style>
+
+<h3>RSS 피드</h3>
 <ul>
   <li><a href="https://kangminsuk.com/blog/index.xml">English</a></li>
   <li><a href="https://kangminsuk.com/ko/blog/index.xml">한국어</a></li>
@@ -111,12 +117,41 @@
 <p>
   
 </p>
+<footer><footer>
+  
+
+  
+  <button id="back-to-top" title="Back to Top">↑ Back to Top</button>
+
+  
+
+  <script>
+    
+    var backToTopButton = document.getElementById("back-to-top");
+
+    
+    window.onscroll = function() {
+      scrollFunction();
+    };
+
+    function scrollFunction() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        backToTopButton.style.display = "block";
+      } else {
+        backToTopButton.style.display = "none";
+      }
+    }
+
+    
+    backToTopButton.onclick = function() {
+      document.body.scrollTop = 0; 
+      document.documentElement.scrollTop = 0; 
+    };
+  </script>
+</footer>
+</footer>
 
   </main>
-  <footer><small>
-  <a href="https://kangminsuk.com/message/"><em>Message</em></a>
-</small>
-</footer>
 
     
 <script src="/js/copy-link.js"></script>

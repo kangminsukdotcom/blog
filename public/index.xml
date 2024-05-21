@@ -14,7 +14,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kangminsuk.com/subscribe/</guid>
       <description> RSS Feeds English 한국어 Occasional Emails </description>
-      <content:encoded><![CDATA[
+      <content:encoded><![CDATA[<style>
+  footer {display: none;}
+</style>
+
 <h3>RSS Feeds</h3>
 <ul>
   <li><a href="https://kangminsuk.com/blog/index.xml">English</a></li>
@@ -33,6 +36,53 @@
   
   <input type="submit" value="Subscribe" />
 </form>]]></content:encoded>
+    </item>
+    <item>
+      <title>Message</title>
+      <link>https://kangminsuk.com/message/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kangminsuk.com/message/</guid>
+      <description> Get in touch Keep this field blank </description>
+      <content:encoded><![CDATA[<style>
+  p.byline {display: none;}
+  footer {display: none;}
+  textarea {width: fit-content;}
+  button,
+  input,
+  select,
+  content,
+  .field {
+    margin-bottom: 15px;
+  }
+  label {
+  width: 150px; 
+  text-align: right;
+  margin-right: 10px;
+  }
+  input[type="text"] {
+  width: 200px; 
+  line-height: 1.5;
+  }
+</style>
+
+<h2>Get in touch</h2>
+
+<form action="https://riku.miso.town/submit?user_id=42&label=blog" method="post">
+  <input type="hidden" name="redirect" value="https://kangminsuk.com/thank-you">
+
+  <div class="field">
+    <textarea name="message" placeholder="Hello there!" id="message" required></textarea>
+  </div>
+
+  <div style="display:none;">
+    <label for="honeypot">Keep this field blank</label>
+    <input type="text" id="honeypot" name="honeypot">
+  </div>
+
+  <input type="submit" value="Submit">
+
+</form>
+]]></content:encoded>
     </item>
     <item>
       <title>I’ve Helped 17 People Ditch Naver Blog and Start Personal Blogging</title>
@@ -1451,52 +1501,6 @@ Baek is not a chef but an incredible food researcher. The man has studied so muc
 </li>
 </ol>
 </div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Message</title>
-      <link>https://kangminsuk.com/message/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kangminsuk.com/message/</guid>
-      <description> Keep this field blank </description>
-      <content:encoded><![CDATA[<style>
-  p.byline {display: none;}
-  footer {display: none;}
-  textarea {width: fit-content;}
-  button,
-  input,
-  select,
-  content,
-  .field {
-    margin-bottom: 15px;
-  }
-  label {
-  width: 150px; 
-  text-align: right;
-  margin-right: 10px;
-  }
-  input[type="text"] {
-  width: 200px; 
-  line-height: 1.5;
-  }
-</style>
-
-
-<form action="https://riku.miso.town/submit?user_id=42&label=blog" method="post">
-  <input type="hidden" name="redirect" value="https://kangminsuk.com/thank-you">
-
-  <div class="field">
-    <textarea name="message" placeholder="Hello there! This is a private HTML form." id="message" required></textarea>
-  </div>
-
-  <div style="display:none;">
-    <label for="honeypot">Keep this field blank</label>
-    <input type="text" id="honeypot" name="honeypot">
-  </div>
-
-  <input type="submit" value="Submit">
-
-</form>
 ]]></content:encoded>
     </item>
     <item>

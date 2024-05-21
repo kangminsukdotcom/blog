@@ -27,6 +27,18 @@
                 href="https://kangminsuk.com/subscribe/"
                 />
   </url><url>
+    <loc>https://kangminsuk.com/message/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-KO"
+                href="https://kangminsuk.com/ko/message/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://kangminsuk.com/message/"
+                />
+  </url><url>
     <loc>https://kangminsuk.com/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -293,8 +305,6 @@
                 hreflang="en-US"
                 href="https://kangminsuk.com/categories/"
                 />
-  </url><url>
-    <loc>https://kangminsuk.com/message/</loc>
   </url><url>
     <loc>https://kangminsuk.com/thank-you/</loc>
   </url>

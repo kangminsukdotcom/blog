@@ -67,6 +67,8 @@ Wormhole 무료로 10GB까지 쓸 수 있는 파일 공유 서비스. 파일이�
 
   <a href="/ko/subscribe/">구독</a>
 
+  <a href="/ko/message/">편지</a>
+
 
 
 
@@ -150,12 +152,41 @@ Wormhole 무료로 10GB까지 쓸 수 있는 파일 공유 서비스. 파일이�
 <p>
   
 </p>
+<footer><footer>
+  
+
+  
+  <button id="back-to-top" title="Back to Top">↑ Back to Top</button>
+
+  
+
+  <script>
+    
+    var backToTopButton = document.getElementById("back-to-top");
+
+    
+    window.onscroll = function() {
+      scrollFunction();
+    };
+
+    function scrollFunction() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        backToTopButton.style.display = "block";
+      } else {
+        backToTopButton.style.display = "none";
+      }
+    }
+
+    
+    backToTopButton.onclick = function() {
+      document.body.scrollTop = 0; 
+      document.documentElement.scrollTop = 0; 
+    };
+  </script>
+</footer>
+</footer>
 
   </main>
-  <footer><small>
-  <a href="https://kangminsuk.com/message/"><em>Message</em></a>
-</small>
-</footer>
 
     
 <script src="/js/copy-link.js"></script>

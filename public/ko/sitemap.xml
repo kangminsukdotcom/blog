@@ -27,6 +27,18 @@
                 href="https://kangminsuk.com/ko/subscribe/"
                 />
   </url><url>
+    <loc>https://kangminsuk.com/ko/message/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://kangminsuk.com/message/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-KO"
+                href="https://kangminsuk.com/ko/message/"
+                />
+  </url><url>
     <loc>https://kangminsuk.com/ko/blog/spit/</loc>
     <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>

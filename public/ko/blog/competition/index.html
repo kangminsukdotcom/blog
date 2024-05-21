@@ -83,6 +83,8 @@ Zero to One에서 돋보인 가장 묵직한 메시지.
 
   <a href="/ko/subscribe/">구독</a>
 
+  <a href="/ko/message/">편지</a>
+
 
 
 
@@ -123,12 +125,41 @@ Zero to One에서 돋보인 가장 묵직한 메시지.
 <p>
   
 </p>
+<footer><footer>
+  
+
+  
+  <button id="back-to-top" title="Back to Top">↑ Back to Top</button>
+
+  
+
+  <script>
+    
+    var backToTopButton = document.getElementById("back-to-top");
+
+    
+    window.onscroll = function() {
+      scrollFunction();
+    };
+
+    function scrollFunction() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        backToTopButton.style.display = "block";
+      } else {
+        backToTopButton.style.display = "none";
+      }
+    }
+
+    
+    backToTopButton.onclick = function() {
+      document.body.scrollTop = 0; 
+      document.documentElement.scrollTop = 0; 
+    };
+  </script>
+</footer>
+</footer>
 
   </main>
-  <footer><small>
-  <a href="https://kangminsuk.com/message/"><em>Message</em></a>
-</small>
-</footer>
 
     
 <script src="/js/copy-link.js"></script>
