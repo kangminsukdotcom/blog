@@ -1,6 +1,7 @@
 ---
 title: "Postcard Design"
 layout: "postcard"
+robots: "noindex,nofollow"
 ---
 
 <div class="postcard-container">

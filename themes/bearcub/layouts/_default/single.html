@@ -1,4 +1,7 @@
 {{ define "main" }}
+{{ if .Params.robots }}
+  <meta name="robots" content="{{ .Params.robots }}">
+{{ end }}
 {{ if not .Params.menu }}
 <h1 data-pagefind-meta="title">{{ .Title }}<button id="copy-link" class="copy-link" onclick="copyToClipboard(window.location.href)">🔗</button></h1>
 {{ end }}
