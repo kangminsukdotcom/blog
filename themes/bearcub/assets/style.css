@@ -340,6 +340,16 @@ textarea#message {
   font-family: 'KyoboHandwriting2023';
 }
 
+textarea#letter {
+  width: 80%;
+  height: 200px;
+  padding: 10px;
+  font-size: 16px;
+  font-family: 'KyoboHandwriting2023';
+  background: rgba(255, 255, 255, 0.8);
+  color: #333333;
+}
+
 textarea#message:focus {
   outline: none;
 }

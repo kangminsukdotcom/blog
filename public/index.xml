@@ -71,16 +71,17 @@
   <input type="hidden" name="redirect" value="https://kangminsuk.com/thank-you">
 
   <div class="field">
-    <textarea name="message" placeholder="Hello there!" id="message" required></textarea>
+    <textarea name="message" placeholder="Hello there!" id="letter" required></textarea>
   </div>
 
+  <div class="submit">
+  <input type="submit" value="Send">
+  </div>
+  
   <div style="display:none;">
     <label for="honeypot">Keep this field blank</label>
     <input type="text" id="honeypot" name="honeypot">
   </div>
-
-  <input type="submit" value="Submit">
-
 </form>
 ]]></content:encoded>
     </item>
