@@ -1505,19 +1505,6 @@ Baek is not a chef but an incredible food researcher. The man has studied so muc
 ]]></content:encoded>
     </item>
     <item>
-      <title>Hey, I&#39;m Kangster</title>
-      <link>https://kangminsuk.com/kangster/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kangminsuk.com/kangster/</guid>
-      <description> Your browser does not support the video tag. </description>
-      <content:encoded><![CDATA[<div class="video-container">
-  <video autoplay loop muted>
-    <source src="/videos/animation.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>]]></content:encoded>
-    </item>
-    <item>
       <title>Postcard Design</title>
       <link>https://kangminsuk.com/postcard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1561,6 +1548,19 @@ Baek is not a chef but an incredible food researcher. The man has studied so muc
 }
 </style>
 <p>Your message has been sent.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>말머리</title>
+      <link>https://kangminsuk.com/kangster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kangminsuk.com/kangster/</guid>
+      <description> Your browser does not support the video tag. </description>
+      <content:encoded><![CDATA[<div class="video-container">
+  <video autoplay loop muted>
+    <source src="/videos/animation.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>]]></content:encoded>
     </item>
   </channel>
 </rss>
