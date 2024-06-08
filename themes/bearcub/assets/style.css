@@ -1,6 +1,7 @@
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: radial-gradient(circle, #29323c 0%, #151c22 100%);
 }
 
 :lang(ko) {
@@ -25,7 +26,6 @@ body {
   padding: 1.25em;
   max-width: 720px;
   text-align: left;
-  background-color: #282a36;
   word-wrap: break-word;
   overflow-wrap: break-word;
   line-height: 1.6;
@@ -120,8 +120,8 @@ pre code {
 }
 
 blockquote {
-  border-left: 4px solid #ccc; /* Solid line to the left */
-  color: #aaaaaa;
+  border-left: 4px solid #5ac8fa; /* Solid line to the left */
+  color: #ccc;
   font-style: italic;
   padding-left: 1em; /* Space from the border */
   margin-left: 0; /* Align with the body text */
