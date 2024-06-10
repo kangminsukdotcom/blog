@@ -3,7 +3,7 @@
   <meta name="robots" content="{{ .Params.robots }}">
 {{ end }}
 {{ if not .Params.menu }}
-<h1 data-pagefind-meta="title">{{ .Title }}<button id="copy-link" class="copy-link" onclick="copyToClipboard(window.location.href)">🔗</button></h1>
+<h1 data-pagefind-meta="title">{{ .Title }}</h1>
 {{ end }}
 <main data-pagefind-body>
 <content>
@@ -16,6 +16,7 @@
   {{ end }}
 </p>
 <footer>
+  <button id="copy-link" class="copy-link" onclick="copyToClipboard(window.location.href)">🔗</button>
   {{- partial "footer.html" . -}}
 </footer>
 {{ end }}
