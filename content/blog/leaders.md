@@ -3,7 +3,9 @@ title: We deserve leaders who care about others’ growth
 date: 2024-06-10
 ---
 
-Politicians are fighting. I’m tired of seeing feeds full of arguments, not discussions. Politicians should care about the well-being of millions, but only the individualistic and power-hungry succeed in elections. In Korea, citizens become hopeful when new politicians get elected—like watching Korea vs. Brazil in the World Cup—most know there’s no chance of winning, but they still hope for a miracle. The same disappointment happens in politics. People get excited when politicians make rosy promises but get disappointed when they spend all their energy crushing others by any means necessary.
+Politicians are fighting. I’m tired of seeing feeds full of arguments, not discussions. Politicians should care about the well-being of millions, but only the individualistic and power-hungry succeed in elections.
+
+In Korea, citizens become hopeful when new politicians get elected—like watching Korea vs. Brazil in the World Cup—most know there’s no chance of winning, but they still hope for a miracle. The same disappointment happens in politics. People get excited when politicians make rosy promises but get disappointed when they spend all their energy crushing others by any means necessary.
 
 I haven’t seen a politician devoted to solving problems. Maybe the ones doing their jobs aren’t on the news. The quiet ones get forgotten, while the rowdy ones get remembered for the next election. In the end, citizens crave content, not improvements.
 
