@@ -11,6 +11,6 @@ I haven’t seen a politician devoted to solving problems. Maybe the ones doing 
 
 Few believe officials, especially the president, are telling the truth. News has become entertainment. People prefer hearing about gossip and messiahs over multifaceted explanations.
 
-Elections occur, but the candidates are almost always old men who don’t even know how to code “Hello World.” Korean students endure brutal exams for a chance to study in Seoul, but politicians aren’t tested for their suitability to lead the nation. I have nothing to say if some kid asks if there is anything to learn from our presidents. I can only say they are the most hated people in the country.
+Elections occur, but the candidates are almost always old men who don’t even know how to code “Hello World.” Korean students endure brutal exams for a chance to study in Seoul, but politicians aren’t tested for their suitability to lead the nation. I have nothing to say if some kid asks if there is anything to learn from our presidents. I can only say they are the most hated in the country.
 
 We deserve better, but some kind of magic fools us again. We repeatedly elect another corrupt and egotistical maniac. Again, I dream of voting for leaders who understand their roles as uplifting others and serving the community.
