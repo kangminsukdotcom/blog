@@ -9,7 +9,7 @@ In Korea, citizens become hopeful when new politicians get elected. Like watchin
 
 I haven’t seen a politician devoted to solving problems. Maybe the ones doing their jobs aren’t on the news. The quiet ones get forgotten, while the rowdy ones get remembered for the next election. In the end, citizens crave more content, not improvements.
 
-Few believe officials, especially the president, are telling the truth. News has become entertainment. People prefer hearing about gossip and messiahs over demanding truth and justice.
+Few believe officials, especially the president, are telling the truth. News has become entertainment. People prefer hearing about gossip and messiahs over multifaceted explanations.
 
 Elections occur, but the candidates are almost always old men who don’t even know how to code “Hello World.” Korean students endure brutal exams for a chance to study in Seoul, but politicians aren’t tested for their suitability to lead the nation. I have nothing to say if some kid asks if there is anything to learn from our presidents. I can only say they are the most hated people in the country.
 
