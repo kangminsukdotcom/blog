@@ -1,5 +1,5 @@
 ---
-title: We deserve leaders who care about others’ growth
+title: We Deserve Leaders Who Help Others Grow
 date: 2024-06-10
 ---
 
