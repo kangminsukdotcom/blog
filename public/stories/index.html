@@ -43,18 +43,25 @@
   
 
   <link rel="alternate" type="application/rss+xml" href="https://kangminsuk.com/stories/index.xml" title="KANG MINSUK" />
-  
-  <link rel="preload" href="/fonts/Orbit.woff2" as="font" type="font/woff2" crossorigin><meta name="naver-site-verification" content="5f6fbf827984fd89b1daf6435c58e29fafeb1071" />
+  <meta name="naver-site-verification" content="5f6fbf827984fd89b1daf6435c58e29fafeb1071" />
 </head>
 
 <body>
-  <header><a href="/" class="title"><h1>KANG MINSUK</h1></a>
-<nav>
-  <a href="/blog/">Blog</a>
+  <header><a href="/" class="title">
+    
+    <h1>
+      <img src="/images/kang.jpg" alt="KANG MINSUK" style="height: 50px;">
+    </h1>
+</a>
+  
+  <nav>
+  <a href="/blog/">Posts</a>
+
+  <a href="/stories/">Stories</a>
 
   <a href="/subscribe/">Subscribe</a>
 
-  <a href="/stories/">Stories</a>
+  <a href="/message/">Message</a>
 
 
 
@@ -71,54 +78,57 @@
   
 
 </nav>
-
-
-<link rel="alternate" type="application/rss+xml" title="Kang's blog" href="https://kangminsuk.com/blog/index.xml" />
-
-
-<link rel="alternate" type="application/rss+xml" title="강민석 블로그" href="https://kangminsuk.com/ko/blog/index.xml" />
-</header>
+  
+  
+  <link rel="alternate" type="application/rss+xml" title="Kang's blog" href="https://kangminsuk.com/blog/index.xml" />
+  
+  
+  <link rel="alternate" type="application/rss+xml" title="강민석 블로그" href="https://kangminsuk.com/ko/blog/index.xml" />
+  </header>
   <main id="main-content">
 <script src="/pagefind/pagefind-ui.js"></script>
 <content>
   
 
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      var searchIcon = document.getElementById('search-icon');
-      var searchOverlay = document.getElementById('search-overlay');
-      var searchInput = document.getElementById('search-input');
-      var searchResults = document.getElementById('search-results');
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var searchIcon = document.getElementById('search-icon');
+  var searchOverlay = document.getElementById('search-overlay');
+  var searchInput = document.getElementById('search-input');
+  var searchResults = document.getElementById('search-results');
+
+  searchIcon.addEventListener('click', function() {
+    searchOverlay.style.display = 'block';
+    setTimeout(function() {
+      searchInput.focus(); 
+    }, 0);
+  });
+
+  searchOverlay.addEventListener('click', function(event) {
+    if (event.target === searchOverlay) {
+      searchOverlay.style.display = 'none';
+    }
+  });
+
+  
+  document.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape') {
+      searchOverlay.style.display = 'none';
+    }
+  });
     
-      searchIcon.addEventListener('click', function() {
-        searchOverlay.style.display = 'block';
-        searchInput.focus();
-      });
-    
-      searchOverlay.addEventListener('click', function(event) {
-        if (event.target === searchOverlay) {
-          searchOverlay.style.display = 'none';
-        }
-      });
-    
-      
-      document.addEventListener('keydown', function(event) {
-        if (event.key === 'Escape') {
-          searchOverlay.style.display = 'none';
-        }
-      });
-    
-      new PagefindUI({
-        element: '#search-results',
-        showImages: false,
-        resetStyles: false,
-      });
+    new PagefindUI({
+      element: '#search-results',
+      showImages: false, 
+      showEmptyFilters: false,
+      resetStyles: false,
     });
-    </script>
+  });
+</script>
 
   
   <div class="search-container">
-    <button id="search-icon" class="search-icon">🔎</button>
+    <button id="search-icon" class="search-icon">🔍</button>
     <div id="search-overlay" class="search-overlay">
       <div id="search-box" class="search-box">
         <div id="search-results"></div>
@@ -126,15 +136,20 @@
     </div>
   </div>
 
-  <ul class="blog-posts">
+  <div class="blog-posts">
     
-    <li>
-      
-        <a href="/stories/yuhak/">Yuhak</a>
-      
-    </li>
+      <h2>2024</h2> 
+      <ul>
+        
+          <li>
+            
+              <a href="/stories/yuhak/">Yuhak</a>
+            
+          </li>
+        
+      </ul>
     
-  </ul>
+  </div>
 
   
     <div>
@@ -144,12 +159,9 @@
 </content>
 
   </main>
-  <footer><small>
-  <a href="https://kangminsuk.com/message/"><em>Message</em></a>
-</small>
-</footer>
 
     
+<script src="/js/copy-link.js"></script>
 </body>
 
 </html>
