@@ -8,6 +8,13 @@ html {
   word-break: keep-all;
 }
 
+:lang(en) {
+  font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+  body {
+    line-height: 1.5;
+  }
+}
+
 h1,
 h2,
 h3,
@@ -16,7 +23,6 @@ h5,
 h6 {
   color: #ffffff;
   font-weight: bold;
-  font-family: Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', 'Nimbus Sans Narrow', sans-serif-condensed, sans-serif;
 }
 
 body {
