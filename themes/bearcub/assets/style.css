@@ -11,8 +11,17 @@ html {
 :lang(en) {
   blockquote {
     font-family: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
+    color: #FFEFD5;
   }
-}
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+  font-variant-caps: small-caps;
+    }
+  }
 
 h1,
 h2,
@@ -22,11 +31,10 @@ h5,
 h6 {
   color: #ffffff;
   font-weight: bold;
-  font-variant-caps: small-caps;
 }
 
 body {
-  font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
+  font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', sans-serif;
   font-size: 16px;
   margin: auto;
   padding: 1.25em;
@@ -114,7 +122,7 @@ code {
   padding: 0.125em 0.3125em;
   color: #f8f8f2;
   background-color: #1d1f27;
-  font-family: 'Fira Code', 'Source Code Pro', 'Consolas', monospace;
+  font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
 }
 
 pre code {
@@ -126,7 +134,7 @@ pre code {
 }
 
 blockquote {
-  border-left: 4px solid #5ac8fa; /* Solid line to the left */
+  border-left: 4px solid #8cc2dd; /* Solid line to the left */
   color: #f1f1f1;
   font-style: italic;
   padding-left: 1em; /* Space from the border */
