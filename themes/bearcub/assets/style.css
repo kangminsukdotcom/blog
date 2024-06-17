@@ -8,6 +8,12 @@ html {
   word-break: keep-all;
 }
 
+:lang(en) {
+  blockquote {
+    font-family: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
+  }
+}
+
 h1,
 h2,
 h3,
