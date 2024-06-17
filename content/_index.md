@@ -10,4 +10,4 @@ title: "Home"
 - Online writing transformed my life. That's why I [organize personal blogging workshops](https://kangminsuk.com/blog/workshops/) to help others experience the same.
 - I was born in Korea, but I lived two years in China (middle school) and eight years in the US (high school & college).
 - I like to bookmark interesting tools, articles, podcasts, and videos. You can browse [all of my bookmarks here](https://links.kangminsuk.com/bookmarks/shared).
-- You can support my work on [Buy Me a Coffee](https://buymeacoffee.com/kangminsuk). Thank you!
+- If you liked my work, you can support me on [Buy Me a Coffee](https://buymeacoffee.com/kangminsuk). Thank you!

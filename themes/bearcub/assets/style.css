@@ -1,7 +1,7 @@
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: radial-gradient(circle, #29323c 0%, #151c22 100%);
+  background: #01242e;
 }
 
 :lang(ko) {
@@ -35,7 +35,7 @@ body {
   word-wrap: break-word;
   overflow-wrap: break-word;
   line-height: 1.6;
-  color: #f8f8f2;
+  color: #ddd;
   --pagefind-ui-primary: #eeeeee;
   --pagefind-ui-text: #eeeeee;
   --pagefind-ui-background: #152028;
@@ -44,7 +44,7 @@ body {
 }
 
 a {
-  color: rgb(90, 200, 250);
+  color: #8cc2dd;
   text-decoration-thickness: 0.05em;
   text-underline-offset: 0.23em;
 }
