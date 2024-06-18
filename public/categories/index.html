@@ -60,7 +60,7 @@
     <h3 class="blog-filter">Filtering for "Categories"</h3>
   
 
-  <div id="search-overlay">
+  <div>
     <input type="text" id="search-input" placeholder="Search...">
     <div id="search-results"></div>
   </div>
@@ -68,18 +68,7 @@
   <script>
     document.addEventListener('DOMContentLoaded', function() {
       var searchInput = document.getElementById('search-input');
-      var searchOverlay = document.getElementById('search-overlay');
       var searchResults = document.getElementById('search-results');
-
-      
-      searchInput.focus();
-
-      
-      document.addEventListener('keydown', function(event) {
-        if (event.key === 'Escape') {
-          searchOverlay.style.display = 'none';
-        }
-      });
 
       
       new PagefindUI({

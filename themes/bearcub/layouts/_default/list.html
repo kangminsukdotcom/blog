@@ -5,7 +5,7 @@
     <h3 class="blog-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
   {{ end }}
 
-  <div id="search-overlay">
+  <div>
     <input type="text" id="search-input" placeholder="Search...">
     <div id="search-results"></div>
   </div>
@@ -13,18 +13,7 @@
   <script>
     document.addEventListener('DOMContentLoaded', function() {
       var searchInput = document.getElementById('search-input');
-      var searchOverlay = document.getElementById('search-overlay');
       var searchResults = document.getElementById('search-results');
-
-      // Auto-focus the search input field when the page loads
-      searchInput.focus();
-
-      // Close the search popup when the Escape key is pressed
-      document.addEventListener('keydown', function(event) {
-        if (event.key === 'Escape') {
-          searchOverlay.style.display = 'none';
-        }
-      });
 
       // Initialize PagefindUI
       new PagefindUI({
