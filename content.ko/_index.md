@@ -1,8 +1,10 @@
 ---
 title: "홈"
+menu: "main"
+weight: 1
 ---
 
-# 글 쓰고, 빵 굽고, 팟캐스트하는 사람
+# 강민석
 
 - 아내와 함께 [출판사 작은배](https://jagunbae.com/about/)를 운영합니다. 매주 '작은배 레터'를 보내고, 종종 온/오프라인 모임을 열어요.
 - [강단과 소신 팟캐스트](https://www.youtube.com/playlist?list=PLxwFutPC1Kq53Iam6OeVNUNdpFJqK5ArH) - 출판사 '작은배'의 강단과 소신이 나누는 일과 삶에 대한 진지한 대화. 2주에 한번 애플 팟캐스트, 스포티파이, 유튜브에 발행합니다.

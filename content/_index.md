@@ -1,8 +1,10 @@
 ---
 title: "Home"
+menu: "main"
+weight: 1
 ---
 
-# I write, bake, and host podcasts
+# Minsuk Kang
 
 - My wife and I found a publisher called [Jagunbae](https://en.jagunbae.com/). We host a podcast, write books, and organize workshops.
 - From 2022 to 2023, for 18 months, my wife and I ran a vegan sandwich shop called [CHEESYLAZY](https://reviews.cheesylazy.com/) in Jeju, South Korea.

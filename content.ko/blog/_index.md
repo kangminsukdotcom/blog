@@ -1,5 +1,5 @@
 ---
-title: "모든 글"
+title: "블로그"
 menu: "main"
-weight: 1
+weight: 2
 ---
