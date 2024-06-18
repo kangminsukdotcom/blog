@@ -1,4 +1,12 @@
 {{ define "main" }}
+<style>
+  nav {
+    display: none;
+  }
+  h1 {
+    text-align: center;
+  }
+</style>
 {{ if .Params.robots }}
   <meta name="robots" content="{{ .Params.robots }}">
 {{ end }}
@@ -16,7 +24,5 @@
   {{ end }}
 </p>
 <footer>
-  <button id="copy-link" class="copy-link" onclick="copyToClipboard(window.location.href)">🔗</button>
-  {{- partial "footer.html" . -}}
 </footer>
 {{ end }}
