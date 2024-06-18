@@ -58,453 +58,854 @@
 <content>
   
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  var searchIcon = document.getElementById('search-icon');
-  var searchOverlay = document.getElementById('search-overlay');
-  var searchInput = document.getElementById('search-input');
-  var searchResults = document.getElementById('search-results');
-
-  searchIcon.addEventListener('click', function() {
-    searchOverlay.style.display = 'block';
-    setTimeout(function() {
-      searchInput.focus(); 
-    }, 0);
-  });
-
-  searchOverlay.addEventListener('click', function(event) {
-    if (event.target === searchOverlay) {
-      searchOverlay.style.display = 'none';
-    }
-  });
-
-  
-  document.addEventListener('keydown', function(event) {
-    if (event.key === 'Escape') {
-      searchOverlay.style.display = 'none';
-    }
-  });
-    
-    new PagefindUI({
-      element: '#search-results',
-      showImages: false, 
-      showEmptyFilters: false,
-      resetStyles: false,
-    });
-  });
-</script>
-
-  
-  <div class="search-container">
-    <button id="search-icon" class="search-icon">🔍</button>
-    <div id="search-overlay" class="search-overlay">
-      <div id="search-box" class="search-box">
-        <div id="search-results"></div>
-      </div>
-    </div>
+  <div id="search-overlay">
+    <input type="text" id="search-box" placeholder="Search...">
+    <div id="search-results"></div>
   </div>
 
-  <div class="blog-posts">
-    
-      <h2>2024</h2> 
-      <ul>
-        
-          <li>
-            
-              <a href="/blog/leaders/">We Deserve Leaders Who Help Others Grow</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/workshops/">I’ve Helped 17 People Ditch Naver Blog and Start Personal Blogging</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/personal-branding/">Is Personal Branding Necessary for New Artists?</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/morningpages/">I Wrote Morning Pages for Two Weeks</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/artist/">Yes, I Am an Artist</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/blogging/">These are my favorite blogging platforms and tools</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/does-the-world-need-more-books/">Does the world need my books?</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/books-only/">Books Only</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/like-books/">Why I Like Books</a>
-            
-          </li>
-        
-      </ul>
-    
-      <h2>2023</h2> 
-      <ul>
-        
-          <li>
-            
-              <a href="/blog/chatgpt/">ChatGPT is a tool, not my mentor</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/1984/">Some thoughts after reading 1984 by George Orwell</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/review/">I&#39;m writing book reviews</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/can-a-restaurant-be-antifragile/">Can a restaurant be antifragile?</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/critics/">When &#34;critics&#34; visit my restaurant</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-06-09/">When a loved one&#39;s dying, don&#39;t try to be a doctor</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-05-28/">Random Thoughts #2</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-05-23/">Two Days in Seoul</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-05-18/">When Customers Are Assholes</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-05-17/">A List of My Favorite Tiny Desk Concerts</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-05-15/">Korean Han and Nunchi</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-05-11/">I Spoke at a Local University</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-05-08/">AI Has Not Changed My World</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-05-07/">Korean NPCs</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-05-06/">Random Thoughts</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-05-05/">My First Internship</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/cheesylazy/">More About Our Restaurant CHEESYLAZY</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-05-03/">Some Thoughts on Marriage</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-05-02/">A Literature Major</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-05-01/">My Desire to Be Associated With Celebrities</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-30/">Should Conversations be Productized?</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-29/">My Business Is a Filter</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-28/">The Best Haircut</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-27/">Butt Does All the Hard Work</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-26/">Korean Identity</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-25/">Bear Blog and a Notepad</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-23/">I&#39;m Busy, and It&#39;s Great</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-22/">I Don&#39;t Care About Politics</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-21/">I Wear My Dad&#39;s Clothes</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-20/">Some Thoughts About Korea</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-19/">Introducing My Two Cats</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-18/">Revising my old writings</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-17/">Watch Out for Envy</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-16/">WeVPN Is Gone</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-15/">I Watched Beef</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-14/">Make Something Wonderful</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-13/">Critical Thinking and Problem-Solving</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-12/">Can My Restaurant Survive?</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-11/">I Smile to Strangers</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/2023-04-09/">Who Cares?</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-08/">Dear Ryuichi Sakamoto</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-07/">I Don&#39;t Have to Be the Best</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/23-04-06/">I&#39;m in Love With This World</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/4/">Dad Walks Into My Restaurant</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/3/">The Last Glance at You</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/2/">Creators Over Consumers</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/1/">I&#39;ve Decided to Write Every Day</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/upbit/">My Problem With Upbit, the Largest Crypto Exchange in Korea</a>
-            
-          </li>
-        
-      </ul>
-    
-      <h2>2022</h2> 
-      <ul>
-        
-          <li>
-            
-              <a href="/blog/one-job-at-a-time/">One Job at a Time</a>
-            
-          </li>
-        
-      </ul>
-    
-      <h2>2021</h2> 
-      <ul>
-        
-          <li>
-            
-              <a href="/blog/starcraft/">StarCraft - It&#39;s Not Just a Game</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/hiking-clothing-in-south-korea/">Hiking Clothing in South Korea</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/baek-jong-won/">Baek Jong-won - the Most Famous Entrepreneur in Korea</a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/blog/american-food-chains/">The Stories of McDonald&#39;s, Shake Shack, In-N-Out, Egg Slut, and Blue Bottle in South Korea</a>
-            
-          </li>
-        
-      </ul>
-    
-  </div>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var searchInput = document.getElementById('search-input');
+      var searchOverlay = document.getElementById('search-overlay');
+      var searchResults = document.getElementById('search-results');
 
-  
-    <div>
       
-    </div>
-  
+      searchInput.focus();
+
+      
+      document.addEventListener('keydown', function(event) {
+        if (event.key === 'Escape') {
+          searchOverlay.style.display = 'none';
+        }
+      });
+
+      
+      new PagefindUI({
+        element: '#search-results',
+        showImages: false,
+        showEmptyFilters: false,
+        resetStyles: false,
+      });
+    });
+  </script>
+
+  <content>
+    
+    <ul class="blog-posts">
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2024-06-10' pubdate>
+              2024-06-10
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/leaders/">We Deserve Leaders Who Help Others Grow</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2024-04-09' pubdate>
+              2024-04-09
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/workshops/">I’ve Helped 17 People Ditch Naver Blog and Start Personal Blogging</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2024-02-08' pubdate>
+              2024-02-08
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/personal-branding/">Is Personal Branding Necessary for New Artists?</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2024-02-02' pubdate>
+              2024-02-02
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/morningpages/">I Wrote Morning Pages for Two Weeks</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2024-01-27' pubdate>
+              2024-01-27
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/artist/">Yes, I Am an Artist</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2024-01-19' pubdate>
+              2024-01-19
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/does-the-world-need-more-books/">Does the world need my books?</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2024-01-19' pubdate>
+              2024-01-19
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/blogging/">These are my favorite blogging platforms and tools</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2024-01-16' pubdate>
+              2024-01-16
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/books-only/">Books Only</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2024-01-08' pubdate>
+              2024-01-08
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/like-books/">Why I Like Books</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-11-23' pubdate>
+              2023-11-23
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/chatgpt/">ChatGPT is a tool, not my mentor</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-10-06' pubdate>
+              2023-10-06
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/1984/">Some thoughts after reading 1984 by George Orwell</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-08-22' pubdate>
+              2023-08-22
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/review/">I&#39;m writing book reviews</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-07-23' pubdate>
+              2023-07-23
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/can-a-restaurant-be-antifragile/">Can a restaurant be antifragile?</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-06-20' pubdate>
+              2023-06-20
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/critics/">When &#34;critics&#34; visit my restaurant</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-06-09' pubdate>
+              2023-06-09
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-06-09/">When a loved one&#39;s dying, don&#39;t try to be a doctor</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-05-28' pubdate>
+              2023-05-28
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-05-28/">Random Thoughts #2</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-05-23' pubdate>
+              2023-05-23
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-05-23/">Two Days in Seoul</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-05-18' pubdate>
+              2023-05-18
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-05-18/">When Customers Are Assholes</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-05-17' pubdate>
+              2023-05-17
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-05-17/">A List of My Favorite Tiny Desk Concerts</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-05-15' pubdate>
+              2023-05-15
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-05-15/">Korean Han and Nunchi</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-05-11' pubdate>
+              2023-05-11
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-05-11/">I Spoke at a Local University</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-05-08' pubdate>
+              2023-05-08
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-05-08/">AI Has Not Changed My World</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-05-07' pubdate>
+              2023-05-07
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-05-07/">Korean NPCs</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-05-06' pubdate>
+              2023-05-06
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-05-06/">Random Thoughts</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-05-05' pubdate>
+              2023-05-05
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-05-05/">My First Internship</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-05-04' pubdate>
+              2023-05-04
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/cheesylazy/">More About Our Restaurant CHEESYLAZY</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-05-03' pubdate>
+              2023-05-03
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-05-03/">Some Thoughts on Marriage</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-05-02' pubdate>
+              2023-05-02
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-05-02/">A Literature Major</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-05-01' pubdate>
+              2023-05-01
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-05-01/">My Desire to Be Associated With Celebrities</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-30' pubdate>
+              2023-04-30
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-30/">Should Conversations be Productized?</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-29' pubdate>
+              2023-04-29
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-29/">My Business Is a Filter</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-28' pubdate>
+              2023-04-28
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-28/">The Best Haircut</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-27' pubdate>
+              2023-04-27
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-27/">Butt Does All the Hard Work</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-26' pubdate>
+              2023-04-26
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-26/">Korean Identity</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-25' pubdate>
+              2023-04-25
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-25/">Bear Blog and a Notepad</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-23' pubdate>
+              2023-04-23
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-23/">I&#39;m Busy, and It&#39;s Great</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-22' pubdate>
+              2023-04-22
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-22/">I Don&#39;t Care About Politics</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-21' pubdate>
+              2023-04-21
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-21/">I Wear My Dad&#39;s Clothes</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-20' pubdate>
+              2023-04-20
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-20/">Some Thoughts About Korea</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-19' pubdate>
+              2023-04-19
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-19/">Introducing My Two Cats</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-18' pubdate>
+              2023-04-18
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-18/">Revising my old writings</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-17' pubdate>
+              2023-04-17
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-17/">Watch Out for Envy</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-16' pubdate>
+              2023-04-16
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-16/">WeVPN Is Gone</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-15' pubdate>
+              2023-04-15
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-15/">I Watched Beef</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-14' pubdate>
+              2023-04-14
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-14/">Make Something Wonderful</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-13' pubdate>
+              2023-04-13
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-13/">Critical Thinking and Problem-Solving</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-12' pubdate>
+              2023-04-12
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-12/">Can My Restaurant Survive?</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-11' pubdate>
+              2023-04-11
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-11/">I Smile to Strangers</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-09' pubdate>
+              2023-04-09
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/2023-04-09/">Who Cares?</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-08' pubdate>
+              2023-04-08
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-08/">Dear Ryuichi Sakamoto</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-07' pubdate>
+              2023-04-07
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-07/">I Don&#39;t Have to Be the Best</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-06' pubdate>
+              2023-04-06
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/23-04-06/">I&#39;m in Love With This World</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-05' pubdate>
+              2023-04-05
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/4/">Dad Walks Into My Restaurant</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-04' pubdate>
+              2023-04-04
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/3/">The Last Glance at You</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-03' pubdate>
+              2023-04-03
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/2/">Creators Over Consumers</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-04-02' pubdate>
+              2023-04-02
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/1/">I&#39;ve Decided to Write Every Day</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2023-03-19' pubdate>
+              2023-03-19
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/upbit/">My Problem With Upbit, the Largest Crypto Exchange in Korea</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2022-10-17' pubdate>
+              2022-10-17
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/one-job-at-a-time/">One Job at a Time</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2021-04-11' pubdate>
+              2021-04-11
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/starcraft/">StarCraft - It&#39;s Not Just a Game</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2021-03-21' pubdate>
+              2021-03-21
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/hiking-clothing-in-south-korea/">Hiking Clothing in South Korea</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2021-03-14' pubdate>
+              2021-03-14
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/baek-jong-won/">Baek Jong-won - the Most Famous Entrepreneur in Korea</a>
+        
+      </li>
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2021-03-07' pubdate>
+              2021-03-07
+            </time>
+          </i>
+        </span>
+        
+          <a href="/blog/american-food-chains/">The Stories of McDonald&#39;s, Shake Shack, In-N-Out, Egg Slut, and Blue Bottle in South Korea</a>
+        
+      </li>
+      
+    </ul>
+    
+      <div>
+        
+      </div>
+    
+  </content>
 </content>
 
   </main>

@@ -58,72 +58,61 @@
 <content>
   
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  var searchIcon = document.getElementById('search-icon');
-  var searchOverlay = document.getElementById('search-overlay');
-  var searchInput = document.getElementById('search-input');
-  var searchResults = document.getElementById('search-results');
-
-  searchIcon.addEventListener('click', function() {
-    searchOverlay.style.display = 'block';
-    setTimeout(function() {
-      searchInput.focus(); 
-    }, 0);
-  });
-
-  searchOverlay.addEventListener('click', function(event) {
-    if (event.target === searchOverlay) {
-      searchOverlay.style.display = 'none';
-    }
-  });
-
-  
-  document.addEventListener('keydown', function(event) {
-    if (event.key === 'Escape') {
-      searchOverlay.style.display = 'none';
-    }
-  });
-    
-    new PagefindUI({
-      element: '#search-results',
-      showImages: false, 
-      showEmptyFilters: false,
-      resetStyles: false,
-    });
-  });
-</script>
-
-  
-  <div class="search-container">
-    <button id="search-icon" class="search-icon">🔍</button>
-    <div id="search-overlay" class="search-overlay">
-      <div id="search-box" class="search-box">
-        <div id="search-results"></div>
-      </div>
-    </div>
+  <div id="search-overlay">
+    <input type="text" id="search-box" placeholder="Search...">
+    <div id="search-results"></div>
   </div>
 
-  <div class="blog-posts">
-    
-      <h2>2024</h2> 
-      <ul>
-        
-          <li>
-            
-              <a href="/stories/yuhak/">Yuhak</a>
-            
-          </li>
-        
-      </ul>
-    
-  </div>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var searchInput = document.getElementById('search-input');
+      var searchOverlay = document.getElementById('search-overlay');
+      var searchResults = document.getElementById('search-results');
 
-  
-    <div>
       
-    </div>
-  
+      searchInput.focus();
+
+      
+      document.addEventListener('keydown', function(event) {
+        if (event.key === 'Escape') {
+          searchOverlay.style.display = 'none';
+        }
+      });
+
+      
+      new PagefindUI({
+        element: '#search-results',
+        showImages: false,
+        showEmptyFilters: false,
+        resetStyles: false,
+      });
+    });
+  </script>
+
+  <content>
+    
+    <ul class="blog-posts">
+      
+      <li>
+        <span>
+          <i>
+            <time datetime='2024-03-16' pubdate>
+              2024-03-16
+            </time>
+          </i>
+        </span>
+        
+          <a href="/stories/yuhak/">Yuhak</a>
+        
+      </li>
+      
+    </ul>
+    
+      <div>
+        
+      </div>
+    
+  </content>
 </content>
 
   </main>

@@ -104,6 +104,7 @@ content {
   img {
     display: block;
     margin: 0 auto;
+    max-height: 400px;
   }
 }
 
@@ -224,20 +225,6 @@ figcaption > p {
   display: inline-block;
 }
 
-.search-icon {
-  background: none;
-  border: none;
-  cursor: pointer;
-  font-size: 15px;
-  margin-top: 1em; /* Add equal margins on top and bottom */
-  padding: 5px; /* Add some padding around the icon */
-  display: inline-block; /* Ensure the icon is treated as an inline-block element */
-  vertical-align: middle;
-}
-
-.search-icon:hover{
-  background-color: gray;
-}
 
 .search-overlay {
   display: none;
