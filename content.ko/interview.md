@@ -7,9 +7,6 @@
     <small> *작성하신 내용은 어디에도 저장되지 않습니다. '답변 보기'를 누르시면 모든 질문과 답변을 복사할 수 있습니다.</small>
     <br></br>
     <style>
-        body {
-            margin: 20px;
-        }
         .hidden {
             display: none;
         }
