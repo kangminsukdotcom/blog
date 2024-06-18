@@ -5,14 +5,10 @@
     <h3 class="blog-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
   {{ end }}
 
-  <div>
-    <input type="text" id="search-input" placeholder="Search...">
-    <div id="search-results"></div>
-  </div>
+<div id="search-results"></div>
 
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-      var searchInput = document.getElementById('search-input');
       var searchResults = document.getElementById('search-results');
 
       // Initialize PagefindUI
