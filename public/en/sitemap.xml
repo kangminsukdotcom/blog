@@ -28,9 +28,6 @@
                 href="https://kangminsuk.com/blog/"
                 />
   </url><url>
-    <loc>https://kangminsuk.com/stories/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://kangminsuk.com/subscribe/</loc>
     <xhtml:link
                 rel="alternate"
@@ -60,9 +57,6 @@
   </url><url>
     <loc>https://kangminsuk.com/blog/workshops/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kangminsuk.com/stories/yuhak/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kangminsuk.com/blog/personal-branding/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
@@ -302,6 +296,6 @@
   </url><url>
     <loc>https://kangminsuk.com/thank-you/</loc>
   </url><url>
-    <loc>https://kangminsuk.com/mal-muh-lee/</loc>
+    <loc>https://kangminsuk.com/mal/</loc>
   </url>
 </urlset>
