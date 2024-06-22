@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kangminsuk.com/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-KO"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://kangminsuk.com/blog/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-KO"
@@ -51,6 +51,9 @@
                 hreflang="en-US"
                 href="https://kangminsuk.com/message/"
                 />
+  </url><url>
+    <loc>https://kangminsuk.com/blog/being-a-beginner/</loc>
+    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kangminsuk.com/blog/sense-of-stability/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
