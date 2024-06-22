@@ -1,5 +1,5 @@
 baseURL = "https://kangminsuk.com/"
-title = "Kang Minsuk 강민석"
+title = "Minsuk Kang 강민석"
 theme = "bearcub"
 enableRobotsTXT = true
 dateFormat = "2006-01-02"
@@ -14,7 +14,7 @@ dateFormat = "2006-01-02"
   unsafe = true
 
 [params]
-  description = "A writer, baker, and small-business owner."
+  description = "A writer, podcaster, and jagunbae."
   favicon = "images/favicon.jpg"
 
 [languages]
