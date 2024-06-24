@@ -13,4 +13,4 @@ weight: 1
 - [제주 비건 샌드위치샵 치지레이지](https://jagunbae.com/tag/work/)(2022-5-21~2023-12-21) - 직접 만든 빵, 치즈, 피클, 소스 레시피는 [이곳](https://jagunbae.com/tag/food/), 손님이 남겨주신 소중한 리뷰는 [이곳](https://reviews.cheesylazy.com/)에 보관하고 있습니다.
 - [망하지 않을 만큼 작은 식당 창업하기](https://store.jagunbae.com) - 치지레이지를 창업하고 운영하며 얻은 인사이트와 노하우를 담은 책입니다.
 - [kangmins.uk](https://kangmins.uk)에 단편을 발행합니다.
-- 응원하고 싶다면, [여기](https://buy.stripe.com/eVag0l4SH81U0Tu9AA)에서 후원하실 수 있습니다. 감사합니다!
+- 블로그가 밥 먹여줄 수 있을까요. 글이 괜찮았다면 [여기에서](https://buy.stripe.com/eVag0l4SH81U0Tu9AA) 1,000원 후원 가능합니다. 감사합니다!
