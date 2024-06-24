@@ -13,4 +13,4 @@ weight: 1
 - I was born in Korea, but I lived two years in China (middle school) and eight years in the US (high school & college).
 - I like to bookmark interesting tools, articles, podcasts, and videos. You can browse [all of my bookmarks here](https://links.kangminsuk.com/bookmarks/shared).
 - I write short stories on [kangmins.uk](https://kangmins.uk).
-- Sometimes, I wonder if people would pay for my writing. If you think today is the day, you can wire me a dollar [here](https://buy.stripe.com/7sIeWh0Crbe67hS4gh). Thank you!
+- Sometimes, I wonder if people would pay for my writing. If you think today is the day, you can [send me a dollar](https://buy.stripe.com/7sIeWh0Crbe67hS4gh). Thank you!
