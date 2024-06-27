@@ -1,7 +1,7 @@
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #444;
+  background: #e0e0da; /* Updated background color */
 }
 
 :lang(ko) {
@@ -18,9 +18,9 @@ html {
   h4,
   h5,
   h6 {
-  font-variant-caps: small-caps;
-    }
+    font-variant-caps: small-caps;
   }
+}
 
 h1,
 h2,
@@ -28,7 +28,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #ffffff;
+  color: #333; /* Darker font color for contrast */
   font-weight: bold;
 }
 
@@ -37,12 +37,13 @@ body {
   font-size: 100%;
   margin: auto;
   padding: 1.25em;
-  max-width: 720px;
+  max-width: 700px;
   text-align: left;
   word-wrap: break-word;
   overflow-wrap: break-word;
   line-height: 1.6;
-  color: #f8f8f2;
+  color: #333; /* Darker font color for contrast */
+  background-color: #e0e0da; /* Updated background color */
   --pagefind-ui-primary: #eeeeee;
   --pagefind-ui-text: #eeeeee;
   --pagefind-ui-background: #152028;
@@ -51,13 +52,13 @@ body {
 }
 
 a {
-  color: #8cc2dd;
+  color: #0066cc; /* Updated link color for contrast */
   text-decoration-thickness: 0.05em;
   text-underline-offset: 0.23em;
 }
 
 a:hover {
-  color: #eee;
+  color: #004c99; /* Updated hover color for contrast */
 }
 
 ul.posts-list a:visited {
@@ -87,15 +88,15 @@ nav {
 }
 
 textarea {
-  background-color: #252525;
-  color: #ddd;
+  background-color: #f5f5f5; /* Light background color */
+  color: #333; /* Darker font color for contrast */
   width: 100%;
   font-size: 1em;
 }
 
 input {
-  background-color: #252525;
-  color: #ddd;
+  background-color: #f5f5f5; /* Light background color */
+  color: #333; /* Darker font color for contrast */
   font-size: 1em;
 }
 
@@ -117,7 +118,7 @@ th,
 td {
   border: 1px solid;
   border-collapse: collapse;
-  border-color: #c9d1d9;
+  border-color: #999; /* Updated border color for contrast */
   padding: 0.3125em;
 }
 
@@ -128,8 +129,8 @@ img {
 
 code {
   padding: 0.125em 0.3125em;
-  color: #f8f8f2;
-  background-color: #1d1f27;
+  color: #b80000; /* Updated code font color for contrast */
+  background-color: #f5f5f5; /* Light background color */
   font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
 }
 
@@ -139,28 +140,32 @@ pre code {
   white-space: pre-wrap;
   font-size: 1em;
   overflow-x: auto;
+  background-color: #f5f5f5; /* Light background color */
+  border: 1px solid #999; /* Updated border color for contrast */
+  border-radius: 4px; /* Added border radius */
 }
 
 blockquote {
-  border-left: 4px solid #8cc2dd; /* Solid line to the left */
-  color: #FFEFD5;
+  border-left: 4px solid #0066cc; /* Updated border color for contrast */
+  color: #333; /* Darker font color for contrast */
   font-style: italic;
-  padding-left: 1em; /* Space from the border */
-  margin-left: 0; /* Align with the body text */
+  padding-left: 1em;
+  margin-left: 0;
 }
 
 footer {
   padding: 1.5625em;
   text-align: center;
+  color: #666; /* Updated font color for contrast */
 }
 
 .helptext {
-  color: #aaa;
+  color: #777;
   font-size: small;
 }
 
 .errorlist {
-  color: #eba613;
+  color: #cc3300; /* Updated error color for contrast */
   font-size: small;
 }
 
@@ -212,19 +217,18 @@ figcaption > p {
   margin-block-start: 0px;
   text-align: center;
   font-style: italic;
-  color: #ccc;
+  color: #777;
 }
 
 ::selection {
-  color: #1d1f27;
-  background-color: #dedf40;
+  color: #fff; /* Updated selection font color */
+  background-color: #0066cc; /* Updated selection background color */
 }
 
 .search-container {
   position: relative;
   display: inline-block;
 }
-
 
 .search-overlay {
   display: none;
@@ -246,7 +250,8 @@ figcaption > p {
   max-width: 600px;
   padding: 20px;
   border-radius: 5px;
-  background-color: #2E3440;
+  background-color: #e0e0da; /* Harmonious background color */
+  color: #333; /* Harmonious font color */
   overflow-y: auto;
   max-height: 80vh;
 }
@@ -255,6 +260,10 @@ figcaption > p {
   width: 100%;
   padding: 10px;
   font-size: 16px;
+  background-color: #f5f5f5; /* Harmonious background color */
+  color: #333; /* Harmonious font color */
+  border: 1px solid #999; /* Border to match theme */
+  border-radius: 4px; /* Rounded corners */
 }
 
 #search-results {
@@ -312,7 +321,7 @@ figcaption > p {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #F5F5F5;
+  background-color: #F5F5F5; /* Light background color */
 }
 
 textarea#message {
@@ -324,7 +333,7 @@ textarea#message {
   font-size: 16px;
   text-align: center;
   background: rgba(255, 255, 255, 0.8);
-  color: black;  /* Ensuring the font color is black */
+  color: black;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -373,16 +382,5 @@ button {
   cursor: pointer;
   color: rgb(60, 66, 87);
   background-color: rgb(255, 255, 255);
-  box-shadow: rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(0 0 0 / 12%) 0px 1px 1px 0px, rgb(60 66 87 / 16%) 0px 0px 0px 1px, rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(60 66 87 / 8%) 0px 2px 5px 0px;
-  border-radius: 4px;
-  font-size: 14px;
-  font-weight: 500;
-  padding: 4px 8px;
-  display: inline-block;
-  min-height: 28px;
-  transition: background-color .24s,box-shadow .24s;
-  :hover {
-      box-shadow: rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(0 0 0 / 12%) 0px 1px 1px 0px, rgb(60 66 87 / 16%) 0px 0px 0px 1px, rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(60 66 87 / 8%) 0px 3px 9px 0px, rgb(60 66 87 / 8%) 0px 2px 5px 0px;
-  }
+  box-shadow: rgb(0 0 0 / 0%) 0px 0px 0px
 }
-
