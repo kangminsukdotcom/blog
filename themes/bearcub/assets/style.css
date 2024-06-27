@@ -6,11 +6,12 @@ html {
 
 :lang(ko) {
   word-break: keep-all;
+  font-family: system-ui, sans-serif;
 }
 
 :lang(en) {
   blockquote {
-    font-family: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
+    font-family: Georgia, serif;
   }
   h1,
   h2,
@@ -20,6 +21,9 @@ html {
   h6 {
   font-variant-caps: small-caps;
     }
+  body {
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+  }
   }
 
 h1,
@@ -33,7 +37,6 @@ h6 {
 }
 
 body {
-  font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', sans-serif;
   font-size: 16px;
   margin: auto;
   padding: 1.25em;
