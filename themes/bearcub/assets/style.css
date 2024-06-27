@@ -9,9 +9,6 @@ html {
 }
 
 :lang(en) {
-  blockquote {
-    font-family: Georgia, serif;
-  }
   h1,
   h2,
   h3,
