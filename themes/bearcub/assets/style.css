@@ -6,7 +6,6 @@ html {
 
 :lang(ko) {
   word-break: keep-all;
-  font-family: system-ui, sans-serif;
 }
 
 :lang(en) {
@@ -21,9 +20,6 @@ html {
   h6 {
   font-variant-caps: small-caps;
     }
-  body {
-    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
-  }
   }
 
 h1,
@@ -37,7 +33,8 @@ h6 {
 }
 
 body {
-  font-size: 16px;
+  font-family: system-ui, sans-serif;
+  font-size: 100%;
   margin: auto;
   padding: 1.25em;
   max-width: 720px;
