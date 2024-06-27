@@ -42,7 +42,7 @@
       <link>https://kangminsuk.com/message/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kangminsuk.com/message/</guid>
-      <description> Get in touch Keep this field blank </description>
+      <description> Letter Keep this field blank </description>
       <content:encoded><![CDATA[<style>
   p.byline {display: none;}
   footer {display: none;}
@@ -65,7 +65,7 @@
   }
 </style>
 
-<h2>Get in touch</h2>
+<h2>Letter</h2>
 
 <form action="https://riku.miso.town/submit?user_id=42&label=blog" method="post">
   <input type="hidden" name="redirect" value="https://kangminsuk.com/thank-you">
