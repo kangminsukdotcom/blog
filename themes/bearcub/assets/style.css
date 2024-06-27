@@ -268,8 +268,8 @@ figcaption > p {
 }
 
 @font-face {
-  font-family: 'KyoboHandwriting2023';
-  src: url('/fonts/KyoboHandwriting2023.otf') format('opentype');
+  font-family: 'LeeSeoyun';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2202-2@1.0/LeeSeoyun.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -329,7 +329,7 @@ textarea#message {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-family: 'KyoboHandwriting2023';
+  font-family: 'LeeSeoyun';
 }
 
 textarea#letter {
@@ -337,7 +337,7 @@ textarea#letter {
   height: 200px;
   padding: 10px;
   font-size: 16px;
-  font-family: 'KyoboHandwriting2023';
+  font-family: 'LeeSeoyun';
   background: rgba(255, 255, 255, 0.8);
   color: #333333;
 }

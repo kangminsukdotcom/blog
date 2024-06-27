@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function() {
             context.drawImage(tempImage, 0, canvas.height / 2, canvas.width, canvas.height / 2);
 
             // Add the message on the back image
-            context.font = "40px 'KyoboHandwriting2023'"; 
+            context.font = "40px 'LeeSeoyun'"; 
             context.textAlign = "center";
             context.fillStyle = "black";
 
