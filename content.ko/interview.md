@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    <h1>(조금은 진지한) 인터뷰</h1>
+    <h1>(조금은 진지한) 부모님 인터뷰</h1>
     <small> *작성하신 내용은 어디에도 저장되지 않습니다. '답변 보기'를 누르시면 모든 질문과 답변을 복사할 수 있습니다.</small>
     <br></br>
     <style>
@@ -21,6 +21,9 @@
         }
         h1 {
             margin-bottom: 0em;
+        }
+        body {
+            font-family: 'LeeSeoyun';
         }
     </style>
 </head>
