@@ -103,6 +103,7 @@ content {
     display: block;
     margin: 0 auto;
     max-height: 400px;
+    padding: 10px;
   }
 }
 
