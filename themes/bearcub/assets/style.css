@@ -4,6 +4,13 @@ html {
   background: hsl(210, 0%, 97%); /* Updated background color */
 }
 
+@font-face {
+  font-family: 'Clover';
+  src: url('/fonts/SSCloverGulimRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 :lang(ko) {
   word-break: keep-all;
 }
@@ -30,8 +37,8 @@ h6 {
 }
 
 body {
-  font-family: system-ui, sans-serif;
-  font-size: 100%;
+  font-family: 'Clover', sans-serif;
+  font-size: 18px;
   margin: auto;
   padding: 1.25em;
   max-width: 63ch;
@@ -130,7 +137,7 @@ code {
   padding: 0.125em 0.3125em;
   color: #b80000; /* Updated code font color for contrast */
   background-color: #f5f5f5; /* Light background color */
-  font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+  font-family: 'Nimbus Mono PS', 'Courier New', monospace;
 }
 
 pre code {
