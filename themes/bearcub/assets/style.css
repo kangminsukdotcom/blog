@@ -138,7 +138,7 @@ code {
   color: rgb(53, 53, 53); /* Updated code font color for contrast */
   background-color: #f5f5f5; /* Light background color */
   font-family: 'Clover', monospace;
-  font-size: 1.1em !important;
+  font-size: 1.2rem !important;
 }
 
 pre code {
@@ -227,8 +227,8 @@ figcaption > p {
 }
 
 ::selection {
-  color: #fff; /* Updated selection font color */
-  background-color: #0066cc; /* Updated selection background color */
+  color: #333; /* Updated selection font color */
+  background-color: #FFEB3B; /* Updated selection background color */
 }
 
 .search-container {
