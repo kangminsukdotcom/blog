@@ -19,7 +19,7 @@ dateFormat = "2006-01-02"
 
 [languages]
   [languages.en]
-    title = "KANG MINSUK"
+    title = "Minsuk Kang"
     languageName = "English"
     LanguageCode = "en-US"
     contentDir = "content"
