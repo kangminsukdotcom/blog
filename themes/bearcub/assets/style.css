@@ -11,6 +11,20 @@ html {
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'TT2020';
+  src: url('/fonts/TT2020Base-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TT2020';
+  src: url('/fonts/TT2020Base-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
 :lang(ko) {
   word-break: keep-all;
 }
@@ -22,6 +36,7 @@ html {
   h4,
   h5,
   h6 {
+    font-family: 'TT2020', monospace;
     font-variant-caps: small-caps;
   }
 }
@@ -38,10 +53,10 @@ h6 {
 
 body {
   font-family: 'Clover', sans-serif;
-  font-size: 18px;
-  margin: auto;
-  padding: 1.25em;
-  max-width: 63ch;
+  font-size: 20px;
+  margin: 0 auto;
+  padding: 1em;
+  max-width: 60ch;
   text-align: left;
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -137,7 +152,8 @@ code {
   padding: 0.125em 0.3125em;
   color: #b80000; /* Updated code font color for contrast */
   background-color: #f5f5f5; /* Light background color */
-  font-family: 'Nimbus Mono PS', 'Courier New', monospace;
+  font-family: 'TT2020', monospace;
+  font-size: 16px !important;
 }
 
 pre code {
