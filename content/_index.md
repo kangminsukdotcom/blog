@@ -3,10 +3,11 @@ title: "Home"
 menu: "main"
 weight: 1
 ---
-# Minsuk Kang
-- Lived in China and the US. Now in Jeju, Korea.
-- [My company](https://en.jagunbae.com).
-- [My sandwich shop](https://reviews.cheesylazy.com/) (closed).
-- [My short stories](https://kangmins.uk).
-- [My bookmarks](https://links.kangminsuk.com/bookmarks/shared).
-- [Your donations](https://liberapay.com/Kang/). Thank you!
+
+1. Minsuk Kang.
+2. Lived in China and the US. Now in Jeju, Korea.
+3. [My company](https://en.jagunbae.com).
+4. [My sandwich shop](https://reviews.cheesylazy.com/) (closed).
+5. [My short stories](https://kangmins.uk).
+6. [My bookmarks](https://links.kangminsuk.com/bookmarks/shared).
+7. [Your donations](https://liberapay.com/Kang/). Thank you!
