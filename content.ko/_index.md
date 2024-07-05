@@ -3,7 +3,6 @@ title: "홈"
 menu: "main"
 weight: 1
 ---
-<link rel="preload" href="/fonts/SSCloverGulimRegular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
 
 # 강민석
 - [온라인 출판사 작은배](https://jagunbae.com/about/).

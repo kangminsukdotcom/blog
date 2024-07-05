@@ -7,8 +7,6 @@ html {
 @font-face {
   font-family: 'Clover';
   src: url('/fonts/SSCloverGulimRegular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
   font-display: swap;
 }
 

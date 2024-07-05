@@ -3,7 +3,6 @@ title: "Home"
 menu: "main"
 weight: 1
 ---
-<link rel="preload" href="/fonts/SSCloverGulimRegular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
 
 # Minsuk Kang
 - Lived in China and the US. Now in Jeju, Korea.
