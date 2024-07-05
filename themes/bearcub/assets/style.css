@@ -36,7 +36,7 @@ h6 {
 
 body {
   font-family: 'Clover', monospace;
-  font-size: 1.3rem;
+  font-size: 18px;
   margin: 0 auto;
   padding: 1em;
   max-width: 60ch;
@@ -152,7 +152,7 @@ pre code {
 }
 
 blockquote {
-  border-left: 4px solid #0066cc; /* Updated border color for contrast */
+  border-left: 4px solid #ccc; /* Updated border color for contrast */
   color: #333; /* Darker font color for contrast */
   font-style: italic;
   padding-left: 1em;
