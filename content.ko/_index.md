@@ -3,6 +3,12 @@ title: "홈"
 menu: "main"
 weight: 1
 ---
+<style>
+body {
+  padding: 0.125em 0.3125em;
+  background-color: hsl(210, 20%, 98%);
+}
+</style>
 
 1. 강민석.
 2. [온라인 출판사 작은배](https://jagunbae.com/about/).

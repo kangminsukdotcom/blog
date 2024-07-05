@@ -2,6 +2,8 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
+  color: rgb(53, 53, 53); /* Darker font color for contrast */
+  background-color: rgb(255, 251, 230); /* Updated background color */
 }
 
 @font-face {
@@ -44,8 +46,6 @@ body {
   word-wrap: break-word;
   overflow-wrap: break-word;
   line-height: 1.6;
-  color: rgb(53, 53, 53); /* Darker font color for contrast */
-  background-color: rgb(255, 251, 230); /* Updated background color */
   --pagefind-ui-primary: #eeeeee;
   --pagefind-ui-text: #eeeeee;
   --pagefind-ui-background: #152028;

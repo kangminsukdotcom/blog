@@ -3,6 +3,12 @@ title: "Home"
 menu: "main"
 weight: 1
 ---
+<style>
+body {
+  padding: 0.125em 0.3125em;
+  background-color: hsl(210, 20%, 98%);
+}
+</style>
 
 1. Minsuk Kang.
 2. Lived in China and the US. Now in Jeju, Korea.
