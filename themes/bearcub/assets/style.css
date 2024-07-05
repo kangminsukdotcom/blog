@@ -271,7 +271,7 @@ figcaption > p {
   color: #333; /* Harmonious font color */
   border: 1px solid #999; /* Border to match theme */
   border-radius: 4px; /* Rounded corners */
-  font-family: 'Clover';
+  font-family: 'Clover', monospace;
 }
 
 #search-results {
