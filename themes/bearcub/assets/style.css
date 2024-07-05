@@ -1,7 +1,6 @@
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: hsl(210, 0%, 97%); /* Updated background color */
 }
 
 @font-face {
