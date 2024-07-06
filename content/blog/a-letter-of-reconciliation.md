@@ -25,7 +25,7 @@ We haven't fought recently and our relationship is stable. It might seem strange
 As I listed all of your praises, your traits I've always wanted to emulate, and the coolness you possess that I lack, I realized why it hurts so much to argue with you. It's because I'm afraid of losing someone as precious as you. Just writing down how much I love and respect you made me instantly happier.
 
 ## When I'm Angry
-*Why did I act that way towards someone as precious as you? I regretted the words too easily after saying them.
+*Why did I act that way towards someone as precious as you?* I regretted the words too easily after saying them.
 
 Looking back, I always thought there was a logical reason for my anger. I believed I had the right to be angry, and I thought you should apologize first. Seeing you unaware of my frustration made me even angrier. Can you see how narrow-minded I can become when I'm angry?*
 
