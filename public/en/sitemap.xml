@@ -298,6 +298,18 @@
     <loc>https://kangminsuk.com/blog/american-food-chains/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://kangminsuk.com/interview/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-KO"
+                href="https://kangminsuk.com/ko/interview/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://kangminsuk.com/interview/"
+                />
+  </url><url>
     <loc>https://kangminsuk.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -309,8 +321,6 @@
                 hreflang="en-US"
                 href="https://kangminsuk.com/categories/"
                 />
-  </url><url>
-    <loc>https://kangminsuk.com/pics/</loc>
   </url><url>
     <loc>https://kangminsuk.com/postcard/</loc>
   </url><url>
