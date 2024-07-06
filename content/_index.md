@@ -9,7 +9,6 @@ weight: 1
   }
 </style>
 - [Minsuk Kang](https://mataroa.blog/images/3d2e27a1.jpeg).
-- Lived in China and the US. Now in Jeju, Korea.
 - [Company](https://en.jagunbae.com).
 - [Sandwich shop](https://reviews.cheesylazy.com/) (closed).
 - [Short stories](https://kangmins.uk).
