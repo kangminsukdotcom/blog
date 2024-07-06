@@ -57,9 +57,7 @@ body {
 
 a {
   color: rgb(53, 53, 53); /* Updated link color for contrast */
-  text-decoration-color: #FF3366;
-  text-decoration-thickness: 0.05em;
-  text-underline-offset: 0.23em;
+  text-decoration: none;
 }
 
 a:hover {
@@ -113,6 +111,7 @@ content {
     margin: 0 auto;
     max-height: 400px;
     padding: 10px;
+    image-rendering: pixelated;
   }
 }
 
@@ -390,4 +389,8 @@ button {
   color: rgb(60, 66, 87);
   background-color: rgb(255, 255, 255);
   box-shadow: rgb(0 0 0 / 0%) 0px 0px 0px
+}
+
+main a:after {
+  content: " ⎘"
 }
