@@ -56,12 +56,12 @@ body {
 }
 
 a {
-  color: rgb(53, 53, 53); /* Updated link color for contrast */
   text-decoration: none;
+  color: #222;
 }
 
 a:hover {
-  color: #E91E63; /* Updated hover color for contrast */
+  color: #E91E63;
 }
 
 ul.posts-list a:visited {
@@ -112,7 +112,7 @@ content {
     margin: 0 auto;
     max-height: 400px;
     image-rendering: pixelated;
-  }
+    }
 }
 
 table {
