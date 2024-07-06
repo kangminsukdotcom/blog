@@ -166,7 +166,6 @@ Or...
 | -------- | -------- | -------- |
 | John | Doe | Male |
 | Mary | Smith | Female |
----
 
 <style>
 hr {

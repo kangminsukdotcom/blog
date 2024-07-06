@@ -9,8 +9,6 @@ weight: 1
   }
   main {
     border-style: outset;
-    background-color: #e6e6e6;
-    margin-bottom: 1em;
   }
 </style>
 - [Minsuk Kang](https://mataroa.blog/images/3d2e27a1.jpeg).

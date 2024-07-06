@@ -110,7 +110,6 @@ content {
     display: block;
     margin: 0 auto;
     max-height: 400px;
-    padding: 10px;
     image-rendering: pixelated;
   }
 }
@@ -393,4 +392,14 @@ button {
 
 main a:after {
   content: " ⎘"
+}
+
+main {
+  background-color: #e6e6e6;
+  margin-bottom: 1em;
+  border: 1px solid #ddd; /* Light gray border */
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 
+              0 1px 3px rgba(0, 0, 0, 0.08); /* Subtle shadow to give depth */
+border-radius: 4px; /* Slightly rounded corners for a softer look */
 }
