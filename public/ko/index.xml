@@ -13,15 +13,15 @@
       <link>https://kangminsuk.com/ko/subscribe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kangminsuk.com/ko/subscribe/</guid>
-      <description> RSS 피드 English 한국어 이메일 구독 </description>
+      <description> RSS 피드 한국어 English 이메일 구독 </description>
       <content:encoded><![CDATA[<style>
   footer {display: none;}
 </style>
 
 <h3>RSS 피드</h3>
 <ul>
-  <li><a href="https://kangminsuk.com/blog/index.xml">English</a></li>
   <li><a href="https://kangminsuk.com/ko/blog/index.xml">한국어</a></li>
+  <li><a href="https://kangminsuk.com/blog/index.xml">English</a></li>
 </ul>
 
 <h3>이메일 구독</h3>
@@ -70,7 +70,7 @@
   <input type="hidden" name="redirect" value="https://kangminsuk.com/thank-you">
 
   <div class="field">
-    <textarea name="message" placeholder="익명으로 전달됩니다." id="letter" required></textarea>
+    <textarea name="message" placeholder="저에게만 전달됩니다." id="letter" required></textarea>
   </div>
 
   <div style="display:none;">

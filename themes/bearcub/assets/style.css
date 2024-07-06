@@ -350,7 +350,6 @@ textarea#message {
 textarea#letter {
   width: 100%;
   height: 200px;
-  padding: 10px;
   font-size: 16px;
   font-family: 'LeeSeoyun';
   background: rgba(255, 255, 255, 0.8);
