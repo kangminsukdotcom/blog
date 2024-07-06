@@ -2,8 +2,9 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
-  color: rgb(53, 53, 53); /* Darker font color for contrast */
-  background-color: rgb(255, 251, 230); /* Updated background color */
+  -webkit-text-size-adjust: none;
+  color: canvastext;
+  background-color: rgb(255, 251, 230);
 }
 
 @font-face {
@@ -38,7 +39,7 @@ h6 {
 
 body {
   font-family: 'Clover', monospace;
-  font-size: 18px;
+  font-size: 20px;
   margin: 0 auto;
   padding: 1em;
   max-width: 60ch;
@@ -152,9 +153,8 @@ pre code {
 }
 
 blockquote {
-  border-left: 4px solid #ccc; /* Updated border color for contrast */
+  border-left: 2px solid #FF3366; /* Updated border color for contrast */
   color: #333; /* Darker font color for contrast */
-  font-style: italic;
   padding-left: 1em;
   margin-left: 0;
 }
