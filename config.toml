@@ -1,6 +1,6 @@
 baseURL = "https://kangminsuk.com/"
 title = "Minsuk Kang 강민석"
-theme = "bearcub"
+theme = "kang"
 enableRobotsTXT = true
 dateFormat = "2006-01-02"
 
