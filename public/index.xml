@@ -6,7 +6,7 @@
     <description>Recent content on Minsuk Kang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kangminsuk.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Subscribe</title>
@@ -83,6 +83,21 @@
     <input type="text" id="honeypot" name="honeypot">
   </div>
 </form>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>How I Created a Perfect Blog</title>
+      <link>https://kangminsuk.com/blog/my-blog/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://kangminsuk.com/blog/my-blog/</guid>
+      <description>Minimal styling, zero tracking or ads, and really fast.&#xA;I&amp;rsquo;ve spent hundreds of hours designing this blog. It&amp;rsquo;s my best attempt to represent my soul. After I die, this project will still float in the vast space of the Internet.&#xA;Text matters most on this website. I wanted to ensure no visitor felt the need to turn on reader mode. I experimented with various background colors, font colors, content width, navigation menus, and font sizes to embody my love for the books like these.</description>
+      <content:encoded><![CDATA[<p>Minimal styling, zero tracking or ads, and really fast.</p>
+<p>I&rsquo;ve spent hundreds of hours designing this blog. It&rsquo;s my best attempt to represent my soul. After I die, this project will still float in the vast space of the Internet.</p>
+<p>Text matters most on this website. I wanted to ensure no visitor felt the need to turn on reader mode. I experimented with various background colors, font colors, content width, navigation menus, and font sizes to embody my love for the books <a href="https://mataroa.blog/images/cb612f94.webp">like these</a>.</p>
+<p>Scrolling on my blog is designed to feel like flipping through old paperbacks written with a typewriter. That&rsquo;s why I purchased <a href="https://sangsangfont.com/shop_view?idx=123">a font</a> that pays homage to one of the first commercially made Korean-English typewriters called <a href="https://mataroa.blog/images/6b07e4e0.jpeg">Clover</a>, manufactured in 1978.</p>
+<p>I used <a href="https://gohugo.io">Hugo</a> to turn markdown files into a static website, <a href="https://www.netlify.com">Netlify</a> for hosting, and <a href="https://riku.miso.town">Riku</a> to collect HTML responses. I also used <a href="https://fontfaceobserver.com">Font Face Observer</a> for fast font loading, <a href="https://pagefind.app">Pagefind</a> for search functionality, and <a href="https://buttondown.email/">Buttondown</a> for collecting emails.</p>
+<p>Websites like <a href="https://budding.computer">budding.computer</a>, <a href="https://elliott.computer">elliott.computer</a>, <a href="https://sive.rs">sive.rs</a>, <a href="https://lente.dev/en/">lente.dev</a>, and <a href="https://gkeenan.co">gkeenan.co</a> inspired me to value functionality, aesthetics, and privacy. These sites provide an oasis on <a href="https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys">today&rsquo;s enshittified, big-tech-dominant web</a>. I&rsquo;m proud to be part of the gang of independent creators.</p>
+<p>If you&rsquo;d like, you can check out <a href="https://github.com/kangminsukdotcom/blog">the source code of this website</a>.</p>
 ]]></content:encoded>
     </item>
     <item>
