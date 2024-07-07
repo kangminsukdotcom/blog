@@ -15,7 +15,7 @@ weight: 1
 - [온라인 출판사 작은배](https://jagunbae.com/about/).
 - [강단과 소신 팟캐스트](https://podcast.jagunbae.com).
 - [샌드위치샵 치지레이지](https://reviews.cheesylazy.com/) (영업 종료).
-- [망하지 않을 만큼 작은 식당 창업하기](https://buy.stripe.com/cN201nbh50zs7hSaEH).
+- [망하지 않을 만큼 작은 식당 창업하기](https://jagunbae.com/too-small-to-fail/).
 - [(조금은 진지한) 부모님 인터뷰](https://kangminsuk.com/ko/interview/)
 - [소스 코드](https://github.com/kangminsukdotcom/blog)
 - [단편](https://kangmins.uk).
