@@ -14,7 +14,7 @@ dateFormat = "2006-01-02"
   unsafe = true
 
 [params]
-  description = "A writer, podcaster, and jagunbae."
+  description = "An amateur creator."
   favicon = "images/favicon.jpg"
 
 [languages]
