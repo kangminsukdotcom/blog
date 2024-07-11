@@ -21,7 +21,7 @@ date: 2024-07-11
 
 ![Minsuk Kang's Blog #9](https://mataroa.blog/images/63eb4199.webp)
 
-## Brief History
+## History
 
 - In 2020, started blogging with WordPress hosted on Bluehost.
 - Looked for a cheaper, lighter option.
