@@ -6,7 +6,7 @@
     <description>Recent content on Minsuk Kang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kangminsuk.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Subscribe</title>
@@ -83,6 +83,33 @@
     <input type="text" id="honeypot" name="honeypot">
   </div>
 </form>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>The Evolution of My Blog</title>
+      <link>https://kangminsuk.com/blog/blogs/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://kangminsuk.com/blog/blogs/</guid>
+      <description>&#xA;Brief History In 2020, started blogging with WordPress hosted on Bluehost. Looked for a cheaper, lighter option. Found Ghost and subscribed to Ghost Pro, trying minimal themes. Discovered Bear Blog and became fascinated with static websites. Learned how to deploy websites with Hugo and Netlify. Tried several Hugo themes such as No Style Please and Bear Cub. Designed a new theme called Kang. </description>
+      <content:encoded><![CDATA[<p><img src="https://mataroa.blog/images/49f5b4f7.webp" alt="Minsuk Kang&rsquo;s Blog #1"></p>
+<p><img src="https://mataroa.blog/images/6615fa90.webp" alt="Minsuk Kang&rsquo;s Blog #2"></p>
+<p><img src="https://mataroa.blog/images/4ed03a05.webp" alt="Minsuk Kang&rsquo;s Blog #3"></p>
+<p><img src="https://mataroa.blog/images/8aca568b.webp" alt="Minsuk Kang&rsquo;s Blog #4"></p>
+<p><img src="https://mataroa.blog/images/6bb72d36.webp" alt="Minsuk Kang&rsquo;s Blog #5"></p>
+<p><img src="https://mataroa.blog/images/6b8e54b7.webp" alt="Minsuk Kang&rsquo;s Blog #6"></p>
+<p><img src="https://mataroa.blog/images/3d73c0e0.webp" alt="Minsuk Kang&rsquo;s Blog #7"></p>
+<p><img src="https://mataroa.blog/images/be29940b.webp" alt="Minsuk Kang&rsquo;s Blog #8"></p>
+<p><img src="https://mataroa.blog/images/63eb4199.webp" alt="Minsuk Kang&rsquo;s Blog #9"></p>
+<h2 id="brief-history">Brief History</h2>
+<ul>
+<li>In 2020, started blogging with WordPress hosted on Bluehost.</li>
+<li>Looked for a cheaper, lighter option.</li>
+<li>Found <a href="https://ghost.org">Ghost</a> and subscribed to Ghost Pro, trying <a href="https://creativemarket.com/Curiositry/3192652-weblog-%E2%80%94-old-school-ghost-5.0-theme">minimal themes</a>.</li>
+<li>Discovered <a href="https://bearblog.dev">Bear Blog</a> and became fascinated with static websites.</li>
+<li>Learned how to deploy websites with <a href="https://gohugo.io">Hugo</a> and Netlify.</li>
+<li>Tried several Hugo themes such as <a href="https://themes.gohugo.io/themes/hugo-theme-nostyleplease/">No Style Please</a> and <a href="https://github.com/clente/hugo-bearcub">Bear Cub</a>.</li>
+<li>Designed a new theme called <a href="https://github.com/kangminsukdotcom/hugo-kang">Kang</a>.</li>
+</ul>
 ]]></content:encoded>
     </item>
     <item>
