@@ -1,4 +1,7 @@
 {{ define "main" }}
+{{ if .Params.robots }}
+<meta name="robots" content="{{ .Params.robots }}">
+{{ end }}
 <style>
   h1 {
     text-align: center;
