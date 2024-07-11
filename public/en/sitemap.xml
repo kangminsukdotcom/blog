@@ -54,6 +54,16 @@
   </url><url>
     <loc>https://kangminsuk.com/blog/blogs/</loc>
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-KO"
+                href="https://kangminsuk.com/ko/blog/blogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://kangminsuk.com/blog/blogs/"
+                />
   </url><url>
     <loc>https://kangminsuk.com/blog/my-blog/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
