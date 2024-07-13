@@ -112,6 +112,9 @@ content {
     margin: 0 auto;
     max-height: 400px;
     image-rendering: pixelated;
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    filter: grayscale(100%);
     }
 }
 
