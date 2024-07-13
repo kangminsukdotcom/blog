@@ -9,7 +9,7 @@ If I had to guess the most famous entrepreneur in Korea, I would say it’s Baek
 
 If you’ve never heard of him; Baek Jong-won is the founder of an international restaurant company called [The Born](https://www.theborn.co.kr/). The Born is a major player in the South Korean dining market with over 20 brands and 1,500 restaurants.[^1]
 
-There’s no doubt that Baek is an outstanding businessperson. Fast-casual Korean, BBQ, Korean Chinese, bibimbap, Udon, etc. You name a popular cuisine in Korea and the guy has created a successful brand already.
+There’s no doubt that Baek is an outstanding businessperson. Fast-casual Korean, BBQ, Korean Chinese, bibimbap, udon, etc. You name a popular cuisine in Korea and the guy has created a successful brand already.
 
 However, Baek’s restaurants are only a fraction of his far-reaching influence in Korea. To really understand him, we need to talk about his recipes, TV show appearances, and even philosophy.
 
