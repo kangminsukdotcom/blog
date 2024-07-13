@@ -67,8 +67,7 @@ He constantly says he is neither a chef nor a celebrity, and this belief has pre
 
 > You need direct experience to be really curious about the problem. Start small now and you’ll be able to find your uniqueness. - [Baek Jong-won](http://www.yes24.com/Product/Goods/30659754)
 
-When Baek was only [9 years old]
-(https://www.youtube.com/watch?v=-IV35uxHaUc), his dream was to become a wealthy mushroom farmer. When he was 12, he collected glasses with a handcart to sell them to a junk shop. Before starting college, he worked as a used car dealer. Before graduating college, he was already the owner of 3 different pubs.
+When Baek was only [9 years old](https://www.youtube.com/watch?v=-IV35uxHaUc), his dream was to become a wealthy mushroom farmer. When he was 12, he collected glasses with a handcart to sell them to a junk shop. Before starting college, he worked as a used car dealer. Before graduating college, he was already the owner of 3 different pubs.
 
 Despite all the success, when Baek graduated from college, his family got so worried about his plan to take over a nightclub and eventually forced him to join the army to serve as an officer for 4 years.
 
