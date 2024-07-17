@@ -19,4 +19,4 @@ weight: 1
 - [(A Bit Serious) Parent Interview](https://kangminsuk.com/interview/)
 - [(A Bit Serious) Question Generator](https://kangminsuk.com/conversation/)
 - [Source Code](https://github.com/kangminsukdotcom/blog)
-- [Donations](https://liberapay.com/Kang/)
+- [Donations ❤](https://liberapay.com/Kang/)

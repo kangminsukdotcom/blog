@@ -20,4 +20,4 @@ weight: 1
 - [(조금은 진지한) 질문 생성기](https://kangminsuk.com/ko/conversation/)
 - [소스 코드](https://github.com/kangminsukdotcom/blog)
 - [단편](https://kangmins.uk).
-- [후원](https://liberapay.com/Kang/).
+- [후원 ❤](https://liberapay.com/Kang/).
