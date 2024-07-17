@@ -1829,14 +1829,14 @@ Baek is not a chef but an incredible food researcher. The man has studied so muc
       <link>https://kangminsuk.com/interview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kangminsuk.com/interview/</guid>
-      <description>&lt;!DOCTYPE html&gt; (A Bit Serious) Parent Interview *Send this page to your parent. The content you write will not be saved anywhere. When you click ‘Show Results,’ you can copy all the questions and answers. My father passed away two years ago. Here are some questions I wish I had asked him: If you could leave right now, where would you go?&#xA;What was the happiest moment of your life?</description>
+      <description>&lt;!DOCTYPE html&gt; (A Bit Serious) Parent Interview *Send this page to your parent. The content you write will not be saved anywhere. When you click ‘Show Results,’ you can copy all the questions and answers.&#xA;My father passed away two years ago. Here are some questions I wish I had asked him:&#xA;If you could leave right now, where would you go?&#xA;What was the happiest moment of your life?</description>
       <content:encoded><![CDATA[<!DOCTYPE html>
 <html lang="en">
 <head>
     <h1>(A Bit Serious) Parent Interview</h1>
-    <small> *Send this page to your parent. The content you write will not be saved anywhere. When you click ‘Show Results,’ you can copy all the questions and answers.</small>
+    <p> *Send this page to your parent. The content you write will not be saved anywhere. When you click ‘Show Results,’ you can copy all the questions and answers.</p>
     <br><hr>
-    <small><em>My father passed away two years ago. Here are some questions I wish I had asked him:</em></small>
+    <p><em>My father passed away two years ago. Here are some questions I wish I had asked him:</em></p>
     <style>
         .hidden {
             display: none;
@@ -1853,10 +1853,7 @@ Baek is not a chef but an incredible food researcher. The man has studied so muc
         h1 {
             margin-bottom: 0em;
         }
-        body {
-            font-family: 'LeeSeoyun';
-        }
-        nav {
+        textarea {
             font-family: 'Clover', monospace;
         }
     </style>
@@ -2038,7 +2035,6 @@ Don&rsquo;t forget! The answers must be as detailed as possible.</p>
 </script>
 <style>
     body {
-        font-family: 'Clover', monospace;
         padding: 20px;
         text-align: center;
     }
@@ -2077,7 +2073,7 @@ Don&rsquo;t forget! The answers must be as detailed as possible.</p>
         }
     }
     button {
-        font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+        font-family: 'CLover', monospace;
         font-size: 1em;
         padding: 10px 20px;
         cursor: pointer;

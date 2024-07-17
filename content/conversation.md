@@ -107,7 +107,6 @@ Don't forget! The answers must be as detailed as possible.
 
 <style>
     body {
-        font-family: 'Clover', monospace;
         padding: 20px;
         text-align: center;
     }
@@ -146,7 +145,7 @@ Don't forget! The answers must be as detailed as possible.
         }
     }
     button {
-        font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+        font-family: 'CLover', monospace;
         font-size: 1em;
         padding: 10px 20px;
         cursor: pointer;

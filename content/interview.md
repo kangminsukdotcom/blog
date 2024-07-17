@@ -4,9 +4,9 @@
 <html lang="en">
 <head>
     <h1>(A Bit Serious) Parent Interview</h1>
-    <small> *Send this page to your parent. The content you write will not be saved anywhere. When you click ‘Show Results,’ you can copy all the questions and answers.</small>
+    <p> *Send this page to your parent. The content you write will not be saved anywhere. When you click ‘Show Results,’ you can copy all the questions and answers.</p>
     <br><hr>
-    <small><em>My father passed away two years ago. Here are some questions I wish I had asked him:</em></small>
+    <p><em>My father passed away two years ago. Here are some questions I wish I had asked him:</em></p>
     <style>
         .hidden {
             display: none;
@@ -23,10 +23,7 @@
         h1 {
             margin-bottom: 0em;
         }
-        body {
-            font-family: 'LeeSeoyun';
-        }
-        nav {
+        textarea {
             font-family: 'Clover', monospace;
         }
     </style>
