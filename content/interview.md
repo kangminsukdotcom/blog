@@ -6,7 +6,7 @@
     <h1>(A Bit Serious) Parent Interview</h1>
     <p> *Send this page to your parent. The content you write will not be saved anywhere. When you click ‘Show Results,’ you can copy all the questions and answers.</p>
     <br><hr>
-    <p><em>My father passed away two years ago. Here are some questions I wish I had asked him:</em></p>
+    <p><small><em>My father passed away two years ago. Here are some questions I wish I had asked him:</small></em></p>
     <style>
         .hidden {
             display: none;
