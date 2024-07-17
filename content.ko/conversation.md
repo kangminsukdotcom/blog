@@ -1,49 +1,50 @@
 ---
-title: (A Bit Serious) Question Generator
-description: For your meaningful conversations.
+title: (조금은 진지한) 질문 생성기
+description: 우리의 뜻깊은 대화를 위하여.
 ---
 
-For your meaningful conversations.  
-Don't forget! The answers must be as detailed as possible.
+*우리의 뜻깊은 대화를 위하여.*  
+규칙 1: 답변은 최대한 구체적으로.  
+규칙 2: 답하고 싶지 않다면 다음 질문으로.
 
 <div class="decision-section">
-    <h3><em>Want to decide who goes first?</em></h3>
-    <button class="small-button" onclick="showDecision()">YES</button>
+    <h3><em>누가 먼저 할지 정하고 싶나요?</em></h3>
+    <button class="small-button" onclick="showDecision()">네!</button>
     <div id="decisionContainer" class="decision-container"></div>
 </div>
 
 ---
 
-<button onclick="showNextQuestion()">GENERATE A QUESTION</button>
+<button onclick="showNextQuestion()">질문 생성하기</button>
 <div id="questionContainer" class="question-container"></div>
 
 <script>
     let questions = [
-        "What is your favorite meal?",
-        "If you received a million dollars today, what would you do with it?",
-        "What is the nicest gift you have ever received?",
-        "What is your happiest memory of this year?",
-        "Who do you think is the nicest person in the world?",
-        "When was the last time you cried?",
-        "How would you spend your last day alive if you were still healthy?",
-        "What is your best memory as a kid?",
-        "How do you cope with sadness?",
-        "What is your favorite place in your neighborhood?",
-        "What makes you happy right now?",
-        "What’s a hobby you’ve always wanted to pick up but never did?",
-        "What’s a risk you took that you’re glad you did?",
-        "If you could go back in time and change one thing, what would it be?",
-        "What’s the kindest thing someone has ever done for you?",
-        "What is your most memorable failure?",
-        "What do you think is the meaning of life?"
+        "가장 좋아하는 음식이 뭔가요?",
+        "10억이 생긴다면 삶에 어떤 변화가 생길까요? 돈 걱정 없이 살 수 있다면 하루를 어떻게 보내고 싶으세요?",
+        "살면서 받았던 선물 중 무엇이 가장 기억에 남나요?",
+        "올해 가장 행복했던 기억 하나를 알려주세요.",
+        "이 세상에서 가장 착한 사람이 누구라 생각하세요?",
+        "마지막으로 눈물이 났던 적은 언제인가요?",
+        "건강한 상태로 삶의 마지막 날을 보낼 수 있다면, 무엇을 하고 싶으세요?",
+        "초등학생 시절 행복했던 기억이 있나요?",
+        "슬픔을 어떻게 다루시나요?",
+        "사는 동네에서 가장 좋아하는 공간이 있나요?",
+        "지금 당신을 행복하게 하는 것이 있나요?",
+        "계속 시도해 보고 싶지만 미루고 있는 도전이 있나요?",
+        "위험을 무릅쓰고 무언가 도전한 적 있나요?",
+        "기억에 남는 실패담이 있나요?",
+        "시간을 돌려 단 한가지 선택을 바꿀 수 있다면, 언제로 돌아가고 싶나요?",
+        "타인의 친절함에 감동한 적 있나요? 있다면 어떤 기억이 떠오르나요?",
+        "삶의 의미에 대해 고민한 적 있나요? 우리는 무엇을 위해 살까요?"
     ];
     let decisions = [
-        "The oldest goes first.",
-        "The youngest goes first.",
-        "The one who went to the bathroom most recently goes first.",
-        "The one with the longest hair goes first.",
-        "The one with the shortest hair goes first.",
-        "The one with the biggest feet goes first."
+        "가장 나이 많은 사람이 첫 번째.",
+        "가장 어린 사람이 첫 번째.",
+        "가장 최근 화장실 갔던 사람이 첫 번째.",
+        "머리 가장 긴 사람이 첫 번째.",
+        "머리 가장 짧은 사람이 첫 번째.",
+        "신발 사이즈 가장 큰 사람이 첫 번째."
     ];
     let shuffledQuestions = [];
     let currentQuestionIndex = 0;

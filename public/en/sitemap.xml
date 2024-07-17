@@ -340,6 +340,16 @@
                 />
   </url><url>
     <loc>https://kangminsuk.com/conversation/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-KO"
+                href="https://kangminsuk.com/ko/conversation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://kangminsuk.com/conversation/"
+                />
   </url><url>
     <loc>https://kangminsuk.com/categories/</loc>
     <xhtml:link

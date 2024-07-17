@@ -405,6 +405,18 @@
                 href="https://kangminsuk.com/ko/interview/"
                 />
   </url><url>
+    <loc>https://kangminsuk.com/ko/conversation/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://kangminsuk.com/conversation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-KO"
+                href="https://kangminsuk.com/ko/conversation/"
+                />
+  </url><url>
     <loc>https://kangminsuk.com/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
