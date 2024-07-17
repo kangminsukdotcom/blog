@@ -3590,14 +3590,15 @@ TV만 보는 일상에 변화를 주기 위해서는 거실에 TV 대신 테이�
       <link>https://kangminsuk.com/ko/interview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kangminsuk.com/ko/interview/</guid>
-      <description>&lt;!DOCTYPE html&gt; (조금은 진지한) 부모님 인터뷰 *작성하신 내용은 어디에도 저장되지 않습니다. &#39;답변 보기&#39;를 누르시면 모든 질문과 답변을 복사할 수 있습니다.&#xA;엄마 아빠에 대해 더 깊이 알고 싶은 아들 딸이 보냅니다. 지금 당장 떠날 수 있다면 어디로 가고 싶나요?&#xA;살면서 가장 행복했던 순간은 언제인가요?&#xA;살면서 가장 슬펐던 순간은 언제인가요?&#xA;가장 후회되는 결정이나 시간이 있나요?&#xA;어릴 적 가졌던 꿈은 무엇인가요?&#xA;당신이 생각하는 ‘성공’은 무엇인가요?&#xA;공부, 육아, 일, 사람 때문에 상처 받고 힘들 때 당신은 어떻게 했나요?</description>
+      <description>&lt;!DOCTYPE html&gt; (조금은 진지한) 부모님 인터뷰 엄마 아빠에 대해 더 깊이 알고 싶은 아들 딸이 보냅니다.&#xA;*작성하신 내용은 어디에도 저장되지 않습니다. &#39;답변 보기&#39;를 누르시면 모든 질문과 답변을 복사할 수 있습니다. 지금 당장 떠날 수 있다면 어디로 가고 싶나요?&#xA;살면서 가장 행복했던 순간은 언제인가요?&#xA;살면서 가장 슬펐던 순간은 언제인가요?&#xA;가장 후회되는 결정이나 시간이 있나요?&#xA;어릴 적 가졌던 꿈은 무엇인가요?&#xA;당신이 생각하는 ‘성공’은 무엇인가요?&#xA;공부, 육아, 일, 사람 때문에 상처 받고 힘들 때 당신은 어떻게 했나요?</description>
       <content:encoded><![CDATA[<!DOCTYPE html>
 <html lang="ko">
 <head>
     <h1><a href="https://kangminsuk.com/ko/blog/parents-interview/">(조금은 진지한) 부모님 인터뷰</a></h1>
-    <p> *작성하신 내용은 어디에도 저장되지 않습니다. '답변 보기'를 누르시면 모든 질문과 답변을 복사할 수 있습니다.</p>
-    <br><hr>
-    <em><small>엄마 아빠에 대해 더 깊이 알고 싶은 아들 딸이 보냅니다.</small></em>
+    <p>엄마 아빠에 대해 더 깊이 알고 싶은 아들 딸이 보냅니다.</p>
+    <br>
+    <small>*작성하신 내용은 어디에도 저장되지 않습니다. '답변 보기'를 누르시면 모든 질문과 답변을 복사할 수 있습니다.</small>
+    <hr>
     <style>
         .hidden {
             display: none;
@@ -3619,6 +3620,9 @@ TV만 보는 일상에 변화를 주기 위해서는 거실에 TV 대신 테이�
         }
         small {
             font-size: 16px;
+        }
+        button {
+            font-size: 14px;
         }
     </style>
 </head>

@@ -1856,6 +1856,9 @@ Baek is not a chef but an incredible food researcher. The man has studied so muc
         textarea {
             font-family: 'Clover', monospace;
         }
+        button {
+            font-size: 14px;
+        }
     </style>
 </head>
 <body>
