@@ -39,7 +39,7 @@ h6 {
 
 body {
   font-family: 'Clover', monospace;
-  font-size: 19px;
+  font-size: 18.5px;
   margin: 0 auto;
   padding: 1em;
   max-width: 60ch;
@@ -64,8 +64,8 @@ a:hover {
   color: #E91E63;
 }
 
-ul.posts-list a:visited {
-  color: #8b6fcb;
+ul.blog-posts a:visited {
+  color: #5d3fbb;
 }
 
 .title {
