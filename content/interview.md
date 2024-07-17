@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <h1>(Meaningful) Parent Interview</h1>
+    <h1>(A Bit Serious) Parent Interview</h1>
     <small> *Send this page to your parent. The content you write will not be saved anywhere. When you click ‘Show Results,’ you can copy all the questions and answers.</small>
     <br><hr>
     <small><em>My father passed away two years ago. Here are some questions I wish I had asked him:</em></small>
