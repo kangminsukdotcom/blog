@@ -26,6 +26,9 @@
         textarea {
             font-family: 'Clover', monospace;
         }
+        button {
+            font-size: 14px;
+        }
     </style>
 </head>
 <body>
