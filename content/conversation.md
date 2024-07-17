@@ -4,7 +4,7 @@ description: For your meaningful conversations.
 ---
 
 For your meaningful conversations.  
-The answers must be as detailed as possible.
+Don't forget! The answers must be as detailed as possible.
 
 <div class="decision-section">
     <h3><em>Want to decide who goes first?</em></h3>

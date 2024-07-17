@@ -1938,9 +1938,9 @@ Baek is not a chef but an incredible food researcher. The man has studied so muc
       <link>https://kangminsuk.com/conversation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kangminsuk.com/conversation/</guid>
-      <description>For your meaningful conversations.&#xA;The answers must be as detailed as possible.&#xA;Want to decide who goes first? YES GENERATE A QUESTION</description>
+      <description>For your meaningful conversations.&#xA;Don&amp;rsquo;t forget! The answers must be as detailed as possible.&#xA;Want to decide who goes first? YES GENERATE A QUESTION</description>
       <content:encoded><![CDATA[<p>For your meaningful conversations.<br>
-The answers must be as detailed as possible.</p>
+Don&rsquo;t forget! The answers must be as detailed as possible.</p>
 <div class="decision-section">
     <h3><em>Want to decide who goes first?</em></h3>
     <button class="small-button" onclick="showDecision()">YES</button>
