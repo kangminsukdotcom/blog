@@ -25,6 +25,9 @@
         body {
             font-family: 'LeeSeoyun';
         }
+        nav {
+            font-family: 'Clover', monospace;
+        }
     </style>
 </head>
 <body>
