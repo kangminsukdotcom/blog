@@ -4,9 +4,9 @@
 <html lang="en">
 <head>
     <h1>(Meaningful) Parent Interview</h1>
-    <small>My father passed away two years ago. Here are some questions I wish I had asked him.</small><br>
     <small> *Send this page to your parent. The content you write will not be saved anywhere. When you click ‘Show Results,’ you can copy all the questions and answers.</small>
-    <br></br>
+    <br>
+    <small><em>My father passed away two years ago. Here are some questions I wish I had asked him:</em></small>
     <style>
         .hidden {
             display: none;
@@ -75,7 +75,7 @@
                 q5: "What was your childhood dream?",
                 q6: "What does ‘success’ mean to you?",
                 q7: "When you were hurt or struggled with studies, parenting, work, or people, how did you cope?",
-                q8: "If you could go back in time, what would you tell your younger self??",
+                q8: "If you could go back in time, what would you tell your younger self?",
                 q9: "In what kind of environment would you like to face death? What do you want your funeral to be like?",
                 q10: "If it were the last moment of your life, what would you like to say to your loved ones?"
             };
