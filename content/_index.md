@@ -16,5 +16,6 @@ weight: 1
 - [Sandwich shop](https://reviews.cheesylazy.com/) (closed)
 - [Short stories](https://kangmins.uk)
 - [Bookmarks](https://links.kangminsuk.com/bookmarks/shared)
+- [(Meaningful) Parent Interview](https://kangminsuk.com/interview/)
 - [Source Code](https://github.com/kangminsukdotcom/blog)
 - [Donations](https://liberapay.com/Kang/)

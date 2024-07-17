@@ -4,7 +4,7 @@
 <html lang="ko">
 <head>
     <h1>(조금은 진지한) 부모님 인터뷰</h1>
-    <small> *작성하신 내용은 어디에도 저장되지 않습니다. '답변 보기'를 누르시면 모든 질문과 답변을 복사할 수 있습니다.</small>
+    <small> *사랑하는 부모님께 이 페이지를 보내주세요. 작성하신 내용은 어디에도 저장되지 않습니다. '답변 보기'를 누르시면 모든 질문과 답변을 복사할 수 있습니다.</small>
     <br></br>
     <style>
         .hidden {
@@ -94,7 +94,7 @@
             window.getSelection().addRange(range); // to select text
             document.execCommand("copy");
             window.getSelection().removeAllRanges(); // to deselect
-            alert('복사 완료!');
+            alert('복사 완료! 사랑하는 사람에게 전달하세요.♥');
         }
     </script>
 </body>
