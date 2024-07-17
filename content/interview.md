@@ -18,7 +18,7 @@
             margin-top: 10px;
         }
         small {
-            font-size: 12px;
+            font-size: 16px;
         }
         h1 {
             margin-bottom: 0em;

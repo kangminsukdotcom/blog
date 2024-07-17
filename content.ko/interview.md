@@ -6,7 +6,7 @@
     <h1><a href="https://kangminsuk.com/ko/blog/parents-interview/">(조금은 진지한) 부모님 인터뷰</a></h1>
     <p> *작성하신 내용은 어디에도 저장되지 않습니다. '답변 보기'를 누르시면 모든 질문과 답변을 복사할 수 있습니다.</p>
     <br><hr>
-    <em><p>엄마 아빠에 대해 더 깊이 알고 싶은 아들 딸이 보냅니다.</p></em>
+    <em><small>엄마 아빠에 대해 더 깊이 알고 싶은 아들 딸이 보냅니다.</small></em>
     <style>
         .hidden {
             display: none;
@@ -25,6 +25,9 @@
         }
         textarea {
             font-family: 'Clover', monospace;
+        }
+        small {
+            font-size: 16px;
         }
     </style>
 </head>
