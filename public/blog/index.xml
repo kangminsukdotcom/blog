@@ -6,8 +6,22 @@
     <description>Recent content in Blog on Minsuk Kang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kangminsuk.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>For Your Meaningful Conversations</title>
+      <link>https://kangminsuk.com/blog/my-tools/</link>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://kangminsuk.com/blog/my-tools/</guid>
+      <description>To be is to be related.&#xA;I just published (A Bit Serious) Question Generator, a simple tool to help you have deep conversations with your loved ones.&#xA;I also translated (A Bit Serious) Parent Interview into English. This tool helps you learn more about your parent(s).&#xA;Let me know if you would like to add a question to the database. I would love to hear if these mini tools helped you in any way.</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>To be is to be related.</p>
+</blockquote>
+<p>I just published <a href="https://kangminsuk.com/conversation/">(A Bit Serious) Question Generator</a>, a simple tool to help you have deep conversations with your loved ones.</p>
+<p>I also translated <a href="https://kangminsuk.com/interview/">(A Bit Serious) Parent Interview</a> into English. This tool helps you learn more about your parent(s).</p>
+<p><a href="https://kangminsuk.com/message/">Let me know</a> if you would like to add a question to the database. I would love to hear if these mini tools helped you in any way.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Finding Joy Without Leaving</title>
       <link>https://kangminsuk.com/blog/joy-without-leaving/</link>
