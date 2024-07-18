@@ -18,6 +18,5 @@ weight: 1
 - [망하지 않을 만큼 작은 식당 창업하기](https://jagunbae.com/too-small-to-fail/).
 - [(조금은 진지한) 부모님 인터뷰](https://kangminsuk.com/ko/interview/)
 - [(조금은 진지한) 질문 생성기](https://kangminsuk.com/ko/conversation/)
-- [소스 코드](https://github.com/kangminsukdotcom/blog)
 - [단편](https://kangmins.uk).
-- [후원 ❤](https://liberapay.com/Kang/).
+- [후원](https://buy.stripe.com/7sIeWh0Crbe67hS4gh).

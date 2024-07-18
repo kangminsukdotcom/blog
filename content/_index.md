@@ -18,5 +18,4 @@ weight: 1
 - [Bookmarks](https://links.kangminsuk.com/bookmarks/shared)
 - [(A Bit Serious) Parent Interview](https://kangminsuk.com/interview/)
 - [(A Bit Serious) Question Generator](https://kangminsuk.com/conversation/)
-- [Source Code](https://github.com/kangminsukdotcom/blog)
-- [Donations ❤](https://liberapay.com/Kang/)
+- [Donations](https://buy.stripe.com/7sIeWh0Crbe67hS4gh)
