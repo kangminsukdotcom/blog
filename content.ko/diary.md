@@ -1,5 +1,5 @@
 ---
-title: 일기 (창작하는 아침에 기록 중)
+title: 창침일기
 description: 매일 쓴다.
 ---
 
