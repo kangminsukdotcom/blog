@@ -235,7 +235,7 @@ figcaption > p {
 
 ::selection {
   color: #333; /* Updated selection font color */
-  background-color: #FFEB3B; /* Updated selection background color */
+  background-color: #f2f2ce; /* Updated selection background color */
 }
 
 .search-container {
