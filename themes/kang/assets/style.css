@@ -4,7 +4,7 @@ html {
   scroll-behavior: smooth;
   -webkit-text-size-adjust: none;
   color: #222;
-  background-color: #f8f4ed;
+  background-color: #e2e1d9;
 }
 
 @font-face {
@@ -84,6 +84,7 @@ ul.blog-posts a:visited {
 
 nav a {
   margin-right: 0.625em;
+  color: #541313;
 }
 
 nav {
