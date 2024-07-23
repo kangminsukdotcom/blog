@@ -47,19 +47,26 @@ document.addEventListener("DOMContentLoaded", function() {
             // Draw back image on the bottom half of the canvas
             context.drawImage(tempImage, 0, canvas.height / 2, canvas.width, canvas.height / 2);
 
-            // Add the message on the back image
-            context.font = "40px 'LeeSeoyun'"; 
-            context.textAlign = "center";
+            // Define the boundary box dimensions based on your image
+            const boxX = 60; // X-coordinate of the top-left corner of the box
+            const boxY = canvas.height / 2 + 60; // Y-coordinate of the top-left corner of the box
+            const boxWidth = 600; // Width of the box
+            const boxHeight = 800; // Height of the box
+
+            // Add the message within the boundary box
+            context.font = "30px 'LeeSeoyun'"; 
+            context.textAlign = "left";
             context.fillStyle = "black";
 
             const lines = message.value.split("\n");
-            const lineHeight = 37.5;  // Adjusted line height accordingly
-            const x = canvas.width / 2;
-            let y = (canvas.height / 2) + (canvas.height / 4) - (lines.length - 1) * lineHeight / 2;
+            const lineHeight = 30;  // Adjusted line height accordingly
+            let y = boxY + lineHeight; // Starting Y position inside the box
 
             lines.forEach(line => {
-                context.fillText(line, x, y);
-                y += lineHeight;
+                if (y + lineHeight <= boxY + boxHeight) { // Ensure the text fits within the box height
+                    context.fillText(line, boxX, y);
+                    y += lineHeight;
+                }
             });
 
             const link = document.createElement("a");
@@ -69,4 +76,3 @@ document.addEventListener("DOMContentLoaded", function() {
         };
     }
 });
-
