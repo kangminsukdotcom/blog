@@ -9,33 +9,22 @@
     <lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kangmins.uk/ko/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>구독</title>
-      <link>https://kangmins.uk/ko/subscribe/</link>
+      <title>만들기</title>
+      <link>https://kangmins.uk/ko/make/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kangmins.uk/ko/subscribe/</guid>
-      <description> RSS 피드 한국어 English 이메일 구독 </description>
-      <content:encoded><![CDATA[<style>
-  footer {display: none;}
-</style>
-
-<h3>RSS 피드</h3>
-<ul>
-  <li><a href="https://kangmins.uk/ko/blog/index.xml">한국어</a></li>
-  <li><a href="https://kangmins.uk/blog/index.xml">English</a></li>
+      <guid>https://kangmins.uk/ko/make/</guid>
+      <description> 온라인 출판사 작은배. 강단과 소신 팟캐스트. 샌드위치샵 치지레이지 (영업 종료). 망하지 않을 만큼 작은 식당 창업하기. (조금은 진지한) 부모님 인터뷰 (조금은 진지한) 질문 생성기 질문 있는 사람들 북마크 </description>
+      <content:encoded><![CDATA[<ul>
+<li><a href="https://jagunbae.com/about/">온라인 출판사 작은배</a>.</li>
+<li><a href="https://podcast.jagunbae.com">강단과 소신 팟캐스트</a>.</li>
+<li><a href="https://reviews.cheesylazy.com/">샌드위치샵 치지레이지</a> (영업 종료).</li>
+<li><a href="https://jagunbae.com/too-small-to-fail/">망하지 않을 만큼 작은 식당 창업하기</a>.</li>
+<li><a href="https://kangmins.uk/ko/interview/">(조금은 진지한) 부모님 인터뷰</a></li>
+<li><a href="https://kangmins.uk/ko/conversation/">(조금은 진지한) 질문 생성기</a></li>
+<li><a href="https://questions.jagunbae.com">질문 있는 사람들</a></li>
+<li><a href="https://links.kangminsuk.com/bookmarks/shared">북마크</a></li>
 </ul>
-
-<h3>이메일 구독</h3>
-<form
-  action="https://buttondown.email/api/emails/embed-subscribe/kangminsuk"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/kangminsuk', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
-  <input type="email" placeholder="이메일 주소" size="15" name="email" id="bd-email" />
-  
-  <input type="submit" value="구독하기" />
-</form>]]></content:encoded>
+]]></content:encoded>
     </item>
     <item>
       <title>방명록</title>
@@ -3868,10 +3857,39 @@ TV만 보는 일상에 변화를 주기 위해서는 거실에 TV 대신 테이�
 ]]></content:encoded>
     </item>
     <item>
-      <title>창침일기</title>
-      <link>https://kangmins.uk/ko/diary/</link>
+      <title>구독</title>
+      <link>https://kangmins.uk/ko/subscribe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kangmins.uk/ko/diary/</guid>
+      <guid>https://kangmins.uk/ko/subscribe/</guid>
+      <description> RSS 피드 한국어 English 이메일 구독 </description>
+      <content:encoded><![CDATA[<style>
+  footer {display: none;}
+</style>
+
+<h3>RSS 피드</h3>
+<ul>
+  <li><a href="https://kangmins.uk/ko/blog/index.xml">한국어</a></li>
+  <li><a href="https://kangmins.uk/blog/index.xml">English</a></li>
+</ul>
+
+<h3>이메일 구독</h3>
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/kangminsuk"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/kangminsuk', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <input type="email" placeholder="이메일 주소" size="15" name="email" id="bd-email" />
+  
+  <input type="submit" value="구독하기" />
+</form>]]></content:encoded>
+    </item>
+    <item>
+      <title>일기</title>
+      <link>https://kangmins.uk/ko/blog/diary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kangmins.uk/ko/blog/diary/</guid>
       <description>2024-07-22&#xA;거의 집에만 있었다. 잠깐 음식물쓰레기를 버리러 나간 것이 전부다. 점심으로 은비가 짜장법을 저녁으로 내가 파스타를 했다. 외식 금지령이 발동된 상태다. 오늘 뭐했지 싶은 날이다. 책도 조금 읽었다. 은비가 Up을 본적이 없다고 한 사실이 떠올라 디즈리플러스로 Up을 봤다. 아마 나는 3번째 보는 것 같았는데 더그는 역시 귀여웠다. 지금 생각해보니 Up을 영화관에서 처음 봤을 때 페이스북 프로필사진을 러셀로 바꿨었다. The Best American Short Stories 2023에서 이민진 작가의 인트로를 읽었다. 갈수록 책을 읽지 않을 거라 하는 시대에, 대부분 작가는 가난하다고 데이터가 말해주는 오늘.</description>
       <content:encoded><![CDATA[<p>2024-07-22</p>
 <ul>

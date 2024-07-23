@@ -1,5 +1,5 @@
 ---
-title: 창침일기
+title: 일기
 description: 매일 쓴다.
 ---
 

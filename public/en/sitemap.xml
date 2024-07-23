@@ -28,16 +28,16 @@
                 href="https://kangmins.uk/blog/"
                 />
   </url><url>
-    <loc>https://kangmins.uk/subscribe/</loc>
+    <loc>https://kangmins.uk/make/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-KO"
-                href="https://kangmins.uk/ko/subscribe/"
+                href="https://kangmins.uk/ko/make/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://kangmins.uk/subscribe/"
+                href="https://kangmins.uk/make/"
                 />
   </url><url>
     <loc>https://kangmins.uk/message/</loc>
@@ -397,6 +397,18 @@
     <loc>https://kangmins.uk/postcard-7/</loc>
   </url><url>
     <loc>https://kangmins.uk/postcard/</loc>
+  </url><url>
+    <loc>https://kangmins.uk/subscribe/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-KO"
+                href="https://kangmins.uk/ko/subscribe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://kangmins.uk/subscribe/"
+                />
   </url><url>
     <loc>https://kangmins.uk/tags/</loc>
     <xhtml:link

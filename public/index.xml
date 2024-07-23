@@ -9,33 +9,19 @@
     <lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kangmins.uk/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Subscribe</title>
-      <link>https://kangmins.uk/subscribe/</link>
+      <title>Make</title>
+      <link>https://kangmins.uk/make/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kangmins.uk/subscribe/</guid>
-      <description> RSS Feeds English 한국어 Occasional Emails </description>
-      <content:encoded><![CDATA[<style>
-  footer {display: none;}
-</style>
-
-<h3>RSS Feeds</h3>
-<ul>
-  <li><a href="https://kangmins.uk/blog/index.xml">English</a></li>
-  <li><a href="https://kangmins.uk/ko/blog/index.xml">한국어</a></li>
+      <guid>https://kangmins.uk/make/</guid>
+      <description> Company Sandwich shop (closed) Bookmarks (A Bit Serious) Parent Interview (A Bit Serious) Question Generator </description>
+      <content:encoded><![CDATA[<ul>
+<li><a href="https://en.jagunbae.com">Company</a></li>
+<li><a href="https://reviews.cheesylazy.com/">Sandwich shop</a> (closed)</li>
+<li><a href="https://links.kangminsuk.com/bookmarks/shared">Bookmarks</a></li>
+<li><a href="https://kangmins.uk/interview/">(A Bit Serious) Parent Interview</a></li>
+<li><a href="https://kangmins.uk/conversation/">(A Bit Serious) Question Generator</a></li>
 </ul>
-
-<h3>Occasional Emails</h3>
-<form
-  action="https://buttondown.email/api/emails/embed-subscribe/kangminsuk"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/kangminsuk', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
-  <input type="email" placeholder="Enter your email" size="15" name="email" id="bd-email" />
-  
-  <input type="submit" value="Subscribe" />
-</form>]]></content:encoded>
+]]></content:encoded>
     </item>
     <item>
       <title>Message</title>
@@ -2352,6 +2338,35 @@ Don&rsquo;t forget! The answers must be as detailed as possible.</p>
     <a href="/files/postcard_1200dpi.png" download>Download 1200 DPI PNG</a>
   </div>
 </div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Subscribe</title>
+      <link>https://kangmins.uk/subscribe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kangmins.uk/subscribe/</guid>
+      <description> RSS Feeds English 한국어 Occasional Emails </description>
+      <content:encoded><![CDATA[<style>
+  footer {display: none;}
+</style>
+
+<h3>RSS Feeds</h3>
+<ul>
+  <li><a href="https://kangmins.uk/blog/index.xml">English</a></li>
+  <li><a href="https://kangmins.uk/ko/blog/index.xml">한국어</a></li>
+</ul>
+
+<h3>Occasional Emails</h3>
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/kangminsuk"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/kangminsuk', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <input type="email" placeholder="Enter your email" size="15" name="email" id="bd-email" />
+  
+  <input type="submit" value="Subscribe" />
+</form>]]></content:encoded>
     </item>
     <item>
       <title>Thank you!</title>
