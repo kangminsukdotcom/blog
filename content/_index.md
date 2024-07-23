@@ -16,6 +16,6 @@ weight: 1
 - [Sandwich shop](https://reviews.cheesylazy.com/) (closed)
 - [Short stories](https://kangmins.uk)
 - [Bookmarks](https://links.kangminsuk.com/bookmarks/shared)
-- [(A Bit Serious) Parent Interview](https://k-writer.com/interview/)
-- [(A Bit Serious) Question Generator](https://k-writer.com/conversation/)
+- [(A Bit Serious) Parent Interview](https://kangmins.uk/interview/)
+- [(A Bit Serious) Question Generator](https://kangmins.uk/conversation/)
 - [Support](https://buy.stripe.com/7sIeWh0Crbe67hS4gh)

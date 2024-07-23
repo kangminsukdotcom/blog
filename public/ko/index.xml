@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>강민석</title>
-    <link>https://k-writer.com/ko/</link>
+    <link>https://kangmins.uk/ko/</link>
     <description>Recent content on 강민석</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KO</language>
     <lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://k-writer.com/ko/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kangmins.uk/ko/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>구독</title>
-      <link>https://k-writer.com/ko/subscribe/</link>
+      <link>https://kangmins.uk/ko/subscribe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/subscribe/</guid>
+      <guid>https://kangmins.uk/ko/subscribe/</guid>
       <description> RSS 피드 한국어 English 이메일 구독 </description>
       <content:encoded><![CDATA[<style>
   footer {display: none;}
@@ -20,8 +20,8 @@
 
 <h3>RSS 피드</h3>
 <ul>
-  <li><a href="https://k-writer.com/ko/blog/index.xml">한국어</a></li>
-  <li><a href="https://k-writer.com/blog/index.xml">English</a></li>
+  <li><a href="https://kangmins.uk/ko/blog/index.xml">한국어</a></li>
+  <li><a href="https://kangmins.uk/blog/index.xml">English</a></li>
 </ul>
 
 <h3>이메일 구독</h3>
@@ -39,9 +39,9 @@
     </item>
     <item>
       <title>방명록</title>
-      <link>https://k-writer.com/ko/message/</link>
+      <link>https://kangmins.uk/ko/message/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/message/</guid>
+      <guid>https://kangmins.uk/ko/message/</guid>
       <description> 방명록 비워두세요. </description>
       <content:encoded><![CDATA[<style>
   p.byline {display: none;}
@@ -67,7 +67,7 @@
 
 <h2>방명록</h2>
 <form action="https://riku.miso.town/submit?user_id=42&label=blog" method="post">
-  <input type="hidden" name="redirect" value="https://k-writer.com/thank-you">
+  <input type="hidden" name="redirect" value="https://kangmins.uk/thank-you">
 
   <div class="field">
     <textarea name="message" placeholder="저에게만 전달됩니다." id="letter" required></textarea>
@@ -85,9 +85,9 @@
     </item>
     <item>
       <title>블로그 변천사</title>
-      <link>https://k-writer.com/ko/blog/blogs/</link>
+      <link>https://kangmins.uk/ko/blog/blogs/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/blogs/</guid>
+      <guid>https://kangmins.uk/ko/blog/blogs/</guid>
       <description> 그땐 그랬지 2020년, Bluehost에서 WordPress로 &amp;lsquo;머리 좀 쓰는 원숭이&amp;rsquo; 블로그 시작. Ghost 발견 후 Ghost Pro 구독 시작. 미니멀한 테마를 주로 사용. Bear Blog에 정착. 정적 사이트의 매력에 빠져버림. Hugo와 Netlify로 웹사이트 만드는 방법 터득. No Style Please나 Bear Cub과 같은 테마로 Hugo 사용. 결국 내 마음대로 디자인한 블로그 운영 중. </description>
       <content:encoded><![CDATA[<p><img src="https://mataroa.blog/images/49f5b4f7.webp" alt="Minsuk Kang&rsquo;s Blog #1">
 <img src="https://mataroa.blog/images/6615fa90.webp" alt="Minsuk Kang&rsquo;s Blog #2">
@@ -111,9 +111,9 @@
     </item>
     <item>
       <title>내가 만든 완벽한 블로그</title>
-      <link>https://k-writer.com/ko/blog/my-blog/</link>
+      <link>https://kangmins.uk/ko/blog/my-blog/</link>
       <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/my-blog/</guid>
+      <guid>https://kangmins.uk/ko/blog/my-blog/</guid>
       <description>미니멀한 디자인, 트래커 및 광고 없음, 빠른 속도.&#xA;블로그를 개편했다. 내 영혼이 담긴 공간을 만든 것 같아 뿌듯하다. 내가 죽더라도 이 웹사이트만큼은 인터넷 어딘가에 둥둥 떠다니지 않을까.&#xA;이 웹사이트의 주인공은 글이다. 방문자가 &amp;lsquo;읽기 모드&amp;rsquo;를 켤 필요 없게 하고 싶었다. 그래서 다양한 배경색, 글자색, 콘텐츠 너비, 내비게이션 메뉴, 글자 크기를 적용하며 실험했다. 내가 매력적이라 생각하는 이런 책들의 느낌이 전달되길 바랐다.&#xA;블로그에서 스크롤을 내리면서 읽는 행동이 옛 타자기로 쓴 오래된 페이퍼백을 넘기는 느낌이 나도록 했다.</description>
       <content:encoded><![CDATA[<p>미니멀한 디자인, 트래커 및 광고 없음, 빠른 속도.</p>
 <p>블로그를 개편했다. 내 영혼이 담긴 공간을 만든 것 같아 뿌듯하다. 내가 죽더라도 이 웹사이트만큼은 인터넷 어딘가에 둥둥 떠다니지 않을까.</p>
@@ -125,9 +125,9 @@
     </item>
     <item>
       <title>한국인의 가래침</title>
-      <link>https://k-writer.com/ko/blog/spit/</link>
+      <link>https://kangmins.uk/ko/blog/spit/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/spit/</guid>
+      <guid>https://kangmins.uk/ko/blog/spit/</guid>
       <description>카아아악 퉤! 쿠우우욱 퉤! 커억커억 퉤!&#xA;집에서 사무실까지 걷는 거리 약 1.3km. 15분 정도 걸으면서 가래침 뱉는 광경을 평균 5~10번 본다. 하루는 옹기종기 모여 신종 새 마냥 쿠욱쿠욱 거리는 사람들 사이로 바닥에 흥건한 침을 봤다. ‘아 제발 좀’이라는 생각이 들었다. 청년부터 노인까지. 누가 봐도 더러운데 왜 당당하게 뱉는 것일지 궁금했다.&#xA;담배 피운다고 침을 뱉어야 하는 건 아니다. 군대에서 있었던 일이다. 새로운 중대장이 생활관 앞 파고다(흡연장) 바닥에 침이 떡칠이 되어 있는 걸 보고 흡연자가 침 뱉는 걸 금지한 적이 있다.</description>
       <content:encoded><![CDATA[<p>카아아악 퉤!
 쿠우우욱 퉤!
@@ -141,9 +141,9 @@
     </item>
     <item>
       <title>아! 내가 또 몰라야 할 것을 알고 말았구나!</title>
-      <link>https://k-writer.com/ko/blog/uninformed/</link>
+      <link>https://kangmins.uk/ko/blog/uninformed/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/uninformed/</guid>
+      <guid>https://kangmins.uk/ko/blog/uninformed/</guid>
       <description>박홍규 선생님의 글 중 나에게 영원한 기억을 남긴 글이 있다. 박근혜 정권의 일이었다. 총리 물망에 오른 사람들의 면면을 알면 알수록 참담함을 느껴야 했던 그 시절, 그는 어딘가에 다녀오는 길에 어느 역의 대합실에서 총리 후보자에 관한 뉴스를 봤던 것 같다. 선생님은 “저 사람 누구요?” 주위 사람들에게 물었고 사람들이 “총리 후보인데요. 그 사람은…” 하는 순간 박홍규 선생님이 했던 말이 있다. “아! 내가 또 몰라야 할 것을 알고 말았구나!” 그때 이 칼럼을 읽다가 포복절도했다.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>박홍규 선생님의 글 중 나에게 영원한 기억을 남긴 글이 있다. 박근혜 정권의 일이었다. 총리 물망에 오른 사람들의 면면을 알면 알수록 참담함을 느껴야 했던 그 시절, 그는 어딘가에 다녀오는 길에 어느 역의 대합실에서 총리 후보자에 관한 뉴스를 봤던 것 같다. 선생님은 “저 사람 누구요?” 주위 사람들에게 물었고 사람들이 “총리 후보인데요. 그 사람은…” 하는 순간 박홍규 선생님이 했던 말이 있다. “아! 내가 또 몰라야 할 것을 알고 말았구나!” 그때 이 칼럼을 읽다가 포복절도했다. 정말 가슴에 새겨둘 명언이었다. <a href="https://product.kyobobook.co.kr/detail/S000001975172">정혜윤</a></p>
@@ -164,13 +164,13 @@ AI가 영화를 만든다.<br>
     </item>
     <item>
       <title>학생을 위한 무료 컨설팅</title>
-      <link>https://k-writer.com/ko/blog/consulting/</link>
+      <link>https://kangmins.uk/ko/blog/consulting/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/consulting/</guid>
+      <guid>https://kangmins.uk/ko/blog/consulting/</guid>
       <description>영어를 주제로 작은배 레터와 강소팟을 발행했다. 영어를 왜 배워야 하는지, 영어를 잘하려면 무엇부터 해야 하는지, 한국식 영어 교육에는 어떤 문제점이 있는지, 국제학교와 영어유치원의 인기를 어떤 관점에서 바라봐야 할지, AI 시대에 영어 교육은 어떻게 변화할지. 할말이 많았기에 재밌기도 했지만, 줄곧 답답했다. 내가 불만을 토로하는 와중에도 수십 년간 시궁창에 빠진 듯 바뀌지 않는 교육 시스템에서 오직 점수를 위해 단어를 암기하는 학생들이 있을 거라는 생각 때문이다.&#xA;어른이라면 젊은이를 사랑해야 한다.1 불합리한 고통을 겪지 않도록, 나보다 더 나은 환경에서 원하는 삶에 가까워질 수 있도록 도와야 한다.</description>
       <content:encoded><![CDATA[<p>영어를 주제로 <a href="https://jagunbae.com/tag/thoughts/">작은배 레터</a>와 <a href="https://jagunbae.com/ep-19/">강소팟</a>을 발행했다. 영어를 왜 배워야 하는지, 영어를 잘하려면 무엇부터 해야 하는지, 한국식 영어 교육에는 어떤 문제점이 있는지, 국제학교와 영어유치원의 인기를 어떤 관점에서 바라봐야 할지, AI 시대에 영어 교육은 어떻게 변화할지. 할말이 많았기에 재밌기도 했지만, 줄곧 답답했다. 내가 불만을 토로하는 와중에도 수십 년간 시궁창에 빠진 듯 바뀌지 않는 교육 시스템에서 오직 점수를 위해 단어를 암기하는 학생들이 있을 거라는 생각 때문이다.</p>
 <p>어른이라면 젊은이를 사랑해야 한다.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> 불합리한 고통을 겪지 않도록, 나보다 더 나은 환경에서 원하는 삶에 가까워질 수 있도록 도와야 한다. 그렇다면 나는 무엇을 할 것인가? 10년간 유학하며 나름 언어 공부에 대한 시행착오를 겪었으니 외국어 공부 혹은 유학에 대해 고민하는 학생에게 무료 컨설팅을 제공해야겠다는 생각이 들었다. &lsquo;성공한 사람&rsquo;이 아니어도 어른 행세는 할 수 있으니까.</p>
-<p>신청 비용은 0원. 10~20대라면 누구나 신청할 수 있다. 거창하게 컨설팅이라 했지만 구글 미트로 만나서 차 한잔 마시며 이야기 나누는 것이 전부다. 심지어 영어나 유학에 대한 고민이 아니어도 좋다. 10년간 중국과 미국에서 유학한, 서울에서 여러 스타트업을 다녔던, 제주에서 작은 식당과 콘텐츠 회사를 운영하는 30살 인간이 궁금한 학생이라면. <a href="https://k-writer.com/message/">여기</a>에 번호 혹은 이메일 주소와 간단한 소개를 보내주면 된다.</p>
+<p>신청 비용은 0원. 10~20대라면 누구나 신청할 수 있다. 거창하게 컨설팅이라 했지만 구글 미트로 만나서 차 한잔 마시며 이야기 나누는 것이 전부다. 심지어 영어나 유학에 대한 고민이 아니어도 좋다. 10년간 중국과 미국에서 유학한, 서울에서 여러 스타트업을 다녔던, 제주에서 작은 식당과 콘텐츠 회사를 운영하는 30살 인간이 궁금한 학생이라면. <a href="https://kangmins.uk/message/">여기</a>에 번호 혹은 이메일 주소와 간단한 소개를 보내주면 된다.</p>
 <p>이 글이 과연 닿을까 싶지만, 그래도 용기 내 발행해 본다.</p>
 <div class="footnotes" role="doc-endnotes">
 <hr>
@@ -184,9 +184,9 @@ AI가 영화를 만든다.<br>
     </item>
     <item>
       <title>어른은 어디 계십니까</title>
-      <link>https://k-writer.com/ko/blog/are-you-there/</link>
+      <link>https://kangmins.uk/ko/blog/are-you-there/</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/are-you-there/</guid>
+      <guid>https://kangmins.uk/ko/blog/are-you-there/</guid>
       <description>두리번두리번&#xA;어른을 찾고 있다&#xA;비틀비틀&#xA;앞길을 막는 그들 사이에&#xA;있겠지 한 명쯤은&#xA;살고 싶어 할 만큼&#xA;닮고 싶은 그대가&#xA;어딘가 있겠지</description>
       <content:encoded><![CDATA[<p>두리번두리번<br>
 어른을 찾고 있다</p>
@@ -200,9 +200,9 @@ AI가 영화를 만든다.<br>
     </item>
     <item>
       <title>마크다운 커닝 페이퍼</title>
-      <link>https://k-writer.com/ko/blog/markdown/</link>
+      <link>https://kangmins.uk/ko/blog/markdown/</link>
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/markdown/</guid>
+      <guid>https://kangmins.uk/ko/blog/markdown/</guid>
       <description>제목 (Headers) # 제목 ## 제목 ### 제목 #### 제목 ##### 제목 ###### 제목제목 제목 제목 제목 제목 제목 텍스트 강조 안녕하세요 *안녕하세요* **안녕하세요** ~~안녕하세요~~안녕하세요&#xA;안녕하세요&#xA;안녕하세요&#xA;안녕하세요&#xA;목록 * 예시1 * 예시2 * 예시3 - 예시1 - 예시2 - 예시3 1. 예시1 2. 예시2 3. 예시3 예시1 예시2 예시3 예시1 예시2 예시3 예시1 예시2 예시3 링크 &amp;lt;https://kangminsuk.com&amp;gt; [같은 탭에서 열기](https://kangminsuk.com)입니다. [새로운 탭에서 열기](tab:https://kangminsuk.com)입니다.https://kangminsuk.com&#xA;같은 탭에서 열기입니다.&#xA;새로운 탭에서 열기입니다.</description>
       <content:encoded><![CDATA[<h2 id="제목-headers">제목 (Headers)</h2>
 
@@ -417,9 +417,9 @@ hr {
     </item>
     <item>
       <title>제주시가 살기 좋은 도시가 되는 방법</title>
-      <link>https://k-writer.com/ko/blog/jeju/</link>
+      <link>https://kangmins.uk/ko/blog/jeju/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/jeju/</guid>
+      <guid>https://kangmins.uk/ko/blog/jeju/</guid>
       <description>귀가 떨어질 정도로 크게 클럽 음악 틀고 다니는 오토바이 시시때때로 바뀌면서 365일 내 시야를 가로막는 정치 현수막 &amp;lsquo;쿠우우우우욱, 퉤.&amp;rsquo; 더러운 줄 모르고 길거리에 침 뱉는 사람들 차 없으면 도저히 살 수 없는 자동차 중독 사회. 열악한 대중교통, 자전거 도로, (심지어) 인도 아 이제는 밤마다 시끄러운 노랫소리 듣고 싶지 않다. 부정적 감정으로 가득한 현수막 보고 싶지 않다. 가래침 뱉는 모습 안 보며 산책하고 싶다. 차에 치일 걱정 없이 골목길을 걷고 싶다.</description>
       <content:encoded><![CDATA[<ol>
 <li>귀가 떨어질 정도로 크게 클럽 음악 틀고 다니는 오토바이</li>
@@ -433,9 +433,9 @@ hr {
     </item>
     <item>
       <title>작은 식당 창업에 도움이 될 책을 썼습니다</title>
-      <link>https://k-writer.com/ko/blog/my-book/</link>
+      <link>https://kangmins.uk/ko/blog/my-book/</link>
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/my-book/</guid>
+      <guid>https://kangmins.uk/ko/blog/my-book/</guid>
       <description>제가 식당을 시작하기 전 알았으면 참 좋았을 내용을 담았습니다.&#xA;독창적이고 솔직한 방식으로 작은 식당 혹은 가게를 꾸려가고 싶은 분 망하더라도 후회 없을 정도로 최선을 다해 창업을 준비하는 분 돈이 아닌 나를 위해 창업을 다짐하신 분 이라면 시간이 아깝지 않을 내용을 담았다고 생각합니다.&#xA;&amp;lsquo;망하지 않을 만큼 작은 식당 창업하기&amp;rsquo;는 작은배 서점에서 구매하실 수 있습니다.&#xA;망하지 않을 만큼 작은 식당 창업하기&#xA;[아이템 선정] 좁히고 좁히기 [사업 자금] 빚 없이 시작하기 [메뉴 개발] 원가, 판매가 계산하기 [상가 계약] 비용구조 파악하기 [인테리어] 최대한 직접 하기 [가게 운영] 효율에 집착하기 [홍보 방법] 고유한 미디어 만들기 </description>
       <content:encoded><![CDATA[<p>제가 식당을 시작하기 전 알았으면 참 좋았을 내용을 담았습니다.</p>
 <ul>
@@ -460,9 +460,9 @@ hr {
     </item>
     <item>
       <title>퍼스널 브랜딩은 필수일까?</title>
-      <link>https://k-writer.com/ko/blog/personal-branding/</link>
+      <link>https://kangmins.uk/ko/blog/personal-branding/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/personal-branding/</guid>
+      <guid>https://kangmins.uk/ko/blog/personal-branding/</guid>
       <description>아티스트에게 퍼스널 브랜딩은 필수일까? 두 가지 주장을 할 수 있다.&#xA;그렇다. 마케팅 없이 예술로만 수익을 기대할 수는 없다. 많은 인플루언서나 연예인이 책 한 권으로 베스트셀러 작가가 된다. 콘텐츠가 무한 난무하는 시대에 예술가로 살아남으려면 어떻게든 틱톡, 유튜브, 인스타그램, X, 쓰레드에서 돋보여야 한다. 아니다. 아티스트는 알고리즘에 굴복하는 대신 솔직한 작품을 만드는 데 집중해야 한다. ‘좋아요’와 ‘팔로워’이 예술에 가장 중요한 가치가 될 수는 없다. 유명세를 쫓는 싸움은 예술가에게 독이 될 수밖에 없다. 나는 어떻게 살아야 할까?</description>
       <content:encoded><![CDATA[<p>아티스트에게 퍼스널 브랜딩은 필수일까? 두 가지 주장을 할 수 있다.</p>
 <ol>
@@ -481,9 +481,9 @@ hr {
     </item>
     <item>
       <title>현수막이 사라졌으면 좋겠다</title>
-      <link>https://k-writer.com/ko/blog/no-more-banners/</link>
+      <link>https://kangmins.uk/ko/blog/no-more-banners/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/no-more-banners/</guid>
+      <guid>https://kangmins.uk/ko/blog/no-more-banners/</guid>
       <description>현수막이 싫다. 누구 손자가 서울대를 갔는지, 행시 합격을 했는지 궁금하지 않다. 인사조차 나눈 적 없는 정치인의 명절 인사, 뭐가 됐든 ‘국민은 분노한다!’는 정당 현수막, 갓 신내림 받은 무당 광고. 모두 안 보고 살면 참 좋겠다. 우린 왜 기분 좋게 산책하러 나가서 현수막 20개를 보고 와야 할까. 그것도 전부 다 본인만을 위한 자랑 아니면 비판인데.&#xA;아, 현수막 없는 동네에 살고 싶다. 왜 이토록 현수막으로 무언가 내세우고 싶어 할까. 내 손녀가 의대를 갔다면, 내가 지역구 선거에 당선이 됐다면, 내가 특정 정치인이나 정당에 불만이 있다면, 길어야 한 달 뒤면 쓰레기가 될 현수막을 만들 것이 아니라 어떻게 하면 개인적으로 축하를, 정치를, 개혁을 잘할 수 있을지 고민하면 참 좋을 텐데 말이다.</description>
       <content:encoded><![CDATA[<p>현수막이 싫다. 누구 손자가 서울대를 갔는지, 행시 합격을 했는지 궁금하지 않다. 인사조차 나눈 적 없는 정치인의 명절 인사, 뭐가 됐든 ‘국민은 분노한다!’는 정당 현수막, 갓 신내림 받은 무당 광고. 모두 안 보고 살면 참 좋겠다. 우린 왜 기분 좋게 산책하러 나가서 현수막 20개를 보고 와야 할까. 그것도 전부 다 본인만을 위한 자랑 아니면 비판인데.</p>
 <p>아, 현수막 없는 동네에 살고 싶다. 왜 이토록 현수막으로 무언가 내세우고 싶어 할까. 내 손녀가 의대를 갔다면, 내가 지역구 선거에 당선이 됐다면, 내가 특정 정치인이나 정당에 불만이 있다면, 길어야 한 달 뒤면 쓰레기가 될 현수막을 만들 것이 아니라 어떻게 하면 개인적으로 축하를, 정치를, 개혁을 잘할 수 있을지 고민하면 참 좋을 텐데 말이다. 내 뿌듯함과 분노를 세상 모든 사람이 알아야 한다는 자기중심적 마음이 당연해지지 않길 바란다. 현수막 문화는 사라져야 한다.</p>
@@ -491,9 +491,9 @@ hr {
     </item>
     <item>
       <title>2주간 매일 모닝페이지를 썼다</title>
-      <link>https://k-writer.com/ko/blog/morningpages/</link>
+      <link>https://kangmins.uk/ko/blog/morningpages/</link>
       <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/morningpages/</guid>
+      <guid>https://kangmins.uk/ko/blog/morningpages/</guid>
       <description>25년이 넘도록 내 타자기 앞에는 “생각하지 마!”라고 쓰인 종이가 붙어 있었다. 작가는 타자기 앞에서 절대 생각하면 안 된다. 대신 떠오르는 감정을 느껴야 한다. 생각에 빠지면 온갖 이유를 대며 거짓말하게 된다. 창의적인 사람은 스스로를 놀라게 하기 위해 일한다. 그리고 나 자신이 어떤 사람인지. 거짓 없이 진실만을 말하기 위해 노력한다. - Ray Bradbury&#xA;2주간 매일 모닝페이지를 썼다.&#xA;내가 모닝페이지를 쓰는 방식은 단순하다. 아침에 일어나 노트북을 키고 뭐가 됐든 떠오르는 대로 와다다 적는다.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>25년이 넘도록 내 타자기 앞에는 “생각하지 마!”라고 쓰인 종이가 붙어 있었다. 작가는 타자기 앞에서 절대 생각하면 안 된다. 대신 떠오르는 감정을 느껴야 한다. 생각에 빠지면 온갖 이유를 대며 거짓말하게 된다. 창의적인 사람은 스스로를 놀라게 하기 위해 일한다. 그리고 나 자신이 어떤 사람인지. 거짓 없이 진실만을 말하기 위해 노력한다. - Ray Bradbury</p>
@@ -565,9 +565,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>네, 저 아티스트 맞습니다</title>
-      <link>https://k-writer.com/ko/blog/artist/</link>
+      <link>https://kangmins.uk/ko/blog/artist/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/artist/</guid>
+      <guid>https://kangmins.uk/ko/blog/artist/</guid>
       <description>예술에 가장 중요한 건 노동이다. 매일같이 앉아서 노력하는 것 외로 필요한 건 아무것도 없다. - Steven Pressfield&#xA;누군가가 나를 &amp;lsquo;아티스트&amp;rsquo;라 불렀다. &amp;ldquo;에이, 아티스트는 아니야.&amp;rdquo; 부끄러워서 허허 머리를 긁적였다. 나는 왜 아티스트로 불리길 거부했을까. 몇몇 이유가 떠오른다.&#xA;창작물로 밥벌이를 못 한다. 창작물이 유명하지 않다. 그래서 창작물에 자신이 없다. 내가 예술을 만들고 있다고 생각해 본 적이 없었다. 나에게 &amp;lsquo;아티스트&amp;rsquo;라는 칭호는 김환기나 빈지노 같은 사람에게나 어울리는 왕관처럼 느껴졌다. 내 창작물로 변화를 만들고 싶다는 욕심이 꿈틀거려도, 차마 나의 노력과 능력을 믿어주지 못했다.</description>
       <content:encoded><![CDATA[<p><img src="https://jagunbae.com/content/images/size/w2000/2024/01/------------------.webp" alt="네맞습니다"></p>
 <blockquote>
@@ -596,9 +596,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>이 한국인은 나라가 없어질까 두렵다</title>
-      <link>https://k-writer.com/ko/blog/population/</link>
+      <link>https://kangmins.uk/ko/blog/population/</link>
       <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/population/</guid>
+      <guid>https://kangmins.uk/ko/blog/population/</guid>
       <description>한국은 존폐 위기를 마주하고 있다.&#xA;세계 경제가 어떻게 흘러갈지는 몰라도 인구 구조만큼은 어떻게 변할지 예측할 수 있다. 생산인구가 가파르게 줄어드는 나라가 과연 경쟁력을 유지할 수 있을까? 우리나라 통계청에 따르면 중위연령은 2024년 46.1세에서 2044년 56세가 된다. 게다가 2064년이 되면 중위연령은 62.6세 그리고 65세 이상 고령인구 비율은 46%를 넘어선다. 15~64세 비중과 65세 이상의 인구 비율이 같아지는 시대가 40년밖에 남지 않았다.&#xA;만약 10년 뒤에도 세계 최저 출산율 타이틀을 지키고 있다면 어떨까. 그때도 &amp;lsquo;이 정책이 좋네, 저 정책이 좋네&amp;rsquo; 토론할 여유가 있을까.</description>
       <content:encoded><![CDATA[<p><img src="https://micro.kangminsuk.com/uploads/2024/-20240124193717.png" alt="인구구조"></p>
 <p>한국은 존폐 위기를 마주하고 있다.</p>
@@ -609,9 +609,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>담배</title>
-      <link>https://k-writer.com/ko/blog/cig/</link>
+      <link>https://kangmins.uk/ko/blog/cig/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/cig/</guid>
+      <guid>https://kangmins.uk/ko/blog/cig/</guid>
       <description>13살. 전주. 운 나쁘게 배정받아 입학한 중학교가 죽도록 싫었다. 다른 친구들은 집 앞 학교에 다니는데. 홀로 스쿨버스타고 산골 학교에 가야 한다는 게 비참하게만 느껴졌다.&#xA;새로운 환경에서 친구 한 명 만들지 못했다. 눈만 마주쳐도 욕하는 축구부 애들. 얼굴이 퍼렇게 부풀 만큼 맞아도 선생님에게 넘어졌다고 거짓말하는 애. 두려웠다. 학교에 들어갈 때면 고개를 내리깔고 바닥만 보며 걸었다. 하루를 견뎌내기가 버거웠지만 해결책은 없었다. 그저 매일 같이 &amp;lsquo;학교 가기 싫다&amp;rsquo; 울며 부모에게 화풀이를 반복했다.&#xA;그러던 와중 엄마는 우연히 신문에서 청소년 중국 유학 프로그램을 발견했다.</description>
       <content:encoded><![CDATA[<p>13살. 전주. 운 나쁘게 배정받아 입학한 중학교가 죽도록 싫었다. 다른 친구들은 집 앞 학교에 다니는데. 홀로 스쿨버스타고 산골 학교에 가야 한다는 게 비참하게만 느껴졌다.</p>
 <p>새로운 환경에서 친구 한 명 만들지 못했다. 눈만 마주쳐도 욕하는 축구부 애들. 얼굴이 퍼렇게 부풀 만큼 맞아도 선생님에게 넘어졌다고 거짓말하는 애. 두려웠다. 학교에 들어갈 때면 고개를 내리깔고 바닥만 보며 걸었다. 하루를 견뎌내기가 버거웠지만 해결책은 없었다. 그저 매일 같이 &lsquo;학교 가기 싫다&rsquo; 울며 부모에게 화풀이를 반복했다.</p>
@@ -628,9 +628,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>치지레이지를 기념하며</title>
-      <link>https://k-writer.com/ko/blog/cheesylazy-reviews/</link>
+      <link>https://kangmins.uk/ko/blog/cheesylazy-reviews/</link>
       <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/cheesylazy-reviews/</guid>
+      <guid>https://kangmins.uk/ko/blog/cheesylazy-reviews/</guid>
       <description>치지레이지 마지막 영업을 무사히 마쳤다. 식당 문은 닫았지만 당장 해야 할 일은 많았다. 주방 도구와 식자재를 정리하고, 통신사나 세스코에 연락해 간단한 실무를 처리했다. 그중 가장 중요한 업무는 네이버 지도, 카카오 맵과 같은 서비스에 영업 종료를 표시하는 일이었다. 하지만 바로 폐업 처리를 할 수는 없었다. 플랫폼에서 치지레이지가 사라지면 그간 손님이 남겨주신 소중한 리뷰도 모두 사라지기 때문이다.&#xA;살면서 수많은 식당 앞에 붙은 &amp;lsquo;임대&amp;rsquo;를 보며 아쉬워했다. 식당이 사라지면서 사장과 손님이 쌓아왔던 관계마저 없어져 버리는 것 같아 알 수 없는 허무함을 느꼈다.</description>
       <content:encoded><![CDATA[<p>치지레이지 마지막 영업을 무사히 마쳤다. 식당 문은 닫았지만 당장 해야 할 일은 많았다. 주방 도구와 식자재를 정리하고, 통신사나 세스코에 연락해 간단한 실무를 처리했다. 그중 가장 중요한 업무는 네이버 지도, 카카오 맵과 같은 서비스에 영업 종료를 표시하는 일이었다. 하지만 바로 폐업 처리를 할 수는 없었다. 플랫폼에서 치지레이지가 사라지면 그간 손님이 남겨주신 소중한 리뷰도 모두 사라지기 때문이다.</p>
 <p>살면서 수많은 식당 앞에 붙은 &lsquo;임대&rsquo;를 보며 아쉬워했다. 식당이 사라지면서 사장과 손님이 쌓아왔던 관계마저 없어져 버리는 것 같아 알 수 없는 허무함을 느꼈다. 사장이 공간에 쏟은 시간과 정성을 알아봐 준 손님이 있다면 작게나마 기념해야 하지 않을까. 식당이 떠난 자리엔 연민 대신 존경이 있어야 한다고 믿었다.</p>
@@ -640,9 +640,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>밑줄 모음 - 동양철학 에세이</title>
-      <link>https://k-writer.com/ko/blog/eastern-philosophy/</link>
+      <link>https://kangmins.uk/ko/blog/eastern-philosophy/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/eastern-philosophy/</guid>
+      <guid>https://kangmins.uk/ko/blog/eastern-philosophy/</guid>
       <description>책 머리 도사란 끊임없이 머리 속으로 생각하면서 옳은 길을 찾아 실천하는 사람을 뜻합니다.&#xA;동양에서 도를 깨우치는 데 필요한 것은 지혜가 아니라 수양을 통한 덕이었습니다. 따라서 지혜로운 사람보다 어진 사람을 높였던 것입니다.&#xA;우리 선조들은 24절기를 모르면 &amp;lsquo;철부지&amp;rsquo;라고 했습니다. &amp;hellip; 우리들 중에도 철부지가 많을 것 같습니다. 우리는 쌀밥을 먹으면서도 벼를 만져 볼 기회가 적습니다. 지금 농촌에서 무슨 일을 하고 있는지 잘 모릅니다.&#xA;철학은 현실 인식에서 출발합니다. 지금 우리가 살고 있는 시대와 현실을 인식하고 그 토대 위에서 어떻게 살 것이며, 무엇을 할 것인가를 문제 삼는 것은 동양 철학이라고 해서 특별히 다를 것이 없습니다.</description>
       <content:encoded><![CDATA[<h3 id="책-머리">책 머리</h3>
 <blockquote>
@@ -786,9 +786,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>블로그 만세!</title>
-      <link>https://k-writer.com/ko/blog/mansae/</link>
+      <link>https://kangmins.uk/ko/blog/mansae/</link>
       <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/mansae/</guid>
+      <guid>https://kangmins.uk/ko/blog/mansae/</guid>
       <description>3년 전 개인 블로그를 시작했다. 10년간의 유학 생활 동안 쌓인 복잡한 생각을 토해내고 싶다는 열망 때문이었다. 내 경험이 누군가에게 도움이 되길 희망했고, 생각을 글로 정리하는 것만으로도 머리가 맑아질 거라 기대했다. 그때부터 시간이 나면 노트북 앞에 앉아 유학과 영어 공부에 대한 글을 썼다.&#xA;이후 마음속 묵직하게 자리 잡은 주제로 글 수십 개를 발행했다. 진로, 교육, 기술, 성장. 주제는 다양했다. 내 공간에 내 방식대로 내 생각을 글에 담아 전달하는 작업. 글쓰고 편집하는 과정이 귀찮을 때도 있었지만, 웹이라는 광활한 터에 내 글이 떠다니는 모습을 보면 짜릿한 자유로움이 밀려왔다.</description>
       <content:encoded><![CDATA[<p>3년 전 개인 블로그를 시작했다. 10년간의 유학 생활 동안 쌓인 <a href="https://kangminsuk.com/ko/blog/abroad/">복잡한 생각</a>을 토해내고 싶다는 열망 때문이었다. 내 경험이 누군가에게 도움이 되길 희망했고, 생각을 글로 정리하는 것만으로도 머리가 맑아질 거라 기대했다. 그때부터 시간이 나면 노트북 앞에 앉아 유학과 영어 공부에 대한 글을 썼다.</p>
 <p>이후 마음속 묵직하게 자리 잡은 주제로 글 수십 개를 발행했다. <a href="https://kangminsuk.com/ko/blog/career/">진로</a>, <a href="https://kangminsuk.com/ko/blog/school/">교육</a>, <a href="https://kangminsuk.com/ko/blog/skill/">기술</a>, <a href="https://kangminsuk.com/ko/blog/growth/">성장</a>. 주제는 다양했다. 내 공간에 내 방식대로 내 생각을 글에 담아 전달하는 작업. 글쓰고 편집하는 과정이 귀찮을 때도 있었지만, 웹이라는 광활한 터에 내 글이 떠다니는 모습을 보면 짜릿한 자유로움이 밀려왔다.</p>
@@ -801,9 +801,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>예비군 훈련의 문제점 그리고 해결책</title>
-      <link>https://k-writer.com/ko/blog/korean-army/</link>
+      <link>https://kangmins.uk/ko/blog/korean-army/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/korean-army/</guid>
+      <guid>https://kangmins.uk/ko/blog/korean-army/</guid>
       <description>예비군 훈련에 다녀왔다. &amp;lsquo;여기 있기 싫다&amp;rsquo;는 마음으로 똘똘 뭉친 300명이 하루 종일 함께 움직이는 광경은 볼 때마다 정말 가관이다. 4년차 예비군으로서 묻고 싶다. 왜 예비군은 비상식, 비효율적 훈련 프로그램에 억지로 참여하면서 고통받아야 할까? 죽기 전에 과연 효율적이고 실용적인 군 훈련을 볼 수 있을까?&#xA;공익, 현역, 장교, 부사관 출신. 누구든 예비군 훈련만 가면 기운이 빠지고 의욕을 잃는다. 군법 교육하다 갑자기 본인 자식과 연금 자랑을 늘어놓는 교관을 보면 한숨이 튀어나오고, 20년 전 만든 것 마냥 허접한 교육 영상을 시청하면 &amp;lsquo;나는 누구인가&amp;rsquo; 철학적 망상에 빠진다.</description>
       <content:encoded><![CDATA[<p>예비군 훈련에 다녀왔다. &lsquo;여기 있기 싫다&rsquo;는 마음으로 똘똘 뭉친 300명이 하루 종일 함께 움직이는 광경은 볼 때마다 정말 가관이다. 4년차 예비군으로서 묻고 싶다. 왜 예비군은 비상식, 비효율적 훈련 프로그램에 억지로 참여하면서 고통받아야 할까? 죽기 전에 과연 효율적이고 실용적인 군 훈련을 볼 수 있을까?</p>
 <p>공익, 현역, 장교, 부사관 출신. 누구든 예비군 훈련만 가면 기운이 빠지고 의욕을 잃는다. 군법 교육하다 갑자기 본인 자식과 연금 자랑을 늘어놓는 교관을 보면 한숨이 튀어나오고, 20년 전 만든 것 마냥 허접한 교육 영상을 시청하면 &lsquo;나는 누구인가&rsquo; 철학적 망상에 빠진다. 하루 영업을 통째로 포기하고 나오는 자영업자로서 유치원식 교육을 듣고 있자면 절망스러운 게 사실이다.</p>
@@ -813,9 +813,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>결정하고 전념하기</title>
-      <link>https://k-writer.com/ko/blog/commit/</link>
+      <link>https://kangmins.uk/ko/blog/commit/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/commit/</guid>
+      <guid>https://kangmins.uk/ko/blog/commit/</guid>
       <description>&amp;ldquo;이 일이 정말 나에게 맞을까?&amp;rdquo; &amp;ldquo;이 일에 나는 충분한 열정을 가지고 있을까?&amp;rdquo; 이 질문의 끝은 결국 끝없는 방황과 실망이다. 잘못된 길을 선택한다고 실패하지 않는다. 인간은 선택하지 않기 때문에 실패한다. - Derek Sivers&#xA;다가오는 생일을 맞아 나에게 주는 선물로 책을 왕창 샀다. 남는 시간이 있다면 책 읽기와 글쓰기에 전념하기로 결심했기 때문이다.&#xA;거창해 보이는 다짐에는 세 가지 이유가 있다.&#xA;글쓰기에 만렙은 없다. 죽을 때까지 한 가지 기술을 연마하고 싶다. 작가의 꾸준함을 닮고 싶고, 책을 좋아하는 사람과 더 많이 연결되고 싶다.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>&ldquo;이 일이 정말 나에게 맞을까?&rdquo; &ldquo;이 일에 나는 충분한 열정을 가지고 있을까?&rdquo; 이 질문의 끝은 결국 끝없는 방황과 실망이다. 잘못된 길을 선택한다고 실패하지 않는다. 인간은 선택하지 않기 때문에 실패한다. - Derek Sivers</p>
@@ -836,9 +836,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>난 왜 행복한 걸까?</title>
-      <link>https://k-writer.com/ko/blog/happiness/</link>
+      <link>https://kangmins.uk/ko/blog/happiness/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/happiness/</guid>
+      <guid>https://kangmins.uk/ko/blog/happiness/</guid>
       <description>행복은 감정이 아니다. 감정은 행복을 나타내는 증거에 불과하다. - Arthur C. Brooks&#xA;치지레이지를 시작하고 행복한 삶을 살고 있다. 돈을 많이 벌어서, 하고 싶은 일만 해서, 유명해져서 그런 건 아니다. 하하호호 매일이 즐겁기만 한 것도 아니다. 난 최저임금보다 적게 벌고(그나마 번 돈도 새로운 프로젝트에 다시 투자하는 것 같다), 18살에 산 옷을 지금도 입고, 가끔 우울에 시달리기도 한다.&#xA;그렇다면 난 왜 행복한 걸까?&#xA;성취감 오픈 초기, &amp;lsquo;빵이 질기다&amp;rsquo;는 피드백을 받고 깊은 고민에 빠졌다.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>행복은 감정이 아니다. 감정은 행복을 나타내는 증거에 불과하다. - Arthur C. Brooks</p>
@@ -861,9 +861,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>식당이 망하는 이유</title>
-      <link>https://k-writer.com/ko/blog/restaurant-failures/</link>
+      <link>https://kangmins.uk/ko/blog/restaurant-failures/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/restaurant-failures/</guid>
+      <guid>https://kangmins.uk/ko/blog/restaurant-failures/</guid>
       <description>우리나라 식당 중 약 40%가 1년을 버티지 못하고 폐업한다. 이토록 많은 가게가 문을 닫지만, 빈자리에는 또 새로운 식당 간판이 들어선다. 식당만큼 망할 이유가 수두룩한 사업 모델이 있으려나 싶어도, 이만큼 창업 장벽이 낮아 보이는 아이템을 떠올리기 어렵기 때문이다.&#xA;음식점은 인구 대비 너무나 많다. 특히 제주도에는 외식사업체가 무려 도민 39명당 하나씩 있다. 불경기와 인구 절벽이 겹치는 마당에 기적같이 수요가 늘어날 거라 기대할 수도 없다. &amp;lsquo;앗 나 왜 식당하고 있지&amp;hellip;&amp;lsquo;라는 말이 절로 나온다. 그야말로 망하기 참 좋은 환경이다.</description>
       <content:encoded><![CDATA[<p>우리나라 식당 중 <a href="https://www.hani.co.kr/arti/economy/economy_general/973421.html">약 40%</a>가 1년을 버티지 못하고 폐업한다. 이토록 많은 가게가 문을 닫지만, 빈자리에는 또 새로운 식당 간판이 들어선다. 식당만큼 망할 이유가 수두룩한 사업 모델이 있으려나 싶어도, 이만큼 창업 장벽이 낮아 보이는 아이템을 떠올리기 어렵기 때문이다.</p>
 <p>음식점은 <a href="https://www.foodbank.co.kr/news/articleView.html?idxno=49160">인구 대비 너무나 많다</a>. 특히 제주도에는 외식사업체가 <a href="https://www.atfis.or.kr/fip/front/M000000268/stats/service.do">무려 도민 39명당 하나씩</a> 있다. 불경기와 인구 절벽이 겹치는 마당에 기적같이 수요가 늘어날 거라 기대할 수도 없다. &lsquo;앗 나 왜 식당하고 있지&hellip;&lsquo;라는 말이 절로 나온다. 그야말로 망하기 참 좋은 환경이다.</p>
@@ -883,9 +883,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>제주에 사니까 어떤가요?</title>
-      <link>https://k-writer.com/ko/blog/23-06-20/</link>
+      <link>https://kangmins.uk/ko/blog/23-06-20/</link>
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/23-06-20/</guid>
+      <guid>https://kangmins.uk/ko/blog/23-06-20/</guid>
       <description>이번 주말 가게 문을 닫고 친구 결혼식을 위해 서울에 다녀왔다. 그러고 보니 한 달 새 서울사람 결혼식만 두 번째다. 김포공항에 도착하자마자 복잡함과 편리함이 동시에 훅 느껴졌다. 정신 없이 환승하고, 수많은 인파를 헤치며 결혼식장에 무사히 도착하니 나도 모르게 안도의 한숨이 나왔다. 제주로 이주한 지 2년 만에 나도 제주 사람 다 된마씸 이라는 생각이 새삼스레 들었다.&#xA;결혼식장에는 오랜만에 보는 반가운 얼굴이 많았는데, 소소한 안부를 나누다 보니 줄곧 같은 질문을 듣게 됐다. &amp;ldquo;제주에 사니까 어때요?</description>
       <content:encoded><![CDATA[<p>이번 주말 가게 문을 닫고 친구 결혼식을 위해 서울에 다녀왔다. 그러고 보니 한 달 새 서울사람 결혼식만 두 번째다. 김포공항에 도착하자마자 복잡함과 편리함이 동시에 훅 느껴졌다. 정신 없이 환승하고, 수많은 인파를 헤치며 결혼식장에 무사히 도착하니 나도 모르게 안도의 한숨이 나왔다. 제주로 이주한 지 2년 만에 나도 제주 사람 다 된마씸 이라는 생각이 새삼스레 들었다.</p>
 <p>결혼식장에는 오랜만에 보는 반가운 얼굴이 많았는데, 소소한 안부를 나누다 보니 줄곧 같은 질문을 듣게 됐다. &ldquo;제주에 사니까 어때요?&rdquo; 평범한 질문일 수 있지만 내 머릿속은 명탐정 코난이 범인을 찾는 듯 분주했다. 난 제주가 좋은 걸까? 싫은 걸까? 머리를 긁적이다 &ldquo;그러게요&hellip; 너무 좋죠.&ldquo;라며 얼버무렸다.</p>
@@ -901,9 +901,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>매일 밤 잠들기 전 하는 일</title>
-      <link>https://k-writer.com/ko/blog/23-04-24/</link>
+      <link>https://kangmins.uk/ko/blog/23-04-24/</link>
       <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/23-04-24/</guid>
+      <guid>https://kangmins.uk/ko/blog/23-04-24/</guid>
       <description>마감을 마친 후 저녁 늦게 집에 들어오면 일단 누워있고 싶다. 소파에 앉아 유튜브를 보면 어느새 잘 시간이 코앞으로 다가온다. 잠들기 전 꼭 해야 할 일이 없으면 &amp;lsquo;피곤해서 못 해&amp;rsquo;라는 핑계는 어느새 기본 설정이 된다. 그렇게 나는 내가 바라던 삶에서 조금씩 멀어지고 있었다.&#xA;어느 날 멍한 상태로 샤워를 하는데 매일 무조건 지켜야 할 습관을 만들어야겠다는 생각이 번쩍 들었다. 의지만 있다면 당장 실행할 수 있었다. 무엇을 해야 할지는 이미 알고 있었다&#xA;매일 개인 블로그에 글쓰기.</description>
       <content:encoded><![CDATA[<p>마감을 마친 후 저녁 늦게 집에 들어오면 일단 누워있고 싶다. 소파에 앉아 유튜브를 보면 어느새 잘 시간이 코앞으로 다가온다. 잠들기 전 꼭 해야 할 일이 없으면 &lsquo;피곤해서 못 해&rsquo;라는 핑계는 어느새 기본 설정이 된다. 그렇게 나는 내가 바라던 삶에서 조금씩 멀어지고 있었다.</p>
 <p>어느 날 멍한 상태로 샤워를 하는데 매일 무조건 지켜야 할 습관을 만들어야겠다는 생각이 번쩍 들었다. 의지만 있다면 당장 실행할 수 있었다. 무엇을 해야 할지는 이미 알고 있었다</p>
@@ -918,9 +918,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>회사원에서 베이커로</title>
-      <link>https://k-writer.com/ko/blog/23-04-10/</link>
+      <link>https://kangmins.uk/ko/blog/23-04-10/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/23-04-10/</guid>
+      <guid>https://kangmins.uk/ko/blog/23-04-10/</guid>
       <description>샌드위치 가게를 준비하며 제빵을 독학했다. 강력분과 중력분 차이도 모르는 회사원이 책과 유튜브로 제빵을 공부한다니. 돌이켜보면 꽤 무모한 도전이었다.&#xA;여태까지 수백 번 &amp;lsquo;망했다&amp;rsquo;를 외치며 시행착오를 겪었다. 몽둥이 같은 바게트와 떡진 포카치아를 수없이 굽고 나서야 제빵을 조금이나마 이해할 수 있었다.&#xA;약 1년간 여러 손님의 피드백 그리고 책과 영상에서 만난 선생님의 가르침을 바탕으로 조금씩 성장했다. 매일 수십 가지 빵을 만드는 베이커는 아니지만, 손님께 드리는 포카치아만큼은 그 누구보다 완벽하게 굽기 위해 노력하고 있다.&#xA;그렇다면 맛있는 빵의 조건은 무엇일까?</description>
       <content:encoded><![CDATA[<p>샌드위치 가게를 준비하며 제빵을 독학했다. 강력분과 중력분 차이도 모르는 회사원이 책과 유튜브로 제빵을 공부한다니. 돌이켜보면 꽤 무모한 도전이었다.</p>
 <p>여태까지 수백 번 &lsquo;망했다&rsquo;를 외치며 시행착오를 겪었다. 몽둥이 같은 바게트와 떡진 포카치아를 수없이 굽고 나서야 제빵을 조금이나마 이해할 수 있었다.</p>
@@ -942,9 +942,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>초록불을 기다리며</title>
-      <link>https://k-writer.com/ko/blog/green-light/</link>
+      <link>https://kangmins.uk/ko/blog/green-light/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/green-light/</guid>
+      <guid>https://kangmins.uk/ko/blog/green-light/</guid>
       <description>횡단보도. 초록 불을 기다리며 주변을 둘러봤다. 수십 명이 같은 선상에 멈춰 있는 모습이 오늘따라 어색해 보였다. 초록 불이 켜지고 앞으로 걸어가면서 나에게 물었다. 나는 왜 한 번도 신호등을 의심한 적이 없을까.&#xA;어른도 어린이처럼 질문해야 한다. 인간만이 주어진 본능, 정해진 환경을 거스르며 살 수 있기 때문이다. 직업, 관계, 건강. 무엇이 됐든 &amp;lsquo;왜?&amp;lsquo;를 묻지 않는다면 정해진 쳇바퀴에 들어가 빙글빙글 돌 수밖에 없다.&#xA;치지레이지는 비교와 경쟁에서 벗어나기 위해 발버둥 치다 생긴 프로젝트다. 전 세계를 뒤져도 비건 샌드위치샵은 많지 않다.</description>
       <content:encoded><![CDATA[<p>횡단보도. 초록 불을 기다리며 주변을 둘러봤다. 수십 명이 같은 선상에 멈춰 있는 모습이 오늘따라 어색해 보였다. 초록 불이 켜지고 앞으로 걸어가면서 나에게 물었다. 나는 왜 한 번도 신호등을 의심한 적이 없을까.</p>
 <p>어른도 어린이처럼 질문해야 한다. 인간만이 주어진 본능, 정해진 환경을 거스르며 살 수 있기 때문이다. 직업, 관계, 건강. 무엇이 됐든 &lsquo;왜?&lsquo;를 묻지 않는다면 정해진 쳇바퀴에 들어가 빙글빙글 돌 수밖에 없다.</p>
@@ -955,9 +955,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>내가 간절히 원하는 것</title>
-      <link>https://k-writer.com/ko/blog/sincerity/</link>
+      <link>https://kangmins.uk/ko/blog/sincerity/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/sincerity/</guid>
+      <guid>https://kangmins.uk/ko/blog/sincerity/</guid>
       <description>면접 &amp;ldquo;아니, 이 정도 질문도 이해 못 하는데 어떻게 우리랑 같이 일하려고 해요?&amp;rdquo;&#xA;취준생 시절, 회사 대표와 면접 중 완전히 얼어버린 적이 있다. 제대로 된 답변을 못 하며 횡설수설하는 순간 대표는 한숨을 쉬었고, 나는 고개를 떨구며 사과했다.&#xA;&amp;ldquo;죄송합니다. 바쁘신데 제가 시간을 뺏었습니다. 그런데 저 정말 간절합니다. 믿어주시면 잘 할 수 있습니다.&amp;rdquo;&#xA;지금 돌이켜보면 난 어떻게든 잘 보이고자 즉흥 연기를 하고 있었다. 간절하다는 말을 내뱉는 와중에도 회사에서 하게 될 업무가 무엇일지, 누구와 함께 일하게 될지 깊게 고민하지 않았다.</description>
       <content:encoded><![CDATA[<h3 id="면접">면접</h3>
 <p>&ldquo;아니, 이 정도 질문도 이해 못 하는데 어떻게 우리랑 같이 일하려고 해요?&rdquo;</p>
@@ -974,9 +974,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>사랑할 수 있는 고통</title>
-      <link>https://k-writer.com/ko/blog/suffering/</link>
+      <link>https://kangmins.uk/ko/blog/suffering/</link>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/suffering/</guid>
+      <guid>https://kangmins.uk/ko/blog/suffering/</guid>
       <description>내가 살고 싶은 삶이 무엇인지 모른다는 생각이 들 때면 머릿속이 복잡하고 가슴은 답답했다. 초등학생 시절 내 장래희망은 의사였다. 8살 아이에게 의사는 &amp;lsquo;행복한 부자&amp;rsquo;처럼 보였고, 어른들이 말하는 훌륭한 삶을 위한 최선의 선택이었다. 그 이후 20년간 수많은 장래희망을 거쳤고, 회사원이 되어서도 진로 고민은 멈추지 않았다. 내가 뛰어나게 잘할 수 있는 일이 있을까? 내가 진정으로 원하는 일은 무엇일까?&#xA;회사를 마지막으로 그만뒀을 때, 나는 일과 일상의 경계가 사라질 만큼 사랑할 수 있는 일을 찾고 싶었다.</description>
       <content:encoded><![CDATA[<p>내가 살고 싶은 삶이 무엇인지 모른다는 생각이 들 때면 머릿속이 복잡하고 가슴은 답답했다. 초등학생 시절 내 장래희망은 의사였다. 8살 아이에게 의사는 &lsquo;행복한 부자&rsquo;처럼 보였고, 어른들이 말하는 훌륭한 삶을 위한 최선의 선택이었다. 그 이후 20년간 수많은 장래희망을 거쳤고, 회사원이 되어서도 진로 고민은 멈추지 않았다. <em>내가 뛰어나게 잘할 수 있는 일이 있을까? 내가 진정으로 원하는 일은 무엇일까?</em></p>
 <p>회사를 마지막으로 그만뒀을 때, 나는 일과 일상의 경계가 사라질 만큼 사랑할 수 있는 일을 찾고 싶었다. 나에게 찰떡같이 맞는 일이 어딘가에 숨겨져 있기를 소망했다. 어렸을 적 꿈꿨던 의사라는 직업처럼 내 삶의 의미를 완성할 직업이 있을 거라 믿었다. 그래서 내가 닮고 싶은 사람이 가진 특징을 분석했고, 책을 읽으며 내가 원하는 삶을 정의하는 데 많은 시간을 보냈다.</p>
@@ -989,9 +989,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>사람만 할 수 있는 일</title>
-      <link>https://k-writer.com/ko/blog/futureproof/</link>
+      <link>https://kangmins.uk/ko/blog/futureproof/</link>
       <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/futureproof/</guid>
+      <guid>https://kangmins.uk/ko/blog/futureproof/</guid>
       <description>기술은 식당을 바꾸고 있다. 어느새 손님은 키오스크나 태블릿으로 음식을 주문하고, 로봇은 치킨과 피자를 만들고 서빙한다. 기계가 요리하는 광경이 놀랍지 않은 시대에 식당 사장은 어떤 마음가짐을 가져야 할까? 기술이 대체할 수 없는 가치는 무엇일까?&#xA;기계와 인간 치지레이지는 이미 여러 기계의 도움을 받고 있다. 오븐과 발효기 덕분에 빵을 굽고, 블렌더로 소스와 스프를 만든다. 냉장고, 포스기, 반죽기, 환풍기, 식기세척기. 가게를 조금만 둘러봐도 사람보다 기계가 더 많다는 걸 알아차릴 수 있다. 하지만 나와 기계의 관계는 앞으로 조금씩 달라질 것이다.</description>
       <content:encoded><![CDATA[<p><img src="https://cheesylazy.com/content/images/size/w2000/2022/12/robotchef--1-.webp" alt="Moley Robotics"></p>
 <p>기술은 식당을 바꾸고 있다. 어느새 손님은 키오스크나 태블릿으로 음식을 주문하고, 로봇은 치킨과 피자를 만들고 서빙한다. 기계가 요리하는 광경이 놀랍지 않은 시대에 식당 사장은 어떤 마음가짐을 가져야 할까? 기술이 대체할 수 없는 가치는 무엇일까?</p>
@@ -1019,9 +1019,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>특별한 사람, 특별한 공간</title>
-      <link>https://k-writer.com/ko/blog/special/</link>
+      <link>https://kangmins.uk/ko/blog/special/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/special/</guid>
+      <guid>https://kangmins.uk/ko/blog/special/</guid>
       <description>손님이 없을 때 가게 밖을 쳐다보며 생각에 잠긴다. 그래, 오늘 손님이 없는 건 놀랍지 않지. 불경기에 외식을 줄이는 건 당연하고, 마음에 드는 식당이라도 일주일에 한 번 이상 가는 일은 드무니까.&#xA;하지만 변명에 안주하며 썰렁한 가게를 지켜볼 수는 없다. 나아갈 방향을 정하고 싶다. 어떻게 해야 치지레이지를 특별한 공간으로 만들 수 있을까?&#xA;시간과 돈을 투자해도 아깝지 않은 공간에는 특별한 사람이 있다. 아내와 마르세유를 여행하다가 들렀던 식당 Chez Nous가 떠오른다. 서비스를 담당하던 사장님은 우리를 10년 만에 만난 자식들처럼 반겨주었다.</description>
       <content:encoded><![CDATA[<p>손님이 없을 때 가게 밖을 쳐다보며 생각에 잠긴다. <em>그래, 오늘 손님이 없는 건 놀랍지 않지. 불경기에 외식을 줄이는 건 당연하고, 마음에 드는 식당이라도 일주일에 한 번 이상 가는 일은 드무니까.</em></p>
 <p>하지만 변명에 안주하며 썰렁한 가게를 지켜볼 수는 없다. 나아갈 방향을 정하고 싶다. 어떻게 해야 치지레이지를 특별한 공간으로 만들 수 있을까?</p>
@@ -1033,9 +1033,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>손님은 왕이 아니다</title>
-      <link>https://k-writer.com/ko/blog/king/</link>
+      <link>https://kangmins.uk/ko/blog/king/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/king/</guid>
+      <guid>https://kangmins.uk/ko/blog/king/</guid>
       <description>손님이 왕이라면 사장은 신하로 살아야 한다. 손님을 왕으로 모시는 가게가 과연 오래갈 수 있을까. 오랜 기간 변함없이 최선의 환대를 제공하려면 사장으로서 어떤 자세를 가져야 할까.&#xA;그 어느 때보다 손님이 가진 영향력이 큰 시대다. 이런 시기에 가게를 하는 사장은 긴장할 수밖에 없다. 네이버나 카카오에 새로운 리뷰가 올라오면 일단 걱정이 앞선다. 다행히 치지레이지를 향한 평가는 대부분 긍정적이지만 나는 알고 있다. 모든 손님이 우리 가게를 좋게 볼 수 없다는 사실을. 언젠가 1점 리뷰에 상처받는 날도 분명 있을 것이다.</description>
       <content:encoded><![CDATA[<p>손님이 왕이라면 사장은 신하로 살아야 한다. 손님을 왕으로 모시는 가게가 과연 오래갈 수 있을까. 오랜 기간 변함없이 <a href="https://cheesylazy.com/hospitality/">최선의 환대</a>를 제공하려면 사장으로서 어떤 자세를 가져야 할까.</p>
 <p>그 어느 때보다 손님이 가진 영향력이 큰 시대다. 이런 시기에 가게를 하는 사장은 긴장할 수밖에 없다. 네이버나 카카오에 새로운 리뷰가 올라오면 일단 걱정이 앞선다. 다행히 치지레이지를 향한 평가는 대부분 긍정적이지만 나는 알고 있다. 모든 손님이 우리 가게를 좋게 볼 수 없다는 사실을. 언젠가 1점 리뷰에 상처받는 날도 분명 있을 것이다.</p>
@@ -1047,9 +1047,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>사장에게는 명상이 필요하다</title>
-      <link>https://k-writer.com/ko/blog/meditation/</link>
+      <link>https://kangmins.uk/ko/blog/meditation/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/meditation/</guid>
+      <guid>https://kangmins.uk/ko/blog/meditation/</guid>
       <description>빵 발효가 마음에 들지 않던 날. 오븐 속에서 반죽이 시원찮게 부푸는 모습을 바라보다가 순간 화가 났다. 최선을 다해 맞춘 발효점이 이토록 어긋나다니. 시험에서 F라도 받은 듯 부끄러웠고 답답했다. 하지만 문제의 원인은 오로지 나에게 있었다. 남을 탓할 수 없고, 누군가 문제를 대신 해결해줄 때까지 기다릴 수도 없었다.&#xA;사장이 본인 마음조차 추스르지 못하는데 어떻게 가게를 지킬 수 있을까. 가게를 시작하기 전, 많은 사람에 기대어 살아왔다. 부모님, 선생님, 교수님, 대표님. 고장 난 장난감 때문에 엉엉 우는 유치원생처럼 문제가 있을 때 신세 한탄만 했던 적이 참 많다.</description>
       <content:encoded><![CDATA[<p>빵 발효가 마음에 들지 않던 날. 오븐 속에서 반죽이 시원찮게 부푸는 모습을 바라보다가 순간 화가 났다. 최선을 다해 맞춘 발효점이 이토록 어긋나다니. 시험에서 F라도 받은 듯 부끄러웠고 답답했다. 하지만 문제의 원인은 오로지 나에게 있었다. 남을 탓할 수 없고, 누군가 문제를 대신 해결해줄 때까지 기다릴 수도 없었다.</p>
 <p>사장이 본인 마음조차 추스르지 못하는데 어떻게 가게를 지킬 수 있을까. 가게를 시작하기 전, 많은 사람에 기대어 살아왔다. 부모님, 선생님, 교수님, 대표님. 고장 난 장난감 때문에 엉엉 우는 유치원생처럼 문제가 있을 때 신세 한탄만 했던 적이 참 많다. 이제는 그런 상태에서 졸업해야 한다. 의식적인 노력이 있어야 문제를 있는 그대로 바라보고 스스로 해결할 수 있다.</p>
@@ -1067,9 +1067,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>10가지 생각</title>
-      <link>https://k-writer.com/ko/blog/10-thoughts/</link>
+      <link>https://kangmins.uk/ko/blog/10-thoughts/</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/10-thoughts/</guid>
+      <guid>https://kangmins.uk/ko/blog/10-thoughts/</guid>
       <description>가게는 복권이 아니다. 하루아침에 성과를 기대하는 건 게으른 생각이다. 천천히 발효한 빵이 더 맛있고, 느리게 걷는 사람이 더 멀리 간다. 일류 셰프나 베테랑 자영업자가 아닌 내가 내세울 수 있는 건 끈기 밖에 없다. 샌드위치 판매량이 유일한 성장 지표가 되어서는 안 된다. 알고 보면 스타벅스는 은행이고, 맥도날드는 부동산 회사다. 나란히 비교할 바는 아니지만 치지레이지 또한 샌드위치 가게이자 콘텐츠 회사다. &amp;ldquo;오늘 뭐 먹을까?&amp;ldquo;라는 질문에 치지레이지가 떠오를 수 있을까. 손님이 생각하는 우리의 정체성은 무엇일까.</description>
       <content:encoded><![CDATA[<ol>
 <li>가게는 복권이 아니다. 하루아침에 성과를 기대하는 건 게으른 생각이다. 천천히 발효한 빵이 더 맛있고, 느리게 걷는 사람이 더 멀리 간다. 일류 셰프나 베테랑 자영업자가 아닌 내가 내세울 수 있는 건 끈기 밖에 없다.</li>
@@ -1087,9 +1087,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>발라지 스리니바산 - The Network State</title>
-      <link>https://k-writer.com/ko/blog/the-network-state/</link>
+      <link>https://kangmins.uk/ko/blog/the-network-state/</link>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/the-network-state/</guid>
+      <guid>https://kangmins.uk/ko/blog/the-network-state/</guid>
       <description>인상 깊게 읽은 발라지 스리니바산(Balaji Srinivasan)의 글을 번역했다. 스리니바산이 발매한 책 The Network State는 공식 웹사이트에서 무료로 읽을 수 있다.&#xA;The Network State in One Thousand Words 기술 덕분에 인간은 새로운 형태의 회사, 커뮤니티, 화폐를 만들었다. 그렇다면 기술을 활용해 새로운 도시나 국가를 만드는 것 또한 가능하지 않을까? 클라우드가 기점이지만 최종적으로 영토를 구축하는 개념으로 접근하는 거다. 아래 설명하는 7단계를 밟으면 온라인 커뮤니티를 오프라인 세계에서 실현하는 것이 가능하다.&#xA;스타트업 사회를 설립한다. 간단히 말해서 이 온라인 커뮤니티는 더 나은 가치를 만들고 싶다는 열망을 기반으로 한다.</description>
       <content:encoded><![CDATA[<p><em>인상 깊게 읽은 <a href="https://thenetworkstate.com/the-network-state-in-one-thousand-words">발라지 스리니바산(Balaji Srinivasan)의 글</a>을 번역했다. 스리니바산이 발매한 책 The Network State는 <a href="https://thenetworkstate.com/">공식 웹사이트</a>에서 무료로 읽을 수 있다.</em></p>
 <h3 id="the-network-state-in-one-thousand-words">The Network State in One Thousand Words</h3>
@@ -1123,9 +1123,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>눈치 보지 않을 용기</title>
-      <link>https://k-writer.com/ko/blog/courage/</link>
+      <link>https://kangmins.uk/ko/blog/courage/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/courage/</guid>
+      <guid>https://kangmins.uk/ko/blog/courage/</guid>
       <description>수영 요즘 수영장에 다니고 있다. 이상하게도 수영을 하면 눈치를 보게 된다. 나보다 더 자세가 좋은 사람. 뒤에서 출발해도 곧 나를 추월하는 사람. 나보다 더 긴 거리를 헤엄쳐도 지치지 않는 사람. 질투인지 열등감인지. 편안한 마음으로 &amp;lsquo;나만의 수영&amp;rsquo;을 하는 건 생각보다 쉽지 않다.&#xA;수영장 밖에서도 눈치는 멈추지 않는다. 내가 입은 옷이 남에게 어떻게 보일까. 내가 하는 일이 남에게 어떤 평가를 받을까. 지금 쓰고 있는 글이 별로인 건 아닐까. 결국 시간 낭비하는 걸까.</description>
       <content:encoded><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1663846718.webp" alt="Image title"></p>
 <h3 id="수영">수영</h3>
@@ -1141,9 +1141,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>죽음을 대비하는 실용적인 가이드</title>
-      <link>https://k-writer.com/ko/blog/guide/</link>
+      <link>https://kangmins.uk/ko/blog/guide/</link>
       <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/guide/</guid>
+      <guid>https://kangmins.uk/ko/blog/guide/</guid>
       <description>인생에서 가장 심오한 경험은 출생과 죽음이다. 그런데 우리는 왜 죽음에 대해 더 많이 대화하며 준비하지 않을까? - BJ Miller, Shoshana Berger&#xA;오늘 갑자기 죽음을 맞이한다면 어떨까. 얼마 남지 않은 숨을 쉬면서도 걱정할 것 같다. 사랑하는 아내, 가족, 친구에게 전하고 싶은 말이 아직 많은데. 그들이 내 죽음을 받아들일 수 있을까. 남은 사람이 내 흔적을 정리하느라 고생하지 않을까. 나는 과연 후회 없는 삶을 살았을까.&#xA;그 누구도 죽음을 예측할 수 없지만 누구나 대비할 수는 있다.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>인생에서 가장 심오한 경험은 출생과 죽음이다. 그런데 우리는 왜 죽음에 대해 더 많이 대화하며 준비하지 않을까? - <a href="https://www.amazon.com/Beginners-Guide-End-Practical-Advice/dp/1501157167">BJ Miller, Shoshana Berger</a></p>
@@ -1184,9 +1184,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>Bear Blog - 가장 심플한 블로그 플랫폼</title>
-      <link>https://k-writer.com/ko/blog/bear-blog/</link>
+      <link>https://kangmins.uk/ko/blog/bear-blog/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/bear-blog/</guid>
+      <guid>https://kangmins.uk/ko/blog/bear-blog/</guid>
       <description>블로그를 시작한 지 벌써 2년 가까이 흘렀다. 브런치에서 시작해서 WordPress, Substack, Ghost, Write.as까지. 어쩌면 글 쓰는 시간보다 내가 원하는 플랫폼을 찾는데 더 많은 시간을 보낸 것 같기도 하다.&#xA;최근 정착한 Bear Blog는 내가 바라던 단순하면서 강력한 블로그 서비스를 제공한다. 마음에 드는 특징은 다음과 같다.&#xA;저렴하다. 나는 커스텀 도메인이나 이메일 수집과 같은 기능이 필요해서 1년에 $18을 내고 있지만 bearblog.dev 도메인에 발행해도 괜찮다면 무료다. 유료 플랜은 Ghost Pro나 Write.as와 비교하면 매우 합리적이다. 게다가 테마나 플러그인을 별도로 구매할 필요가 없으니 안심이다.</description>
       <content:encoded><![CDATA[<p>블로그를 시작한 지 벌써 2년 가까이 흘렀다. <a href="https://brunch.co.kr/">브런치</a>에서 시작해서 <a href="https://wordpress.org/">WordPress</a>, <a href="https://substack.com/">Substack</a>, <a href="https://ghost.org/">Ghost</a>, <a href="https://write.as/">Write.as</a>까지. 어쩌면 글 쓰는 시간보다 내가 원하는 플랫폼을 찾는데 더 많은 시간을 보낸 것 같기도 하다.</p>
 <p>최근 정착한 <a href="https://bearblog.dev/">Bear Blog</a>는 내가 바라던 단순하면서 강력한 블로그 서비스를 제공한다. 마음에 드는 특징은 다음과 같다.</p>
@@ -1203,9 +1203,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>아빠의 죽음</title>
-      <link>https://k-writer.com/ko/blog/love/</link>
+      <link>https://kangmins.uk/ko/blog/love/</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/love/</guid>
+      <guid>https://kangmins.uk/ko/blog/love/</guid>
       <description>아빠는 단순한 사람이었다.&#xA;맛있는 커피나 음식을 먹으면 &amp;lsquo;역대급&amp;rsquo;이라며 감탄했던 사람. 택시 기사님이나 식당 사장님과 대화를 하면 &amp;lsquo;존경합니다&amp;rsquo;라는 말을 잊지 않았던 사람. 많은 사람을 돕고 살았다는 사실을 가장 자랑스럽게 여겼던 사람.&#xA;하나님께 감사하자며 할렐루야를 외치지만 산을 오르다 불상을 마주하면 소원을 빌었던 사람. &amp;lsquo;안 먹고 안 썼던&amp;rsquo; 할머니를 기억할 때마다 그리움에 눈시울이 붉어졌던 사람. 목욕탕에 가면 언제나 아들 등을 밀어주던 사람.&#xA;한결같던 아빠는 아들의 손을 잡고 마지막 숨을 쉬었다. 지겹도록 병실에 오가던 진통제와 항생제는 어느새 사라진 후였다.</description>
       <content:encoded><![CDATA[<p>아빠는 단순한 사람이었다.</p>
 <p>맛있는 커피나 음식을 먹으면 &lsquo;역대급&rsquo;이라며 감탄했던 사람. 택시 기사님이나 식당 사장님과 대화를 하면 &lsquo;존경합니다&rsquo;라는 말을 잊지 않았던 사람. 많은 사람을 돕고 살았다는 사실을 가장 자랑스럽게 여겼던 사람.</p>
@@ -1216,9 +1216,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>물가 상승에 대응하는 방법</title>
-      <link>https://k-writer.com/ko/blog/inflation/</link>
+      <link>https://kangmins.uk/ko/blog/inflation/</link>
       <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/inflation/</guid>
+      <guid>https://kangmins.uk/ko/blog/inflation/</guid>
       <description>청상추 4kg이 5만 9천 원이 되던 날. 우리는 상추를 따러 텃밭에 갔다.&#xA;밀가루, 채소, 식용유 가격이 치솟고 있다. 이런 상황에도 치지레이지는 낮은 판매 가격을 지킬 수 있을까? 2만 원 남짓하던 청상추 한 박스가 6만 원이 된 모습을 보니 생각이 많아진다. 요동치는 시장을 쳐다보기만 하는 건 싫기 때문이다.&#xA;프로 서퍼는 높은 파도를 기대한다. 물가 상승이라는 파도를 타며 씽긋 웃는 사장이 어쩌면 진짜 프로가 아닐까. 불확실한 미래가 건네는 엿도 맛있게 먹을 수 있어야 오래가는 가게를 만들 수 있다고 생각한다.</description>
       <content:encoded><![CDATA[<p><img src="https://cheesylazy.com/content/images/size/w2000/2022/07/--------.webp" alt="물가 상승에 대응하는 방법">
 <em>청상추 4kg이 5만 9천 원이 되던 날. 우리는 상추를 따러 텃밭에 갔다.</em></p>
@@ -1239,9 +1239,9 @@ Workshops and meetings.</p>
     </item>
     <item>
       <title>우리는 쉽게 흔들리지 않는다</title>
-      <link>https://k-writer.com/ko/blog/day-1/</link>
+      <link>https://kangmins.uk/ko/blog/day-1/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/day-1/</guid>
+      <guid>https://kangmins.uk/ko/blog/day-1/</guid>
       <description>모든 사람이 내가 추구하는 일이나 생각을 백 퍼센트 받아들이거나 좋아할 필요는 없다. 대다수가 나를 정말 싫어해도 소수의 사람에게 열정적인 지지를 받는 삶이 훨씬 더 &amp;lsquo;안티프래질&amp;rsquo;하다. Nassim Taleb&#xA;많은 사람이 &amp;lsquo;좋은 아이디어&amp;rsquo;라 말한다면 이미 다른 회사들이 하는 사업이다. 대부분 &amp;lsquo;안 좋은 생각&amp;rsquo;이라 말해도 내 생각에는 &amp;lsquo;좋은 아이디어&amp;rsquo;인 일을 해야 한다. Paul Graham&#xA;가게를 운영하면 여러 훈수를 마주하게 된다.&#xA;&amp;lsquo;장사는 결국 돈 벌려고 하는 거야.&amp;rsquo; &amp;lsquo;거기는 상권이 안 좋은데.&amp;rsquo; &amp;lsquo;이 상권에서 샌드위치는 잘 안 팔릴걸.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>모든 사람이 내가 추구하는 일이나 생각을 백 퍼센트 받아들이거나 좋아할 필요는 없다. 대다수가 나를 정말 싫어해도 소수의 사람에게 열정적인 지지를 받는 삶이 훨씬 더 &lsquo;안티프래질&rsquo;하다.
@@ -1262,9 +1262,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>&#39;기대 이상&#39;을 드리고 싶습니다</title>
-      <link>https://k-writer.com/ko/blog/hospitality/</link>
+      <link>https://kangmins.uk/ko/blog/hospitality/</link>
       <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/hospitality/</guid>
+      <guid>https://kangmins.uk/ko/blog/hospitality/</guid>
       <description>손님은 맛있고 따뜻한 상태로 음식이 빠르게 나오기를 기대한다. 하지만 환대(hospitality)를 추구한다면 손님이 당연하게 기대하는 가치 그 이상을 제공해야 한다. Danny Myer&#xA;&amp;ldquo;음식 가격이 너무 싼 거 아니에요?&amp;rdquo;&#xA;손님에게 이런 말을 꽤 자주 듣는다. 그럴 때면 &amp;lsquo;가격을 조금 높게 잡았어야 했나?&amp;rsquo; 하는 생각이 들기도 한다. &amp;lsquo;매출은 산소와 같다&amp;rsquo;는 말마따나 CHEESYLAZY가 이대로 살아남는 가게가 될 수 있을지 걱정이 되는 것도 사실이다. 하지만 오픈 2주 차인 우리에게 하루 매출은 가장 중요하지 않은 지표다.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>손님은 맛있고 따뜻한 상태로 음식이 빠르게 나오기를 기대한다. 하지만 환대(hospitality)를 추구한다면 손님이 당연하게 기대하는 가치 그 이상을 제공해야 한다.
@@ -1286,9 +1286,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>&#39;해본 사람&#39;이 되고 싶다</title>
-      <link>https://k-writer.com/ko/blog/doer/</link>
+      <link>https://kangmins.uk/ko/blog/doer/</link>
       <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/doer/</guid>
+      <guid>https://kangmins.uk/ko/blog/doer/</guid>
       <description>글을 쓰다 보면 멋있는 척을 하게 된다. 어떤 말을 해야 &amp;lsquo;있어 보일까&amp;rsquo; 고민하며 대충 아는 척하기도 한다.&#xA;이번 주 블로그에 무슨 글을 쓸까 고민하면서 여러 주제를 떠올렸다. 처음엔 &amp;lsquo;좋은 빵을 굽기 위해 지켜야 할 조건&amp;rsquo;을 적어볼까 싶었다. &amp;lsquo;코로나 시대에 살아남는 가게&amp;rsquo;에 대한 글도 좋을 것 같았다. 하지만 이런 주제를 다룰만한 실전 지식이 나에게 없다는 생각이 들었고, 바로 마음을 접었다.&#xA;당연하게도 지금의 나에게는 빵을 논할 자격이 부족하다. 수십 년 일한 제빵사도 &amp;lsquo;빵은 알다가도 모르겠다&amp;rsquo; 말한다.</description>
       <content:encoded><![CDATA[<p>글을 쓰다 보면 멋있는 척을 하게 된다. 어떤 말을 해야 &lsquo;있어 보일까&rsquo; 고민하며 대충 아는 척하기도 한다.</p>
 <p>이번 주 블로그에 무슨 글을 쓸까 고민하면서 여러 주제를 떠올렸다. 처음엔 &lsquo;좋은 빵을 굽기 위해 지켜야 할 조건&rsquo;을 적어볼까 싶었다. &lsquo;코로나 시대에 살아남는 가게&rsquo;에 대한 글도 좋을 것 같았다. 하지만 이런 주제를 다룰만한 실전 지식이 나에게 없다는 생각이 들었고, 바로 마음을 접었다.</p>
@@ -1299,9 +1299,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>환상의 부부 복식조</title>
-      <link>https://k-writer.com/ko/blog/duo/</link>
+      <link>https://kangmins.uk/ko/blog/duo/</link>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/duo/</guid>
+      <guid>https://kangmins.uk/ko/blog/duo/</guid>
       <description>결혼과 창업 나는 소신의 남편이자 창업 파트너다. &amp;lsquo;공동 창업자는 결혼 상대와 같다&amp;rsquo;라는 말이 있으니 천생연분이라 볼 수 있다. 하지만 부부라고 언제나 손발이 척척 맞는 건 아니다.&#xA;내가 생각하는 환상의 복식조는 몇 가지 특징이 있다.&#xA;효율적인 소통을 위해 노력한다. 업무적 책임과 역할을 분명히 나눈다. 서로에게 높은 기준을 요구한다. 효율적인 소통 상대방에 도움이 되는 의견을 전하기 위해서는 상당한 노력이 필요하다. 만약 소신이 나에게 가게 내부 조명에 관한 의견을 묻는다면 나는 질문을 제대로 이해하고 답할 의무가 있다.</description>
       <content:encoded><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662250344.webp" alt="Image title"></p>
 <h3 id="결혼과-창업">결혼과 창업</h3>
@@ -1330,9 +1330,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>아빠는 이겨낼 것이다</title>
-      <link>https://k-writer.com/ko/blog/father/</link>
+      <link>https://kangmins.uk/ko/blog/father/</link>
       <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/father/</guid>
+      <guid>https://kangmins.uk/ko/blog/father/</guid>
       <description>8년 전 수십 년간 아빠의 코안 깊숙한 곳에는 사랑니가 숨어 있었다. 숨쉬기 어려울 만큼 아빠를 힘들게 했지만 많은 의사가 이유를 모를 정도로 드문 문제였다.&#xA;아빠는 오랫동안 본인을 괴롭힌 치아를 뽑아내는 수술을 받고 나왔다. 아직 마취는 완전히 풀리지 않았고 얼굴은 퉁퉁 부어 있었다. 누가 봐도 정신없는 상황이지만 나와 눈이 마주쳤을 때 아빠는 엄지를 들어 올리며 크게 웃었다.&#xA;&amp;ldquo;민석아 너어무 개운하다.&amp;rdquo;&#xA;누워있는 아빠를 보며 미소를 지었지만 곧 눈물이 맺혔다.&#xA;4년 전 군대에 있을 때 아빠 간암 수술 소식을 들었다.</description>
       <content:encoded><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662250271.webp" alt="Image title"></p>
 <h3 id="8년-전">8년 전</h3>
@@ -1353,9 +1353,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>실제로 사용하는 무료 툴 모음</title>
-      <link>https://k-writer.com/ko/blog/tools/</link>
+      <link>https://kangmins.uk/ko/blog/tools/</link>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/tools/</guid>
+      <guid>https://kangmins.uk/ko/blog/tools/</guid>
       <description>북마크에 저장만 하고 쓰지 않는 툴이 아니다. 한번 쓰면 계속 찾게 되는 고마운 툴 친구들을 소개한다.&#xA;Wormhole 무료로 10GB까지 쓸 수 있는 파일 공유 서비스. 파일이나 폴더를 선택하면 공유 링크를 생성할 수 있다. 빠르고 간편하며 End-to-end encryption(종단간 암호화) 덕분에 프라이버시 걱정 없이 사용할 수 있다. Same Energy 이미지 검색 서비스. 빠르게 여러 이미지를 살펴볼 수 있어 레퍼런스를 찾아야 할 때 특히 유용하다. 한글 지원은 안 되니 영어로 검색해야 한다. Two Color Combinations 색상 조합을 고민할 때 사용하면 좋을 툴.</description>
       <content:encoded><![CDATA[<p>북마크에 저장만 하고 쓰지 않는 툴이 아니다. 한번 쓰면 계속 찾게 되는 고마운 툴 친구들을 소개한다.</p>
 <h3 id="wormholehttpswormholeapp"><a href="https://wormhole.app/">Wormhole</a></h3>
@@ -1410,9 +1410,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>쓸모 있는 기술</title>
-      <link>https://k-writer.com/ko/blog/skill/</link>
+      <link>https://kangmins.uk/ko/blog/skill/</link>
       <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/skill/</guid>
+      <guid>https://kangmins.uk/ko/blog/skill/</guid>
       <description>우주선 이론 지구 멸망 하루 전 정부는 공식으로 발표한다. &amp;ldquo;새로운 행성을 향해 탈출하는 우주선에 딱 100명을 데리고 가겠습니다. 모든 국민에게는 본인이 갖춘 능력을 어필할 수 있는 30초가 주어집니다.&amp;rdquo;&#xA;우선 문명을 건설하는 험난한 과정에 실질적인 도움이 될 기술이 무엇일지 알아야 한다. 유명세나 재산은 아무 의미 없다. 농업, 공학, 의학, 과학, 예술. 어떻게든 현대 사회에 빼놓을 수 없는 기술과 나를 엮어야 한다.&#xA;흠. 생각을 정리하지 못했지만 벌써 내 차례다. 나에게 주어진 30초 안에 뭐라도 말해야 한다.</description>
       <content:encoded><![CDATA[<h3 id="우주선-이론">우주선 이론</h3>
 <p>지구 멸망 하루 전 정부는 공식으로 발표한다. &ldquo;새로운 행성을 향해 탈출하는 우주선에 딱 100명을 데리고 가겠습니다. 모든 국민에게는 본인이 갖춘 능력을 어필할 수 있는 30초가 주어집니다.&rdquo;</p>
@@ -1444,9 +1444,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>대선 중독</title>
-      <link>https://k-writer.com/ko/blog/election/</link>
+      <link>https://kangmins.uk/ko/blog/election/</link>
       <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/election/</guid>
+      <guid>https://kangmins.uk/ko/blog/election/</guid>
       <description>대선 중독에는 몇 가지 증상이 있다.&#xA;눈뜨면 일단 대선 뉴스부터 찾아본다. 후보의 논란과 혐의에 걷잡을 수 없을 정도로 분노한다. 불만족스러운 대선 과정을 보며 무력감을 느낀다. ‘내 후보’가 당선 되도록 다른 사람을 설득해야 한다고 믿는다. 오직 ‘누구 뽑는지’를 기준으로 사람을 평가한다. 3월 9일이 다가올수록 대선 중독은 심해진다. 시끄러운 노래와 함성 소리는 이중창을 뚫고 들어오고, ‘아무리 그래도 나라를 위한다면 이 사람을 뽑아야지’라는 헛된 훈수는 여기저기서 메아리친다.&#xA;정확한 정보를 아는 상태로 투표하는 건 분명 중요하다.</description>
       <content:encoded><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662249997.webp" alt="Image title"></p>
 <p>대선 중독에는 몇 가지 증상이 있다.</p>
@@ -1471,9 +1471,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>우리 도메인, 우리 블로그</title>
-      <link>https://k-writer.com/ko/blog/ourblog/</link>
+      <link>https://kangmins.uk/ko/blog/ourblog/</link>
       <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/ourblog/</guid>
+      <guid>https://kangmins.uk/ko/blog/ourblog/</guid>
       <description>진짜 주인이 되는 길 나는 주인의 고유한 취향이 느껴지는 장소를 좋아한다. 그래서 CHEESYLAZY 블로그 역시 소신과 내가 어떤 사람인지 잘 보여줄 수 있는 특별한 장소가 되기를 원했다.&#xA;블로그를 만들기 위해 네이버나 브런치 같은 서비스를 사용할 수도 있었다. 웹사이트를 직접 만들면 노출이 쉽지 않고, 호스팅 비용이 든다는 문제 또한 알고 있었다. 하지만 그보다 언제든 원하는 만큼 디자인과 성능을 개선할 수 있는 자유가 더 중요하다 믿었다.&#xA;블로그를 만드는 건 우리가 추구하는 &amp;lsquo;Hard choices, easy life&amp;rsquo; 정신에도 잘 맞는 선택이었다.</description>
       <content:encoded><![CDATA[<h3 id="진짜-주인이-되는-길">진짜 주인이 되는 길</h3>
 <p>나는 주인의 고유한 취향이 느껴지는 장소를 좋아한다. 그래서 CHEESYLAZY 블로그 역시 소신과 내가 어떤 사람인지 잘 보여줄 수 있는 특별한 장소가 되기를 원했다.</p>
@@ -1509,9 +1509,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>학교가 가르쳐야 하는 것</title>
-      <link>https://k-writer.com/ko/blog/school/</link>
+      <link>https://kangmins.uk/ko/blog/school/</link>
       <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/school/</guid>
+      <guid>https://kangmins.uk/ko/blog/school/</guid>
       <description>악몽 난 학교가 배경인 악몽을 꾼다. 보통 꿈을 꾸어도 한 두시간 뒤면 까먹지만 내가 학생으로 나오는 꿈은 다르다.&#xA;꿈에서 나는 학점이나 시험을 망칠 거라는 두려움에 떨고 있다. 다음 날 있을 중요한 시험을 완전히 까먹고 있었다는 사실을 깨닫기도 하고, 신청했던 수업에 단 한 번도 출석하지 않았다는 걸 학기 말이 되어서야 알아차리기도 한다.&#xA;다른 상황, 같은 주제로 꿈은 반복된다. 학교에 다닌 지 5년이 넘었지만 내 잠재의식은 아직 학교에 머무는 것 같기도 하다. 아이러니하지만 학교가 나에게 남긴 가장 큰 흔적은 지식이 아닌 이 악몽이다.</description>
       <content:encoded><![CDATA[<h3 id="악몽">악몽</h3>
 <p>난 학교가 배경인 악몽을 꾼다. 보통 꿈을 꾸어도 한 두시간 뒤면 까먹지만 내가 학생으로 나오는 꿈은 다르다.</p>
@@ -1546,9 +1546,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>성장하는 삶</title>
-      <link>https://k-writer.com/ko/blog/growth/</link>
+      <link>https://kangmins.uk/ko/blog/growth/</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/growth/</guid>
+      <guid>https://kangmins.uk/ko/blog/growth/</guid>
       <description>변화는 선택이다 성찰하지 않는 삶은 살 가치가 없다. Socrates&#xA;중학생이었을 때 나는 모르는 사람 앞에 서는 걸 무서워했다. 이유는 복잡했다. 중국에서 유학하고 있지만 중국어를 잘 못 한다는 사실이 부끄러웠고, 나를 모른 체 하는 초등학교 친구들을 보면 외롭기도 했다.&#xA;우울한 상태에 중독되고 나니 사람들에게 생각을 표현하는 게 두려워졌다. 수업에서 발표할 때면 심장이 터질 듯 뛰었고, 5초에 한 번씩 목이 메었다. 하고 싶은 질문이 있어도 한 시간 내내 머릿속으로 리허설할 뿐 끝내 손을 들지 못했다.</description>
       <content:encoded><![CDATA[<h3 id="변화는-선택이다">변화는 선택이다</h3>
 <blockquote>
@@ -1611,9 +1611,9 @@ Paulo Coelho</p>
     </item>
     <item>
       <title>튼튼한 기반 그리고 과감한 실행</title>
-      <link>https://k-writer.com/ko/blog/basis/</link>
+      <link>https://kangmins.uk/ko/blog/basis/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/basis/</guid>
+      <guid>https://kangmins.uk/ko/blog/basis/</guid>
       <description>가게 문을 열 준비가 됐다는 건 어떻게 알 수 있을까?&#xA;얼마나 준비하고 시작해야 지속 가능한 가게를 만들 수 있을까?&#xA;최근 몇 주간 우리밀로 빵을 만들었다. 처음 우리밀을 쓰겠다고 결심한 건 좋은 제품을 향한 높은 기준 때문이었다. 하지만 듣던 대로 우리밀로 좋은 빵을 굽는 건 그리 간단하지 않았다. 기존에 쓰던 수입밀과 우리밀이 가진 특성이 너무 달랐기 때문에 소신과 나는 수분, 효모, 반죽에 변화를 주면서 우리밀 공부를 해야만 했다.&#xA;간만에 저녁 외식을 하고 산책을 하던 날, 소신은 ‘왜 우리가 지금 우리밀로 빵을 만들고 있는지 잘 모르겠다’고 고백했다.</description>
       <content:encoded><![CDATA[<p>가게 문을 열 준비가 됐다는 건 어떻게 알 수 있을까?</p>
 <p>얼마나 준비하고 시작해야 <a href="https://cheesylazy.com/long-term/">지속 가능한 가게</a>를 만들 수 있을까?</p>
@@ -1640,9 +1640,9 @@ Paulo Coelho</p>
     </item>
     <item>
       <title>미국의 도시들</title>
-      <link>https://k-writer.com/ko/blog/usa/</link>
+      <link>https://kangmins.uk/ko/blog/usa/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/usa/</guid>
+      <guid>https://kangmins.uk/ko/blog/usa/</guid>
       <description>미국으로 신혼여행을 다녀왔다.&#xA;시애틀, 미네소타, 내쉬빌, 뉴욕, 덴버, 포틀랜드. 동서남북 멀찌감치 떨어진 6개 도시에 총 4주간 머무는 동안 파타고니아 광고에 나올 법한 대자연을 봤고, 입안에 온갖 음식을 집어넣었으며, 오래된 친구를 만났다.&#xA;Mount Rainier National Park&#xA;우리만 우산 쓰고 있네 시애틀 사람은 비가 쏟아져도 우산을 쓰지 않는다. 방수 잘 되는 레인 재킷을 입고 관광객이 펼친 우산들 사이를 비집고 지나가야만 진정한 로컬이기 때문이다.&#xA;우리처럼 멀리서 온 사람과 대화는 언제나 날씨로 시작한다. &amp;ldquo;오늘 날씨가 안 좋아서 어떡해.</description>
       <content:encoded><![CDATA[<p>미국으로 신혼여행을 다녀왔다.</p>
 <p>시애틀, 미네소타, 내쉬빌, 뉴욕, 덴버, 포틀랜드. 동서남북 멀찌감치 떨어진 6개 도시에 총 4주간 머무는 동안 파타고니아 광고에 나올 법한 대자연을 봤고, 입안에 온갖 음식을 집어넣었으며, 오래된 친구를 만났다.</p>
@@ -1700,9 +1700,9 @@ Paulo Coelho</p>
     </item>
     <item>
       <title>어떤 글을 써야 할까?</title>
-      <link>https://k-writer.com/ko/blog/writing/</link>
+      <link>https://kangmins.uk/ko/blog/writing/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/writing/</guid>
+      <guid>https://kangmins.uk/ko/blog/writing/</guid>
       <description>블로그를 운영한 지 벌써 1년이 지났지만, 아직도 어떤 글을 써야 할지 모르겠다. 글을 쓰는 목표가 있는 건지 쓰고 싶은 주제가 무엇인지 혼란스럽기도 하다.&#xA;이유 굳이 도메인을 사서 블로그를 만든 이유가 뭘까? 내 글로 이루고 싶은 목표가 있을까?&#xA;내 블로그에는 광고와 뉴스가 없다. 더 많은 구독자나 조회 수에 연연하지도 않는다. 블로그는 나를 위해 존재한다. 왜냐면&amp;hellip;&#xA;읽기만 해서는 금방 까먹는다. 지식이나 영감이 날아가기 전 얼른 글을 써야 한다. 대학에서 논문을 쓰며 배우는 이유와 같다.</description>
       <content:encoded><![CDATA[<p>블로그를 운영한 지 벌써 1년이 지났지만, 아직도 어떤 글을 써야 할지 모르겠다. 글을 쓰는 목표가 있는 건지 쓰고 싶은 주제가 무엇인지 혼란스럽기도 하다.</p>
 <h3 id="이유">이유</h3>
@@ -1729,9 +1729,9 @@ Paulo Coelho</p>
     </item>
     <item>
       <title>우리는 직접 다가간다</title>
-      <link>https://k-writer.com/ko/blog/marketing/</link>
+      <link>https://kangmins.uk/ko/blog/marketing/</link>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/marketing/</guid>
+      <guid>https://kangmins.uk/ko/blog/marketing/</guid>
       <description>나는 삶에서 장기전을 추구한다. 투자, 관계, 창업과 같은 영역에서 단번에 성공하는 비결은 없다고 생각하기 때문이다. 치지레이지 10계명이 외치듯 쉬운 선택을 하면 삶이 어려워지고, 어려운 선택을 하면 오히려 삶은 쉬워진다고 믿는다.&#xA;그렇다면 우리는 어떤 방식으로 마케팅을 해야 할까?&#xA;쉬운 선택 타게팅 광고나 광고성 리뷰는 단기적 성과를 만드는 쉬운 선택이다. 인터넷으로 무엇이든 유통할 수 있는 시대에 누구나 자신의 미디어를 가질 수 있게 됐지만, 그만큼 남의 입을 사기도 쉬워졌다. 네이버 지도나 인스타그램에 적힌 후기가 과연 진짜일까 의심하는 일이 이제는 당연하게 느껴질 정도다.</description>
       <content:encoded><![CDATA[<p>나는 삶에서 장기전을 추구한다. 투자, 관계, 창업과 같은 영역에서 단번에 성공하는 비결은 없다고 생각하기 때문이다. <a href="https://cheesylazy.com/principles/">치지레이지 10계명</a>이 외치듯 쉬운 선택을 하면 삶이 어려워지고, 어려운 선택을 하면 오히려 삶은 쉬워진다고 믿는다.</p>
 <p>그렇다면 우리는 어떤 방식으로 마케팅을 해야 할까?</p>
@@ -1758,9 +1758,9 @@ Paulo Coelho</p>
     </item>
     <item>
       <title>You.com - 내가 원하는 검색</title>
-      <link>https://k-writer.com/ko/blog/youcom/</link>
+      <link>https://kangmins.uk/ko/blog/youcom/</link>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/youcom/</guid>
+      <guid>https://kangmins.uk/ko/blog/youcom/</guid>
       <description>내가 검색 앤진에 바라는 건 딱 3가지이다.&#xA;돈을 내고 구독할 마음도 있으니 광고나 트래커가 없으면 좋겠다. 내 검색 데이터가 수익 모델이 되는 걸 보고 싶지 않다.&#xA;특정 회사나 사이트를 편애하는 검색은 싫다. 검색 순위가 100% 공정할 수는 없겠지만 적어도 웹 전반에 같은 기준을 적용했으면 좋겠다.&#xA;검색하면 한 페이지에 글 10개 정도만 보여주는 기존 인터페이스에서 벗어나고 싶다. 한눈에 더 많을 정보를 보고 싶고, 어떻게든 첫 페이지에 들어가고자 SEO에 목매는 트렌드가 없어지길 바라기 때문이다.</description>
       <content:encoded><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662221100.webp" alt="Image title"></p>
 <p>내가 검색 앤진에 바라는 건 딱 3가지이다.</p>
@@ -1799,9 +1799,9 @@ Paulo Coelho</p>
     </item>
     <item>
       <title>Web3 이해하기 - Web1 &amp; Web2</title>
-      <link>https://k-writer.com/ko/blog/web3/</link>
+      <link>https://kangmins.uk/ko/blog/web3/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/web3/</guid>
+      <guid>https://kangmins.uk/ko/blog/web3/</guid>
       <description>Web3를 이해하려면 먼저 Web1과 Web2를 살펴봐야 한다.&#xA;Web1 (1990~2000년대 초반) 여러 잡지나 신문이 인터넷으로 옮겨지기 시작했지만, 관련 지식이나 자원을 갖춘 개발자나 기자가 아니면 인터넷에 글을 올리는 것조차 어려웠던 시대다.&#xA;간단히 말하면 인터넷은 정적인 글이나 이미지를 보여주는 도구였다. 채팅도 영상도 없는. 대다수의 사용자가 그저 보고 읽을 수밖에 없었던 쓸쓸한 형태가 바로 Web1이다.&#xA;Web2 (2000년대 초반~현재) 많은 인터넷 기반 기업이 닷컴 버블 도중 무너졌지만, 인터넷 기술은 끝없이 발전했다. 이제는 인터넷만큼 우리 삶에 큰 영향을 주는 기술을 떠올리기 힘들 정도다.</description>
       <content:encoded><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662220981.webp" alt="Image title"></p>
 <p>Web3를 이해하려면 먼저 Web1과 Web2를 살펴봐야 한다.</p>
@@ -1831,9 +1831,9 @@ Paulo Coelho</p>
     </item>
     <item>
       <title>설득의 심리학, 사피엔스, 이건 그냥 티셔츠가 아니야</title>
-      <link>https://k-writer.com/ko/blog/persuasion/</link>
+      <link>https://kangmins.uk/ko/blog/persuasion/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/persuasion/</guid>
+      <guid>https://kangmins.uk/ko/blog/persuasion/</guid>
       <description>설득의 심리학 2020년 코로나19 발병 이후 일본 보건 전문가들은 시민들의 마스크 착용 빈도를 조사했다. 심각한 전염성이나 보호 효과 등 마스크 쓸 이유는 많았지만 &amp;lsquo;다른 사람이 쓰는 걸 봤기 때문에&amp;rsquo;라는 한 가지 이유만이 마스크 착용 빈도에 주요한 변화를 만들었다.&#xA;온라인 소개팅 4억 2100만 건을 조사한 대규모 연구에 따르면 파트너에 느끼는 호감을 가장 잘 예측한 건 다름 아닌 유사성이었다. 연구자들은 생각, 성격, 배경, 생활방식 등에 있어 더 비슷할수록 실제로 만날 가능성이 월등히 높다는 걸 발견했다.</description>
       <content:encoded><![CDATA[<h3 id="설득의-심리학httpswwwamazoncominfluence-new-expanded-psychology-persuasion-ebookdpb08hz57wyn"><a href="https://www.amazon.com/Influence-New-Expanded-Psychology-Persuasion-ebook/dp/B08HZ57WYN/">설득의 심리학</a></h3>
 <blockquote>
@@ -1893,9 +1893,9 @@ Paulo Coelho</p>
     </item>
     <item>
       <title>결혼기념일</title>
-      <link>https://k-writer.com/ko/blog/marriage/</link>
+      <link>https://kangmins.uk/ko/blog/marriage/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/marriage/</guid>
+      <guid>https://kangmins.uk/ko/blog/marriage/</guid>
       <description>2020년 10월 10일 결혼식 이후 1년이 지났다.&#xA;1년간 은비와 함께 회사를 그만두고 가게를 차리기로 했고, 이사만 2번을 했으며, 서울을 떠나 제주도로 집을 옮겼다. 안정적으로 자리를 잡았을 때 할 수 있는 것이 결혼이라는 말과 반대로 우리는 부부가 되고 진짜 원하는 삶에 조금씩 다가가기 시작한 것이다.&#xA;결혼하고 살다 보면 비슷한 질문을 듣게 된다. 결혼을 왜 했는지, 싸우지는 않는지. 단순한 질문이지만 답하면서 새로운 사실을 깨닫기도 한다. 그만큼 은비와의 관계를 돌이켜보는 시간은 더 나은 사람이 되기 위한 명상과 같다.</description>
       <content:encoded><![CDATA[<p>2020년 10월 10일 결혼식 이후 1년이 지났다.</p>
 <p>1년간 은비와 함께 회사를 그만두고 <a href="https://cheesylazy.com/">가게</a>를 차리기로 했고, 이사만 2번을 했으며, 서울을 떠나 제주도로 집을 옮겼다. 안정적으로 자리를 잡았을 때 할 수 있는 것이 결혼이라는 말과 반대로 우리는 부부가 되고 진짜 원하는 삶에 조금씩 다가가기 시작한 것이다.</p>
@@ -1914,9 +1914,9 @@ Paulo Coelho</p>
     </item>
     <item>
       <title>에어로프레스 - 앨런 애들러</title>
-      <link>https://k-writer.com/ko/blog/aeropress/</link>
+      <link>https://kangmins.uk/ko/blog/aeropress/</link>
       <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/aeropress/</guid>
+      <guid>https://kangmins.uk/ko/blog/aeropress/</guid>
       <description>대학생 시절 샀던 $30짜리 에어로프레스를 쓴지 벌써 8년이 됐다. 어쩌면 내가 가장 오래 그리고 많이 사용한 물건인데 자세히 아는 것이 딱히 없다는 게 새삼스레 이상하게 느껴졌다.&#xA;에어로프레스는 누가 만들었을까? 사람들은 왜 에어로프레스를 좋아할까?&#xA;혹시 모른다. 궁금증을 없애면 모닝커피 맛이 더 좋아질지.&#xA;발명가 앨런 애들러 Alan Adler 어렸을 때부터 원시적인 재료로 뭐든지 만드는 걸 좋아했습니다. 한번은 집 근처 철도 위에 못을 감아두고 납작하게 눌린 철로 미니어처 검을 만들기도 했어요. 만든 물건은 친구들이 가진 다른 장난감과 교환했고요.</description>
       <content:encoded><![CDATA[<p>대학생 시절 샀던 $30짜리 에어로프레스를 쓴지 벌써 8년이 됐다. 어쩌면 내가 가장 오래 그리고 많이 사용한 물건인데 자세히 아는 것이 딱히 없다는 게 새삼스레 이상하게 느껴졌다.</p>
 <p>에어로프레스는 누가 만들었을까? 사람들은 왜 에어로프레스를 좋아할까?</p>
@@ -1990,9 +1990,9 @@ Paulo Coelho</p>
     </item>
     <item>
       <title>일, 미래 보장, 관중이 아닌 사업</title>
-      <link>https://k-writer.com/ko/blog/work/</link>
+      <link>https://kangmins.uk/ko/blog/work/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/work/</guid>
+      <guid>https://kangmins.uk/ko/blog/work/</guid>
       <description>일 Ju/&amp;lsquo;hoansi(남아프리카에 거주하는 한 부족)와 같은 수렵채집인들은 굶주림에 허덕이며 살지 않았다. 오히려 대부분의 농경 사회 사람들보다 더 오래 살았고, 좋은 건강 상태를 유지했으며, 일주일에 15시간 이상 일하는 경우가 거의 없었기 때문에 휴식과 여가에 대부분의 시간을 보냈다. 또한 일상에서 음식을 저장하거나 부와 지위를 높이는 데 신경 쓰지 않았기 때문에 오로지 단기적인 물질적 욕구를 충족하기 위해서 일했다.&#xA;수렵채집인들의 삶은 결핍에 대한 집착 대신 풍요로울 거라는 믿음을 중심으로 움직였다. 30만 년 역사 중 95% 이상을 수렵과 채집을 하며 살았던 호모 사피엔스를 보자면 인간이 본능적으로 결핍을 문제 삼으며 일하는 사고방식이 농업 사회에 뿌리를 두고 있다고 말할 수 있다.</description>
       <content:encoded><![CDATA[<h3 id="일httpswwwamazoncomwork-deep-history-stone-robots-ebookdpb08817m9ss"><a href="https://www.amazon.com/Work-Deep-History-Stone-Robots-ebook/dp/B08817M9SS/">일</a></h3>
 <blockquote>
@@ -2028,9 +2028,9 @@ Paulo Coelho</p>
     </item>
     <item>
       <title>스티브 잡스, 이성적 낙관주의자, 파인만의 여섯 가지 물리 이야기</title>
-      <link>https://k-writer.com/ko/blog/3-books/</link>
+      <link>https://kangmins.uk/ko/blog/3-books/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/3-books/</guid>
+      <guid>https://kangmins.uk/ko/blog/3-books/</guid>
       <description>스티브 잡스 잡스의 아버지는 보이지 않는 부품까지 신경 쓰는 장인 정신이 곧 완벽을 의미한다고 가르쳤다. 그리고 잡스는 이러한 가르침을 Apple II 내부 회로판 배치에 적용했다. 회로 모양이 똑바르지 않다는 이유만으로 초기 디자인을 퇴짜놓은 것이다.&#xA;매킨토시 디자인이 최종 확정되었을 때, 잡스는 매킨토시 팀원들을 모아 축하했다. &amp;ldquo;진짜 아티스트들은 작품에 이름을 남기지.&amp;rdquo; 잡스는 종이 한 장과 마커를 건네며 팀원 모두 이름을 적게 했다. 시간이 지나고 종이에 적힌 서명들은 출하되는 매킨토시 내부에 새겨졌다. 아무도 몰라봤지만, 팀원들만큼은 자신의 서명이 제품 안에 존재한다는 걸 알고 있었다.</description>
       <content:encoded><![CDATA[<h3 id="스티브-잡스httpwwwyes24comproductgoods5788279"><a href="http://www.yes24.com/Product/Goods/5788279">스티브 잡스</a></h3>
 <blockquote>
@@ -2066,9 +2066,9 @@ Paulo Coelho</p>
     </item>
     <item>
       <title>부처님의 감정수업 - 화를 다스리는 방법</title>
-      <link>https://k-writer.com/ko/blog/anger/</link>
+      <link>https://kangmins.uk/ko/blog/anger/</link>
       <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/anger/</guid>
+      <guid>https://kangmins.uk/ko/blog/anger/</guid>
       <description>화를 붙들고 있다는 건 누군가에게 던질 작정으로 불타는 석탄을 손에 쥐고 있는 것과 같다. 부처&#xA;나는 화가 나면 조용해진다. 어떻게든 요동치는 감정을 짓누르려다보니 온몸이 돌처럼 굳어버리는 것이다. 이러한 행동이 상대방에게 피해를 주지 않으면 좋겠지만, 그런 것도 아니다. 별다른 말 없이도 차가운 눈빛과 태도로 주위 사람에게 상처를 주기 때문이다.&#xA;이처럼 화를 억누르는 습관은 결국 여러 문제를 초래했다.&#xA;화가 나는 이유를 나조차 정확히 알 수 없어 소통을 통한 해결이 어려워졌다. 화가 사라지는 데까지 걸리는 시간이 가면 갈수록 길어졌다.</description>
       <content:encoded><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662424911.webp" alt="Image title"></p>
 <blockquote>
@@ -2119,9 +2119,9 @@ Paulo Coelho</p>
     </item>
     <item>
       <title>익숙하지만 새로운 맛</title>
-      <link>https://k-writer.com/ko/blog/taste/</link>
+      <link>https://kangmins.uk/ko/blog/taste/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/taste/</guid>
+      <guid>https://kangmins.uk/ko/blog/taste/</guid>
       <description>엄청나게 맛있다는 건 눈앞의 음식에 단순 반응 하는 것 이상을 의미한다. 영화 &amp;lsquo;라따뚜이&amp;rsquo; 속 비평가가 그렇듯, &amp;lsquo;맛있음&amp;rsquo;은 특별한 기억을 끄집어내기 때문이다. David Chang&#xA;CHEESYLAZY는 &amp;lsquo;진짜 맛있는 음식&amp;rsquo;을 내놓을 수 있을까? 소신과 함께 메뉴를 구상하며 시행착오을 겪다 보니 &amp;lsquo;맛있음&amp;rsquo;에 대한 고민이 머리를 떠나지 않았다. 아직 갈 길이 멀지만, 맛에 대한 기준을 가져야 한다고 생각했기 때문이다.&#xA;익숙해야 맛있다 어떻게 보면 &amp;lsquo;맛있다&amp;rsquo;는 표현은 &amp;lsquo;익숙하다&amp;rsquo;와 같다.&#xA;&amp;lsquo;어떤 음식이 가장 맛있다고 생각하세요?&amp;lsquo;라는 질문에 치킨, 삼겹살, 짜장면, 떡볶이, 김치찌개 외 답을 할 한국인은 많지 않다.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>엄청나게 맛있다는 건 눈앞의 음식에 단순 반응 하는 것 이상을 의미한다. 영화 &lsquo;라따뚜이&rsquo; 속 비평가가 그렇듯, &lsquo;맛있음&rsquo;은 특별한 기억을 끄집어내기 때문이다.
@@ -2159,9 +2159,9 @@ Paulo Coelho</p>
     </item>
     <item>
       <title>규칙을 부셔야 배울 수 있다</title>
-      <link>https://k-writer.com/ko/blog/break-rules/</link>
+      <link>https://kangmins.uk/ko/blog/break-rules/</link>
       <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/break-rules/</guid>
+      <guid>https://kangmins.uk/ko/blog/break-rules/</guid>
       <description>착각 프로처럼 규칙을 배우고 예술가로서 규칙을 부셔야 한다. Pablo Picasso&#xA;학교에서 &amp;lsquo;좋은 학생&amp;rsquo;이 되고 싶다면 여러 규칙을 받아들여야 한다 — 시험 점수가 배움의 기준이 되기에 정해진 정답을 스스로 주입하는 것이다. 여기서 이론과 공식은 숭배 대상이기 때문에 의심할 수도 없다.&#xA;&amp;lsquo;좋은 학생&amp;rsquo;이 되어야 한다는 착각은 어른들 사이에서도 흔하게 발견된다 (어쩌면 더 심해진다). 특정 믿음, 이론, 이념을 정답으로 받아들이고 이를 다른 사람에게 강요하는 자들을 보면 알 수 있다.&#xA;진정한 배움은 암기를 거듭하며 조금씩 사라진다.</description>
       <content:encoded><![CDATA[<h2 id="착각">착각</h2>
 <blockquote>
@@ -2190,9 +2190,9 @@ Pablo Picasso</p>
     </item>
     <item>
       <title>모건 하우절 - 돈의 심리학</title>
-      <link>https://k-writer.com/ko/blog/morgan-housel/</link>
+      <link>https://kangmins.uk/ko/blog/morgan-housel/</link>
       <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/morgan-housel/</guid>
+      <guid>https://kangmins.uk/ko/blog/morgan-housel/</guid>
       <description>부자 얼마나 똑똑한지는 중요하지 않다. 어떻게 행동할지가 富를 결정한다. Morgan Housel&#xA;부자가 되는 원칙은 단순하다:&#xA;자신에게 맞는 목표를 설정한다. 절약하고 저금한다. 장기 투자를 통해 복리효과를 노린다. 그리고 이 세 가지 원칙은 목표, 절약, 저금, 복리, 성공에 대한 고민을 기반으로 지켜진다.&#xA;목표 재정 관리에서 가장 어려운 부분은 목표가 더 높아지지 않도록 막는 것이다. Morgan Housel&#xA;모든 사람에게는 고유한 경제적 목표가 있다. 하지만 왜 부자가 되고 싶은지 아는 사람은 많지 않다. &amp;lsquo;나는 그냥 10억만 있으면 돼&amp;rsquo; 같은 얕은 결심은 외부 요인에 쉽게 휘둘린다.</description>
       <content:encoded><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662219786.jpg" alt="Image title"></p>
 <h2 id="부자">부자</h2>
@@ -2261,9 +2261,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>이응노 - 창작하는 정신</title>
-      <link>https://k-writer.com/ko/blog/lee-eung-no/</link>
+      <link>https://kangmins.uk/ko/blog/lee-eung-no/</link>
       <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/lee-eung-no/</guid>
+      <guid>https://kangmins.uk/ko/blog/lee-eung-no/</guid>
       <description>예술가 그리지 못한다는 것은 나로서 죽음과도 같다.‌‌‌‌ 이응노&#xA;창작이 어렵게만 느껴질 때 이응노 작가가 만든 작품을 보고 감명을 받았다. 작가가 동베를린 사태에 휘말려 2년 반가량 억울한 징역살이를 하던 시절 제작한 작품들은 감동을 주기까지 했다.&#xA;누군가에 대하여 알고 싶다면 &amp;lsquo;어떤 말을 했는가&amp;rsquo;보다 &amp;lsquo;어떤 작품을 만들었는가&amp;rsquo;가 기준이 되어야 한다고 생각한다. 그런 의미에서 이응노 작가는 내가 본 그 어떤 사람보다도 창작을 사랑하는 진정한 예술가다.&#xA;수감 중 나무 도시락, 종이, 밥풀, 고추장, 간장 등을 이용해 만든 작품들.</description>
       <content:encoded><![CDATA[<h2 id="예술가">예술가</h2>
 <blockquote>
@@ -2303,9 +2303,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>지속 가능한 가게</title>
-      <link>https://k-writer.com/ko/blog/long-term/</link>
+      <link>https://kangmins.uk/ko/blog/long-term/</link>
       <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/long-term/</guid>
+      <guid>https://kangmins.uk/ko/blog/long-term/</guid>
       <description>실패한 레스토랑이 묻힌 무덤은 매우 조용하다. Nassim Taleb&#xA;식당은 망한다 빈자리에는 새로운 식당이 들어온다. &amp;lsquo;나는 망하지 않을 거야&amp;rsquo;라는 생각이 반복되는 것이다. CHEESYLAZY는 다를까? 우리는 지속하는 가게가 될 수 있을까? &amp;lsquo;성공&amp;rsquo;에는 어떠한 자세와 노력이 필요할까?&#xA;소신은 &amp;ldquo;제대로 준비하지 못해서 발생한 실패는 받아들일 수 없다&amp;quot;고 말했고, 나는 이에 동의한다. 물론 실패를 100% 방지할 수는 없겠지만, 후회 없는 과정만큼은 의지로 이루어낼 수 있다.&#xA;우리는 망하더라도 &amp;lsquo;제대로&amp;rsquo; 망하고 싶다.&#xA;버티는 가게 일본에 위치한 타마히데, 혼케 오와리야, 이치몬지야 와스케는 수백 년간 같은 메뉴(오야코동, 소바, 모찌)만을 고집했다.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>실패한 레스토랑이 묻힌 무덤은 매우 조용하다.
@@ -2330,9 +2330,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>나는 주인이 되는 일을 하기로 했다</title>
-      <link>https://k-writer.com/ko/blog/owner/</link>
+      <link>https://kangmins.uk/ko/blog/owner/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/owner/</guid>
+      <guid>https://kangmins.uk/ko/blog/owner/</guid>
       <description>영혼이 깃든 정신은 자신의 것에 주인이 되고자 하는 욕망을 연구하면서 생겨난다; 영혼은 결국 자기 의존의 문제다. - Matthew B. Crawford&#xA;나는 주인이 되는 일을 하기로 했다.&#xA;위험을 무릅쓰고 도전을 하는 데는 크게 3가지 이유가 있다:&#xA;누군가 혹은 회사가 지향하는 가치에 맞춰 일하고 싶지 않다.&#xA;말이 아닌 실행, 소비가 아닌 창조에 집중하고 싶다.&#xA;주 40시간 틀에서 벗어나 내가 원하는 삶을 향해 나아가고 싶다.&#xA;그렇다면 어떤 일을 해야 할까?&#xA;일과 삶의 경계가 자의적으로 무너질 정도로 몰두할 수 있는 일을 찾고 싶은 마음에 혼자 불안해하기도 하고 아내와 깊은 대화를 나누기도 했다.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>영혼이 깃든 정신은 자신의 것에 주인이 되고자 하는 욕망을 연구하면서 생겨난다; 영혼은 결국 자기 의존의 문제다. - <a href="https://www.amazon.com/Shop-Class-Soulcraft-Inquiry-Value/dp/0143117467">Matthew B. Crawford</a></p>
@@ -2371,9 +2371,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>게으른 리더십 - 생산은 집중에서 시작한다</title>
-      <link>https://k-writer.com/ko/blog/lazy-leadership/</link>
+      <link>https://kangmins.uk/ko/blog/lazy-leadership/</link>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/lazy-leadership/</guid>
+      <guid>https://kangmins.uk/ko/blog/lazy-leadership/</guid>
       <description>게으른 리더십이란 해먹에 종일 앉아있거나 코스타리카에서 매일 4시간씩 일하는 걸 말하는 게 아니다. 이는 업무에 직접 참여하는 대신 관찰자가 되어 한 발짝 물러선 상태로 팀에게 기대는 것을 의미한다. - Andrew Wilkinson&#xA;성공한 사람들은 한 걸음 물러나 재능있는 사람이 원하는 일을 하도록 하는 &amp;lsquo;기계&amp;rsquo;를 디자인한다. - Ray Dalio&#xA;사장인 내가 할 일은 나보다 그 분야를 잘 아는 사람을 선정해서 일을 맡기는 것이다. 그 사람이 리더가 되어 필요한 멤버들을 모아 최선을 다해 개발한다.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>게으른 리더십이란 해먹에 종일 앉아있거나 코스타리카에서 매일 4시간씩 일하는 걸 말하는 게 아니다. 이는 업무에 직접 참여하는 대신 관찰자가 되어 한 발짝 물러선 상태로 팀에게 기대는 것을 의미한다. - <a href="https://www.linkedin.com/pulse/lazy-leadership-why-i-rarely-go-office-only-see-my-team-wilkinson/">Andrew Wilkinson</a></p>
@@ -2406,9 +2406,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>틱낫한 - 행복, 사랑, 목적</title>
-      <link>https://k-writer.com/ko/blog/thich-nhat-hanh/</link>
+      <link>https://kangmins.uk/ko/blog/thich-nhat-hanh/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/thich-nhat-hanh/</guid>
+      <guid>https://kangmins.uk/ko/blog/thich-nhat-hanh/</guid>
       <description>틱낫한 스님의 책에서 나온 내용 중 개인적으로 가장 와 닿았던 부분만 편집하여 번역했다.&#xA;사고 마음이 도시에 빠져 있다면 평화로운 숲에 앉아 봐야 아무 소용 없다.&#xA;집중은 기쁨과 행복을 만든다.&#xA;고통 없이는 성장할 수도, 마땅한 평화와 기쁨을 가질 수도 없다.&#xA;비영구성은 고통을 초래하지 않는다. 영구적이길 바라는 희망이 우리를 고통스럽게 한다.&#xA;도망치지 않고 현재 그리고 나 자신을 아껴야만 행복을 이룰 수 있다. 다른 사람이 되지 않아도 된다. 당신의 삶은 이미 경이롭다.&#xA;모두가 아는 단순한 사실이지만 다시 한번 말할 필요가 있다: 당신은 감정보다 훨씬 더 큰 존재다.</description>
       <content:encoded><![CDATA[<p>틱낫한 스님의 <a href="https://www.amazon.com/Pocket-Thich-Nhat-Shambhala-Classics/dp/1590309367">책</a>에서 나온 내용 중 개인적으로 가장 와 닿았던 부분만 편집하여 번역했다.</p>
 <h2 id="사고">사고</h2>
@@ -2489,9 +2489,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>발라지 스리니바산 - 미디어, 기술, 영생</title>
-      <link>https://k-writer.com/ko/blog/balaji/</link>
+      <link>https://kangmins.uk/ko/blog/balaji/</link>
       <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/balaji/</guid>
+      <guid>https://kangmins.uk/ko/blog/balaji/</guid>
       <description>팀 페리스 (Tim Ferriss)와 발라지 스리니바산 (Balaji Srinivasan)이 나눈 대화 그리고 Balaji가 쓴 글을 보고 인상 깊었던 부분을 번역했다.&#xA;미디어 (2021. 03. 24) 코드가 기계를 만들듯, 미디어는 사람을 만든다.&#xA;인터뷰를 진행하는 기자는 대화를 마음대로 수정하고 배급할 수 있다. 그에 반해 인터뷰에 참여하는 사람은 기사를 편집하고 유통하는 과정에 전혀 관여할 수 없다.&#xA;이러한 불균형은 언론 개혁이 아닌 근본적인 탈중앙화로 해결할 수 있다. 기업형 언론과 반대로 모두가 기자가 되는 시민 언론(citizen journalism)은 한 가지 예시다.</description>
       <content:encoded><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662218464.webp" alt="Image title"></p>
 <p>팀 페리스 (Tim Ferriss)와 발라지 스리니바산 (Balaji Srinivasan)이 나눈 <a href="https://tim.blog/2021/03/25/balaji-srinivasan-transcript/">대화</a> 그리고 <a href="https://balajis.com/about/">Balaji</a>가 쓴 <a href="https://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations/">글</a>을 보고 인상 깊었던 부분을 번역했다.</p>
@@ -2567,9 +2567,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>나심 탈레브 - 안티프래질</title>
-      <link>https://k-writer.com/ko/blog/antifragile/</link>
+      <link>https://kangmins.uk/ko/blog/antifragile/</link>
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/antifragile/</guid>
+      <guid>https://kangmins.uk/ko/blog/antifragile/</guid>
       <description>안티프래질은 탄성이나 견고성을 넘어서는 개념이다. 탄성이 좋다면 충격에 변함없는 상태 유지가 가능하지만 안티프래질하다면 충격을 계기로 오히려 더 번영할 수 있다.&#xA;일상에서 불확실성은 쉽게 발견된다. 비행기가 이착륙할 때 불안함을 느끼고, 아끼던 카페가 폐업했을 때 한숨을 쉬거나, 갑자기 발목을 접질리기도 한다. 이토록 예측할 수 없는 변수가 많지만 삶에서 마주하는 불확실성에 대하여 깊게 고민하지 못한다.&#xA;탈레브는 인간이 참 혹은 거짓을 기준으로 결정하며 실수를 저지른다고 말한다. 환자는 운동보다 수술을, 대학생은 창업보다 공무원 시험을, 정치인은 진실보다 감언을 선택하게 만드는 환경에서 어쩌면 변수는 억눌러야 할 골칫거리일 뿐이다.</description>
       <content:encoded><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662218184.webp" alt="나심탈레브"></p>
 <blockquote>
@@ -2612,9 +2612,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>Obsidian을 쓰는 이유</title>
-      <link>https://k-writer.com/ko/blog/obsidian/</link>
+      <link>https://kangmins.uk/ko/blog/obsidian/</link>
       <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/obsidian/</guid>
+      <guid>https://kangmins.uk/ko/blog/obsidian/</guid>
       <description>노트 앱 시장은 포화 상태다. Evernote가 2016년 전 세계 2억 유저를 확보한 이후 Notion, Roam Research, Coda, Mem과 같은 노트 서비스가 계속해서 생기고 있다.&#xA;노션에 계정이 있기는 하지만 느린 속도가 거슬려 잘 사용하지 않았다. 이상하게도 쓰면 쓸수록 글자가 아닌 정리된 외관에 신경 쓰게 되는 문제도 있었다. 결국 새로운 노트 앱을 찾고자 여러 서비스를 비교해보던 중 Obsidian을 발견했다.&#xA;특징 먼저 전통적인 선형 구조가 아닌 양방향 링크(Bi-directional linking)를 지원한다. 노션도 양방향 링크를 지원하기는 하지만 폴더에 파일을 넣는 계층 시스템을 기반으로 삼다 보니 문서가 거미줄처럼 얽히는 구조를 만들기는 어렵다.</description>
       <content:encoded><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662217589.PNG" alt="Image title"></p>
 <p>노트 앱 시장은 포화 상태다. <a href="https://evernote.com/intl/ko/">Evernote</a>가 2016년 전 세계 <a href="https://platum.kr/archives/62058">2억</a> 유저를 확보한 이후 <a href="https://www.notion.so/">Notion</a>, <a href="https://roamresearch.com/">Roam Research</a>, <a href="https://coda.io/welcome">Coda</a>, <a href="https://mem.ai/">Mem</a>과 같은 노트 서비스가 계속해서 생기고 있다.</p>
@@ -2655,9 +2655,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>Substack에서 Ghost로 옮긴 이유</title>
-      <link>https://k-writer.com/ko/blog/ghost/</link>
+      <link>https://kangmins.uk/ko/blog/ghost/</link>
       <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/ghost/</guid>
+      <guid>https://kangmins.uk/ko/blog/ghost/</guid>
       <description>작가와 협력하는 뉴스레터 플랫폼 Substack이 잘 나간다는 건 세 가지를 상징한다:&#xA;정보화 시대에도 글로 독립적인 수익 창출이 가능하다.&#xA;많은 사람들은 기업이 아닌 개인이 전달하는 정보를 더 신뢰한다.&#xA;글 쓰고 싶어 하는 사람이 정말 많다.&#xA;하지만 한 달간 써보니 여러가지 단점이 있었다:&#xA;서비스 내 한국어 지원이 안 된다. 한국어로 레터를 보냈을 때 자음과 모음이 분리되는 경우가 있다. 자체 에디터에서 한국어를 쓰면 두 번씩 입력되는 오류가 발생한다. 한글에 적합한 폰트를 제공하지 않는다. 사이트 레이아웃 변경이 불가능하다 (디자인 자유도가 낮다).</description>
       <content:encoded><![CDATA[<p>작가와 협력하는 뉴스레터 플랫폼 <a href="https://substack.com/">Substack</a>이 <a href="https://techcrunch.com/2021/03/30/substack-confirms-65m-raise-promises-to-rapidly-expand-its-financial-backing-of-newly-independent-writers/">잘 나간다는 건</a> 세 가지를 상징한다:</p>
 <ol>
@@ -2691,9 +2691,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>데이비드 포스터 월리스 - &#39;이것은 물이다&#39;</title>
-      <link>https://k-writer.com/ko/blog/this-is-water/</link>
+      <link>https://kangmins.uk/ko/blog/this-is-water/</link>
       <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/this-is-water/</guid>
+      <guid>https://kangmins.uk/ko/blog/this-is-water/</guid>
       <description>2005년에 있었던 Kenyon College 졸업 연설에서 데이비드 포스터 월리스는 기본 설정(default setting)에서 벗어난 독립적 사고방식이 무엇이고 어떤 의미를 가지는지 설명한다.&#xA;고등학생 시절 우연히 이 연설을 듣게 된 이후 여러 차례 찾아 들을 정도로 좋아했기에 가장 와 닿았던 부분을 번역해 본다.&#xA;물고기 이야기 어린 물고기 두 마리와 어른 물고기가 만난다. 어른 물고기는 “애들아 오늘 물 상태가 어떠냐?” 물어보며 지나간다. 가던 길 가던 어린 물고기들은 서로를 바라보며 묻는다.&#xA;“물이 대체 뭔데?”</description>
       <content:encoded><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662217261.webp" alt="Image title"></p>
 <p>2005년에 있었던 Kenyon College 졸업 연설에서 데이비드 포스터 월리스는 기본 설정(default setting)에서 벗어난 독립적 사고방식이 무엇이고 어떤 의미를 가지는지 설명한다.</p>
@@ -2754,9 +2754,9 @@ Nassim Taleb</p>
     </item>
     <item>
       <title>디자인은 사고방식이다</title>
-      <link>https://k-writer.com/ko/blog/design/</link>
+      <link>https://kangmins.uk/ko/blog/design/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/design/</guid>
+      <guid>https://kangmins.uk/ko/blog/design/</guid>
       <description>디자인은 ‘어떻게 보여주지’가 아니다. ‘어떻게 작동할지’에 관한 문제다. Steve Jobs&#xA;‘사랑이 무엇이냐’ 묻는 것과 같다. ‘디자인’이라는 단어가 가지는 의미는 언어로 설명할 수 없을 정도로 다채롭고 방대하기 때문이다. 심지어 전능한 신이 우주를 창조하는 행동도 ‘디자인’이라는 단어로 표현된다.&#xA;인간 혹은 지구가 직면한 문제는 무한하기에 디자인은 영원토록 필요할 수밖에 없다. 예를 들어 코로나 백신, 전기 배터리, 생분해성 플라스틱을 개발하고 배포하는 과정 모두 디자인이다. 시각장애인이 가질 불편함을 이해하고 지하철에 점자와 스피커를 설치하는 결정 또한 디자인이다.</description>
       <content:encoded><![CDATA[<p><img src="https://i0.wp.com/cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90646e45-8be6-4925-94a0-bda308f40b00_1389x2000.jpeg?resize=300%2C432&amp;ssl=1" alt="Hello World by Alice Rawsthorn"></p>
 <blockquote>
@@ -2813,9 +2813,9 @@ Dieter Rams</p>
     </item>
     <item>
       <title>아르투어 쇼펜하우어 - 독서</title>
-      <link>https://k-writer.com/ko/blog/reading/</link>
+      <link>https://kangmins.uk/ko/blog/reading/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/reading/</guid>
+      <guid>https://kangmins.uk/ko/blog/reading/</guid>
       <description>많이 먹는다고 요리를 잘하는 게 아니듯 많이 읽는다고 똑똑해지는 것도 아니다. 독서가 고작 눈 운동이라면 책은 바보를 키우는 거름밖에 안 된다.&#xA;독서에 온종일 빠져 사는 사람은 점차 자기 스스로 생각하는 능력을 잃게 된다. … 과식이 소화를 망치고 건강을 해치듯, 과한 영양분은 정신을 질식시킨다.&#xA;책 좀 그만 읽으라는 조언은 드물다. 독서량이 지식과 비례한다는 환상에 억지로 책을 읽게 되는 경우도 있다.&#xA;당연하지만 책을 산다고 지식이 따라오는 건 아니다. 실제로 읽어보고 고민에 빠져야 하며 적당한 방식으로 소화해야 조용히 ‘아하’를 외칠 수 있다.</description>
       <content:encoded><![CDATA[<p>많이 먹는다고 요리를 잘하는 게 아니듯 많이 읽는다고 똑똑해지는 것도 아니다. 독서가 고작 눈 운동이라면 책은 바보를 키우는 거름밖에 안 된다.</p>
 <blockquote>
@@ -2866,9 +2866,9 @@ Dieter Rams</p>
     </item>
     <item>
       <title>The Almanack of Naval Ravikant를 다시 읽었다</title>
-      <link>https://k-writer.com/ko/blog/the-almanack-of-naval-ravikant/</link>
+      <link>https://kangmins.uk/ko/blog/the-almanack-of-naval-ravikant/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/the-almanack-of-naval-ravikant/</guid>
+      <guid>https://kangmins.uk/ko/blog/the-almanack-of-naval-ravikant/</guid>
       <description>빠르게 부자 되는 방법은 없다. 있다면 다른 사람이 당신을 이용해 부자가 되려는 계략이다.&#xA;3분 카레 돌려 먹듯 부자가 될 수 있을 거라는 환상은 쉽게 찾아볼 수 있다. 하지만 누군가가 스마트스토어로, 식당을 차려서, 투자를 잘해서 부자가 된 일화를 그대로 따라 한다고 해서 그들처럼 될 수 있는 것은 아니다.&#xA;명언이나 자서전에서 처방하는 영감을 상하기 마련이다.&#xA;시간을 파는 방법으로는 절대 부자가 될 수 없다.&#xA;라비칸트는 “돈이나 지위가 아닌 자산”이 있는 사람을 부자라 말한다.</description>
       <content:encoded><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662215997.jpg" alt="almanackofnaval"></p>
 <blockquote>
@@ -2940,9 +2940,9 @@ Dieter Rams</p>
     </item>
     <item>
       <title>우리는 특별한 순간에 살고 있다</title>
-      <link>https://k-writer.com/ko/blog/infinity/</link>
+      <link>https://kangmins.uk/ko/blog/infinity/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/infinity/</guid>
+      <guid>https://kangmins.uk/ko/blog/infinity/</guid>
       <description>지식 과학이란 자신을 속이지 않는 방법을 배우는 것이다. Richard Feynman&#xA;물리학자 데이비드 도이치에 따르면 약 10만 년 간 현대 인류는 별다른 발전을 이루어내지 못했다. 매일 아침 햇빛을 받아도 태양이 어떻게 에너지를 방출하는지 알지 못했고 계절이 바뀌어도 지구가 기울어져 있다는 사실을 깨닫지 못했다.&#xA;그렇다면 인간은 언제부터 발전하기 시작했을까? 도이치는 _좋은 설명_이 발생하기 시작한 17~18세기 유럽 계몽기를 지식 발전의 시작점이라 말한다. 그리고 이 주장을 이해하려면 도이치가 정의한 좋은 설명(good explanation)과 나쁜 설명(bad explanation)을 이해해야 한다.</description>
       <content:encoded><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662215298.webp" alt="Image title"></p>
 <h2 id="지식"><strong>지식</strong></h2>
@@ -3015,9 +3015,9 @@ Dieter Rams</p>
     </item>
     <item>
       <title>진로는 어떻게 정하는가</title>
-      <link>https://k-writer.com/ko/blog/career/</link>
+      <link>https://kangmins.uk/ko/blog/career/</link>
       <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/career/</guid>
+      <guid>https://kangmins.uk/ko/blog/career/</guid>
       <description>인간은 무엇을 원하는지 모르는 생명체이기 때문에 타인이 쫓는 목표를 모방하여 결정을 내린다.&#xA;René Girard&#xA;르네 지라르의 모방이론에 따르면 인간의 욕망은 제3자를 따라 하면서 발생하며 인간은 이러한 동물적 본능 탓에 치열한 경쟁을 벗어나지 못한다.1&#xA;모방이론을 믿지 않는다고 해도 무언가를 순수하게 원하는 경험은 흔치 않다. 가정에서 시작해 학교 그리고 회사에서 관심, 성적, 승진, 연봉을 두고 경쟁했던 시간이 삶의 많은 부분을 설명할 수도 있다.&#xA;그렇다면 우리는 경쟁에서 살아남기 위한 선택을 해야 하는 걸까?</description>
       <content:encoded><![CDATA[<blockquote>
 <p>인간은 무엇을 원하는지 모르는 생명체이기 때문에 타인이 쫓는 목표를 모방하여 결정을 내린다.</p>
@@ -3120,9 +3120,9 @@ Dieter Rams</p>
     </item>
     <item>
       <title>유학 가서 멘탈 관리하는 방법</title>
-      <link>https://k-writer.com/ko/blog/yuhak/</link>
+      <link>https://kangmins.uk/ko/blog/yuhak/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/yuhak/</guid>
+      <guid>https://kangmins.uk/ko/blog/yuhak/</guid>
       <description>중학생 시절 중국으로 유학을 떠나 남경 공항에 도착했을 때를 기억한다. 꿈같은 현실에 얼떨떨했지만 우울하거나 무섭지는 않았다. 방을 함께 썼던 초등학생 친구가 &amp;lsquo;엄마 보고 싶다&amp;rsquo; 울기 시작했을 때도 조용히 위로해줬으니까.&#xA;새로운 언어, 환경, 사람, 지식을 위해 떠나는 20만 명 이상의 한국인 유학생은 크고 작은 어려움을 겪게 된다. 집안 사정이 어려워 비싼 학비를 못 내는 상황이 생기기도 하고 차별과 외로움에 우울함을 느끼기도 한다.&#xA;그렇다면 유학을 떠나기 전 어떤 기대와 마음가짐을 가지는 것이 좋을까?</description>
       <content:encoded><![CDATA[<p>중학생 시절 중국으로 유학을 떠나 남경 공항에 도착했을 때를 기억한다. 꿈같은 현실에 얼떨떨했지만 우울하거나 무섭지는 않았다. 방을 함께 썼던 초등학생 친구가 &lsquo;엄마 보고 싶다&rsquo; 울기 시작했을 때도 조용히 위로해줬으니까.</p>
 <p>새로운 언어, 환경, 사람, 지식을 위해 떠나는 <a href="https://news.mt.co.kr/mtview.php?no=2020121614208266646">20만 명 이상</a>의 한국인 유학생은 크고 작은 어려움을 겪게 된다. 집안 사정이 어려워 비싼 학비를 못 내는 상황이 생기기도 하고 차별과 외로움에 우울함을 느끼기도 한다.</p>
@@ -3144,9 +3144,9 @@ Dieter Rams</p>
     </item>
     <item>
       <title>죽음을 선봉에 세우는 삶</title>
-      <link>https://k-writer.com/ko/blog/stoicism/</link>
+      <link>https://kangmins.uk/ko/blog/stoicism/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/stoicism/</guid>
+      <guid>https://kangmins.uk/ko/blog/stoicism/</guid>
       <description>나는 어려운 시절이 오면, 어느 한적한 곳에 가서 문을 닫아걸고 죽음에 대해 생각하곤 했다. 그렇게 하루를 보내고 나면, 불안하던 삶이 오히려 견고해지는 것을 느꼈다. 지금도 삶의 기반이 되어주는 것은 바로 그 감각이다. 삶으로부터 상처받을 때 그 시간을 생각하고 스스로에게 말을 건넨다. 나는 이미 죽었기 때문에 어떻게든 버티고 살아갈 수 있다고. 아침에는 죽음을 생각하는 것이 좋다 김영민&#xA;고대인은 불명예스러운 죽음을 가장 두려워했지만, 현대인은 죽음 그 자체를 가장 두려워한다. The Bed of Procrustes Nassim Nicholas Taleb</description>
       <content:encoded><![CDATA[<blockquote>
 <p><em>나는 어려운 시절이 오면, 어느 한적한 곳에 가서 문을 닫아걸고 죽음에 대해 생각하곤 했다. 그렇게 하루를 보내고 나면, 불안하던 삶이 오히려 견고해지는 것을 느꼈다. 지금도 삶의 기반이 되어주는 것은 바로 그 감각이다. 삶으로부터 상처받을 때 그 시간을 생각하고 스스로에게 말을 건넨다. 나는 이미 죽었기 때문에 어떻게든 버티고 살아갈 수 있다고.
@@ -3182,9 +3182,9 @@ Dieter Rams</p>
     </item>
     <item>
       <title>(조금은 진지한) 부모님 인터뷰</title>
-      <link>https://k-writer.com/ko/blog/parents-interview/</link>
+      <link>https://kangmins.uk/ko/blog/parents-interview/</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/parents-interview/</guid>
+      <guid>https://kangmins.uk/ko/blog/parents-interview/</guid>
       <description>(조금은 진지한) 부모님 인터뷰를 만든 이유는 간단하다. 내가 부모님에 대해 정말 모르는 것 같다는 생각이 들었기 때문이다. 두 분 다 60대를 넘어가고 있지만 전화를 할 때면 ‘별일 없다’라는 말만 하는 것 같고 식사를 할 때면 ‘맛있다’는 말만 반복하는 것은 아닐까 걱정이 됐다.&#xA;두 분이 60년가량 살면서 어떤 순간에 울고 웃었는지. 후회하는 선택이 있는지. 힘듦을 어떻게 이겨냈는지. 난 전혀 모르고 있었다. 두 사람의 지혜는 어디에도 기록되어 있지 않았기 때문이다.&#xA;폴 그레이엄(Paul Graham)은 에세이 ‘Life is Short’에서 어머니가 돌아가시기 전 많은 시간을 함께 보내지 못한 걸 후회한다.</description>
       <content:encoded><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662214193.PNG" alt="Image title"></p>
 <p><em>(조금은 진지한) 부모님 인터뷰</em>를 만든 이유는 간단하다. 내가 부모님에 대해 정말 모르는 것 같다는 생각이 들었기 때문이다. 두 분 다 60대를 넘어가고 있지만 전화를 할 때면 ‘별일 없다’라는 말만 하는 것 같고 식사를 할 때면 ‘맛있다’는 말만 반복하는 것은 아닐까 걱정이 됐다.</p>
@@ -3211,9 +3211,9 @@ Dieter Rams</p>
     </item>
     <item>
       <title>영어 공짜로 독학하기</title>
-      <link>https://k-writer.com/ko/blog/study-alone/</link>
+      <link>https://kangmins.uk/ko/blog/study-alone/</link>
       <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/study-alone/</guid>
+      <guid>https://kangmins.uk/ko/blog/study-alone/</guid>
       <description>좋은 과외나 학원도 좋지만 어차피 공부는 혼자서 해야 한다.&#xA;유학 생활을 10년 정도 하다 보니 어떻게 하면 독학을 잘할 수 있는지 조금은 알게 됐다. 주관적이기는 하지만 쓸만한 팁을 적어본다.&#xA;1. 재밌게 공부하자. 만약 농구를 좋아하면 넷플릭스에서 The Last Dance를 영어 자막 틀고 반복해서 보면 된다. 기술에 관심이 많으면 실리콘 밸리 유명 투자자나 창업가의 블로그 혹은 트위터에 들어가 파헤쳐보면 된다. 영화를 좋아한다면 레딧에서 영화 관련 커뮤니티를 찾아보면 된다. 뭘 좋아하는지 잘 모르겠다면?</description>
       <content:encoded><![CDATA[<p>좋은 과외나 학원도 좋지만 어차피 공부는 혼자서 해야 한다.</p>
 <p>유학 생활을 10년 정도 하다 보니 어떻게 하면 독학을 잘할 수 있는지 조금은 알게 됐다. 주관적이기는 하지만 쓸만한 팁을 적어본다.</p>
@@ -3238,9 +3238,9 @@ Dieter Rams</p>
     </item>
     <item>
       <title>나발 라비칸트 - 행복</title>
-      <link>https://k-writer.com/ko/blog/navalism-4/</link>
+      <link>https://kangmins.uk/ko/blog/navalism-4/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/navalism-4/</guid>
+      <guid>https://kangmins.uk/ko/blog/navalism-4/</guid>
       <description>행복은 선택이다. 건강한 몸, 평화로운 마음, 사랑이 넘치는 가정. 이러한 가치는 돈이 아닌 노력으로 얻을 수 밖에 없다. - Naval Ravikant&#xA;우리는 선택할 수 있다. 과거가 미래가 아닌 현재에 집중하기로. &amp;lsquo;아릅답다&amp;rsquo; 그리고 &amp;lsquo;감사하다&amp;rsquo;라는 말을 더 자주 하기로. 욕망과 중독에서 벗어나 평화를 가꾸기로. 몸과 마음을 위해 운동과 명상을 시작하기로.&#xA;라비칸트는 행복을 &amp;ldquo;아무런 부족함이 없는 상태&amp;rdquo; 그리고 &amp;ldquo;현재를 있는 그대로 받아들이는 것&amp;quot;이라 정의한다. 말처럼 쉬운 일은 아니다. 자신이 초라하게 느껴질 때면 새로운 옷, 자격증, 관계를 갈망하며 현실을 바꿀 거라 착각하기 때문이다.</description>
       <content:encoded><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662900926.webp" alt="Image title"></p>
 <h3 id="행복은-선택이다">행복은 선택이다.</h3>
@@ -3272,9 +3272,9 @@ Dieter Rams</p>
     </item>
     <item>
       <title>나발 라비칸트 - 현명함</title>
-      <link>https://k-writer.com/ko/blog/navalism-3/</link>
+      <link>https://kangmins.uk/ko/blog/navalism-3/</link>
       <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/navalism-3/</guid>
+      <guid>https://kangmins.uk/ko/blog/navalism-3/</guid>
       <description>현명한 인간은 멀리 보며 결정한다. Hard choices, easy life. Easy Choices, hard life. Jerzy Gregorek&#xA;단기적인 고통은 피하고 즉각적인 만족을 추구한다. 계획했던 운동 대신 잠을 더 자고 가장 먼저 받아주는 회사에서 일하기로 결정한다. 마음이 편해지는 것 같지만 거꾸로 인생은 어려워져만 간다. 이런 결정이 과연 현명한가? 라비칸트는 현명함을 “행동의 장기적 결과를 아는 것”이라 정의한다.&#xA;몸, 정신, 지식은 모두 단련을 통해 강해진다. 뇌가 고통을 피하려 들 때 초점을 수확할 가치에 다시 맞춘다면 삶은 수월해지기 시작한다.</description>
       <content:encoded><![CDATA[<h2 id="현명한-인간은-멀리-보며-결정한다">현명한 인간은 멀리 보며 결정한다.</h2>
 <p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662213878.webp" alt="Image title"></p>
@@ -3313,9 +3313,9 @@ Naval Ravikant</p>
     </item>
     <item>
       <title>나발 라비칸트 - 부자</title>
-      <link>https://k-writer.com/ko/blog/navalism-2/</link>
+      <link>https://kangmins.uk/ko/blog/navalism-2/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/navalism-2/</guid>
+      <guid>https://kangmins.uk/ko/blog/navalism-2/</guid>
       <description>부자는 자면서도 자산을 키운다. 돈을 버는 건 행동이 아닌 기술이다. Naval Ravikant&#xA;부를 쌓고 싶다면 어디를 어떻게 바라보며 살아야 할까? 나발 라비칸트는 “돈이나 유명세가 아닌 자산을 쫓아야 한다” 강조한다.&#xA;그렇다면 주식 투자를 시작하는 것이 정답일까? 물론 자산을 키우는 한 가지 방법이긴 하지만 인터넷 덕분에 더 많은 기회가 주어지고 있다는 걸 잊어서는 안 된다.&#xA;라비칸트는 “시간을 파는 걸 그만둬야 부자가 될 수 있다” 말한다. 시간당 정해진 액수로만 보상을 얻는다면 설령 높은 금액을 받아도 돈으로부터 자유롭지 않기 때문이다.</description>
       <content:encoded><![CDATA[<h2 id="부자는-자면서도-자산을-키운다">부자는 자면서도 자산을 키운다.</h2>
 <p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662213764.webp" alt="Image title"></p>
@@ -3364,9 +3364,9 @@ Naval Ravikant</em></p>
     </item>
     <item>
       <title>나발 라비칸트 - ‘나발 형님&#39;</title>
-      <link>https://k-writer.com/ko/blog/navalism-1/</link>
+      <link>https://kangmins.uk/ko/blog/navalism-1/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/navalism-1/</guid>
+      <guid>https://kangmins.uk/ko/blog/navalism-1/</guid>
       <description>그 누구도 나로서 경쟁할 수 없다는 걸 깨달을 때 진정성을 가지고 경쟁에서 벗어날 수 있다. - Naval Ravikant&#xA;순식간에 부자가 되어 행복해질 수 있다는 환상을 파는 글이 유행이다. 하지만 나발 라비칸트는 ‘성공을 향한 지름길’과 같은 콘텐츠는 독자가 아닌 작가를 부자로 만드는 함정이라 경고한다.&#xA;일론 머스크는 한 인터뷰에서 우린 이미 사이보그라 주장한다. 핸드폰은 이미 우리 손과 접착되었고 눈앞에서 사라지는 순간 손 한쪽이 사라진 것과 같은 당혹감을 느낀다고. 세상 모든 정보와 기능이 손가락 끝에 머무는 시대에 성공은 어떤 의미를 가질까?</description>
       <content:encoded><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662213313.webp" alt="Image title"></p>
 <blockquote>
@@ -3382,9 +3382,9 @@ Naval Ravikant</em></p>
     </item>
     <item>
       <title>영어 공부 앱 4가지 비교</title>
-      <link>https://k-writer.com/ko/blog/english-apps/</link>
+      <link>https://kangmins.uk/ko/blog/english-apps/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/english-apps/</guid>
+      <guid>https://kangmins.uk/ko/blog/english-apps/</guid>
       <description>영어 공부를 폰으로 하는 건 이제 놀랍지 않다. 이런 온라인 서비스가 실제로 추천할 만한지 1. 학습 효과 2. 편리함 두 가지 기준으로 주관적인 평가를 내려본다.&#xA;1. 링글 Ringle 2021년 신년 프로모션 진행 중인 가격 (40분 수업 기준)&#xA;학습효과: ★★★★&#xA;링글은 가입하면 20분 무료 수업 체험을 제공한다. 튜터는 자동으로 배정되고 예습을 위해 글, 오디오, 토론 질문, 영상이 제공된다. 미리 수업 준비에 시간을 투자할 수 있도록 꼼꼼하게 준비해 둔 부분이 일단 마음에 들었다.</description>
       <content:encoded><![CDATA[<p>영어 공부를 폰으로 하는 건 이제 놀랍지 않다. 이런 온라인 서비스가 실제로 추천할 만한지 1. 학습 효과 2. 편리함 두 가지 기준으로 주관적인 평가를 내려본다.</p>
 <h3 id="1링글-ringlehttpswwwringlepluscomkostudentlandinghome">1. <a href="https://www.ringleplus.com/ko/student/landing/home">링글 Ringle</a></h3>
@@ -3426,9 +3426,9 @@ Naval Ravikant</em></p>
     </item>
     <item>
       <title>토익 990점 받는 방법</title>
-      <link>https://k-writer.com/ko/blog/990/</link>
+      <link>https://kangmins.uk/ko/blog/990/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/990/</guid>
+      <guid>https://kangmins.uk/ko/blog/990/</guid>
       <description>2017년 1월 22일 처음으로 토익을 봤습니다. 문제집 한 번 풀어본 적 없었지만 시험장을 나올 때 단 하나도 틀리지 않았다고 확신했습니다.&#xA;제 비법은 무엇일까요?&#xA;토익 공부를 전혀 하지 않았다는 것이 비법입니다. 문제집을 보며 머리를 부여잡고 공부하지 않은 것이 &amp;lsquo;신의 한 수&amp;rsquo;입니다. 대신 영어로 책을 읽고 팟캐스트를 들었습니다. 기본 문법을 완벽히 이해하기 위해 매일 6시간씩 투자했습니다. 그렇기 때문에 객관식 정답을 고르는데 1초도 주저하지 않았습니다.&#xA;&amp;lsquo;유학 갔다 온 사람이니까 당연히 토익 990점이 나와야지&amp;rsquo;라고 말하는 사람도 있습니다.</description>
       <content:encoded><![CDATA[<p>2017년 1월 22일 처음으로 토익을 봤습니다. 문제집 한 번 풀어본 적 없었지만 시험장을 나올 때 단 하나도 틀리지 않았다고 확신했습니다.</p>
 <p>제 비법은 무엇일까요?</p>
@@ -3446,9 +3446,9 @@ Naval Ravikant</em></p>
     </item>
     <item>
       <title>자기소개</title>
-      <link>https://k-writer.com/ko/blog/interview/</link>
+      <link>https://kangmins.uk/ko/blog/interview/</link>
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/interview/</guid>
+      <guid>https://kangmins.uk/ko/blog/interview/</guid>
       <description>“간단히 자기소개해 주실 수 있나요?”&#xA;자기소개가 필요한 자리에 가면 어색함을 느낀다. 나는 어떤 형용사와 명사로 알맞게 설명될 수 있을까.&#xA;‘강민석’이라는 인간이 28년 일생 무엇을 먹으며 어떠한 사람을 만나고 어떤 상황에서 웃고 울었는지 떠들어댈 무대는 없다.&#xA;“미안합니다. 저도 저 자신이 누군지 모르겠습니다”라며 눈을 지그시 감을 수도 없다. “저를 키워주신 어머니께 여쭤보시죠”라며 공손히 핸드폰을 건네줄 수도 없다. “직접 분석해 보세요”라며 페이스북 데이터를 보내주며 부탁할 수도 없다.&#xA;중요한 메시지를 전달하기에 언어는 한계가 명확하다. “나는 논리적인 사람이다”라고 주문을 외우는 사람도 감정적인 결정에 의지할 수 있다.</description>
       <content:encoded><![CDATA[<p>“간단히 자기소개해 주실 수 있나요?”</p>
 <p>자기소개가 필요한 자리에 가면 어색함을 느낀다.
@@ -3469,9 +3469,9 @@ Naval Ravikant</em></p>
     </item>
     <item>
       <title>나를 위해 바꾸는 환경</title>
-      <link>https://k-writer.com/ko/blog/environment/</link>
+      <link>https://kangmins.uk/ko/blog/environment/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/environment/</guid>
+      <guid>https://kangmins.uk/ko/blog/environment/</guid>
       <description>대니얼 카너먼의 인터뷰에서 인상 깊게 남았던 말이 있다. “변화를 취하고 싶을 때 가장 좋은 방법은 환경을 바꾸는 것이다.”&#xA;“TV 위치를 바꿔야 할 것 같아” 은비가 제안했고 바로 실행에 옮겨졌다. TV만 보는 일상에 변화를 주기 위해서는 거실에 TV 대신 테이블 2개를 붙여 두는 게 현명했다.&#xA;거실이 넷플릭스를 위한 공간에서 독서나 일을 위한 장소로 바뀌자 자연스레 내면의 우선순위도 바뀌기 시작했다.&#xA;집뿐만 아니라 회사, 친구, 가족을 통해 다양한 환경이 만들어진다. 이러한 환경이 나에게 어떤 영향을 끼치고 있는지 냉철하게 검토할 여유가 필요하다.</description>
       <content:encoded><![CDATA[<p>대니얼 카너먼의 인터뷰에서 인상 깊게 남았던 말이 있다.
 “변화를 취하고 싶을 때 가장 좋은 방법은 환경을 바꾸는 것이다.”</p>
@@ -3485,9 +3485,9 @@ TV만 보는 일상에 변화를 주기 위해서는 거실에 TV 대신 테이�
     </item>
     <item>
       <title>찬물샤워</title>
-      <link>https://k-writer.com/ko/blog/cold-shower/</link>
+      <link>https://kangmins.uk/ko/blog/cold-shower/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/cold-shower/</guid>
+      <guid>https://kangmins.uk/ko/blog/cold-shower/</guid>
       <description>매일 아침 심호흡을 크게 10번 쉬고 수도꼭지를 거침없이 오른쪽으로 돌렸다.&#xA;이번 주부터 난 찬물 샤워하는 인간으로 거듭났다.&#xA;도대체 왜?&#xA;첫째, 나발 라비칸트와 팀 페리스가 찬물샤워로 하루를 시작한다고 했기 때문이다.&#xA;둘째, 눈을 반쯤 뜬 상태로 폰을 바라보며 일어나 따뜻한 물 속에서 멍 때리는 루틴이 싫기 때문이다.&#xA;셋째, 따뜻하고 편안한 환경만 추구하는 화초가 되고 싶지 않기 때문이다.&#xA;윔 호프가 말하듯 차디찬 물이 몸에 시동을 걸어주면 정신이 또렷해졌다. 집중력이 올라갔고 졸린 정신을 깨우려 커피를 주입하는 일이 줄어들었다.</description>
       <content:encoded><![CDATA[<p>매일 아침 심호흡을 크게 10번 쉬고 수도꼭지를 거침없이 오른쪽으로 돌렸다.</p>
 <p>이번 주부터 난 찬물 샤워하는 인간으로 거듭났다.</p>
@@ -3502,9 +3502,9 @@ TV만 보는 일상에 변화를 주기 위해서는 거실에 TV 대신 테이�
     </item>
     <item>
       <title>道行之而成</title>
-      <link>https://k-writer.com/ko/blog/road/</link>
+      <link>https://kangmins.uk/ko/blog/road/</link>
       <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/road/</guid>
+      <guid>https://kangmins.uk/ko/blog/road/</guid>
       <description>“다들 똑같은 길로 가서 물에 빠지지 그럴 바엔 소매 걷고 내가 길을 만들지.”&#xA;재달 노래를 들으면 홀가분한 자유에 취한다. 주변에서 떠드는 말은 개무시하고 소리 지르며 질주하고 싶어진다.&#xA;사랑하는 사람들을 주위에 모시고 행복하게 하는 일에만 몰두하며 살고 싶어진다.&#xA;답안지에 맞춰 삶을 풀어나가서는 안 된다. 어려운 결정을 내리고 뒤돌아보지 않는 인간으로 성장해야 한다.&#xA;道行之而成 길은 나아가야 만들어진다고 장자가 말했다.&#xA;나아가기 위해서는 먼저 단련해야 한다. 따뜻한 편안함에서 뛰쳐나와 곡괭이부터 들어야 한다.&#xA;누군가 가고 있는 길에 의문을 던질 때 명함이 아닌 고집과 습관으로 증명할 수 있어야 한다.</description>
       <content:encoded><![CDATA[<p>“다들 똑같은 길로 가서 물에 빠지지
 그럴 바엔 소매 걷고 내가 길을 만들지.”</p>
@@ -3524,9 +3524,9 @@ TV만 보는 일상에 변화를 주기 위해서는 거실에 TV 대신 테이�
     </item>
     <item>
       <title>경쟁이 아닌 독점</title>
-      <link>https://k-writer.com/ko/blog/competition/</link>
+      <link>https://kangmins.uk/ko/blog/competition/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/competition/</guid>
+      <guid>https://kangmins.uk/ko/blog/competition/</guid>
       <description>“Competition is for losers.”&#xA;Zero to One에서 돋보인 가장 묵직한 메시지.&#xA;경쟁이 아닌 독점을 노려야 한다는 피터 틸의 주장은 기업뿐 아니라 개인에게도 적용되는 지혜라 생각한다.&#xA;경쟁에서 벗어나지 못하는 기업이 쉽게 무너지듯. 개인도 경쟁에 갇혀 고통받다 보면 쓰러지게 되지 않을까.&#xA;경쟁은 당연하지 않다. ‘무조건’이라는 말은 쓰는 사람은 무시하자. 시간을 투자하여 나만 아는 영역을 넓히고 그 안에서 꽃을 피워보자.&#xA;이왕 사는 거 진부한 게임이 아닌 내가 만든 진실한 게임에서 이겨보자.</description>
       <content:encoded><![CDATA[<p>“Competition is for losers.”</p>
 <p><em>Zero to One</em>에서 돋보인 가장 묵직한 메시지.</p>
@@ -3538,9 +3538,9 @@ TV만 보는 일상에 변화를 주기 위해서는 거실에 TV 대신 테이�
     </item>
     <item>
       <title>&#34;선장은 멀미하지 않아요&#34;</title>
-      <link>https://k-writer.com/ko/blog/captain/</link>
+      <link>https://kangmins.uk/ko/blog/captain/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/captain/</guid>
+      <guid>https://kangmins.uk/ko/blog/captain/</guid>
       <description>“선장은 멀미하지 않아요.”&#xA;이 말이 마음 깊게 와닿았다.&#xA;“아 저 새끼 저거”하며 급정거하는 택시에서, 답답한 공기로 가득 찬 사무실에 있으면 갑자기 머릿속이 흔들리고 눈앞은 흐릿해진다.&#xA;지긋지긋한 멀미를 이겨내기 위해서는 어떻게든 선장이 되어야 한다. 운전대를 잡지 못하더라도 무섭게 질주하는 기사에게 소리칠 수 있어야 한다. 인생이라는 타이나닉에서 관광객이 아닌 키를 잡고 명령하는 지도자가 되어야 한다.&#xA;올해 10월 10일 은비와 결혼하면서 여러 결정을 내렸다. 플래너 없이 식장, 답례품, 청첩장, 꽃, 의상, 식순, 사진·영상 작가님을 직접 찾거나 만들어서 진행했다.</description>
       <content:encoded><![CDATA[<p>“선장은 멀미하지 않아요.”</p>
 <p>이 말이 마음 깊게 와닿았다.</p>
@@ -3552,9 +3552,9 @@ TV만 보는 일상에 변화를 주기 위해서는 거실에 TV 대신 테이�
     </item>
     <item>
       <title>유학 가기 전 도움이 될만한 조언</title>
-      <link>https://k-writer.com/ko/blog/abroad/</link>
+      <link>https://kangmins.uk/ko/blog/abroad/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/blog/abroad/</guid>
+      <guid>https://kangmins.uk/ko/blog/abroad/</guid>
       <description>중국에서 3년 정도 시간을 보내고 미국에서 고등학교와 대학교를 졸업한 10년 유학생입니다. 어린 나이에 유학을 준비하는 학생, 그리고 그들의 부모님에게 도움이 될 거로 생각하는 내용만 추려서 전달합니다. 현재 유학 중인 중고등학생 그리고 대학교 교환학생분들에게도 도움이 될 내용이라 생각합니다.&#xA;1. 유학의 목표를 확실하게 설정하자. 단순히 영어 공부 혹은 ‘글로벌 인재’라는 목적을 가지고 유학이라는 거대한 결정을 내리는 실수는 피해야 합니다. 영어를 왜 잘해야 하는 걸까요? 외국인과 이야기를 나누고 싶어서? 여행할 때 편하려고? 취업 잘되려고?</description>
       <content:encoded><![CDATA[<p>중국에서 3년 정도 시간을 보내고 미국에서 고등학교와 대학교를 졸업한 10년 유학생입니다. 어린 나이에 유학을 준비하는 학생, 그리고 그들의 부모님에게 도움이 될 거로 생각하는 내용만 추려서 전달합니다. 현재 유학 중인 중고등학생 그리고 대학교 교환학생분들에게도 도움이 될 내용이라 생각합니다.</p>
 <p><img src="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http%3A//t1.daumcdn.net/brunch/service/user/1Zjd/image/nwNolkexBrIqQtPxq_V_3jr2c9A.JPG" alt=""></p>
@@ -3587,9 +3587,9 @@ TV만 보는 일상에 변화를 주기 위해서는 거실에 TV 대신 테이�
     </item>
     <item>
       <title></title>
-      <link>https://k-writer.com/ko/interview/</link>
+      <link>https://kangmins.uk/ko/interview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/interview/</guid>
+      <guid>https://kangmins.uk/ko/interview/</guid>
       <description>&lt;!DOCTYPE html&gt; (조금은 진지한) 부모님 인터뷰 엄마 아빠에 대해 더 깊이 알고 싶은 아들 딸이 보냅니다.&#xA;*작성하신 내용은 어디에도 저장되지 않습니다. &#39;답변 보기&#39;를 누르시면 모든 질문과 답변을 복사할 수 있습니다. 지금 당장 떠날 수 있다면 어디로 가고 싶나요?&#xA;살면서 가장 행복했던 순간은 언제인가요?&#xA;살면서 가장 슬펐던 순간은 언제인가요?&#xA;가장 후회되는 결정이나 시간이 있나요?&#xA;어릴 적 가졌던 꿈은 무엇인가요?&#xA;당신이 생각하는 ‘성공’은 무엇인가요?&#xA;공부, 육아, 일, 사람 때문에 상처 받고 힘들 때 당신은 어떻게 했나요?</description>
       <content:encoded><![CDATA[<!DOCTYPE html>
 <html lang="ko">
@@ -3700,9 +3700,9 @@ TV만 보는 일상에 변화를 주기 위해서는 거실에 TV 대신 테이�
     </item>
     <item>
       <title>(조금은 진지한) 질문 생성기</title>
-      <link>https://k-writer.com/ko/conversation/</link>
+      <link>https://kangmins.uk/ko/conversation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/conversation/</guid>
+      <guid>https://kangmins.uk/ko/conversation/</guid>
       <description>우리의 뜻깊은 대화를 위하여.&#xA;규칙 1: 답변은 최대한 구체적으로.&#xA;규칙 2: 고민하지 말고 바로 답하기.&#xA;규칙 3: 답하고 싶지 않다면 다음 질문으로.&#xA;누가 먼저 할지 정하고 싶나요? 네! 질문 생성하기</description>
       <content:encoded><![CDATA[<p><em>우리의 뜻깊은 대화를 위하여.</em><br>
 규칙 1: 답변은 최대한 구체적으로.<br>
@@ -3869,9 +3869,9 @@ TV만 보는 일상에 변화를 주기 위해서는 거실에 TV 대신 테이�
     </item>
     <item>
       <title>창침일기</title>
-      <link>https://k-writer.com/ko/diary/</link>
+      <link>https://kangmins.uk/ko/diary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://k-writer.com/ko/diary/</guid>
+      <guid>https://kangmins.uk/ko/diary/</guid>
       <description>2024-07-22&#xA;거의 집에만 있었다. 잠깐 음식물쓰레기를 버리러 나간 것이 전부다. 점심으로 은비가 짜장법을 저녁으로 내가 파스타를 했다. 외식 금지령이 발동된 상태다. 오늘 뭐했지 싶은 날이다. 책도 조금 읽었다. 은비가 Up을 본적이 없다고 한 사실이 떠올라 디즈리플러스로 Up을 봤다. 아마 나는 3번째 보는 것 같았는데 더그는 역시 귀여웠다. 지금 생각해보니 Up을 영화관에서 처음 봤을 때 페이스북 프로필사진을 러셀로 바꿨었다. The Best American Short Stories 2023에서 이민진 작가의 인트로를 읽었다. 갈수록 책을 읽지 않을 거라 하는 시대에, 대부분 작가는 가난하다고 데이터가 말해주는 오늘.</description>
       <content:encoded><![CDATA[<p>2024-07-22</p>
 <ul>
