@@ -3,7 +3,11 @@ title: "만들기"
 menu: "main"
 weight: 2
 ---
-
+<style>
+  ul {
+   list-style: none; 
+  }
+</style>
 - [온라인 출판사 작은배](https://jagunbae.com/about/).
 - [강단과 소신 팟캐스트](https://podcast.jagunbae.com).
 - [샌드위치샵 치지레이지](https://reviews.cheesylazy.com/) (영업 종료).

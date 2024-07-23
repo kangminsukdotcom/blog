@@ -3,7 +3,11 @@ title: "Make"
 menu: "main"
 weight: 2
 ---
-
+<style>
+  ul {
+   list-style: none; 
+  }
+</style>
 - [Company](https://en.jagunbae.com)
 - [Sandwich shop](https://reviews.cheesylazy.com/) (closed)
 - [Bookmarks](https://links.kangminsuk.com/bookmarks/shared)

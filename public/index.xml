@@ -14,7 +14,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kangmins.uk/make/</guid>
       <description> Company Sandwich shop (closed) Bookmarks (A Bit Serious) Parent Interview (A Bit Serious) Question Generator </description>
-      <content:encoded><![CDATA[<ul>
+      <content:encoded><![CDATA[<style>
+  ul {
+   list-style: none; 
+  }
+</style>
+<ul>
 <li><a href="https://en.jagunbae.com">Company</a></li>
 <li><a href="https://reviews.cheesylazy.com/">Sandwich shop</a> (closed)</li>
 <li><a href="https://links.kangminsuk.com/bookmarks/shared">Bookmarks</a></li>
