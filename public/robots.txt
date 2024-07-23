@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://kangminsuk.com/sitemap.xml
+Sitemap: https://k-writer.com/sitemap.xml
