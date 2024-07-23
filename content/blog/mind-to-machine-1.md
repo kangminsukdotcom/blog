@@ -25,6 +25,4 @@ From what he had learned from Internet forums, Joonho wrote down three stages to
 3. You can communicate with AI bots to handle complex tasks.
 He thought reaching step 3 would grant him unprecedented power. If he could communicate with AI at the speed of thought, he could research, experiment, invest, engineer, and design faster than any human in the world. He would become humanity's mastermind to solve the universe’s mysteries. He would be considered a god.
 
-```
-Part II is coming soon.
-```
+*Part II is coming soon.*
