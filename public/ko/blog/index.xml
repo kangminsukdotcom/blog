@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>블로그 on 강민석</title>
+    <title>글 on 강민석</title>
     <link>https://kangmins.uk/ko/blog/</link>
-    <description>Recent content in 블로그 on 강민석</description>
+    <description>Recent content in 글 on 강민석</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KO</language>
     <lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0000</lastBuildDate>
