@@ -1,7 +1,5 @@
 ---
 title: "이것저것"
-menu: "main"
-weight: 2
 ---
 <style>
   ul {

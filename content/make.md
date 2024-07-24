@@ -1,7 +1,5 @@
 ---
 title: "Things"
-menu: "main"
-weight: 2
 ---
 <style>
   ul {

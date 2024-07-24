@@ -9,29 +9,6 @@
     <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kangminsuk.com/ko/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>이것저것</title>
-      <link>https://kangminsuk.com/ko/make/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kangminsuk.com/ko/make/</guid>
-      <description> 온라인 출판사 작은배. 강단과 소신 팟캐스트. 샌드위치샵 치지레이지 (영업 종료). 망하지 않을 만큼 작은 식당 창업하기. (조금은 진지한) 부모님 인터뷰 (조금은 진지한) 질문 생성기 질문 있는 사람들 북마크 </description>
-      <content:encoded><![CDATA[<style>
-  ul {
-   list-style: none; 
-  }
-</style>
-<ul>
-<li><a href="https://jagunbae.com/about/">온라인 출판사 작은배</a>.</li>
-<li><a href="https://podcast.jagunbae.com">강단과 소신 팟캐스트</a>.</li>
-<li><a href="https://reviews.cheesylazy.com/">샌드위치샵 치지레이지</a> (영업 종료).</li>
-<li><a href="https://jagunbae.com/too-small-to-fail/">망하지 않을 만큼 작은 식당 창업하기</a>.</li>
-<li><a href="https://kangminsuk.com/ko/interview/">(조금은 진지한) 부모님 인터뷰</a></li>
-<li><a href="https://kangminsuk.com/ko/conversation/">(조금은 진지한) 질문 생성기</a></li>
-<li><a href="https://questions.jagunbae.com">질문 있는 사람들</a></li>
-<li><a href="https://links.kangminsuk.com/bookmarks/shared">북마크</a></li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
       <title>방명록</title>
       <link>https://kangminsuk.com/ko/message/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3901,6 +3878,29 @@ TV만 보는 일상에 변화를 주기 위해서는 거실에 TV 대신 테이�
   
   <input type="submit" value="구독하기" />
 </form>]]></content:encoded>
+    </item>
+    <item>
+      <title>이것저것</title>
+      <link>https://kangminsuk.com/ko/make/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kangminsuk.com/ko/make/</guid>
+      <description> 온라인 출판사 작은배. 강단과 소신 팟캐스트. 샌드위치샵 치지레이지 (영업 종료). 망하지 않을 만큼 작은 식당 창업하기. (조금은 진지한) 부모님 인터뷰 (조금은 진지한) 질문 생성기 질문 있는 사람들 북마크 </description>
+      <content:encoded><![CDATA[<style>
+  ul {
+   list-style: none; 
+  }
+</style>
+<ul>
+<li><a href="https://jagunbae.com/about/">온라인 출판사 작은배</a>.</li>
+<li><a href="https://podcast.jagunbae.com">강단과 소신 팟캐스트</a>.</li>
+<li><a href="https://reviews.cheesylazy.com/">샌드위치샵 치지레이지</a> (영업 종료).</li>
+<li><a href="https://jagunbae.com/too-small-to-fail/">망하지 않을 만큼 작은 식당 창업하기</a>.</li>
+<li><a href="https://kangminsuk.com/ko/interview/">(조금은 진지한) 부모님 인터뷰</a></li>
+<li><a href="https://kangminsuk.com/ko/conversation/">(조금은 진지한) 질문 생성기</a></li>
+<li><a href="https://questions.jagunbae.com">질문 있는 사람들</a></li>
+<li><a href="https://links.kangminsuk.com/bookmarks/shared">북마크</a></li>
+</ul>
+]]></content:encoded>
     </item>
     <item>
       <title>일기</title>

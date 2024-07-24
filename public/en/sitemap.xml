@@ -28,18 +28,6 @@
                 href="https://kangminsuk.com/blog/"
                 />
   </url><url>
-    <loc>https://kangminsuk.com/make/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-KO"
-                href="https://kangminsuk.com/ko/make/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://kangminsuk.com/make/"
-                />
-  </url><url>
     <loc>https://kangminsuk.com/message/</loc>
     <xhtml:link
                 rel="alternate"
@@ -423,6 +411,18 @@
                 />
   </url><url>
     <loc>https://kangminsuk.com/thank-you/</loc>
+  </url><url>
+    <loc>https://kangminsuk.com/make/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-KO"
+                href="https://kangminsuk.com/ko/make/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://kangminsuk.com/make/"
+                />
   </url><url>
     <loc>https://kangminsuk.com/mal/</loc>
   </url>
