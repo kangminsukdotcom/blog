@@ -12,5 +12,5 @@ weight: 1
   }
 </style>
 - [Minsuk Kang](https://mataroa.blog/images/3d2e27a1.jpeg)
-- [Subscribe](https://kangmins.uk/subscribe)
+- [Subscribe](https://kangminsuk.com/subscribe)
 - [Support](https://buy.stripe.com/7sIeWh0Crbe67hS4gh)

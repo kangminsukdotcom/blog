@@ -12,5 +12,5 @@ weight: 1
   }
 </style>
 - [강민석](https://mataroa.blog/images/3d2e27a1.jpeg)
-- [구독](https://kangmins.uk/subscribe)
+- [구독](https://kangminsuk.com/subscribe)
 - [후원](https://buy.stripe.com/7sIeWh0Crbe67hS4gh)

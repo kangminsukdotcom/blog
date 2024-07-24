@@ -11,5 +11,5 @@ weight: 2
 - [Company](https://en.jagunbae.com)
 - [Sandwich shop](https://reviews.cheesylazy.com/) (closed)
 - [Bookmarks](https://links.kangminsuk.com/bookmarks/shared)
-- [(A Bit Serious) Parent Interview](https://kangmins.uk/interview/)
-- [(A Bit Serious) Question Generator](https://kangmins.uk/conversation/)
+- [(A Bit Serious) Parent Interview](https://kangminsuk.com/interview/)
+- [(A Bit Serious) Question Generator](https://kangminsuk.com/conversation/)

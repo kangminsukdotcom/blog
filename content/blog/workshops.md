@@ -10,7 +10,7 @@ In South Korea, most bloggers use Naver Blog to publish their writings.[^1] The 
 
 Although Naver Blog is infamous for its overwhelming amount of bot-generated-crappy-sponsored-SEO content, most writers still stay on Naver Blog because they simply are not aware of another option. Naver also makes sure only the content stamped "Naver" rank high in its search results. So for Korean bloggers, migrating to another platform or publishing on a custom domain could lead to giving up a shit ton of traffic.
 
-I wanted to challenge this Naver-ruled bloggging landscape. I'm no web developer, but I could explain how to buy a domain, choose a platform, write in Markdown, and use an RSS feed reader. Some of my friends had asked me to teach them how to start a blog like [mine](https://kangmins.uk.com), so I knew there was a demand for my skills. I had alreay spent hundreds of hours building and polishing my blog, so I felt confident to prepare for a personal blogging workshop. I was excited to build a new community of writers.
+I wanted to challenge this Naver-ruled bloggging landscape. I'm no web developer, but I could explain how to buy a domain, choose a platform, write in Markdown, and use an RSS feed reader. Some of my friends had asked me to teach them how to start a blog like [mine](https://kangminsuk.com), so I knew there was a demand for my skills. I had alreay spent hundreds of hours building and polishing my blog, so I felt confident to prepare for a personal blogging workshop. I was excited to build a new community of writers.
 
 ## The First Workshop
 
