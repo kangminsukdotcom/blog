@@ -1,5 +1,5 @@
 ---
-title: "글쓰기"
+title: "블로그"
 menu: "main"
 weight: 2
 ---
