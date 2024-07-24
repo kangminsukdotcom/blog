@@ -1,5 +1,5 @@
 ---
-title: "Create"
+title: "Things"
 menu: "main"
 weight: 2
 ---

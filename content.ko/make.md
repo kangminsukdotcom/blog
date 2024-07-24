@@ -1,5 +1,5 @@
 ---
-title: "만들기"
+title: "이것저것"
 menu: "main"
 weight: 2
 ---
