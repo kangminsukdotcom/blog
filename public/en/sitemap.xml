@@ -370,6 +370,18 @@
                 href="https://kangminsuk.com/categories/"
                 />
   </url><url>
+    <loc>https://kangminsuk.com/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-KO"
+                href="https://kangminsuk.com/ko/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://kangminsuk.com/about/"
+                />
+  </url><url>
     <loc>https://kangminsuk.com/postcard-1/</loc>
   </url><url>
     <loc>https://kangminsuk.com/postcard-2/</loc>
@@ -411,18 +423,6 @@
                 />
   </url><url>
     <loc>https://kangminsuk.com/thank-you/</loc>
-  </url><url>
-    <loc>https://kangminsuk.com/make/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-KO"
-                href="https://kangminsuk.com/ko/make/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://kangminsuk.com/make/"
-                />
   </url><url>
     <loc>https://kangminsuk.com/mal/</loc>
   </url>

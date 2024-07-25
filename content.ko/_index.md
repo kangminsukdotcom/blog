@@ -11,6 +11,6 @@ weight: 1
     border-style: outset;
   }
 </style>
-- [강민석](https://mataroa.blog/images/3d2e27a1.jpeg)
+- [강민석](https://kangminsuk.com/ko/about)
 - [구독](https://kangminsuk.com/ko/subscribe)
 - [후원](https://buy.stripe.com/7sIeWh0Crbe67hS4gh)

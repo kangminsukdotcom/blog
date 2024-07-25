@@ -11,6 +11,6 @@ weight: 1
     border-style: outset;
   }
 </style>
-- [Minsuk Kang](https://mataroa.blog/images/3d2e27a1.jpeg)
+- [Minsuk Kang](https://kangminsuk.com/about)
 - [Subscribe](https://kangminsuk.com/subscribe)
 - [Support](https://buy.stripe.com/7sIeWh0Crbe67hS4gh)

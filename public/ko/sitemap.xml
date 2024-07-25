@@ -442,6 +442,18 @@
                 href="https://kangminsuk.com/ko/tags/"
                 />
   </url><url>
+    <loc>https://kangminsuk.com/ko/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://kangminsuk.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-KO"
+                href="https://kangminsuk.com/ko/about/"
+                />
+  </url><url>
     <loc>https://kangminsuk.com/ko/subscribe/</loc>
     <xhtml:link
                 rel="alternate"
@@ -452,18 +464,6 @@
                 rel="alternate"
                 hreflang="ko-KO"
                 href="https://kangminsuk.com/ko/subscribe/"
-                />
-  </url><url>
-    <loc>https://kangminsuk.com/ko/make/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://kangminsuk.com/make/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-KO"
-                href="https://kangminsuk.com/ko/make/"
                 />
   </url><url>
     <loc>https://kangminsuk.com/ko/blog/diary/</loc>
