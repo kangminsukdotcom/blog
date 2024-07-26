@@ -9,13 +9,13 @@ robots: "noindex,nofollow"
     <img id="front" src="/images/postcard-2.png" alt="Postcard Front" class="front">
     <div class="back-container" id="back-container">
       <img id="back" src="/images/postcard-back.png" alt="Postcard Back" class="back">
-      <textarea id="message" placeholder="Write your message here..."></textarea>
+      <textarea id="message" placeholder="생일 축하해!"></textarea>
     </div>
   </div>
   <p class="intro">
-    Here is my latest postcard design. Click on the image to see both sides of the postcard.
+    생일에는 미역국 대신 엽서를.
   </p>
   <div class="download-links">
-    <a href="#" id="download-link">Download Postcard with Message</a>
+    <a href="#" id="download-link">엽서 다운로드하기</a>
   </div>
 </div>
