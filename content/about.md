@@ -12,7 +12,7 @@ title: "Minsuk Kang"
 ## Now
 - [Jagunbae](https://en.jagunbae.com)
 
-## Creations
+## Projects
 - [Sandwich shop](https://reviews.cheesylazy.com/) (closed)
 - [My bookmarks](https://links.kangminsuk.com/bookmarks/shared)
 - [(A Bit Serious) Parent Interview](https://kangminsuk.com/interview/)
