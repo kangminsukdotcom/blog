@@ -13,7 +13,7 @@
       <link>https://kangminsuk.com/ko/message/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kangminsuk.com/ko/message/</guid>
-      <description> 방명록 비워두세요. </description>
+      <description> 방명록 이름 이메일 (선택) 웹사이트 (선택) 비워두세요. </description>
       <content:encoded><![CDATA[<style>
   p.byline {display: none;}
   footer {display: none;}
@@ -39,7 +39,20 @@
 <h2>방명록</h2>
 <form action="https://riku.miso.town/submit?user_id=42&label=blog" method="post">
   <input type="hidden" name="redirect" value="https://kangminsuk.com/thank-you">
+  <div class="field">
+    <label for="name">이름</label>
+    <input type="text" name="name" id="name" required>
+  </div>
 
+  <div class="field">
+    <label for="email">이메일 (선택)</label>
+    <input type="email" name="email" id="email">
+  </div>
+
+  <div class="field">
+    <label for="url">웹사이트 (선택)</label>
+    <input type="url" name="url" id="url">
+  </div>
   <div class="field">
     <textarea name="message" placeholder="저에게만 전달됩니다." id="letter" required></textarea>
   </div>
