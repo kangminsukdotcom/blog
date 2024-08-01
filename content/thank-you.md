@@ -15,4 +15,4 @@ type: page
 }
 </style>
 
-<p>Your message has been sent.</p>
+<p>You are the best.</p>
