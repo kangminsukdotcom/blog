@@ -60,7 +60,7 @@ nav a {
 }
 
 a {
-  color: #111;
+  color: #333;
   text-decoration: underline;
   text-underline-offset: 0.15em;
   text-decoration-color: hsla(0,0%,50%,.2);
