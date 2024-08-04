@@ -13,4 +13,5 @@ weight: 1
 </style>
 - [강민석](https://kangminsuk.com/ko/about)
 - [구독](https://kangminsuk.com/ko/subscribe)
+- [이메일](https://letterbird.co/kang)
 - [후원](https://buy.stripe.com/7sIeWh0Crbe67hS4gh)

@@ -13,4 +13,5 @@ weight: 1
 </style>
 - [Minsuk Kang](https://kangminsuk.com/about)
 - [Subscribe](https://kangminsuk.com/subscribe)
+- [Contact](https://letterbird.co/kang)
 - [Donate](https://buy.stripe.com/7sIeWh0Crbe67hS4gh)
