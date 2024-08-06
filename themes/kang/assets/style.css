@@ -3,7 +3,6 @@ html {
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: none;
-  color: #444;
   background-color: #f6f5ed;
 }
 
@@ -17,17 +16,6 @@ html {
   word-break: keep-all;
 }
 
-:lang(en) {
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-variant-caps: small-caps;
-  }
-}
-
 h1,
 h2,
 h3,
@@ -39,7 +27,8 @@ h6 {
 
 body {
   font-family: 'Clover', monospace;
-  font-size: 19px;
+  color: #444;
+  font-size: 19.5px;
   margin: 0 auto;
   padding: 1em;
   max-width: 60ch;
@@ -60,7 +49,7 @@ nav a {
 }
 
 a {
-  color: #333;
+  color: #111;
   text-decoration: underline;
   text-underline-offset: 0.15em;
   text-decoration-color: hsla(0,0%,50%,.2);
@@ -113,9 +102,7 @@ input {
 }
 
 content {
-  font-size: 19px;
   line-height: 1.6;
-  color: #444;
   img {
     display: block;
     margin: 0 auto;

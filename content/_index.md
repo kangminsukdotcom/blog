@@ -11,7 +11,7 @@ weight: 1
     border-style: outset;
   }
 </style>
-- [Minsuk Kang](https://kangminsuk.com/about)
-- [Email](https://letterbird.co/kang)
-- [Subscribe](https://kangminsuk.com/subscribe)
-- [Donate](https://buy.stripe.com/7sIeWh0Crbe67hS4gh)
+
+# Hi I'm [Minsuk Kang](https://kangminsuk.com/about).
+
+## Let's be friends. [Email me](https://letterbird.co/kang) with your website. [Subscribe using RSS or Email](https://kangminsuk.com/subscribe). [Donate your money](https://buy.stripe.com/7sIeWh0Crbe67hS4gh) to support this website.
