@@ -14,4 +14,4 @@ weight: 1
 
 # Hi I'm [Minsuk Kang](https://kangminsuk.com/about).
 
-## Let's be friends. [Email me](https://letterbird.co/kang) with your website. [Subscribe using RSS or Email](https://kangminsuk.com/subscribe). [Donate your money](https://buy.stripe.com/7sIeWh0Crbe67hS4gh) to support this website.
+## Let's be friends. [Email me](https://letterbird.co/kang) with your website. [Subscribe using RSS or Email](https://kangminsuk.com/subscribe).
