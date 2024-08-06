@@ -25,6 +25,17 @@ h6 {
   font-weight: bold;
 }
 
+:lang(en) {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-variant-caps: small-caps;
+  }
+}
+
 body {
   font-family: 'Clover', monospace;
   color: #444;
@@ -80,7 +91,7 @@ ul.blog-posts a:visited {
 nav a {
   margin-right: 0.625em;
   color: #541313;
-  font-size: 18px;
+  font-size: 19px;
 }
 
 nav {
