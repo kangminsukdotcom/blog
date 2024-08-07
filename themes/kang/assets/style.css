@@ -16,6 +16,10 @@ html {
   word-break: keep-all;
 }
 
+time {
+  font-style: normal;
+}
+
 h1,
 h2,
 h3,
@@ -37,7 +41,7 @@ h6 {
 }
 
 body {
-  font-family: 'Clover', monospace;
+  font-family: 'Clover', ui-serif;
   color: #444;
   font-size: 19.5px;
   margin: 0 auto;
