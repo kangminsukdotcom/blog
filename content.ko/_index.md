@@ -7,9 +7,6 @@ weight: 1
   ul {
    list-style: none;
   }
-  main {
-    border-style: outset;
-  }
 </style>
 
 # 안녕하세요 [강민석](https://kangminsuk.com/about)입니다.

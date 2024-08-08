@@ -176,12 +176,6 @@ blockquote {
   margin-left: 0;
 }
 
-footer {
-  padding: 1.5625em;
-  text-align: center;
-  color: #666; /* Updated font color for contrast */
-}
-
 .helptext {
   color: #777;
   font-size: small;

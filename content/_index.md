@@ -7,9 +7,6 @@ weight: 1
   ul {
    list-style: none; 
   }
-  main {
-    border-style: outset;
-  }
 </style>
 
 # Hi I'm [Minsuk Kang](https://kangminsuk.com/about).
