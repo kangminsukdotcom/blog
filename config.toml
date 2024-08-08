@@ -3,7 +3,7 @@ title = "Minsuk Kang 강민석"
 theme = "kang"
 enableRobotsTXT = true
 dateFormat = "2006-01-02"
-timeZone: "Asia/Seoul"
+timeZone = "Asia/Seoul"
 
 [markup]
   [markup.highlight]
