@@ -9,7 +9,7 @@ weight: 1
   }
 </style>
 
-# 안녕하세요 [강민석](https://kangminsuk.com/about)입니다.
+# 안녕하세요 [강민석](https://kangminsuk.com/ko/about)입니다.
 
 ## [이메일](https://letterbird.co/kang) 환영합니다.  
 ## [구독은 RSS 혹은 이메일로 가능합니다](https://kangminsuk.com/ko/subscribe).  
