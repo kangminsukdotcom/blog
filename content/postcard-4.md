@@ -10,7 +10,7 @@ robots: "noindex,nofollow"
     <img id="front" src="/images/postcard-4.png" alt="Postcard Front" class="front">
     <div class="back-container" id="back-container">
       <img id="back" src="/images/postcard-back.png" alt="Postcard Back" class="back">
-      <textarea id="message" placeholder="제주도 좋은데?"></textarea>
+      <textarea id="message" placeholder="제주도 나쁘지 않은데?"></textarea>
     </div>
   </div>
   <em class="intro">

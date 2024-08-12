@@ -10,7 +10,7 @@ robots: "noindex,nofollow"
     <img id="front" src="/images/postcard-5.png" alt="Postcard Front" class="front">
     <div class="back-container" id="back-container">
       <img id="back" src="/images/postcard-back.png" alt="Postcard Back" class="back">
-      <textarea id="message" placeholder="너가 좋아할 것 같아서 샀어."></textarea>
+      <textarea id="message" placeholder="너가 완전 좋아할 것 같아서 샀어."></textarea>
     </div>
   </div>
   <em class="intro">
