@@ -14,7 +14,8 @@ robots: "noindex,nofollow"
     </div>
   </div>
   <em class="intro">
-    "내가 너 없이 어떻게 사냐." 사랑하는 친구에게 편지를 선물하세요.
+    "내가 너 없이 어떻게 사냐."<br> 
+    사랑하는 친구에게 편지를 선물하세요.
   </em>
   <div class="download-links">
     <a href="#" id="download-link">엽서 다운로드하기</a>

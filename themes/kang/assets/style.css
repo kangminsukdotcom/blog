@@ -12,7 +12,129 @@ html {
   font-display: swap;
 }
 
+@font-face {
+  font-family: 'Atkinson Hyperlegible';
+  src: url('/fonts/Atkinson-Hyperlegible-Regular-102a.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MonoplexKRNerd';
+  src: url('/fonts/MonoplexKRNerd-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MonoplexKRNerd';
+  src: url('/fonts/MonoplexKRNerd-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MonoplexKRNerd';
+  src: url('/fonts/MonoplexKRNerd-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MonoplexKRNerd';
+  src: url('/fonts/MonoplexKRNerd-ExtraLightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MonoplexKRNerd';
+  src: url('/fonts/MonoplexKRNerd-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MonoplexKRNerd';
+  src: url('/fonts/MonoplexKRNerd-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MonoplexKRNerd';
+  src: url('/fonts/MonoplexKRNerd-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MonoplexKRNerd';
+  src: url('/fonts/MonoplexKRNerd-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MonoplexKRNerd';
+  src: url('/fonts/MonoplexKRNerd-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MonoplexKRNerd';
+  src: url('/fonts/MonoplexKRNerd-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MonoplexKRNerd';
+  src: url('/fonts/MonoplexKRNerd-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MonoplexKRNerd';
+  src: url('/fonts/MonoplexKRNerd-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MonoplexKRNerd';
+  src: url('/fonts/MonoplexKRNerd-Text.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MonoplexKRNerd';
+  src: url('/fonts/MonoplexKRNerd-TextItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MonoplexKRNerd';
+  src: url('/fonts/MonoplexKRNerd-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MonoplexKRNerd';
+  src: url('/fonts/MonoplexKRNerd-ThinItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+}
+
 :lang(ko) {
+  body {
+    font-family: 'MonoplexKRNerd', sans-serif;
+  }
   word-break: keep-all;
 }
 
@@ -29,7 +151,11 @@ h6 {
   font-weight: bold;
 }
 
+
 :lang(en) {
+  body {
+    font-family: 'MonoplexKRNerd', sans-serif;
+  }
   h1,
   h2,
   h3,
@@ -37,16 +163,16 @@ h6 {
   h5,
   h6 {
     font-variant-caps: small-caps;
+    font-weight: bold;
   }
 }
 
 body {
-  font-family: 'Clover', ui-serif;
-  color: #444;
-  font-size: 19.5px;
+  color: rgb(37, 55, 70);
+  font-size: 18px;
   margin: 0 auto;
   padding: 1em;
-  max-width: 60ch;
+  max-width: 720px;
   text-align: left;
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -95,7 +221,7 @@ ul.blog-posts a:visited {
 nav a {
   margin-right: 0.625em;
   color: #541313;
-  font-size: 19px;
+  font-size: 17px;
 }
 
 nav {
@@ -154,7 +280,7 @@ img {
 code {
   padding: 0.125em 0.3125em;
   color: rgb(53, 53, 53); /* Updated code font color for contrast */
-  background-color: #f5f5f5; /* Light background color */
+  background-color: #fff; /* Light background color */
   font-family: 'Clover', monospace;
   font-size: 1.2rem !important;
 }
@@ -164,7 +290,7 @@ pre code {
   padding: 1.25em;
   white-space: pre-wrap;
   overflow-x: auto;
-  background-color: #f5f5f5; /* Light background color */
+  background-color: #353535; /* Light background color */
   border: 1px solid #999; /* Updated border color for contrast */
   border-radius: 4px; /* Added border radius */
 }

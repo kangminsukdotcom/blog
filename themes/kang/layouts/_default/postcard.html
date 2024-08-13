@@ -11,6 +11,12 @@
     </a>
     {{ $styles := resources.Get "style.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+    <style>
+        body {
+            font-family: 'clover', sans-serif !important;
+            font-size: 21.5px;
+        }
+    </style>
 </head>
 <body>
     <main>
