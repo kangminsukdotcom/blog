@@ -169,10 +169,10 @@ h6 {
 
 body {
   color: rgb(37, 55, 70);
-  font-size: 18px;
+  font-size: 17px;
   margin: 0 auto;
   padding: 1em;
-  max-width: 720px;
+  max-width: 620px;
   text-align: left;
   word-wrap: break-word;
   overflow-wrap: break-word;
