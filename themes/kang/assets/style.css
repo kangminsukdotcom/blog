@@ -13,128 +13,118 @@ html {
 }
 
 @font-face {
-  font-family: 'Atkinson Hyperlegible';
-  src: url('/fonts/Atkinson-Hyperlegible-Regular-102a.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'MonoplexKRNerd';
-  src: url('/fonts/MonoplexKRNerd-Bold.ttf') format('truetype');
+  font-family: 'MonoplexKR';
+  src: url('/fonts/MonoplexKR-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'MonoplexKRNerd';
-  src: url('/fonts/MonoplexKRNerd-BoldItalic.ttf') format('truetype');
+  font-family: 'MonoplexKR';
+  src: url('/fonts/MonoplexKR-BoldItalic.ttf') format('truetype');
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
-  font-family: 'MonoplexKRNerd';
-  src: url('/fonts/MonoplexKRNerd-ExtraLight.ttf') format('truetype');
+  font-family: 'MonoplexKR';
+  src: url('/fonts/MonoplexKR-ExtraLight.ttf') format('truetype');
   font-weight: 200;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'MonoplexKRNerd';
-  src: url('/fonts/MonoplexKRNerd-ExtraLightItalic.ttf') format('truetype');
+  font-family: 'MonoplexKR';
+  src: url('/fonts/MonoplexKR-ExtraLightItalic.ttf') format('truetype');
   font-weight: 200;
   font-style: italic;
 }
 
 @font-face {
-  font-family: 'MonoplexKRNerd';
-  src: url('/fonts/MonoplexKRNerd-Light.ttf') format('truetype');
+  font-family: 'MonoplexKR';
+  src: url('/fonts/MonoplexKR-Light.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'MonoplexKRNerd';
-  src: url('/fonts/MonoplexKRNerd-LightItalic.ttf') format('truetype');
+  font-family: 'MonoplexKR';
+  src: url('/fonts/MonoplexKR-LightItalic.ttf') format('truetype');
   font-weight: 300;
   font-style: italic;
 }
 
 @font-face {
-  font-family: 'MonoplexKRNerd';
-  src: url('/fonts/MonoplexKRNerd-Italic.ttf') format('truetype');
+  font-family: 'MonoplexKR';
+  src: url('/fonts/MonoplexKR-Italic.ttf') format('truetype');
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
-  font-family: 'MonoplexKRNerd';
-  src: url('/fonts/MonoplexKRNerd-Medium.ttf') format('truetype');
+  font-family: 'MonoplexKR';
+  src: url('/fonts/MonoplexKR-Medium.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'MonoplexKRNerd';
-  src: url('/fonts/MonoplexKRNerd-MediumItalic.ttf') format('truetype');
+  font-family: 'MonoplexKR';
+  src: url('/fonts/MonoplexKR-MediumItalic.ttf') format('truetype');
   font-weight: 500;
   font-style: italic;
 }
 
 @font-face {
-  font-family: 'MonoplexKRNerd';
-  src: url('/fonts/MonoplexKRNerd-Regular.ttf') format('truetype');
+  font-family: 'MonoplexKR';
+  src: url('/fonts/MonoplexKR-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'MonoplexKRNerd';
-  src: url('/fonts/MonoplexKRNerd-SemiBold.ttf') format('truetype');
+  font-family: 'MonoplexKR';
+  src: url('/fonts/MonoplexKR-SemiBold.ttf') format('truetype');
   font-weight: 600;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'MonoplexKRNerd';
-  src: url('/fonts/MonoplexKRNerd-SemiBoldItalic.ttf') format('truetype');
+  font-family: 'MonoplexKR';
+  src: url('/fonts/MonoplexKR-SemiBoldItalic.ttf') format('truetype');
   font-weight: 600;
   font-style: italic;
 }
 
 @font-face {
-  font-family: 'MonoplexKRNerd';
-  src: url('/fonts/MonoplexKRNerd-Text.ttf') format('truetype');
+  font-family: 'MonoplexKR';
+  src: url('/fonts/MonoplexKR-Text.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'MonoplexKRNerd';
-  src: url('/fonts/MonoplexKRNerd-TextItalic.ttf') format('truetype');
+  font-family: 'MonoplexKR';
+  src: url('/fonts/MonoplexKR-TextItalic.ttf') format('truetype');
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
-  font-family: 'MonoplexKRNerd';
-  src: url('/fonts/MonoplexKRNerd-Thin.ttf') format('truetype');
+  font-family: 'MonoplexKR';
+  src: url('/fonts/MonoplexKR-Thin.ttf') format('truetype');
   font-weight: 100;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'MonoplexKRNerd';
-  src: url('/fonts/MonoplexKRNerd-ThinItalic.ttf') format('truetype');
+  font-family: 'MonoplexKR';
+  src: url('/fonts/MonoplexKR-ThinItalic.ttf') format('truetype');
   font-weight: 100;
   font-style: italic;
 }
 
 :lang(ko) {
-  body {
-    font-family: 'MonoplexKRNerd', sans-serif;
-  }
   word-break: keep-all;
 }
 
@@ -153,9 +143,6 @@ h6 {
 
 
 :lang(en) {
-  body {
-    font-family: 'MonoplexKRNerd', sans-serif;
-  }
   h1,
   h2,
   h3,
@@ -168,6 +155,7 @@ h6 {
 }
 
 body {
+  font-family: 'MonoplexKR', sans-serif;
   color: rgb(37, 55, 70);
   font-size: 17px;
   margin: 0 auto;
