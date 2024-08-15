@@ -3,11 +3,6 @@ title: "Home"
 menu: "main"
 weight: 1
 ---
-<style>
-  ul {
-   list-style: none; 
-  }
-</style>
 
 # Hi I'm [Minsuk Kang](https://kangminsuk.com/about).
 

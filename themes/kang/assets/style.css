@@ -166,7 +166,6 @@ pre code {
   padding: 1.25em;
   white-space: pre-wrap;
   overflow-x: auto;
-  background-color: #353535; /* Light background color */
   border: 1px solid #999; /* Updated border color for contrast */
   border-radius: 4px; /* Added border radius */
 }

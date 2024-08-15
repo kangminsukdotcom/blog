@@ -3,11 +3,6 @@ title: "홈"
 menu: "main"
 weight: 1
 ---
-<style>
-  ul {
-   list-style: none;
-  }
-</style>
 
 # 안녕하세요 [강민석](https://kangminsuk.com/ko/about)입니다.
 
