@@ -20,5 +20,5 @@ title: "강민석"
 - [블로그 만세!](https://blogmansae.com)
 - [질문 있는 사람들](https://questions.jagunbae.com)
 - [강민석의 북마크 모음](https://links.kangminsuk.com/bookmarks/shared)
-- [Quotes](https://kangminsuk.com/quotes/))
+- [Quotes](https://kangminsuk.com/quotes/)
 - [샌드위치샵 치지레이지](https://reviews.cheesylazy.com/) (영업 종료)
