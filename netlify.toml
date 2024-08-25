@@ -1,6 +1,6 @@
 # example netlify.toml
 [build]
-  command = "hugo"
+  command = "hugo --gc --minify"
   functions = "netlify/functions"
   publish = "public"
 

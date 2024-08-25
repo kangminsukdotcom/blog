@@ -14,9 +14,6 @@ timeZone = "Asia/Seoul"
 [markup.goldmark.renderer]
   unsafe = true
 
-[build.environment]
-  HUGO_VERSION = "latest"
-  
 [params]
   description = "An amateur creator."
   favicon = "images/favicon.jpg"
