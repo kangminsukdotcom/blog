@@ -157,7 +157,7 @@ code {
   padding: 0.125em 0.3125em;
   color: rgb(53, 53, 53); /* Updated code font color for contrast */
   background-color: #fff; /* Light background color */
-  font-family: 'Clover', monospace;
+  font-family: monospace;
   font-size: 1.2rem !important;
 }
 
