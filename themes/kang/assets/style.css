@@ -45,10 +45,10 @@ h6 {
 body {
   font-family: system-ui, sans-serif;
   color: rgb(37, 55, 70);
-  font-size: 17px;
+  font-size: 16px;
   margin: 0 auto;
   padding: 1em;
-  max-width: 620px;
+  max-width: 64ch;
   text-align: left;
   word-wrap: break-word;
   overflow-wrap: break-word;
