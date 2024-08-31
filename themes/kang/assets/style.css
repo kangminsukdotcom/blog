@@ -158,7 +158,6 @@ code {
   color: rgb(53, 53, 53); /* Updated code font color for contrast */
   background-color: #fff; /* Light background color */
   font-family: monospace;
-  font-size: 1.2rem !important;
 }
 
 pre code {
