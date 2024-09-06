@@ -5,6 +5,7 @@ html {
   -webkit-text-size-adjust: none;
   background-color: #f6f5ed;
 }
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css");
 
 @font-face {
   font-family: 'Clover';
@@ -43,7 +44,7 @@ h6 {
 }
 
 body {
-  font-family: system-ui, sans-serif;
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
   color: rgb(37, 55, 70);
   font-size: 16px;
   margin: 0 auto;
