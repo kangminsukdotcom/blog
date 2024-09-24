@@ -7,12 +7,6 @@ html {
 }
 @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css");
 
-@font-face {
-  font-family: 'Clover';
-  src: url('/fonts/7f5d6g7h.ttf') format('truetype');
-  font-display: swap;
-}
-
 :lang(ko) {
   word-break: keep-all;
 }
