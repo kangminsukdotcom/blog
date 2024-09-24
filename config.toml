@@ -16,7 +16,7 @@ timeZone = "Asia/Seoul"
 
 [params]
   description = "An amateur creator."
-  favicon = "images/favicon.jpg"
+  favicon = "images/favicon.webp"
 
 [languages]
   [languages.en]
