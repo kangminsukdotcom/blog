@@ -1,11 +1,11 @@
 # example netlify.toml
 [build]
-  command = "hugo --gc --minify"
+  command = "hugo"
   functions = "netlify/functions"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.133.1"
+  HUGO_VERSION = "0.135.0"
 
 [[headers]]
   for = "/*"
