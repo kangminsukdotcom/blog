@@ -20,9 +20,9 @@ The beta testing was completely free under one condition. For a year, every part
 Most hackers on the Internet were sure about one thing: "Thinking" was about to become the most valuable skill in the world. Many testers were already gaining massive popularity online, and some of them shared their bots' messenger IDs to maximize the pool of data to play with. Joonho thought joining an open competition was a mistake. A lot of noise wouldn't help him control his semi-robotic brain. He wanted to set up a temple in his room. He needed a quiet environment to truly understand his consciousness.
 
 From what he had learned from Internet forums, Joonho wrote down three stages to becoming fluent in the nano-bot.
+
 1. You can receive messages from other bots.
 2. You can send messages without any mistakes.
 3. You can communicate with AI bots to handle complex tasks.
-He thought reaching step 3 would grant him unprecedented power. If he could communicate with AI at the speed of thought, he could research, experiment, invest, engineer, and design faster than any human in the world. He would become humanity's mastermind to solve the universe’s mysteries. He would be considered a god.
 
-*Part II is coming soon.*
+He thought reaching step 3 would grant him unprecedented power. If he could communicate with AI at the speed of thought, he could research, experiment, invest, engineer, and design faster than any human in the world. He would become humanity's mastermind to solve the universe’s mysteries. He would be considered a god.

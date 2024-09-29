@@ -11,7 +11,7 @@ A day after his arrival, Hoon joined a big family lunch in a Chinese restaurant.
 
 “Can you speak like an American?” Uncle Cho said.
 
-“No, *Samchon*. Learning a language is not that easy."
+“No, Samchon. Learning a language is not that easy."
 
 “You are too humble. You spent two years in America. I bet you speak way better than my kids. I’ve paid at least 500,000 won every month for their tutors, and the kids still can’t even introduce themselves in English. Hoon-a, one must leave this country to learn real English. Thank your parents. You really are the lucky one."
 
