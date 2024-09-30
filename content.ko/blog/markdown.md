@@ -167,6 +167,16 @@ Or...
 | John | Doe | Male |
 | Mary | Smith | Female |
 
+---
+
+## 하이라이트
+
+```
+==중요한 문장입니다.==
+```
+
+==중요한 문장입니다.==
+
 <style>
 hr {
   border: none; /* Remove the default border */
