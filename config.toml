@@ -14,6 +14,12 @@ timeZone = "Asia/Seoul"
 [markup.goldmark.renderer]
   unsafe = true
 
+[markup]
+  [markup.goldmark]
+      [markup.goldmark.extensions.extras]
+        [markup.goldmark.extensions.extras.mark]
+          enable = true
+
 [params]
   description = "An amateur creator."
   favicon = "images/favicon.webp"
