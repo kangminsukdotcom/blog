@@ -35,4 +35,6 @@ Three days later, I called the police. Dosuk told me I could "pick up" his body 
 
 The funeral happened the week after. His colleagues and cousins came. They seemed to know nothing about what had happened between us. "Oh, you're the daughter Shinyong talked about. He was really proud of you. You live in Seoul, right?" I never knew how to respond to all this nonsense. I wanted to grab them by the neck and ask, "What did he tell you? Why do you say he was proud of me? Back it up with some evidence, you son of a bitch."
 
-Unlike my anger, the funeral was calm and quiet for three days. Most people came alone and left after eating a bowl of yookgaejang. Dad was smiling in his portrait. Some guests might have wondered why I used a picture from fifteen years ago. Maybe they didn't even notice the difference. I could never tell if they came to mourn or celebrate his death.
+Unlike my anger, the funeral was calm and quiet for three days. Most people came alone and left after finishing a bowl of yookgaejang. I prostrated when the guests bowed to me. Someone told me to stay by the altar, but I walked outside the building for a cigarette. He liked being alone anyway.
+
+Dad was smiling in his portrait. Some guests might have wondered why I used a picture from fifteen years ago. Maybe they didn’t even notice the difference. I couldn’t tell if they had come to mourn or to celebrate his death.
