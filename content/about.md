@@ -15,6 +15,6 @@ title: "Minsuk Kang"
 ## Projects
 - [Sandwich shop](https://reviews.cheesylazy.com/) (closed)
 - [Bookmarks](https://links.kangminsuk.com/bookmarks/shared)
-- [Quotes](https://kangminsuk.com/quotes/)
+- [Kang and Ko](https://us.jagunbae.com)
 - [(A Bit Serious) Parent Interview](https://kangminsuk.com/interview/)
 - [(A Bit Serious) Question Generator](https://kangminsuk.com/conversation/)
