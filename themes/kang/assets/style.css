@@ -73,6 +73,10 @@ h1 a:hover, h2 a:hover, h3 a:hover {
   -webkit-background-clip: text;
 }
 
+a:hover {
+  color: #E91E63;
+}
+
 ul.blog-posts a:visited {
   color: #5d3fbb;
 }
