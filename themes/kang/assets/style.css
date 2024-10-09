@@ -40,14 +40,14 @@ h6 {
 body {
   font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
   color: rgb(37, 55, 70);
-  font-size: 16px;
+  font-size: 18px;
   margin: 0 auto;
   padding: 1em;
-  max-width: 64ch;
+  max-width: 647.546875px;
   text-align: left;
   word-wrap: break-word;
   overflow-wrap: break-word;
-  line-height: 1.6;
+  line-height: 29px;
   --pagefind-ui-primary: #eeeeee;
   --pagefind-ui-text: #eeeeee;
   --pagefind-ui-background: #152028;
@@ -87,7 +87,8 @@ ul.blog-posts a:visited {
 }
 
 .title h1 {
-  font-size: 1.6em;
+  font-size: 1.95552em;
+  line-height: 1.2141em;
   margin: 1.25em 0;
 }
 
