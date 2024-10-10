@@ -57,14 +57,14 @@ nav a {
 }
 
 a {
-  color: #111;
+  color: #222;
   text-decoration: underline;
+  text-decoration-style: dotted;
   text-underline-offset: 0.15em;
-  text-decoration-color: hsla(0,0%,50%,.2);
 }
 
 p a {
-  text-decoration-color: blue;
+  text-decoration-color: #f36;
 }
 
 h1 a:hover, h2 a:hover, h3 a:hover {
