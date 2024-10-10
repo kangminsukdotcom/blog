@@ -48,7 +48,7 @@ body {
   overflow-wrap: break-word;
   line-height: 29px;
   text-rendering: optimizeLegibility;
-  background-color: #e6e6e6;
+  background-color: rgb(248, 249, 250);
   box-shadow: 0px 6px 12px 3px rgba(0, 0, 0, 0.24);
 }
 
@@ -57,14 +57,12 @@ nav a {
 }
 
 a {
-  background-image: linear-gradient(90deg, rgba(94,114,235,1) 0%, rgba(255,145,144,1) 56%, rgba(254,193,149,1) 100%);
-  color: transparent;
-  -webkit-background-clip: text;
+  color: #3366CC;
   text-decoration: none;
 }
 
 a:hover {
-  color: #E91E63;
+  text-decoration: underline;
 }
 
 ul.blog-posts a:visited {
