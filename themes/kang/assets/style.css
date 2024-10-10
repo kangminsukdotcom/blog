@@ -1,5 +1,5 @@
 html {
-  -webkit-font-smoothing: subpixel-antialiased;
+  -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: none;
