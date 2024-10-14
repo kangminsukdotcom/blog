@@ -17,6 +17,7 @@ robots: "noindex,nofollow"
     "제주도 갈 바에 일본 간다"고 말하는 당신을 위하여.
   </em>
   <div class="download-links">
+    <a href="https://kangminsuk.com/mal/" id="download-link">말머리씨 소개</a>
     <a href="#" id="download-link">엽서 다운로드하기</a>
   </div>
 </div>
