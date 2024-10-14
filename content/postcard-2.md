@@ -17,6 +17,7 @@ robots: "noindex,nofollow"
     생일에는 미역국 대신 엽서를.
   </em>
   <div class="download-links">
+    <a href="https://kangminsuk.com/mal/" id="download-link">말머리씨 소개</a>
     <a href="#" id="download-link">엽서 다운로드하기</a>
   </div>
 </div>
