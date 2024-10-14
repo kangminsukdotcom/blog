@@ -19,6 +19,7 @@ robots: "noindex,nofollow"
   </em>
   <div class="download-links">
     <a href="https://kangminsuk.com/mal/">말머리씨 소개</a>
+    <br>
     <a href="#" id="download-link">엽서 다운로드하기</a>
   </div>
 </div>
