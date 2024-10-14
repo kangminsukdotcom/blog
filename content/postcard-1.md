@@ -18,7 +18,7 @@ robots: "noindex,nofollow"
     사랑하는 친구에게 편지를 선물하세요.
   </em>
   <div class="download-links">
-    <a href="https://kangminsuk.com/mal/" id="download-link">말머리씨 소개</a>
+    <a href="https://kangminsuk.com/mal/">말머리씨 소개</a>
     <a href="#" id="download-link">엽서 다운로드하기</a>
   </div>
 </div>

@@ -17,7 +17,7 @@ robots: "noindex,nofollow"
     서울 사람에게 추천하는 아이템.
   </em>
   <div class="download-links">
-    <a href="https://kangminsuk.com/mal/" id="download-link">말머리씨 소개</a>
+    <a href="https://kangminsuk.com/mal/">말머리씨 소개</a>
     <a href="#" id="download-link">엽서 다운로드하기</a>
   </div>
 </div>
