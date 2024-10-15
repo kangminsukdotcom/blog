@@ -11,13 +11,11 @@
   <meta name="robots" content="{{ .Params.robots }}">
 {{ end }}
 {{ if not .Params.menu }}
-<h1 data-pagefind-meta="title">{{ .Title }}</h1>
+{{ .Title }}
 {{ end }}
-<main data-pagefind-body>
 <content>
   {{ .Content }}
 </content>
-</main>
 <p>
   {{ range (.GetTerms "tags") }}
     <a class="blog-tags" href="{{ .Permalink }}">#{{ .LinkTitle }}</a>&nbsp;&nbsp;

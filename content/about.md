@@ -9,8 +9,6 @@ title: "Minsuk Kang"
 
 ![Minsuk Kang](https://mataroa.blog/images/3d2e27a1.jpeg)
 
-
-
 ## Now
 - [Jagunbae](https://en.jagunbae.com)
 

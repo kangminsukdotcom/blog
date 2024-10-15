@@ -4,9 +4,19 @@ menu: "main"
 weight: 1
 ---
 
-# Hi I'm [Minsuk Kang](https://kangminsuk.com/about).
+![Minsuk Kang](https://mataroa.blog/images/3d2e27a1.jpeg "Minsuk Kang")
 
-## I work for [Jagunbae](https://en.jagunbae.com).
-## I publish [short stories](https://kangminsuk.com/stories/).  
-## Say hello via [Email](https://letterbird.co/kang).
-## Subscribe via [RSS or Email](https://kangminsuk.com/subscribe).  
+## Now
+- [Jagunbae](https://en.jagunbae.com)
+- [Short Stories](https://kangminsuk.com/stories/)
+- [Kang and Ko's Photo Diary](https://us.jagunbae.com)
+
+## Projects
+- [(A Bit Serious) Parent Interview](https://kangminsuk.com/interview/)
+- [(A Bit Serious) Question Generator](https://kangminsuk.com/conversation/)
+- [Bookmarks](https://links.kangminsuk.com/bookmarks/shared)
+- [Sandwich shop](https://reviews.cheesylazy.com/) (closed)
+
+## Contact
+- [Email](https://letterbird.co/kang)
+- Subscribe to this blog via [RSS](https://kangminsuk.com/blog/index.xml).
