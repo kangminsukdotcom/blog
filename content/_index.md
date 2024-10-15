@@ -8,5 +8,5 @@ weight: 1
 
 ## I work for [Jagunbae](https://en.jagunbae.com).
 ## I publish [short stories](https://kangminsuk.com/stories/).  
-## This is my [Email](https://letterbird.co/kang).
+## Say hello via [Email](https://letterbird.co/kang).
 ## Subscribe via [RSS or Email](https://kangminsuk.com/subscribe).  
