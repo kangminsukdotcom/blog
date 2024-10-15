@@ -4,7 +4,7 @@ menu: "main"
 weight: 1
 ---
 
-# [강민석](https://kangminsuk.com/ko/about)
+# [강민석](https://kangminsuk.com/ko/about) 입니다.
 
 ## [작은배](https://jagunbae.com)에서 일합니다.
 ## [강소팟](https://podcast.jagunbae.com)이라는 팟캐스트를 매주 발행합니다.
