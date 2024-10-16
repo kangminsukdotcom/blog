@@ -1,7 +1,7 @@
 ---
 title: Stuck in Korea
 date: 2024-09-05
-tags: fiction
+tag: fiction
 ---
 
 I opened up a calculator on my phone. *How long will it take for me to own a billion won apartment in Seoul?* The number appeared on the screen. At the current rate of saving, I needed another 73 years to even consider buying a two-bed apartment. I would be 122 years old when I finally sign my name to be one of the millions of apartment owners.

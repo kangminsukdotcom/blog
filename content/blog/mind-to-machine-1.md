@@ -1,7 +1,7 @@
 ---
 title: Mind to Machine I
 date: 2024-07-01
-tags: fiction
+tag: fiction
 ---
 
 “Please don’t move.”

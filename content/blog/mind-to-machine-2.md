@@ -1,7 +1,7 @@
 ---
 title: Mind to Machine II
 date: 2024-08-25
-tags: fiction
+tag: fiction
 ---
 
 "We need more..." A robotic voice echoed in Joonho’s consciousness.
