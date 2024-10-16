@@ -27,4 +27,4 @@ title: 말머리씨
 
 That's why Mal-muh-lee lives in Jeju.
 
-See you at [Yupp](https://www.instagram.com/yupp_jeju/).
+See you at [Yupp](https://www.instagram.com/yupp_jeju/), an independent postcard store in Jeju.
