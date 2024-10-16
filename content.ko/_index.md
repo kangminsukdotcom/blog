@@ -7,7 +7,7 @@ weight: 1
 ![강민석](https://mataroa.blog/images/3d2e27a1.jpeg "강민석")
 
 ## Now
-- [작은배](https://jagunbae.com/about/)
+- [작은배](https://jagunbae.com/)
 - [강단과 소신 팟캐스트](https://podcast.jagunbae.com)
 - [단편](https://weekly.bearblog.dev)
 
