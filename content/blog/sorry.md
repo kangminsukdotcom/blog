@@ -1,7 +1,7 @@
 ---
 title: I'm Sorry
 date: 2024-10-06
-tag: fiction
+tags: fiction
 ---
 
 "Are you Sungyoon Kim? This is police investigator Dosuk Park. I'm calling to inform you of important information regarding your father, Shinyong Kim."
