@@ -5,6 +5,8 @@ enableRobotsTXT = true
 dateFormat = "2006-01-02"
 timeZone = "Asia/Seoul"
 
+tags = ["blog", "short story", "fiction", "jagunbae", "작은배", "강소팟", "강단과 소신"]
+
 [markup]
   [markup.highlight]
     lineNos = true
