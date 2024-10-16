@@ -37,3 +37,6 @@ tags = ["blog", "short story", "fiction", "jagunbae", "작은배", "강소팟", 
     [languages.ko.params]
       blogPath = "/ko/blog"
       titleImage = "/images/kang2.jpg"
+
+[taxonomies]
+   tag = "tags"
