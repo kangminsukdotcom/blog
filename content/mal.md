@@ -5,6 +5,9 @@ title: 말머리씨
   body {
     text-align: center;
   }
+  p.byline {
+    display: none;
+  }
 </style>
 
 <div class="video-container">
