@@ -37,7 +37,9 @@ h6 {
 }
 
 body {
-  font-family: Verdana, system-ui, sans-serif;
+  font-family: "SF Pro Display", "-apple-system", "BlinkMacSystemFont",
+  "San Francisco", "Helvetica Neue", "Helvetica", "Ubuntu", "Roboto", "Noto",
+  "Segoe UI", "Arial", sans-serif;
   color: rgb(32, 33, 34);
   font-size: 18px;
   margin: 0 auto;
