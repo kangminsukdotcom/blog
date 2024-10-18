@@ -13,6 +13,6 @@ Don’t worry. I’m not killing myself. This letter will constantly be updated 
 
 Thank you for reading.
 
-2024.10.19
-Your friend,
+2024.10.19  
+Your friend,  
 Minsuk Kang
