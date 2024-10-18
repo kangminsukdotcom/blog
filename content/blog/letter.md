@@ -1,5 +1,5 @@
 ---
-title: Dear ones I’m leaving behind,
+title: Dear the ones I’m leaving behind
 date: 2024-10-19
 ---
 
