@@ -4,7 +4,7 @@ menu: "main"
 weight: 1
 ---
 
-![강민석](https://mataroa.blog/images/3d2e27a1.jpeg "강민석")
+![강민석](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/3d2e27a1.webp "강민석 프로필 사진")
 
 ## Now
 - [작은배](https://jagunbae.com/)

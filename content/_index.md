@@ -4,7 +4,7 @@ menu: "main"
 weight: 1
 ---
 
-![Minsuk Kang](https://mataroa.blog/images/3d2e27a1.jpeg "Minsuk Kang")
+![Minsuk Kang](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/3d2e27a1.webp "Minsuk Kang Profile Picture")
 
 ## Now
 - [Jagunbae](https://en.jagunbae.com)
