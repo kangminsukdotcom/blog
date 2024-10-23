@@ -4,6 +4,18 @@ menu: "main"
 weight: 1
 ---
 
+<style>
+img{
+opacity:0.5;
+transition: 1s ease;
+}
+
+img:hover{
+opacity:1;
+transition: 1s ease;
+}
+</style>
+
 ![강민석](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/kakaotalk_photo_2024-10-22-17-40-36-003.webp "강민석 프로필 사진")
 
 ## Now

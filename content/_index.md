@@ -3,6 +3,17 @@ title: "Home"
 menu: "main"
 weight: 1
 ---
+<style>
+img{
+opacity:0.5;
+transition: 1s ease;
+}
+
+img:hover{
+opacity:1;
+transition: 1s ease;
+}
+</style>
 
 ![Minsuk Kang](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/kakaotalk_photo_2024-10-22-17-40-36-003.webp "Minsuk Kang Profile Picture")
 
