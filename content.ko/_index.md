@@ -21,7 +21,7 @@ transition: 1s ease;
 ## Now
 - [작은배](https://jagunbae.com/)
 - [강단과 소신 팟캐스트](https://podcast.jagunbae.com)
-- [단편](https://weekly.bearblog.dev)
+- [단편](https://kangminsuk.com/tags/fiction/)
 - [강단과 소신 사진 일기](https://us.jagunbae.com)
 
 ## Projects
