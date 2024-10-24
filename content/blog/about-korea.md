@@ -14,4 +14,4 @@ Stand with white people. Smile. Take pictures with them. Show off to others. The
 
 Eat fire noodle and say it’s spicy. Cry and chug milk. Entertain them. Be a clown once in a while.
 
-Look down. Tell them living in Korea is a blessing. Stand still. Teach them "it's important to be yourself."
+Look down. Tell them living in Korea is a blessing. Stand still. Teach them "It's important to be yourself."
