@@ -6,7 +6,7 @@ tags: [fiction]
 
 Youngsoon walked around her neighborhood and looked for a perfect spot to put up a hanging banner. She paid 55,000 won for the coated polyester banner as she asked for the best quality materials. Her friends wouldn’t believe she didn’t haggle for a discount.
 
-“Congratulations, Minhoo Park — the son of Youngsoon Kim — for passing the bar examination,” the banner said. There was no family picture or colorful graphics on the banner. Just big words on a white background. The banner was wide enough to be read a hundred meters away.
+“Congratulations, Minhoo Park—the son of Youngsoon Kim—for passing the bar examination,” the banner said. There was no family picture or colorful graphics on the banner. Just big words on a white background. The banner was wide enough to be read a hundred meters away.
 
 The banner was made, but Youngsoon didn’t want others to think she was bragging. She only hoped a few neighbors would encounter the news so that the words could spread like a fresh rumor of an affair.
 
