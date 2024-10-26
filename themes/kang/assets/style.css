@@ -32,14 +32,14 @@ h6 {
   h4,
   h5,
   h6 {
-    font-variant-caps: all-small-caps;
+    font-variant-caps: small-caps;
     font-weight: bold;
   }
 }
 
 body {
   font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
-  color: #444;
+  color: #4c4f69;
   font-size: 18px;
   margin: 0 auto;
   padding: 1em;
