@@ -2,6 +2,12 @@
 title: Zine 
 ---
 
+<style>
+    time {
+        display: none;
+    }
+</style>
+
 ## 안녕
 ![안녕 #1](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/1-1.webp)
 
