@@ -23,6 +23,7 @@ transition: 1s ease;
 - [강단과 소신 팟캐스트](https://podcast.jagunbae.com)
 - [단편](https://kangminsuk.com/tags/fiction/)
 - [강단과 소신 사진 일기](https://us.jagunbae.com)
+- [진 Zine](https://kangminsuk.com/ko/zine/)
 
 ## Projects
 - [망하지 않을 만큼 작은 식당 창업하기](https://jagunbae.com/too-small-to-fail/)
