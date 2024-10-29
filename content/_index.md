@@ -31,4 +31,4 @@ transition: 1s ease;
 
 ## Contact
 - [Email](https://letterbird.co/kang)
-- Subscribe to this blog via [RSS](https://kangminsuk.com/blog/index.xml).
+- Subscribe to this website via [RSS](https://kangminsuk.com/blog/index.xml).
