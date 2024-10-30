@@ -54,10 +54,6 @@ body {
 
 }
 
-nav a {
-  text-decoration: none;
-}
-
 a {
   color: #3366CC;
   text-decoration: none;
@@ -87,6 +83,7 @@ nav a {
   margin-right: 1em;
   color: #541313;
   font-size: 18px;
+  text-decoration: underline;
 }
 
 nav {
