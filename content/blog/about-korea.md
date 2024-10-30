@@ -10,7 +10,7 @@ Try your best to look like a white person. Thousands of world-class surgeons are
 
 Speak like a white person. Let the poor kids study in Korean. Use English to rule over them. Make sure they can’t understand you.
 
-Stand with white people. Smile. Take pictures with them. Show off to others. They are staring. You are on the pulpit.
+Stand with white people. Smile. Take pictures with them. Show off to others. They are staring. You are in the pulpit.
 
 Eat fire noodle and say it’s spicy. Cry and chug milk. Entertain them. Be a clown once in a while.
 
