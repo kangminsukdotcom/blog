@@ -1,7 +1,7 @@
 ---
 title: Yuhak
 date: 2024-06-01
-tags: [fiction]
+tags: [stories]
 ---
 
 Cho Hoon was back in Seoul.

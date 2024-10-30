@@ -1,7 +1,7 @@
 ---
 title: Sashimi
 date: 2024-09-19
-tags: [fiction]
+tags: [stories]
 ---
 
 I saw the owner of a Japanese restaurant hammering a fish on the pavement. The hammer was damp and at least three times larger than the ones we use at home.

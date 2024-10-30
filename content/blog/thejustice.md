@@ -1,7 +1,7 @@
 ---
 title: The Justice
 date: 2024-10-24
-tags: [fiction]
+tags: [stories]
 ---
 
 In the spring of 2030, this anonymous letter appeared on the public forum of the South Korean government’s official website. In two weeks, six million Koreans upvoted the petition. In three months, the National Assembly passed a bill to adopt artificial intelligence for Korea’s justice system.
