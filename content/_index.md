@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Kang"
 menu: "main"
 weight: 1
 ---
