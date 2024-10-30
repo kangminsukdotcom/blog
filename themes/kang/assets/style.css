@@ -51,6 +51,8 @@ body {
   text-rendering: optimizeLegibility;
   background-color: #eff1f5;
   box-shadow: 0px 6px 12px 3px rgba(0, 0, 0, 0.24);
+  margin: 22px auto 0 auto;
+
 }
 
 nav a {
@@ -75,6 +77,7 @@ ul.blog-posts a:visited {
   border: 0;
   font-size: 1.95552em;
   line-height: 1.2141em;
+  margin-top: 0;
 }
 
 .title span {
