@@ -19,7 +19,7 @@ transition: 1s ease;
 
 ## Now
 - [Jagunbae](https://en.jagunbae.com)
-- [Short Stories](https://kangminsuk.com/tags/fiction/)
+- [Short Stories](https://kangminsuk.com/tags/stories/)
 - [Kang and Ko's Photo Diary](https://us.jagunbae.com)
 
 ## Projects
