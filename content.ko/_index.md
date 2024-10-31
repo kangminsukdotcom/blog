@@ -26,7 +26,6 @@ transition: 1s ease;
 - [진 Zine](https://kangminsuk.com/ko/zine/)
 
 ## Projects
-- [망하지 않을 만큼 작은 식당 창업하기](https://jagunbae.com/too-small-to-fail/)
 - [(조금은 진지한) 부모님 인터뷰](https://kangminsuk.com/ko/interview/)
 - [(조금은 진지한) 질문 생성기](https://kangminsuk.com/ko/conversation/)
 - [글 쓰는 블로그를 소개합니다](https://blogs.jagunbae.com)
@@ -35,6 +34,9 @@ transition: 1s ease;
 - [북마크 모음](https://links.kangminsuk.com/bookmarks/shared)
 - [샌드위치샵 치지레이지](https://reviews.cheesylazy.com/) (영업 종료)
 - [질문 있는 사람들](https://questions.jagunbae.com)
+
+# Books
+- [망하지 않을 만큼 작은 식당 창업하기](https://jagunbae.com/too-small-to-fail/)
 
 ## Contact
 - [이메일](https://letterbird.co/kang)
