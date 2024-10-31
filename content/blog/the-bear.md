@@ -11,4 +11,4 @@ Cousin, I cry watching these episodes. Because I feel like the 45-year-old dude 
 
 The Bear knows we all crave authenticity. That's why it doesn't care if the real-world chefs were awkward as fuck in front of cameras. You know, the actors getting trained to cut veggies like pro chefs is not enough. Even when "the rotten tomatoes" are thrown at its face, The Bear will follow the gilded path of Eleven Madison Park. Fuck the fans. Fuck the critics. Fuck the investors.
 
-I will turn The Bear on and expect it to serve something that I could not have expected. Fuck me Storer and do what others are scared of.
+I will turn The Bear on and expect it to serve something that I could not have dreamed of. Don't be scared. Fuck me Storer and do what others are scared of.
