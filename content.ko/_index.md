@@ -26,6 +26,7 @@ transition: 1s ease;
 - [진 Zine](https://kangminsuk.com/ko/zine/)
 
 ## Creations
+- [라인 아이디 추가 안 한다고 개자식들아](https://texts.bearblog.dev)
 - [(조금은 진지한) 부모님 인터뷰](https://kangminsuk.com/ko/interview/)
 - [(조금은 진지한) 질문 생성기](https://kangminsuk.com/ko/conversation/)
 - [글 쓰는 블로그를 소개합니다](https://blogs.jagunbae.com)
