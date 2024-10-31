@@ -115,10 +115,10 @@ description: 가장 많이 쓰는 마크다운 문법을 한곳에 모았습니�
 
 ## 이미지
 ```
-![작은배를 만드는 두 사람](https://en.jagunbae.com/images/91a3fc9e.jpeg)
+![작은배를 만드는 두 사람](https://mataroa.blog/images/8528f40d.webp)
 ```
 
-![작은배를 만드는 두 사람](https://en.jagunbae.com/images/91a3fc9e.jpeg)
+![작은배를 만드는 두 사람](https://mataroa.blog/images/8528f40d.webp)
 
 ---
 
