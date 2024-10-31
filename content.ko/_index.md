@@ -35,7 +35,7 @@ transition: 1s ease;
 - [샌드위치샵 치지레이지](https://reviews.cheesylazy.com/) (영업 종료)
 - [질문 있는 사람들](https://questions.jagunbae.com)
 
-# Books
+## Books
 - [망하지 않을 만큼 작은 식당 창업하기](https://jagunbae.com/too-small-to-fail/)
 
 ## Contact
