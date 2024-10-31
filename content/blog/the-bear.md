@@ -1,5 +1,5 @@
 ---
-title: Cousin, this is why the Bear is fucking delicious
+title: Cousin, this is why The Bear is fucking delicious
 date: 2024-10-31
 ---
 
