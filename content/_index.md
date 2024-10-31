@@ -22,7 +22,7 @@ transition: 1s ease;
 - [Short Stories](https://kangminsuk.com/tags/stories/)
 - [Kang and Ko's Photo Diary](https://us.jagunbae.com)
 
-## Projects
+## Creations
 - [(A Bit Serious) Parent Interview](https://kangminsuk.com/interview/)
 - [(A Bit Serious) Question Generator](https://kangminsuk.com/conversation/)
 - [Mal-muh-lee](https://kangminsuk.com/mal/)
