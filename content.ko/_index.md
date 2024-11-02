@@ -7,7 +7,6 @@ weight: 1
 <style>
 img{
 opacity:0.5;
-transition: 1s ease;
 float: right;
 width: 40%;
 margin: 0 0.5em;
@@ -21,6 +20,7 @@ transition: 1s ease;
 
 h1 {
     color: #aea298;
+    transition: 1s ease;
 }
 </style>
 
