@@ -19,7 +19,7 @@ transition: 1s ease;
 }
 
 h1 {
-    color: #aea298;
+    color: #919191;
     transition: 1s ease;
 }
 </style>
