@@ -9,6 +9,8 @@ opacity:0.5;
 transition: 1s ease;
 float: right;
 width: 40%;
+margin: 0 0.5em;
+margin-top: -20px;
 }
 
 img:hover{
