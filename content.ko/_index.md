@@ -31,22 +31,26 @@ h1 {
 - [작은배](https://jagunbae.com/)
 - [강단과 소신 팟캐스트](https://podcast.jagunbae.com)
 - [단편](https://kangminsuk.com/tags/fiction/)
-- [강단과 소신 사진 일기](https://us.jagunbae.com)
-
-## 창작
-- [라인 아이디 추가 안 한다고](https://texts.bearblog.dev)
-- [진 Zine](https://kangminsuk.com/ko/zine/)
-- [(조금은 진지한) 부모님 인터뷰](https://kangminsuk.com/ko/interview/)
-- [(조금은 진지한) 질문 생성기](https://kangminsuk.com/ko/conversation/)
-- [말머리씨](https://kangminsuk.com/mal/)
-- [글 쓰는 블로그를 소개합니다](https://blogs.jagunbae.com)
-- [블로그 만세!](https://blogmansae.com)
-- [북마크 모음](https://links.kangminsuk.com/bookmarks/shared)
-- [샌드위치샵 치지레이지](https://reviews.cheesylazy.com/) (영업 종료)
-- [질문 있는 사람들](https://questions.jagunbae.com)
 
 ## 책
 - [망하지 않을 만큼 작은 식당 창업하기](https://jagunbae.com/too-small-to-fail/)
+
+<details>
+  <summary>창작</summary>
+  <ul>
+    <li><a href="https://texts.bearblog.dev">라인 아이디 추가 안 한다고</a></li>
+    <li><a href="https://kangminsuk.com/ko/zine/">진 Zine</a></li>
+    <li><a href="https://us.jagunbae.com">강단과 소신 사진 일기</a></li>
+    <li><a href="https://kangminsuk.com/ko/interview/">(조금은 진지한) 부모님 인터뷰</a></li>
+    <li><a href="https://kangminsuk.com/ko/conversation/">(조금은 진지한) 질문 생성기</a></li>
+    <li><a href="https://kangminsuk.com/mal/">말머리씨</a></li>
+    <li><a href="https://blogs.jagunbae.com">글 쓰는 블로그를 소개합니다</a></li>
+    <li><a href="https://blogmansae.com">블로그 만세!</a></li>
+    <li><a href="https://links.kangminsuk.com/bookmarks/shared">북마크 모음</a></li>
+    <li><a href="https://reviews.cheesylazy.com/">샌드위치샵 치지레이지</a></li>
+    <li><a href="https://questions.jagunbae.com">질문 있는 사람들</a></li>
+    </ul>
+</details>
 
 ## 기타
 - [이메일](https://letterbird.co/kang)

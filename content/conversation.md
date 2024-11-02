@@ -3,6 +3,15 @@ title: (A Bit Serious) Question Generator
 description: For your meaningful conversations.
 ---
 
+<style>
+    time {
+        display: none;
+    }
+    .title {
+        text-align: center;
+    }
+</style>    
+
 For your meaningful conversations.  
 Don't forget! The answers must be as detailed as possible.
 

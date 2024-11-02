@@ -29,14 +29,18 @@ h1 {
 ## Now
 - [Jagunbae](https://en.jagunbae.com)
 - [Short Stories](https://kangminsuk.com/tags/stories/)
-- [Kang and Ko's Photo Diary](https://us.jagunbae.com)
 
-## Creations
-- [(A Bit Serious) Parent Interview](https://kangminsuk.com/interview/)
-- [(A Bit Serious) Question Generator](https://kangminsuk.com/conversation/)
-- [Mal-muh-lee](https://kangminsuk.com/mal/)
-- [Bookmarks](https://links.kangminsuk.com/bookmarks/shared)
-- [Sandwich shop](https://reviews.cheesylazy.com/) (closed)
+<details>
+<summary>Creations</summary>
+<ul>
+<li><a href="https://us.jagunbae.com">Kang and Ko&#39;s Photo Diary</a></li>
+<li><a href="https://kangminsuk.com/interview/">(A Bit Serious) Parent Interview</a></li>
+<li><a href="https://kangminsuk.com/conversation/">(A Bit Serious) Question Generator</a></li>
+<li><a href="https://kangminsuk.com/mal/">Mal-muh-lee</a></li>
+<li><a href="https://links.kangminsuk.com/bookmarks/shared">Bookmarks</a></li>
+<li><a href="https://reviews.cheesylazy.com/">Sandwich shop</a> (closed)</li>
+</ul>
+</details>
 
 ## Contact
 - [Email](https://letterbird.co/kang)

@@ -33,6 +33,9 @@
         button {
             font-size: 14px;
         }
+         time {
+            display: none;
+        }
     </style>
 </head>
 <body>

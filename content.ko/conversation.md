@@ -168,4 +168,7 @@ description: 우리의 뜻깊은 대화를 위하여.
     button:hover {
         background-color: #E91E63;
     }
+    time {
+        display: none;
+    }
 </style>
