@@ -26,9 +26,10 @@ h1 {
 
 ![Minsuk Kang](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/kakaotalk_photo_2024-10-22-17-40-36-003.webp "Minsuk Kang Profile Picture")
 
-## Now
-- [Jagunbae](https://en.jagunbae.com)
-- [Short Stories](https://kangminsuk.com/tags/stories/)
+- I found [Jagunbae](https://en.jagunbae.com).
+- I write [short stories](https://kangminsuk.com/tags/stories/).
+- Say hi via [Email](https://letterbird.co/kang).
+- Subscribe to this website via [RSS](https://kangminsuk.com/blog/index.xml).
 
 <details>
 <summary>Creations</summary>
@@ -41,7 +42,3 @@ h1 {
 <li><a href="https://reviews.cheesylazy.com/">Sandwich shop</a> (closed)</li>
 </ul>
 </details>
-
-## Contact
-- [Email](https://letterbird.co/kang)
-- Subscribe to this website via [RSS](https://kangminsuk.com/blog/index.xml).

@@ -27,13 +27,11 @@ h1 {
 
 ![강민석](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/kakaotalk_photo_2024-10-22-17-40-36-003.webp "강민석 프로필 사진")
 
-## 지금
-- [작은배](https://jagunbae.com/)
-- [강단과 소신 팟캐스트](https://podcast.jagunbae.com)
-- [단편](https://kangminsuk.com/tags/fiction/)
-
-## 책
-- [망하지 않을 만큼 작은 식당 창업하기](https://jagunbae.com/too-small-to-fail/)
+- 회사: [작은배](https://jagunbae.com/).
+- 팟캐스트: [강소팟](https://podcast.jagunbae.com).
+- 책: [망하지 않을 만큼 작은 식당 창업하기](https://jagunbae.com/too-small-to-fail/)
+- 연락처: [이메일](https://letterbird.co/kang)
+- 구독: [RSS 피드](https://kangminsuk.com/ko/blog/index.xml).
 
 <details>
   <summary>창작</summary>
@@ -51,7 +49,3 @@ h1 {
     <li><a href="https://questions.jagunbae.com">질문 있는 사람들</a></li>
     </ul>
 </details>
-
-## 기타
-- [이메일](https://letterbird.co/kang)
-- [RSS 피드](https://kangminsuk.com/ko/blog/index.xml)로 구독할 수 있습니다.
