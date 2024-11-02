@@ -13,6 +13,14 @@ margin: 0 0.5em;
 margin-top: -20px;
 }
 
+@media (max-width: 768px) {
+  img {
+    float: none;
+    width: 100%; /* Adjust width if needed */
+    margin: 0 auto; /* Center the image if desired */
+  }
+}
+
 img:hover{
 opacity:1;
 transition: 1s ease;
