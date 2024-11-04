@@ -16,8 +16,8 @@ margin-top: -20px;
 @media (max-width: 768px) {
   img {
     float: none;
-    width: 100%; /* Adjust width if needed */
-    margin: 0 auto; /* Center the image if desired */
+    width: 65%;
+    margin: 0 auto;
   }
 }
 
