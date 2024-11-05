@@ -333,3 +333,17 @@ main {
   margin-bottom: 1em;
   padding: 10px;
 }
+
+nav.post-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1em;
+}
+
+a.prev-post {
+  text-align: left;
+}
+
+a.next-post {
+  text-align: left;
+}
