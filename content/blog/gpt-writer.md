@@ -9,7 +9,6 @@ Let’s clone Minsuk Kang.
 
 After feeding GPT-4o mini the prompt above, I asked for a short story. This is what I received:  
 
-	```
 	The Flag
 	
 	I watched the old woman hang her laundry on the line every Saturday. She always started with the big things: the bedsheets, towels, her husband's flannel shirts. Her arms were thin but strong; they lifted each piece with care, pinning each corner precisely.
@@ -23,7 +22,6 @@ After feeding GPT-4o mini the prompt above, I asked for a short story. This is w
 	I nodded. I didn’t know what else to say, so I watched her pin it up. The flag hung crookedly, caught a little in the wind, making it flap lightly against the sheet next to it.
 	
 	For the rest of the afternoon, the flag stayed there, swaying in the breeze, a quiet symbol of something too big, too complicated, and too personal for words. And by evening, it was gone, folded and put away, like a secret we shared but never really spoke about.
-	```
 
 Would you believe if I told you this story was written by a human writer? I don’t know about you, but I certainly would.
 
@@ -32,7 +30,7 @@ I liked the story, but it needed more colors. Where is this happening? Which nei
 So I asked GPT to add more details about the settings.
 
 Here’s the revision:
-	```
+
 	The Flag
 	
 	The old woman hung her laundry on the same line every Saturday morning. Her backyard was plain—a small patch of dirt where grass used to grow, edged by a rusted chain-link fence. Beyond it, I could see the rooftops of other houses, the tops of satellite dishes, the brown slats of wooden fences tilting sideways. Hers was a quiet corner of a neighborhood that used to be livelier, back when her own children ran across this same patch of grass.
@@ -56,7 +54,6 @@ Here’s the revision:
 	For the rest of the day, the flag hung there, swaying alongside the bedsheets and towels. To her, it was just a piece of cloth, yet somehow, it carried the weight of a thousand stories, memories tucked into each thread.
 	
 	By evening, it was gone. Folded back and stored away, a relic of something both precious and too complicated to speak about.
-	```
 
 Oh no, the story suddenly lost its charms. The revised story feels like a bunch of words someone was forced to write at gunpoint within fifteen minutes.
 
