@@ -12,17 +12,11 @@
   <content>
     {{ .Content }}
   </content>
-  
+  <hr>
   <p>
     {{ range (.GetTerms "tags") }}
       <a class="blog-tags" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
     {{ end }}
-  </p>
-  
-  <p>
-    <a href='https://letterbird.co/kang'>
-      {{ i18n "email-reply" }} ↪
-    </a>
   </p>
   <nav class="post-navigation">
     {{ if .PrevInSection }}
@@ -36,5 +30,10 @@
             {{ .NextInSection.Title }} &rarr;
         </a>
     {{ end }}
-</nav>
+  </nav>
+  <p>
+    <a href='https://letterbird.co/kang'>
+      {{ i18n "email-reply" }} ↪
+    </a>
+  </p>
 {{ end }}
