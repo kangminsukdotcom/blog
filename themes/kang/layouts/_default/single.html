@@ -27,13 +27,13 @@
   <nav class="post-navigation">
     {{ if .PrevInSection }}
         <a href="{{ .PrevInSection.Permalink }}" class="prev-post">
-            &larr; Previous: {{ .PrevInSection.Title }}
+            &larr; {{ .PrevInSection.Title }}
         </a>
     {{ end }}
 
     {{ if .NextInSection }}
         <a href="{{ .NextInSection.Permalink }}" class="next-post">
-            Next: {{ .NextInSection.Title }} &rarr;
+            {{ .NextInSection.Title }} &rarr;
         </a>
     {{ end }}
 </nav>
