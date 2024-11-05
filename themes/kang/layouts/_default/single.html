@@ -18,11 +18,6 @@
       <a class="blog-tags" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
     {{ end }}
   </p>
-  <p>
-    <a href='https://letterbird.co/kang'>
-      {{ i18n "email-reply" }} ↪
-    </a>
-  </p>
   <nav class="post-navigation">
     {{ if .PrevInSection }}
         <a href="{{ .PrevInSection.Permalink }}" class="prev-post">
