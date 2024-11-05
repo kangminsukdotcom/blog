@@ -63,4 +63,4 @@ I get it now. GPT can write very good emails but can’t craft a genuine story. 
 
 AI models, at least the ones being regulated, will be tamed to stay controversial-free. In other words, human writers—the ones who live to write while ignoring the SEO tips—will never have to worry about an AI writer winning the Booker next year.
 
-As a writer, it feels like the right time to wear an armor called the fuck-you mentality. Why not spew anger at the reader, offend the perpetual liars, and laugh if someone asks about AI replacing writers? Lee Sedol quit Go because he thought the game no longer felt like an art. Writers can't let the game of writing be boiled down to the millions of calculations. Writing is about provoking, not winning.
+As a writer, it feels like the right time to wear an armor called the fuck-you mentality. Why not spew anger at the reader, offend the perpetual liars, and laugh if someone asks about AI replacing writers? Lee Sedol quit Go because he thought the game no longer felt like an art. Writers can't let the game of writing be boiled down to the billions of computations. Writing is about provoking, not winning.
