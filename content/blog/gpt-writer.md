@@ -57,10 +57,10 @@ Here’s the revision:
 
 Oh no, the story suddenly lost its charms. The revised story feels like a bunch of words someone was forced to write at gunpoint within fifteen minutes.
 
-I fed more prompts but failed to enrich the story. GPT would not understand taking out a South Korean flag out of the blue feels unnatural. GPT would not guess how a Korean woman would behave when hanging the laundry. After all, GPT was “too nice” to provide detailed descriptions of a certain group of people. 
+I fed more prompts but failed to rescue the story. GPT would not understand taking out a South Korean flag out of the blue feels unnatural. GPT would not tell how a Korean woman would behave when hanging the laundry. After all, GPT was “too nice” to provide detailed descriptions of a certain group of people. 
 
-GPT can write very good emails but can’t craft a genuine story. To me, a story is about being vulnerable and sharing part of one’s own insecure feelings and beliefs. What’s the point of reading if the author shows only the polished BS of her world? We already have plenty of lies blinding us all the time.
+I get it now. GPT can write very good emails but can’t craft a genuine story. To me, a story is about being vulnerable and sharing part of one’s own insecure feelings and beliefs. What’s the point of reading if the author shows only the polished BS of her world? We already have plenty of lies blinding us all the time.
 
-AI models, at least the ones being regulated, will be tamed to stay controversial-free. In other words, human writers—the ones who live to write while ignoring the SEO tips—will never be the useful data set for the machines that comply with the social demands.
+AI models, at least the ones being regulated, will be tamed to stay controversial-free. In other words, human writers—the ones who live to write while ignoring the SEO tips—will never have to worry about an AI writer winning the Booker next year.
 
-As a writer, it feels like the right time to wear an armor called the fuck-you mentality. Why not spew truth at the reader, offend the perpetual liars, and laugh if someone asks about AI replacing writers? Lee Sedol quit Go because he thought the game no longer felt like an art. Writers can't let the game of writing be boiled down to the millions of calculations. Humans write to provoke. not to win.
+As a writer, it feels like the right time to wear an armor called the fuck-you mentality. Why not spew truth at the reader, offend the perpetual liars, and laugh if someone asks about AI replacing writers? Lee Sedol quit Go because he thought the game no longer felt like an art. Writers can't let the game of writing be boiled down to the millions of calculations. Humans write to provoke, not to win.
