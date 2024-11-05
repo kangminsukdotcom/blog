@@ -3,7 +3,9 @@ html {
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: none;
-  background-color: #ececec;
+  background: linear-gradient(90deg,#fff 21px,transparent 1%) 50%,linear-gradient(#fff 21px,transparent 1%) 50%,#000;
+  background-attachment: fixed;
+  background-size: 22px 22px;
 }
 
 :lang(ko) {
@@ -42,6 +44,8 @@ h6 {
 
 body {
   font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
+  font-feature-settings: normal;
+  font-variation-settings: normal;
   color: #4c4f69;
   font-size: 18px;
   padding: 1.5em;
