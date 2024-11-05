@@ -346,8 +346,16 @@ a.prev-post {
   color: #919191;
 }
 
+a.prev-post:hover {
+  color: #4c4f69;
+}
+
 a.next-post {
   text-align: left;
   text-decoration: none;
   color: #919191;
+}
+
+a.next-post:hover {
+  color: #4c4f69;
 }
