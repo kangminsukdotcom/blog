@@ -335,8 +335,6 @@ main {
 }
 
 nav.post-navigation {
-  text-decoration: none;
-  color: #919191;
   display: flex;
   justify-content: space-between;
   margin-top: 1em;
@@ -344,8 +342,12 @@ nav.post-navigation {
 
 a.prev-post {
   text-align: left;
+  text-decoration: none;
+  color: #919191;
 }
 
 a.next-post {
   text-align: left;
+  text-decoration: none;
+  color: #919191;
 }
