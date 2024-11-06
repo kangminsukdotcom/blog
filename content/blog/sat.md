@@ -1,5 +1,5 @@
 ---
-title: SAT
+title: The SAT
 date: 2024-09-12
 tags: [stories]
 ---
