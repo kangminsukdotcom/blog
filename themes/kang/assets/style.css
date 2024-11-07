@@ -4,7 +4,6 @@ html {
   scroll-behavior: smooth;
   -webkit-text-size-adjust: none;
   background: linear-gradient(90deg,#fff 21px,transparent 1%) 50%,linear-gradient(#fff 21px,transparent 1%) 50%,#000;
-  background-attachment: fixed;
   background-size: 22px 22px;
 }
 
