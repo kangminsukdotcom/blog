@@ -17,7 +17,7 @@ margin-top: -20px;
   img {
     float: none;
     width: 65%;
-    margin: 0 auto;
+    margin: 0;
   }
 }
 
