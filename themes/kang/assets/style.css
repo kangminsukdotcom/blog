@@ -137,6 +137,7 @@ img {
   0px 32px 24px rgba(3, 7, 18, 0.02);
   border: 1px solid #aaa;
   margin-bottom: 1em;
+  filter: grayscale(100);
 }
 
 code {
