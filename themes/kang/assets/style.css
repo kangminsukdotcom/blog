@@ -90,7 +90,7 @@ nav a {
   color: #541313;
   font-size: 18px;
   text-decoration: underline;
-  width: 100%;
+  max-width: 100%;
 }
 
 nav {
