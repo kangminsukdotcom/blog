@@ -15,7 +15,7 @@ margin-top: -20px;
 @media (max-width: 768px) {
   img {
     float: none;
-    width: 65%;
+    width: 60%;
     margin: 0;
   }
 }
