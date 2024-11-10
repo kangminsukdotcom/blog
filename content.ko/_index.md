@@ -29,6 +29,7 @@ transition: 1s ease;
 h1 {
     color: #919191;
     transition: 1s ease;
+    font-family: 'LeeSeoyun', sans-serif;
 }
 </style>
 
