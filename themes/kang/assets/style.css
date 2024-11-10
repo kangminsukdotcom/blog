@@ -8,7 +8,9 @@ html {
 }
 
 :lang(ko) {
-  word-break: keep-all;
+  body {
+    word-break: keep-all;
+  }
   .title {
     font-family: 'LeeSeoyun', sans-serif;
   }
