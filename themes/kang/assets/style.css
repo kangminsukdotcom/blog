@@ -7,6 +7,13 @@ html {
   background-size: 22px 22px;
 }
 
+@font-face {
+  font-family: 'LeeSeoyun';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2202-2@1.0/LeeSeoyun.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 :lang(ko) {
   body {
     word-break: keep-all;
@@ -245,13 +252,6 @@ figcaption > p {
 ::selection {
   color: #444; /* Updated selection font color */
   background-color: #f2f2ce; /* Updated selection background color */
-}
-
-@font-face {
-  font-family: 'LeeSeoyun';
-  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2202-2@1.0/LeeSeoyun.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
 }
 
 .postcard-container {
