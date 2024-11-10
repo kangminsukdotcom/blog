@@ -28,8 +28,6 @@ transition: 1s ease;
 h1 {
     color: #919191;
     transition: 1s ease;
-    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
-
 }
 </style>
 

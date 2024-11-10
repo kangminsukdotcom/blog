@@ -18,7 +18,12 @@ html {
   body {
     word-break: keep-all;
   }
-  .title {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     font-family: 'LeeSeoyun', sans-serif;
   }
 }
@@ -47,8 +52,6 @@ h6 {
   h6 {
     font-variant-caps: all-small-caps;
     font-weight: bold;
-  }
-  .title {
     font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
   }
 }
