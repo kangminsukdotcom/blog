@@ -51,7 +51,7 @@ type: page
   <label for="captcha">What is 3 + 4?</label>
   <input type="text" id="captcha" name="captcha" oninput="checkCaptcha()" required>
 
-  <input type="submit" value="보내기">
+  <input type="submit" value="보내기" id="submitBtn" disabled>
 
 </form>
 
@@ -63,12 +63,12 @@ type: page
     const submitBtn = document.getElementById("submitBtn");
     const errorMessage = document.getElementById("error-message");
 
-    // Check if the answer is correct
-    if (captchaAnswer.trim() === "7") {  // expected answer here
-      submitBtn.disabled = false;  // Enable submit button
+    // Check if the CAPTCHA answer is correct
+    if (captchaAnswer.trim() === "7") {
+      submitBtn.disabled = false;  // Enable the submit button if answer is correct
       errorMessage.textContent = "";  // Clear error message
     } else {
-      submitBtn.disabled = true;  // Disable submit button
+      submitBtn.disabled = true;  // Disable the submit button if answer is incorrect
       errorMessage.textContent = "Incorrect answer, please try again.";
     }
   }
