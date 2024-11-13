@@ -16,7 +16,6 @@ html {
 
 :lang(ko) {
   body {
-    font-family: system-ui, sans-serif;
     word-break: keep-all;
   }
   h1,
@@ -53,13 +52,12 @@ h6 {
   h6 {
     font-variant-caps: all-small-caps;
     font-weight: bold;
-    }
-  body {
-    font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
   }
 }
 
 body {
+  font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
   font-feature-settings: normal;
   font-variation-settings: normal;
   color: #4c4f69;
