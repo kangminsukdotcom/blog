@@ -19,4 +19,10 @@ Disallow:
 User-agent: Slurp # Yahoo
 Disallow:
 
+User-agent: Yeti
+Disallow:
+
+User-agent: DAUM
+Disallow:
+
 Sitemap: {{ "sitemap.xml" | absURL }}
