@@ -47,6 +47,9 @@ type: page
     <textarea name="message" placeholder="Write your message here." id="letter" required></textarea>
   </div>
 
+  <label for="captcha">What is 3 + 4?</label>
+  <input type="text" id="captcha" name="captcha" oninput="checkCaptcha()" required>
+
   <div class="submit">
   <input type="submit" value="Send">
   </div>
@@ -56,3 +59,36 @@ type: page
     <input type="text" id="honeypot" name="honeypot">
   </div>
 </form>
+
+<p id="error-message" style="color: red;"></p>
+
+<script>
+  function checkCaptcha() {
+    const captchaAnswer = document.getElementById("captcha").value;
+    const submitBtn = document.getElementById("submitBtn");
+    const errorMessage = document.getElementById("error-message");
+
+    // Check if the answer is correct
+    if (captchaAnswer.trim() === "7") {  // expected answer here
+      submitBtn.disabled = false;  // Enable submit button
+      errorMessage.textContent = "";  // Clear error message
+    } else {
+      submitBtn.disabled = true;  // Disable submit button
+      errorMessage.textContent = "Incorrect answer, please try again.";
+    }
+  }
+
+  function checkHoneypot() {
+    const honeypot = document.getElementById("honeypot").value;
+    const errorMessage = document.getElementById("error-message");
+
+    // Check if the honeypot field is filled
+    if (honeypot) {
+      errorMessage.textContent = "Submission blocked.";
+      return false;  // Prevent form submission
+    }
+
+    errorMessage.textContent = "";  // Clear any error message
+    return true;  // Allow form submission
+  }
+</script>
