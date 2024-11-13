@@ -28,7 +28,7 @@ type: page
 
 <form action="https://riku.miso.town/submit?user_id=42&label=blog" method="post">
   <input type="hidden" name="redirect" value="https://kangminsuk.com/thank-you">
-  
+
   <div class="field">
     <label for="name">이름</label>
     <input type="text" name="name" id="name" required>
@@ -51,7 +51,9 @@ type: page
   <label for="captcha">What is 3 + 4?</label>
   <input type="text" id="captcha" name="captcha" oninput="checkCaptcha()" required>
 
-  <input type="submit" value="보내기" id="submitBtn" disabled>
+  <div class="submit">
+  <input type="submit" value="Send" id="submitBtn" disabled>
+  </div>
 
   <div style="display:none;">
     <label for="honeypot">Keep this field blank</label>
