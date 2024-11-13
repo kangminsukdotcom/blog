@@ -39,7 +39,7 @@ h1 {
 회사: [작은배](https://jagunbae.com/).  
 팟캐스트: [강소팟](https://podcast.jagunbae.com).  
 책: [망하지 않을 만큼 작은 식당 창업하기](https://jagunbae.com/too-small-to-fail/).  
-연락처: [이메일](https://letterbird.co/kang).  
+연락처: [이메일](https://letterbird.co/kang) 혹은 [방명록](https://kangminsuk.com/ko/message/).  
 구독: [RSS 피드](https://kangminsuk.com/ko/blog/index.xml).
 
 <details>

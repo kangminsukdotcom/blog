@@ -37,7 +37,7 @@ h1 {
 
 I found [Jagunbae](https://en.jagunbae.com).  
 I write [short stories](https://kangminsuk.com/tags/stories/).  
-Say hi via [Email](https://letterbird.co/kang).  
+Say hi via [Email](https://letterbird.co/kang) or [message](https://kangminsuk.com/message/).  
 Subscribe via [RSS](https://kangminsuk.com/blog/index.xml).
 
 <details>
