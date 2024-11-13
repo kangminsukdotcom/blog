@@ -1,3 +1,22 @@
 User-agent: *
-Allow: /
+Disallow: /
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: Bingbot
+Disallow:
+
+User-agent: Baiduspider
+Disallow:
+
+User-agent: Yandex
+Disallow:
+
+User-agent: DuckDuckBot
+Disallow:
+
+User-agent: Slurp # Yahoo
+Disallow:
+
 Sitemap: {{ "sitemap.xml" | absURL }}
