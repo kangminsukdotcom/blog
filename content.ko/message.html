@@ -21,13 +21,14 @@ type: page
   input[type="text"] {
   width: 150px; 
   }
-  footer {
+  nav.post-navigation {
     display: none;
   }
 </style>
 
 <form action="https://riku.miso.town/submit?user_id=42&label=blog" method="post">
   <input type="hidden" name="redirect" value="https://kangminsuk.com/thank-you">
+  
   <div class="field">
     <label for="name">이름</label>
     <input type="text" name="name" id="name" required>
@@ -42,19 +43,20 @@ type: page
     <label for="url">웹사이트 (선택)</label>
     <input type="url" name="url" id="url">
   </div>
+
   <div class="field">
     <textarea name="message" placeholder="메시지는 저에게만 전달됩니다." id="letter" required></textarea>
-  </div>
-
-  <div style="display:none;">
-    <label for="honeypot">비워두세요.</label>
-    <input type="text" id="honeypot" name="honeypot">
   </div>
 
   <label for="captcha">What is 3 + 4?</label>
   <input type="text" id="captcha" name="captcha" oninput="checkCaptcha()" required>
 
   <input type="submit" value="보내기" id="submitBtn" disabled>
+
+  <div style="display:none;">
+    <label for="honeypot">Keep this field blank</label>
+    <input type="text" id="honeypot" name="honeypot">
+  </div>
 
 </form>
 
