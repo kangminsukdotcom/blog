@@ -30,7 +30,7 @@ Jungmin massaged my shoulders with her two calloused hands. “You always get a 
 
 “You know, I didn’t talk to him for fourteen years. He said I wasn’t his daughter anymore when I decided to live with you. Why the fuck do I have to take care of his dead body? I don’t owe him anything. That man was a monster.”
 
-I scratched my head and sighed like the eighteen-year-old me who failed to get into to a prestigious university in Seoul. I couldn’t turn my brain off, as if his fractured body inside the coffin was calling me. I couldn’t erase the memories of him either. It was like his DNA in my body was screaming for help.
+I scratched my head and sighed like the eighteen-year-old me who failed to get into a prestigious university in Seoul. I couldn’t turn my brain off, as if his fractured body inside the coffin was calling me. I couldn’t erase the memories of him either. It was like his DNA in my body was screaming for help.
 
 Three days later, I called the police. Dosuk told me I could “pick up” his body at the police funeral. First, I was asked to check his frozen face in a metallic coffin. “Yes, that’s him.” His bones were shattered, but I could spot a birthmark on his right cheek.
 
