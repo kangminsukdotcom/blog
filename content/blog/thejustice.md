@@ -6,7 +6,7 @@ tags: [stories]
 
 In the spring of 2030, this anonymous letter appeared on the public forum of the South Korean government’s official website. In two weeks, six million Koreans upvoted the petition. In three months, the National Assembly passed a bill to adopt artificial intelligence for Korea’s justice system.
 
-After this letter was posted, there were countless attempts to find who the author was, but even the government failed to track down the source of this letter.
+After this letter was posted, there were countless attempts to identify the author. However, even the government failed to track down the source of this letter.
 
 ---
  
@@ -14,7 +14,7 @@ Dear fellow citizens,
 
 Fifteen years ago, when my father was sent to prison for stock manipulation, I thought my life would forever be in shambles. I was in high school, and the adults said he would be released when I graduated from college.
 
-I put the release date on my countdown app and watched the number decrease by the second. I overheard adults saying maybe he will be paroled for good behavior. For the first two years, I felt like my country was spying on me as if my bahavior is counted in to decide Dad’s parole. I lived with a default setting of sadness and regret.
+I put the release date on my countdown app and watched the number decrease by the second. I overheard adults saying he could be paroled for good behavior. For the first two years, I felt like my country was spying on me as if my bahavior was counted in to decide Dad’s parole. I lived with a default setting of sadness and regret.
 
 Mom said the trial was heavily influenced by the media's portrayal of my father. “Never listen to what other people talk about your father,” she said. Although I felt my mom’s frustration, I didn’t—and still don’t—think my father was innocent. Yes, he was following orders from the chaebols, but he still let hundreds of people lose their fortunes. He may say he did it for the family, but his excuse didn’t matter at the trial.
 
