@@ -54,6 +54,9 @@ h6 {
     font-weight: bold;
     font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
   }
+  body {
+    text-wrap: pretty;
+  }
 }
 
 body {
