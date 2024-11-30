@@ -126,7 +126,7 @@ input {
   background-color: #f5f5f5; /* Light background color */
   color: #444; /* Darker font color for contrast */
   font-size: 1em;
-  font-family: 'Clover', monospace;
+  font-family: monospace;
 }
 
 table {
@@ -175,7 +175,7 @@ code {
   padding: 0.125em 0.3125em;
   color: rgb(53, 53, 53); /* Updated code font color for contrast */
   background-color: #fff; /* Light background color */
-  font-family: monospace;
+  font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
 }
 
 pre code {
