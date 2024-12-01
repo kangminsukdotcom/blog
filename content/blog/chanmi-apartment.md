@@ -1,6 +1,7 @@
 ---
 title: Chanmi Apartment
 date: 2024-12-02
+tags: [stories]
 ---
 
 In five months, an old man will be dragged out of his house.
