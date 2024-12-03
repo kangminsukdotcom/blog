@@ -47,7 +47,6 @@ h1 {
   <ul>
     <li><a href="https://wooreenoon.bearblog.dev">커피가게 우리는 비공식 팬클럽</a></li>
     <li><a href="https://texts.bearblog.dev">라인 아이디 추가 안 한다고</a></li>
-    <li><a href="https://kangminsuk.com/ko/zine/">진 Zine</a></li>
     <li><a href="https://us.jagunbae.com">강단과 소신 사진 일기</a></li>
     <li><a href="https://kangminsuk.com/ko/interview/">(조금은 진지한) 부모님 인터뷰</a></li>
     <li><a href="https://kangminsuk.com/ko/conversation/">(조금은 진지한) 질문 생성기</a></li>

@@ -1,14 +1,8 @@
 ---
-title: Zine 
+title: 안녕
+date: 2024-10-26 
 ---
 
-<style>
-    time {
-        display: none;
-    }
-</style>
-
-## 안녕
 ![안녕 #1](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/1-1.webp)
 
 ![안녕 #2](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/2-2.webp)
