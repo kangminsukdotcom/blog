@@ -1,3 +1,5 @@
+@import url(https://fonts.bunny.net/css?family=yeon-sung:400);
+
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -5,13 +7,6 @@ html {
   -webkit-text-size-adjust: none;
   background: linear-gradient(90deg,#fff 21px,transparent 1%) 50%,linear-gradient(#fff 21px,transparent 1%) 50%,#000;
   background-size: 22px 22px;
-}
-
-@font-face {
-  font-family: 'LeeSeoyun';
-  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2202-2@1.0/LeeSeoyun.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
 }
 
 :lang(ko) {
@@ -24,7 +19,7 @@ html {
   h4,
   h5,
   h6 {
-    font-family: 'LeeSeoyun', sans-serif;
+    font-family: 'Yeon Sung', sans-serif;
   }
 }
 
@@ -315,14 +310,14 @@ textarea#message {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-family: 'LeeSeoyun';
+  font-family: 'Yeon Sung', sans-serif;;
 }
 
 textarea#letter {
   width: 100%;
   height: 200px;
   font-size: 16px;
-  font-family: 'LeeSeoyun';
+  font-family: 'Yeon Sung', sans-serif;;
   background: rgba(255, 255, 255, 0.8);
   color: #444;
 }
