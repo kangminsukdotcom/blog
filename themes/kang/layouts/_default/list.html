@@ -4,21 +4,22 @@
     <h3 class="blog-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
   {{ end }}
   <ul class="blog-posts">
-    {{ range .Pages }}
-    <li>
-      <span>
-        <i>
-          <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
-            {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
-          </time>
-        </i>
-      </span>
-      {{ if .Params.link }}
-        <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
-      {{ else }}
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      {{ end }}
-    </li>
+    {{ $grouped := .Pages.GroupByDate "2006" }}
+    {{ range $grouped }}
+	<h3>{{ .Key }}</h3>
+      <li>
+        <ul>
+          {{ range .Pages }}
+          <li>
+            {{ if .Params.link }}
+              <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
+            {{ else }}
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ end }}
+          </li>
+          {{ end }}
+        </ul>
+      </li>
     {{ else }}
     <li>
       {{ i18n "no-posts" }}
