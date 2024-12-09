@@ -37,8 +37,8 @@ h1 {
 
 A writer from Korea.
 
-[Email](https://letterbird.co/kang).  
-[RSS](https://kangminsuk.com/blog/index.xml).
+- [Email](https://letterbird.co/kang)
+- [RSS](https://kangminsuk.com/blog/index.xml)
 
 <details>
 <summary>Creations</summary>
