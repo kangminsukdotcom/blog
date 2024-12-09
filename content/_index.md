@@ -39,9 +39,6 @@ nav {
 
 ![Minsuk Kang](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/kakaotalk_photo_2024-10-22-17-40-36-003.webp "Minsuk Kang Profile Picture")
 
-[Email](https://letterbird.co/kang)  
-[RSS](https://kangminsuk.com/blog/index.xml)
-
 <details>
 <summary>Creations</summary>
 <ul>
@@ -54,3 +51,5 @@ nav {
 <li><a href="https://reviews.cheesylazy.com/">Sandwich shop</a> (closed)</li>
 </ul>
 </details>
+
+[Email](https://letterbird.co/kang) & [RSS](https://kangminsuk.com/blog/index.xml).

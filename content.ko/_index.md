@@ -40,9 +40,6 @@ nav {
 
 ![강민석](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/kakaotalk_photo_2024-10-22-17-40-36-003.webp "강민석 프로필 사진")
 
-[이메일](https://letterbird.co/kang)  
-[RSS](https://kangminsuk.com/ko/blog/index.xml)
-
 <details>
   <summary>창작</summary>
   <ul>
@@ -60,3 +57,5 @@ nav {
     <li><a href="https://questions.jagunbae.com">질문 있는 사람들</a></li>
     </ul>
 </details>
+
+[이메일](https://letterbird.co/kang) & [RSS](https://kangminsuk.com/ko/blog/index.xml).
