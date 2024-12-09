@@ -37,8 +37,8 @@ h1 {
 ![강민석](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/kakaotalk_photo_2024-10-22-17-40-36-003.webp "강민석 프로필 사진")
 
 글 쓰는 사람.  
-연락처: [이메일](https://letterbird.co/kang).  
-구독: [RSS 피드](https://kangminsuk.com/ko/blog/index.xml).
+[이메일](https://letterbird.co/kang).  
+[RSS 피드](https://kangminsuk.com/ko/blog/index.xml).
 
 <details>
   <summary>창작</summary>
