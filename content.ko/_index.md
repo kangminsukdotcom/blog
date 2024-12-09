@@ -30,14 +30,18 @@ h1 {
     color: #919191;
     transition: 1s ease;
 }
+
+nav {
+  padding-top: 3em;
+}
 </style>
 
 # 강민석
 
 ![강민석](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/kakaotalk_photo_2024-10-22-17-40-36-003.webp "강민석 프로필 사진")
 
-- [이메일](https://letterbird.co/kang)
-- [RSS](https://kangminsuk.com/ko/blog/index.xml)
+[이메일](https://letterbird.co/kang)  
+[RSS](https://kangminsuk.com/ko/blog/index.xml)
 
 <details>
   <summary>창작</summary>

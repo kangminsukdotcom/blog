@@ -29,14 +29,18 @@ h1 {
     color: #919191;
     transition: 1s ease;
 }
+
+nav {
+  padding-top: 3em;
+}
 </style>
 
 # Minsuk Kang
 
 ![Minsuk Kang](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/kakaotalk_photo_2024-10-22-17-40-36-003.webp "Minsuk Kang Profile Picture")
 
-- [Email](https://letterbird.co/kang)
-- [RSS](https://kangminsuk.com/blog/index.xml)
+[Email](https://letterbird.co/kang)  
+[RSS](https://kangminsuk.com/blog/index.xml)
 
 <details>
 <summary>Creations</summary>
