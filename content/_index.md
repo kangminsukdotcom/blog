@@ -35,7 +35,7 @@ h1 {
 
 ![Minsuk Kang](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/kakaotalk_photo_2024-10-22-17-40-36-003.webp "Minsuk Kang Profile Picture")
 
-A writer from Korea.
+I write for fun.
 
 - [Email](https://letterbird.co/kang)
 - [RSS](https://kangminsuk.com/blog/index.xml)
