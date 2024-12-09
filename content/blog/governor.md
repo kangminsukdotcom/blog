@@ -2,6 +2,7 @@
 title: No, you can’t be a governor
 date: 2024-12-09
 description: They’ll turn you into an addict. You’ll become one of them.
+tags: [stories]
 ---
 
 No, you can’t be a governor. Do you know why? You’re too young. You didn’t go to SNU. You know that. They don’t care about your ideas. No one’s got time to listen to your grand plan to revolutionize the country. When they’re inside the voting booth, they all ask the same question: “Which one of these assholes will increase the price of my apartment?”
