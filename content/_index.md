@@ -47,7 +47,6 @@ Subscribe via [RSS](https://kangminsuk.com/blog/index.xml).
 <li><a href="https://kangminsuk.com/interview/">(A Bit Serious) Parent Interview</a></li>
 <li><a href="https://kangminsuk.com/conversation/">(A Bit Serious) Question Generator</a></li>
 <li><a href="https://kangminsuk.com/mal/">Mal-muh-lee</a></li>
-<li><a href="https://links.kangminsuk.com/bookmarks/shared">Bookmarks</a></li>
 <li><a href="https://reviews.cheesylazy.com/">Sandwich shop</a> (closed)</li>
 </ul>
 </details>

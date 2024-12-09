@@ -19,7 +19,6 @@ title: "강민석"
 - [글 쓰는 블로그를 소개합니다](https://blogs.jagunbae.com)
 - [블로그 만세!](https://blogmansae.com)
 - [강단과 소신 사진 일기](https://us.jagunbae.com)
-- [북마크 모음](https://links.kangminsuk.com/bookmarks/shared)
 - [샌드위치샵 치지레이지](https://reviews.cheesylazy.com/) (영업 종료)
 - [질문 있는 사람들](https://questions.jagunbae.com)
 
