@@ -17,7 +17,6 @@ title: "강민석"
 - [(조금은 진지한) 부모님 인터뷰](https://kangminsuk.com/ko/interview/)
 - [(조금은 진지한) 질문 생성기](https://kangminsuk.com/ko/conversation/)
 - [글 쓰는 블로그를 소개합니다](https://blogs.jagunbae.com)
-- [블로그 만세!](https://blogmansae.com)
 - [강단과 소신 사진 일기](https://us.jagunbae.com)
 - [샌드위치샵 치지레이지](https://reviews.cheesylazy.com/) (영업 종료)
 - [질문 있는 사람들](https://questions.jagunbae.com)

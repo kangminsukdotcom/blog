@@ -54,7 +54,6 @@ h1 {
     <li><a href="https://kangminsuk.com/ko/conversation/">(조금은 진지한) 질문 생성기</a></li>
     <li><a href="https://kangminsuk.com/mal/">말머리씨</a></li>
     <li><a href="https://blogs.jagunbae.com">글 쓰는 블로그를 소개합니다</a></li>
-    <li><a href="https://blogmansae.com">블로그 만세!</a></li>
     <li><a href="https://reviews.cheesylazy.com/">샌드위치샵 치지레이지</a></li>
     <li><a href="https://questions.jagunbae.com">질문 있는 사람들</a></li>
     </ul>
