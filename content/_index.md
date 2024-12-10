@@ -5,16 +5,9 @@ weight: 1
 ---
 <style>
 
-img{
+img {
 width: 40%;
 margin: 0;
-}
-
-@media (max-width: 768px) {
-  img {
-    width: 60%;
-    margin: 0;
-  }
 }
 
 h1 {
