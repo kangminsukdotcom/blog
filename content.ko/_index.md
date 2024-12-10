@@ -28,7 +28,6 @@ transition: 1s ease;
 
 h1 {
     color: #919191;
-    transition: 1s ease;
 }
 
 nav {
@@ -40,7 +39,7 @@ nav {
 
 ![강민석](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/kakaotalk_photo_2024-10-22-17-40-36-003.webp "강민석 프로필 사진")
 
-I’m a writer, podcaster, sourdough baker, hobby coder, zine maker, pizza lover, former sandwich shop owner, comedy enthusiast, Apple Music + Sublime + ChatGPT + Setapp subscriber, flip phone user, politician skeptic, VTSAX investor, secondhand shopper, and Aeropress brewer. Currently living in Jeju, Korea.
+A writer, podcaster, sourdough baker, hobby coder, zine maker, pizza lover, former sandwich shop owner, comedy enthusiast, Apple Music + Sublime + ChatGPT + Setapp subscriber, flip phone user, politician skeptic, VTSAX investor, secondhand shopper, and Aeropress brewer. Currently living in Jeju, Korea.
 
 <details>
   <summary>창작</summary>

@@ -4,30 +4,9 @@ menu: "main"
 weight: 1
 ---
 <style>
-img{
-opacity:0.5;
-float: right;
-width: 40%;
-margin: 0 0.5em;
-margin-top: -20px;
-}
-
-@media (max-width: 768px) {
-  img {
-    float: none;
-    width: 60%;
-    margin: 0;
-  }
-}
-
-img:hover{
-opacity:1;
-transition: 1s ease;
-}
 
 h1 {
     color: #919191;
-    transition: 1s ease;
 }
 
 nav {
@@ -39,7 +18,7 @@ nav {
 
 ![Minsuk Kang](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/kakaotalk_photo_2024-10-22-17-40-36-003.webp "Minsuk Kang Profile Picture")
 
-I’m a writer, podcaster, sourdough baker, hobby coder, zine maker, pizza lover, former sandwich shop owner, comedy enthusiast, Apple Music + Sublime + ChatGPT + Setapp subscriber, flip phone user, politician skeptic, VTSAX investor, secondhand shopper, and Aeropress brewer. Currently living in Jeju, Korea.
+A writer, podcaster, sourdough baker, hobby coder, zine maker, pizza lover, former sandwich shop owner, comedy enthusiast, Apple Music + Sublime + ChatGPT + Setapp subscriber, flip phone user, politician skeptic, VTSAX investor, secondhand shopper, and Aeropress brewer. Currently living in Jeju, Korea.
 
 <details>
 <summary>Creations</summary>
