@@ -22,7 +22,7 @@ h1 {
 }
 
 nav {
-  padding-top: 3em;
+  padding-top: 1em;
 }
 </style>
 
