@@ -83,10 +83,6 @@ a:hover {
   background: #36c;
 }
 
-ul.blog-posts a:visited {
-  color: #795CB2;
-}
-
 .title {
   text-decoration: none;
   border: 0;
