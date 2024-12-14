@@ -23,9 +23,7 @@ em {
 }
 </style>
 
-# 강민석
-
-*A writer, podcaster, sourdough baker, hobby coder, zine maker, pizza lover, former sandwich shop owner, comedy enthusiast, flip phone user, politician skeptic, VTSAX investor, secondhand shopper, Aeropress brewer, former student at four middle schools·three high schools·two colleges in Korea, China, and the US, Literature major, guardian of two cats, and husband of Eunbi Ko. Alive in Jeju, Korea.*
+*Minsuk Kang is a writer, podcaster, sourdough baker, hobby coder, zine maker, pizza lover, former sandwich shop owner, comedy enthusiast, flip phone user, politician skeptic, VTSAX investor, secondhand shopper, Aeropress brewer, former student at four middle schools·three high schools·two colleges in Korea, China, and the US, Literature major, guardian of two cats, and husband of Eunbi Ko. He is alive in Jeju, Korea.*
 
 ![강민석](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/kakaotalk_photo_2024-10-22-17-40-36-003.webp "강민석 프로필 사진")
 
