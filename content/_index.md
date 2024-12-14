@@ -11,11 +11,15 @@ margin: 0;
 }
 
 h1 {
-    color: #919191;
+  color: #919191;
 }
 
 nav {
   padding-top: 1em;
+}
+
+em {
+  font-size: 16px;
 }
 </style>
 
