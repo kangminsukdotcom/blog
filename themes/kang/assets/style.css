@@ -79,8 +79,8 @@ a {
 }
 
 a:hover {
-  color: #3737b3;
-  text-decoration: underline;
+  color: #fff;
+  background: #36c;
 }
 
 ul.blog-posts a:visited {
