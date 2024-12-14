@@ -1,5 +1,5 @@
 ---
-title: "Writings"
+title: "Writing"
 menu: "main"
 weight: 2
 ---
