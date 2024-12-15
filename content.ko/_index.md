@@ -1,5 +1,5 @@
 ---
-title: "강민석"
+title: "홈"
 menu: "main"
 weight: 1
 ---
