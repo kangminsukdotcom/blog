@@ -46,5 +46,3 @@ em {
     <li><a href="https://questions.jagunbae.com">질문 있는 사람들</a></li>
     </ul>
 </details>
-
-[이메일](https://letterbird.co/kang) & [RSS](https://kangminsuk.com/ko/blog/index.xml).

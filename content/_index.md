@@ -41,5 +41,3 @@ em {
 <li><a href="https://reviews.cheesylazy.com/">Sandwich shop</a> (closed)</li>
 </ul>
 </details>
-
-[Email](https://letterbird.co/kang) & [RSS](https://kangminsuk.com/blog/index.xml).
