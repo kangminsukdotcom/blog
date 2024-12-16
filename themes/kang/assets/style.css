@@ -70,6 +70,7 @@ body {
   background-color: rgb(250, 251, 252);
   box-shadow: 0px 6px 12px 3px rgba(0, 0, 0, 0.24);
   margin: 43px auto 0 auto;
+  margin-bottom: 43px;
 }
 
 a {
