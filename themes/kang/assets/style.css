@@ -69,8 +69,7 @@ body {
   text-rendering: optimizeLegibility;
   background-color: rgb(250, 251, 252);
   box-shadow: 0px 6px 12px 3px rgba(0, 0, 0, 0.24);
-  margin: 22px auto 0 auto;
-
+  margin: 43px auto 0 auto;
 }
 
 a {
@@ -95,7 +94,7 @@ a:hover {
 }
 
 nav a {
-  margin-right: 1em;
+  margin-right: 10px;
   color: #3366CC;
   font-size: 18px;
   max-width: 100%;
