@@ -13,22 +13,6 @@ html {
   body {
     word-break: keep-all;
   }
-  ul.blog-posts li,
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-family: 'Yeon Sung', sans-serif;
-  }
-}
-
-:lang(en) {
-  ul.blog-posts li {
-    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
-    font-variant-caps: all-small-caps;
-  }
 }
 
 time {
@@ -47,16 +31,6 @@ h6 {
 
 
 :lang(en) {
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-variant-caps: all-small-caps;
-    font-weight: bold;
-    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
-  }
   body {
     text-wrap: pretty;
   }
