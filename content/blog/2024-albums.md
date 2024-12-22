@@ -5,11 +5,11 @@ date: 2024-12-22
 
 ### B-Free & Hukky Shibaseki - The God Sun Symphony Group: Odyssey.1
 
-Finally, a Korean hip-hop album that’s NOT about wearing a Rolex and driving a Bentley.
+A Korean hip-hop album that’s NOT about wearing a Rolex and driving a Bentley. Artists listen to B-Free when hipsters listen to Beenzino.
 
 ### Denzel Curry - KING OF THE MISCHIEVOUS SOUTH
 
-Denzel Curry has become my favorite rapper.
+With this album, Denzel Curry has become my favorite rapper.
 
 ### Jessica Pratt - Here in the Pitch
 
@@ -25,7 +25,7 @@ This album made me dance.
 
 ### Annika Kilkenny - Look Mom I Made It
 
-The algorithm recommended this album, and the robot was right—I like her music.
+The algorithm recommended this album, and the robot was right. I like her music.
 
 ### Charli XCX - Brat
 
