@@ -6,7 +6,7 @@ weight: 1
 <style>
 
 img {
-width: 45%;
+max-width: 200px;
 margin: 0;
 border-radius: 50%;
 }
