@@ -17,7 +17,7 @@ tags = ["blog", "short story", "fiction", "jagunbae", "작은배", "강소팟", 
   unsafe = true
 
 [params]
-  description = "An amateur creator."
+  description = "A writer of the Internet."
   favicon = "images/favicon.webp"
 
 [languages]
