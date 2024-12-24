@@ -5,8 +5,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: none;
-  background: linear-gradient(90deg,#fff 21px,transparent 1%) 50%,linear-gradient(#fff 21px,transparent 1%) 50%,#000;
-  background-size: 22px 22px;
+  background: #fafafa;;
 }
 
 :lang(ko) {
@@ -37,22 +36,24 @@ h6 {
 }
 
 body {
+  margin: 3rem auto;
+  max-width: 40rem;
+  line-height: 1.7;
+  font-size: 17px;
   font-family: system-ui, sans-serif;
-  font-feature-settings: normal;
-  font-variation-settings: normal;
   color: #4c4f69;
-  font-size: 18px;
-  padding: 1.5em;
-  max-width: 647.546875px;
   text-align: left;
   word-wrap: break-word;
   overflow-wrap: break-word;
-  line-height: 29px;
   text-rendering: optimizeLegibility;
-  background-color: rgb(250, 251, 252);
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
-  margin: 43px auto 0 auto;
-  margin-bottom: 43px;
+}
+
+p.byline {
+  margin-block-start: 0px !important;
+}
+
+h1.title {
+  margin-bottom: 0.2em !important;
 }
 
 a {
@@ -61,8 +62,14 @@ a {
 }
 
 a:hover {
-  color: #fff !important;
-  background: #36c;
+  text-decoration: underline;
+}
+
+@media only screen and (max-width: 767px) {
+  body {
+    margin: 0 1rem;
+    padding: 0; 
+  }
 }
 
 .title {
@@ -79,12 +86,8 @@ a:hover {
 nav a {
   margin-right: 10px;
   color: #3366CC;
-  font-size: 18px;
+  font-size: 17px;
   max-width: 100%;
-}
-
-nav {
-  text-align: center;
 }
 
 textarea {
@@ -334,13 +337,11 @@ button {
 
 main {
   margin-bottom: 1em;
-  padding: 10px;
 }
 
 nav.post-navigation {
   display: flex;
   justify-content: space-between;
-  margin-top: 1em;
 }
 
 a.prev-post {
