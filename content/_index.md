@@ -12,7 +12,7 @@ border-radius: 50%;
 }
 
 nav {
-  padding-top: 1em;
+  margin-bottom: 1em;
 }
 
 </style>
