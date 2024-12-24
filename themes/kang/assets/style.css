@@ -186,7 +186,6 @@ ul.blog-posts {
 }
 
 ul.blog-posts li {
-  display: flex;
   margin-bottom: 0.625em;
 }
 
