@@ -5,7 +5,7 @@ description: I’ll treat your posts like books. I’ll read them with the care 
 date: 2024-12-26
 ---
 
-This post is inspired by [Manuel’s post][1].
+*This post is inspired by [Manuel’s post][1].*
 
 Are you starting a blog? Then [email me][2] your domain name. I want to be your first reader.
 
