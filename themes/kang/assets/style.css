@@ -137,7 +137,7 @@ a.next-post {
 
 code {
   padding: 0.125em 0.3125em;
-  color: rgb(53, 53, 53); /* Updated code font color for contrast */
+  color: #4c4f69; /* Updated code font color for contrast */
   background-color: #fff; /* Light background color */
   font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
 }
@@ -153,7 +153,7 @@ pre code {
 
 blockquote {
   border-left: 2px solid #919191; /* Updated border color for contrast */
-  color: #444; /* Darker font color for contrast */
+  color: #4c4f69; /* Darker font color for contrast */
   padding-left: 1em;
   margin-left: 0;
 }
