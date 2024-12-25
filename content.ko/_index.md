@@ -19,11 +19,9 @@ nav {
 <details>
 <summary>강민석</summary>
 
-![강민석](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/minsuk-kang-profile.webp "강민석 프로필 사진")
+작가, 팟캐스터, 사워도우 제빵사, 아마추어 개발자, 진 메이커, 피자 헌터, (전) 샌드위치 가게 사장, 폴더폰 사용자, 권위 혐오자, VTSAX 투자자, 구제와 헌책 소비자, 에어로프레스 바리스타, 중국·미국 유학생, 문학 전공자, 고양이 집사, 고은비의 남편.
 
-A writer, podcaster, sourdough baker, hobby coder, zine maker, pizza lover, former sandwich shop owner, comedy enthusiast, flip phone user, politician skeptic, VTSAX investor, secondhand shopper, Aeropress brewer, former student at four middle schools·three high schools·two colleges in Korea, China, and the US, Literature major, guardian of two cats, and husband of Eunbi Ko.
-
-Currently in Jeju, Korea.
+제주에 사는 중. [이렇게](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/minsuk-kang-profile.webp) 생겼다.
 </details>
 
 <details>
