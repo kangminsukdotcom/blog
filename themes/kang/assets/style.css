@@ -118,7 +118,6 @@ img {
   margin: 0 auto;
   image-rendering: pixelated;
   margin-bottom: 1em;
-  filter: grayscale(100);
 }
 
 @media only screen and (max-width: 767px) {
