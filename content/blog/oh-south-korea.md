@@ -13,7 +13,7 @@ students crying.
 
 Fortunetellers thrive,  
 while crowds worship messiahs with wigs.  
-Presidents get impeached. 
+Presidents get impeached   
 when dads finish the third bottle of soju.
 
 Trees get cut,  
