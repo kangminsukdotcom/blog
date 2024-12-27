@@ -3,6 +3,15 @@ title: Now
 type: page
 ---
 
+<style>
+    time {
+        display: none;
+    }
+    footer {
+        display: none;
+    }
+</style>    
+
 *2024-12-27에 업데이트한 글입니다.*
 
 - 매일 5:45 AM에 [창작하는 아침][1] 참여합니다.
