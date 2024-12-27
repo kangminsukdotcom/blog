@@ -20,8 +20,8 @@ Trees get cut,
 apartments rise,  
 Americanos flow.  
 Games are played,  
-cameras are installed,  
-ideas are torched.
+cameras roll,  
+ideas torched.
 
 Watch the kids dance and smile.  
 Watch the idols born, burned,  
