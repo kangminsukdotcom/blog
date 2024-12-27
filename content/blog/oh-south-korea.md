@@ -3,8 +3,6 @@ title: Oh, South Korea
 date: 2024-12-27
 ---
 
-Oh, South Korea
-
 Its fertility rate the lowest,  
 the suicide rate the highest.  
 Drivers yelling,  
