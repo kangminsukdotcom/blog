@@ -4,7 +4,7 @@ date: 2024-12-27
 ---
 
 Its fertility rate the lowest,  
-the suicide rate the highest.  
+suicide rate the highest.  
 Drivers yelling,  
 smokers spitting,  
 students crying.
