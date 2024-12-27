@@ -24,11 +24,10 @@ cameras roll,
 ideas torched.
 
 Watch the kids dance and smile.  
-Watch the idols born, burned,  
-and killed on TV.  
+Watch the idols born and burned.     
 Watch the elected emperors  
 flying business around the world.
 
 Chant and chant.  
 Celebrate and celebrate.  
-The ruler reigns again.
+Our ruler reigns again.
