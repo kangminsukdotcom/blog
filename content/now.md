@@ -3,6 +3,18 @@ title: Now
 type: page
 ---
 
+<style>
+    time {
+        display: none;
+    }
+    footer {
+        display: none;
+    }
+    nav.post-navigation {
+        display: none;
+    }
+</style>
+
 *This page is updated on 2024-12-27.*
 
 - I wake up at 5:45 AM every day to join [창작하는 아침][1](Creator’s Morning).
