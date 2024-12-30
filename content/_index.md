@@ -44,5 +44,5 @@ Currently in Jeju, Korea. I look like [this](https://bear-images.sfo2.cdn.digita
 
 <details>
 <summary>Connect</summary>
-<a href="https://letterbird.co/kang">Email</a>.<br><a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> or <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a>.<br><a href="https://ko-fi.com/kangminsuk">Ko-fi</a>.
+<a href="https://letterbird.co/kang">Email</a>.<br><a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> or <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a>.<br><a href="https://liberapay.com/Kang/">Donate</a>.
 </details>
