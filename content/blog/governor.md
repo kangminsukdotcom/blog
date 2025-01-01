@@ -13,6 +13,6 @@ You still want to run? Okay. I see you’ve got passion. I get it—you’re ang
 
 I care about you. Don’t let your family suffer for your decision. They’ll lose jobs, friends, and reputation—all because of your foolish dream to play the hero.
 
-Let’s say God helps you get elected. Then what? You’ll be expected to scrub the system clean of horseshit. Do you think you can do that? Do you think you can stay the same once you’re inside the governor’s office? You’ll fly business. You’ll eat omakase at the fanciest hotel in the city. All complimentary. You’ll become an emperor in a palace built by taxpayers. The perks will seduce you. They’ll turn you into an addict. You’ll become one of them.
+Let’s say God helps you get elected. Then what? You’ll be expected to scrub the system smeared with horseshit. Do you think you can do that? Do you think you can be the same man once you’re inside the governor’s office? You’ll fly business. You’ll eat omakase at the fanciest hotel in the city. Everything will be complimentary. You’ll become an emperor in a palace built by taxpayers. These perks will seduce you. They’ll turn you into an addict. You’ll become one of them.
 
 So, don’t even try to be a governor.
