@@ -10,9 +10,6 @@ type: page
     footer {
         display: none;
     }
-    nav.post-navigation {
-        display: none;
-    }
 </style>
 
 *This page is updated on 2025-01-01.*

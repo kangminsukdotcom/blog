@@ -10,9 +10,6 @@ type: page
     footer {
         display: none;
     }
-    nav.post-navigation {
-        display: none;
-    }
 </style>    
 
 *2025-01-01에 업데이트한 글입니다.*
