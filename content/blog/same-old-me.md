@@ -1,4 +1,3 @@
-
 ---
 title: New year, old me
 date: 2025-01-01
