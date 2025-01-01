@@ -8,7 +8,7 @@ date: 2025-01-01
 
 When the new year approaches, people suddenly get busy and start asking each other this same soulless question.
 
-This December was no different. As soon as our calendars hit the final month, every platform was posting its “Top Albums of the Year.” The year was already over for so many of us—today was just a concrete step toward the upcoming year.
+This December was no different. As soon as our calendars hit the final month, every platform was posting its “Top Albums of the Year.” The year was already over for so many of us. Today was just a concrete step towards the upcoming year.
 
 In the past few days, I felt pressured to dig up every problem in my life and hold it high above my head. To look cool, I had to pretend I was preparing to become a new version of myself. So I came up with a word of the year 2025, made plans to earn more money, and wrote down ways to boost my productivity.
 
