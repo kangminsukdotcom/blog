@@ -12,6 +12,7 @@
   <content>
     {{ .Content }}
   </content>
+  <footer>
   <hr>
   <p>
     {{ range (.GetTerms "tags") }}
@@ -31,4 +32,5 @@
         </a>
     {{ end }}
   </nav>
+</footer>
 {{ end }}
