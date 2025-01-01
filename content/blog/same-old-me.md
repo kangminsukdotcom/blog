@@ -1,6 +1,6 @@
 
 ---
-title: New year, the same old me
+title: New year, old me
 date: 2025-01-01
 ---
 
