@@ -11,6 +11,6 @@ A few weeks ago, I read that one of them wrote, “I was so busy and felt so ove
 
 Like those travelers, I also longed for a place to pause and reflect on my life. I couldn't afford to travel far away, so I decided to design my own version of [a room to breathe][1] and open its door to others.
 
-I have zero interest in capturing your attention and monetizing it. The Internet, now more than ever, deserves spaces where people can be free from the constant bombardment of information. Come by once in a while and fill your lungs with air. Take your time. It’s okay to breathe.
+I have zero interest in capturing your attention and monetizing it. The Internet, now more than ever, deserves spaces where people can be free from the constant bombardment of information. Come by once in a while and fill your lungs with air. Take your time. We all know it’s okay to breathe.
 
 [1]:	https://room.kangminsuk.com
