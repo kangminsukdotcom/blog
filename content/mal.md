@@ -8,6 +8,9 @@ title: 말머리씨
   p.byline {
     display: none;
   }
+  footer {
+    display: none;
+  }
 </style>
 
 <div class="video-container">
