@@ -1,7 +1,7 @@
 ---
 title: Dad, I got into Cornell 
 date: 2025-01-05
-tags: [“fiction”]
+tags: [fiction]
 description: Now I can finally pay $60,000 a year to study the things I can learn on the Internet for free.
 ---
 
