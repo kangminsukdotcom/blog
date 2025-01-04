@@ -1,6 +1,7 @@
 ---
 title: Fighting Is Not Something You Do Alone
 date: 2024-03-20
+tags: ["essay"]
 ---
 *This is a translated version of [Ko's second essay](https://jagunbae.com/anger-2/) of a series "How Can I Stop Being Angry?"*
 

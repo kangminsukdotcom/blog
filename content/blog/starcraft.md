@@ -1,6 +1,7 @@
 +++
 title = "StarCraft - It's Not Just a Game"
 date = 2021-04-11
+tags =["essay","korea"]
 +++
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1663336203.webp)

@@ -2,6 +2,7 @@
 title: Korea is a Giant Temple for Worshipping White People
 date: 2024-10-04
 summary: Be white in Korea, and you will be worshipped.
+tags: ["essay","korea"]
 ---
 
 Be white in Korea, and you will be worshipped.

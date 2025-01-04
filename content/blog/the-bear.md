@@ -1,6 +1,7 @@
 ---
 title: Cousin, this is why The Bear is fucking delicious
 date: 2024-10-31
+tags: ["review"]
 ---
 
 I'm telling you. The Bear is a fucking gorgeous show. It's salty, sour, sweet, and spicy. The show is like a beautiful dish layered with flavors. I know the season 3 was a bummer, but when a three-star restaurant does some dumb shit, people kind of get it. "Yeah, they reached the top. Of course, they would venture off to somewhere stupid."

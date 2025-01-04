@@ -1,6 +1,7 @@
 +++
 title = "More About Our Restaurant CHEESYLAZY"
 date = 2023-05-04
+tags = ["essay"]
 +++
 
 Since May 2022, my wife and I have been running CHEESYLAZY, a vegan sandwich shop in Jeju, South Korea.

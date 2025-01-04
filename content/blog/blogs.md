@@ -1,6 +1,7 @@
 ---
 title: The Evolution of My Blog
 date: 2024-07-11
+tags: ["website"]
 ---
 
 ![Minsuk Kang's Blog #1](https://mataroa.blog/images/49f5b4f7.webp)

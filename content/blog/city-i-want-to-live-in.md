@@ -1,6 +1,7 @@
 ---
 title: The City I Want to Live In
 date: 2024-06-30
+tags: ["essay"]
 ---
 
 *This is a translated version of [Kang's first & second essays](https://jagunbae.com/where-1/) of a series "Where Do I Want to Live?"*

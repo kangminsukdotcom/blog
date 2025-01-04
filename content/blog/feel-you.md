@@ -1,6 +1,7 @@
 ---
 title: Sometimes I just feel you
 date: 2024-07-02
+tags: ["poetry"]
 ---
 
 Sometimes I just feel you

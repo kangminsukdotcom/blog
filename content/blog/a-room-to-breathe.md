@@ -1,6 +1,7 @@
 ---
 title: A room to breathe
 date: 2025-01-01
+tags: ["website"]
 ---
 
 ![A room to breathe](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/-5.webp)

@@ -1,6 +1,7 @@
 +++
 title = "Can a restaurant be antifragile?"
 date = 2023-07-23
+tags = ["essay"]
 +++
 
 > Restaurants are fragile; they compete with each other, but the collective of local restaurants is anti-fragile for that very reason. *Nassim Taleb*

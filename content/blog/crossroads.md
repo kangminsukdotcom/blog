@@ -1,6 +1,7 @@
 ---
 title: Standing at the Crossroads of “Should I or Shouldn’t I”
 date: 2024-06-12
+tags: ["essay"]
 ---
 *This is a translated version of [Ko's second essay](https://jagunbae.com/courage-2/) of a series "Where Does the Courage to Take On Challenges Come From?"*
 

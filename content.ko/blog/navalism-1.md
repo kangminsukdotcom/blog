@@ -4,7 +4,7 @@ date = 2021-02-03
 aliases = [
     "/navalism-1/"
 ]
-tags: ["책"]
+tags = ["책"]
 +++
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662213313.webp)

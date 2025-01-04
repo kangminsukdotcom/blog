@@ -1,6 +1,7 @@
 ---
 title: Is Personal Branding Necessary for New Artists?
 date: 2024-02-08
+tags: ["essay"]
 ---
 
 Is personal branding necessary for new artists? I can argue for both sides.

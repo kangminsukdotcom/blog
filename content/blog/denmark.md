@@ -1,6 +1,7 @@
 ---
 title: Why Are Danes So Happy?
 date: 2024-07-06
+tags: ["essay"]
 ---
 
 *This is a translated version of [Kang's third essay](https://jagunbae.com/where-3/) of a series "Where Do I Want to Live?"*

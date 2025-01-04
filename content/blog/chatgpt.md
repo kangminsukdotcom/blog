@@ -1,6 +1,7 @@
 ---
 title: ChatGPT is a tool, not my mentor
 date: 2023-11-23
+tags: ["essay","review"]
 ---
 
 I get it, GPT subscribers. LLMs are getting better at emulating human consciousness. I'm also excited about the rapid advancement of AI and how it will shape the future of humanity.

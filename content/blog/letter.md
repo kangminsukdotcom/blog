@@ -1,6 +1,7 @@
 ---
 title: Dear the ones I’m leaving behind
 date: 2024-10-19
+tags: ["essay"]
 ---
 
 Hello there. I’m dead. You are alive. I want to tell you a few things.

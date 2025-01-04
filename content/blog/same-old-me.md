@@ -1,6 +1,7 @@
 ---
 title: New year, old me
 date: 2025-01-01
+tags: ["essay"]
 ---
 
 “Do you have any plans for next year?”

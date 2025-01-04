@@ -1,6 +1,7 @@
 ---
 title: “People Can’t be Fixed"
 date: 2024-03-03
+tags: ["essay"]
 ---
 *This is a translated version of [Ko's first essay](https://jagunbae.com/anger-1/) of a series "How Can I Stop Being Angry?"*
 

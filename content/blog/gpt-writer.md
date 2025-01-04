@@ -1,6 +1,7 @@
 ---
 title: How to prompt ChatGPT to write like a human
 date: 2024-11-05
+tags: ["review"]
 ---
 
 Let’s clone Minsuk Kang.

@@ -1,6 +1,7 @@
 ---
 title: Let’s Write a Letter of Reconciliation
 date: 2024-05-06
+tags: ["essay"]
 ---
 *This is a translated version of [Ko's third essay](https://jagunbae.com/anger-3/) of a series "How Can I Stop Being Angry?"*
 

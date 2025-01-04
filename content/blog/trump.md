@@ -1,6 +1,7 @@
 ---
 title: Trump is the president, and my life goes on
 date: 2024-11-11
+tags: ["essay"]
 ---
 
 I still remember the day Trump was first elected president. It was my final year studying abroad in the U.S., and I had transferred to a state university after realizing the absurdity of paying $52,000 annually for tuition at a private liberal arts college.

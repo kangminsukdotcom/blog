@@ -1,6 +1,7 @@
 +++
 title = "One Job at a Time"
 date = 2022-10-17
+tags = ["essay"]
 +++
 
 My brain can't function like a web browser. I need to stop running 5 different tabs in my mind.

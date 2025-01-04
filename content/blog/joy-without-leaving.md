@@ -1,6 +1,7 @@
 ---
 title: Finding Joy Without Leaving
 date: 2024-07-12
+tags: ["essay"]
 ---
 
 *This is a translated version of [Kang's final essay](https://jagunbae.com/where-4/) of a series "Where Do I Want to Live?"*

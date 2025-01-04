@@ -1,6 +1,7 @@
 ---
 title: How I Created a Perfect Blog
 date: 2024-07-07
+tags: ["website"]
 ---
 
 Minimal styling, zero tracking or ads, and really fast.

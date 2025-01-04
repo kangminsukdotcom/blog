@@ -1,6 +1,7 @@
 ---
 title: My Top Albums of 2024
 date: 2024-12-22
+tags: ["review"]
 ---
 
 ### B-Free & Hukky Shibaseki - The God Sun Symphony Group: Odyssey.1

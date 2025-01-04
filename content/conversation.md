@@ -4,7 +4,7 @@ description: For your meaningful conversations.
 ---
 
 <style>
-    time {
+    time, footer {
         display: none;
     }
     .title {

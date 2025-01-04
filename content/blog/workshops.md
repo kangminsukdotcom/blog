@@ -2,6 +2,7 @@
 title: I’ve Helped 17 People Ditch Naver Blog and Start Personal Blogging
 date: 2024-04-09
 description: I wanted to challenge this Naver-ruled bloggging landscape in Korea.
+tags: ["essay"]
 ---
 
 ![1:1 blogging session](https://jagunbae.com/content/images/size/w1600/2024/04/KakaoTalk_Photo_2024-04-04-06-33-16-008.jpeg)

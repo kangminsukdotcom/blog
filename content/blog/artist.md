@@ -2,6 +2,7 @@
 title: Yes, I Am an Artist
 date: 2024-01-27
 description: I love being an artist and wish to stay truthful when a friend calls me so.
+tags: ["essay"]
 ---
 
 > The most important thing about art is to work. Nothing else matters except sitting down every day and trying. - Steven Pressfield

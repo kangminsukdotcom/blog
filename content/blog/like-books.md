@@ -1,6 +1,7 @@
 ---
 title: Why I Like Books
 date: 2024-01-08
+tags: ["essay"]
 ---
 
 **This is a translated version of [Ko's original essay in Korean](https://jagunbae.com/love-books/).*

@@ -1,6 +1,7 @@
 +++
-title = "When \"critics\" visit my restaurant"
+title = "When critics visit my restaurant"
 date = 2023-06-20
+tags = ["essay"]
 +++
 
 My [1-year-old sandwich shop](https://reviews.cheesylazy.com/) has about a hundred reviews all over the Internet. Overall, I'm grateful to hear honest feedback because it's my job to check whether my restaurant's providing excellent food and service.

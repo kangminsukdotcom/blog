@@ -1,6 +1,7 @@
 +++
 title = "My Problem With Upbit, the Largest Crypto Exchange in Korea"
 date = 2023-03-19
+tags = ["review"]
 +++
 
 Yesterday, the biggest crypto exchange in South Korea, Upbit rejected my requests to move the coins to my personal wallet.

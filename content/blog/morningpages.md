@@ -2,6 +2,7 @@
 title: I Wrote Morning Pages for Two Weeks
 date: 2024-02-02
 description: I wished to cultivate the nonconformist spirit within me.
+tags: ["essay"]
 ---
 
 > I’ve had a sign over my typewriter for over 25 years now, which reads “Don’t think!” You must never think at the typewriter — you must feel. … The worst thing you do when you think is lie — you can make up reasons that are not true for the things that you did, and what you’re trying to do as a creative person is surprise yourself — find out who you really are, and try not to lie, try to tell the truth all the time. - Ray Bradbury

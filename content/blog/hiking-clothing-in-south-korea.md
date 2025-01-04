@@ -1,6 +1,7 @@
 +++
 title = "Hiking Clothing in South Korea"
 date = 2021-03-21
+tags = ["essay","korea"]
 +++
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1663335631.webp)

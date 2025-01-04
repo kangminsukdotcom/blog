@@ -5,7 +5,7 @@ aliases = [
     "/obsidian",
     "/blog/obsidian"
 ]
-tags: ["리뷰"]
+tags = ["리뷰"]
 +++
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662217589.PNG)
