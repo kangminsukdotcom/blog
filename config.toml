@@ -5,7 +5,7 @@ enableRobotsTXT = true
 dateFormat = "2006-01-02"
 timeZone = "Asia/Seoul"
 
-tags = ["blog", "short story", "fiction", "jagunbae", "작은배", "강소팟", "강단과 소신"]
+tags = ["Minsuk Kang", "blog", "short story", "fiction", "jagunbae", "강민석", "창작", "소설", "작은배", "강소팟", "강단과 소신"]
 
 [markup]
   [markup.highlight]
@@ -17,7 +17,7 @@ tags = ["blog", "short story", "fiction", "jagunbae", "작은배", "강소팟", 
   unsafe = true
 
 [params]
-  description = "A writer of the Internet."
+  description = "Small, independent, and spirited."
   favicon = "images/favicon.webp"
 
 [languages]
