@@ -1,6 +1,7 @@
 +++
 title = "아빠는 이겨낼 것이다"
 date = 2022-03-30
+tags = ["에세이"]
 +++
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662250271.webp)

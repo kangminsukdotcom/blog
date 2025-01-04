@@ -1,6 +1,7 @@
 +++
 title = "발라지 스리니바산 - The Network State"
 date = 2022-09-27
+tags = ["책"]
 +++
 
 *인상 깊게 읽은 [발라지 스리니바산(Balaji Srinivasan)의 글](https://thenetworkstate.com/the-network-state-in-one-thousand-words)을 번역했다. 스리니바산이 발매한 책 The Network State는 [공식 웹사이트](https://thenetworkstate.com/)에서 무료로 읽을 수 있다.*

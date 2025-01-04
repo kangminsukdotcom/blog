@@ -1,6 +1,7 @@
 +++
 title = "Web3 이해하기 - Web1 & Web2"
 date = 2021-11-10
+tags = ["리뷰"]
 +++
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662220981.webp)

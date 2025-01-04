@@ -1,6 +1,7 @@
 +++
 title = "디자인은 사고방식이다"
 date = 2021-03-31
+tags = ["에세이"]
 +++
 
 ![Hello World by Alice Rawsthorn](https://i0.wp.com/cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90646e45-8be6-4925-94a0-bda308f40b00_1389x2000.jpeg?resize=300%2C432&ssl=1)

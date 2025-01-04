@@ -1,6 +1,7 @@
 +++
 title = "사람만 할 수 있는 일"
 date = 2022-12-20
+tags = ["에세이"]
 +++
 
 ![Moley Robotics](https://cheesylazy.com/content/images/size/w2000/2022/12/robotchef--1-.webp)

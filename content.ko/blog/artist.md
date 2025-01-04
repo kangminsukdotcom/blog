@@ -2,6 +2,7 @@
 title: 네, 저 아티스트 맞습니다
 date: 2024-01-27
 description: 누군가가 나를 '아티스트'라 불렀다.
+tags : ["에세이"]
 ---
 
 ![네맞습니다](https://jagunbae.com/content/images/size/w2000/2024/01/------------------.webp)

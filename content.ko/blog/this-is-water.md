@@ -1,6 +1,7 @@
 +++
 title = "데이비드 포스터 월리스 - '이것은 물이다'"
 date = 2021-04-04
+tags = ["책"]
 +++
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662217261.webp)

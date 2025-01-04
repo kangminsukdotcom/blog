@@ -1,6 +1,7 @@
 +++
 title = "물가 상승에 대응하는 방법"
 date = 2022-07-12
+tags = ["에세이"]
 +++
 
 ![물가 상승에 대응하는 방법](https://cheesylazy.com/content/images/size/w2000/2022/07/--------.webp)

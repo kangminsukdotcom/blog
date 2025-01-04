@@ -1,6 +1,7 @@
 +++
 title = "나는 주인이 되는 일을 하기로 했다"
 date = 2021-05-08
+tags = ["에세이"]
 +++
 
 > 영혼이 깃든 정신은 자신의 것에 주인이 되고자 하는 욕망을 연구하면서 생겨난다; 영혼은 결국 자기 의존의 문제다. - [Matthew B. Crawford](https://www.amazon.com/Shop-Class-Soulcraft-Inquiry-Value/dp/0143117467)

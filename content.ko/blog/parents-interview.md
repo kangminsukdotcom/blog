@@ -1,6 +1,7 @@
 +++
 title = "(조금은 진지한) 부모님 인터뷰"
 date = 2021-02-23
+tags = ["웹사이트"]
 +++
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662214193.PNG)

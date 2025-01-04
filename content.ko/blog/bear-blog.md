@@ -1,6 +1,7 @@
 +++
 title = "Bear Blog - 가장 심플한 블로그 플랫폼"
 date = 2022-09-06
+tags = ["에세이"]
 +++
 
 블로그를 시작한 지 벌써 2년 가까이 흘렀다. [브런치](https://brunch.co.kr/)에서 시작해서 [WordPress](https://wordpress.org/), [Substack](https://substack.com/), [Ghost](https://ghost.org/), [Write.as](https://write.as/)까지. 어쩌면 글 쓰는 시간보다 내가 원하는 플랫폼을 찾는데 더 많은 시간을 보낸 것 같기도 하다. 

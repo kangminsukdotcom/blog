@@ -1,6 +1,7 @@
 ---
 title: 이오덕 선생님이 말했다
 date: 2024-09-30
+tags: ["책"]
 ---
 
 [강소팟](https://podcast.jagunbae.com) [32화](https://www.youtube.com/watch?v=tyrkhpQgb2E&list=PLxwFutPC1Kq53Iam6OeVNUNdpFJqK5ArH&index=1) ‘교육자 이오덕의 본질’ 에피소드를 준비하며 기록한 이오덕 선생님의 생각이다. 글쓰기 교육과 자기표현에 관심이 있다면 하나하나 가슴에 와닿는 말이다.

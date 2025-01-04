@@ -1,7 +1,7 @@
 ---
 title: The Banner
 date: 2024-09-27
-tags: [stories]
+tags: [fiction]
 --- 
 
 Youngsoon walked around her neighborhood and looked for a perfect spot to put up a hanging banner. She paid 55,000 won for the coated polyester banner as she asked for the best quality materials. Her friends wouldn’t believe she didn’t haggle for a discount.

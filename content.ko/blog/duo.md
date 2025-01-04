@@ -1,6 +1,7 @@
 +++
 title = "환상의 부부 복식조"
 date = 2022-04-02
+tags = ["에세이"]
 +++
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662250344.webp)

@@ -5,6 +5,7 @@ aliases = [
     "/ghost/",
     "/blog/ghost/"
     ]
+tags = ["리뷰"]
 +++
 
 작가와 협력하는 뉴스레터 플랫폼 [Substack](https://substack.com/)이 [잘 나간다는 건](https://techcrunch.com/2021/03/30/substack-confirms-65m-raise-promises-to-rapidly-expand-its-financial-backing-of-newly-independent-writers/) 세 가지를 상징한다:

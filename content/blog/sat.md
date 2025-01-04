@@ -1,7 +1,7 @@
 ---
 title: The SAT
 date: 2024-09-12
-tags: [stories]
+tags: [fiction]
 ---
 
 I still dream about that number.

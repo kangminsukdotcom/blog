@@ -1,6 +1,7 @@
 +++
 title = "일, 미래 보장, 관중이 아닌 사업"
 date = 2021-10-01
+tags = ["책"]
 +++
 
 ### [일](https://www.amazon.com/Work-Deep-History-Stone-Robots-ebook/dp/B08817M9SS/)

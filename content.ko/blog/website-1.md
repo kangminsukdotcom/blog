@@ -1,6 +1,7 @@
 ---
 title: 작은배 2.0
 date: 2024-07-14
+tags: ["에세이","웹사이트"]
 ---
 
 ![jagunbae.com](https://jagunbae.com/content/images/size/w2000/2024/07/Screenshot-2024-07-13-at-9.52.43-PM.webp)

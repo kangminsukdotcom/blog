@@ -2,6 +2,7 @@
 title: 이 한국인은 나라가 없어질까 두렵다
 date: 2024-01-24
 description: 한국은 존폐 위기를 마주하고 있다.
+tags: ["에세이"]
 ---
 ![인구구조](https://micro.kangminsuk.com/uploads/2024/-20240124193717.png)
 

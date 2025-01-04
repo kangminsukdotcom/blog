@@ -1,6 +1,7 @@
 +++
 title = "경쟁이 아닌 독점"
 date = 2020-11-11
+tags = ["책"]
 +++
 
 “Competition is for losers.”

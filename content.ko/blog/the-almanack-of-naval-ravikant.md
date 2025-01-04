@@ -1,6 +1,7 @@
 +++
 title = "The Almanack of Naval Ravikant를 다시 읽었다"
 date = 2021-03-25
+tags = ["책"]
 +++
 
 ![almanackofnaval](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662215997.jpg)

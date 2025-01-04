@@ -1,6 +1,7 @@
 +++
 title = "발라지 스리니바산 - 미디어, 기술, 영생"
 date = 2021-04-18
+tags = ["책"]
 +++
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662218464.webp)

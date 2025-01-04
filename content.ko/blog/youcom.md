@@ -1,6 +1,7 @@
 +++
 title = "You.com - 내가 원하는 검색"
 date = 2021-11-12
+tags = ["리뷰"]
 +++
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662221100.webp)

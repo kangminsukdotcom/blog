@@ -1,6 +1,7 @@
 +++
 title = "틱낫한 - 행복, 사랑, 목적"
 date = 2021-04-29
+tags = ["책"]
 +++
 
 틱낫한 스님의 [책](https://www.amazon.com/Pocket-Thich-Nhat-Shambhala-Classics/dp/1590309367)에서 나온 내용 중 개인적으로 가장 와 닿았던 부분만 편집하여 번역했다.

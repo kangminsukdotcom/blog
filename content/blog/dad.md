@@ -1,7 +1,7 @@
 ---
 title: How many times did your father see your dick?
 date: 2024-10-30
-tags: [stories]
+tags: [fiction]
 ---
 
 Let me ask you. How many times were you naked in front of your dad? Seriously, how many times did your father see your dick?

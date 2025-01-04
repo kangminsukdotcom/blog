@@ -1,6 +1,7 @@
 +++
 title = "죽음을 대비하는 실용적인 가이드"
 date = 2022-09-19
+tags = ["에세이"]
 +++
 
 > 인생에서 가장 심오한 경험은 출생과 죽음이다. 그런데 우리는 왜 죽음에 대해 더 많이 대화하며 준비하지 않을까? - [BJ Miller, Shoshana Berger](https://www.amazon.com/Beginners-Guide-End-Practical-Advice/dp/1501157167)

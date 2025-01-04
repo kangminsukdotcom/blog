@@ -1,6 +1,7 @@
 +++
 title = "설득의 심리학, 사피엔스, 이건 그냥 티셔츠가 아니야"
 date = 2021-11-01
+tags = ["책"]
 +++
 
 ### [설득의 심리학](https://www.amazon.com/Influence-New-Expanded-Psychology-Persuasion-ebook/dp/B08HZ57WYN/)

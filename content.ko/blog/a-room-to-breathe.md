@@ -1,6 +1,7 @@
 ---
 title: 숨 쉴 공간
 date: 2025-01-01
+tags : ["웹사이트"]
 ---  
 
 ![숨 쉴 공간](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/-5.webp)

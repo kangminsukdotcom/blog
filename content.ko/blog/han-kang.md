@@ -1,6 +1,7 @@
 ---
 title: 한강 작가의 노벨문학상 수상을 축하합니다
 date: 2024-10-19
+tags: ["시"]
 ---
 
 ![한강 노벨상 수상 현수막 출처: 한겨레](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/331728632019873.webp "현수막, 현수막, 또 현수막. 출처: 한겨레")

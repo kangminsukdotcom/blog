@@ -1,6 +1,7 @@
 +++
 title = "게으른 리더십 - 생산은 집중에서 시작한다"
 date = 2021-05-07
+tags = ["에세이"]
 +++
 
 > 게으른 리더십이란 해먹에 종일 앉아있거나 코스타리카에서 매일 4시간씩 일하는 걸 말하는 게 아니다. 이는 업무에 직접 참여하는 대신 관찰자가 되어 한 발짝 물러선 상태로 팀에게 기대는 것을 의미한다. - [Andrew Wilkinson](https://www.linkedin.com/pulse/lazy-leadership-why-i-rarely-go-office-only-see-my-team-wilkinson/)

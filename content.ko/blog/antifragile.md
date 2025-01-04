@@ -1,6 +1,7 @@
 +++
 title = "나심 탈레브 - 안티프래질"
 date = 2021-04-13
+tags = ["책"]
 +++
 
 ![나심탈레브](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662218184.webp)

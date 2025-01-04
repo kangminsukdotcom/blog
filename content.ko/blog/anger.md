@@ -1,6 +1,7 @@
 +++
 title = "부처님의 감정수업 - 화를 다스리는 방법"
 date = 2021-08-12
+tags = ["책"]
 +++
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662424911.webp)
