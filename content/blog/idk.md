@@ -2,7 +2,7 @@
 title: My Growing List of “I Don’t Know”
 date: 2025-01-06
 description: When you think about it, we can’t be sure about anything.
-tag: [website]
+tags: [website]
 ---
 
 [This website][1] is my growing list of “I don’t know.”
