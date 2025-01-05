@@ -1,7 +1,7 @@
 ---
 title: Oh, South Korea
 date: 2024-12-27
-tags: ["poetry"]
+tags: [poetry, korea]
 ---
 
 Its fertility rate the lowest,  
