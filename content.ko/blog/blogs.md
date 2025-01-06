@@ -1,7 +1,7 @@
 ---
 title: 블로그 변천사
 date: 2024-07-11
-tags: [에세이]
+tags: ["에세이"]
 ---
 
 ![Minsuk Kang's Blog #1](https://mataroa.blog/images/49f5b4f7.webp)

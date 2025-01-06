@@ -1,7 +1,7 @@
 +++
 title = "눈치 보지 않을 용기"
 date = 2022-09-20
-tags = [에세이]
+tags = ["에세이"]
 +++
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1663846718.webp)
