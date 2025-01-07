@@ -5,7 +5,7 @@ description: Reading a physical book is completely different from browsing on my
 tags: [essay]
 ---
 
-After reading a few pages, my mind begins to wander. My eyes are half-closed already. I feel like I’m done for the day. I gaze out the window for a while and eventually doze off. Yet again, I fail to finish more than a chapter because reading makes me so tired.
+After reading a few pages, my mind begins to wander. My eyes are half-closed already. I feel like I’m done for the day. I gaze out the window for a while and eventually doze off. Once again, I fail to finish more than a chapter because reading makes me so tired.
 
 For me, reading a physical book is completely different from browsing on my laptop. When I read or watch something online, I never fall asleep. In fact, I often stay awake until 1 AM, fixated on deploying a website, publishing a post, or scrolling through a bunch of newsletters. Even when my eyelids grow heavy, I don’t fall asleep; instead, I stare at the screen as if I don’t need sleep at all.
 
