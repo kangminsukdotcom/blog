@@ -15,7 +15,7 @@ timeZone = "Asia/Seoul"
   unsafe = true
 
 [params]
-  description = "Small, independent, and spirited."
+  description = "Write every day."
   favicon = "images/favicon.webp"
 
 [languages]
