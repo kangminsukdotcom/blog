@@ -1,6 +1,7 @@
 ---
 title: 안녕
-date: 2024-10-26 
+date: 2024-10-26
+tags: [진] 
 ---
 
 ![안녕 #1](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/1-1.webp)
