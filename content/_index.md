@@ -34,6 +34,7 @@ Currently in Jeju, Korea. I look like [this](https://bear-images.sfo2.cdn.digita
 <ul>
 <li><a href="https://en.jagunbae.com">Jagunbae</a></li>
 <li><a href="https://kangminsuk.com/tags/fiction/">Short stories</a></li>
+<li><a href="https://infamous-interview-questions.vercel.app">Infamous Interview Questions</a></li>
 <li><a href="https://idk.kangminsuk.com">I don't know</a></li>
 <li><a href="https://room.kangminsuk.com/">A room to breathe</a></li>
 <li><a href="https://us.jagunbae.com">Kang and Ko's Photo Diary</a></li>
