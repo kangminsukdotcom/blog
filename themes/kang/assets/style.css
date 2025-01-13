@@ -1,10 +1,4 @@
 @import url(https://fonts.bunny.net/css?family=yeon-sung:400);
-@font-face {
-  font-family: 'clover';
-  src: url('/font/clover.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
 
 html {
   -webkit-font-smoothing: antialiased;
@@ -46,7 +40,7 @@ body {
   max-width: 40rem;
   line-height: 1.7;
   font-size: 17px;
-  font-family: clover, system-ui, sans-serif;
+  font-family: system-ui, sans-serif;
   color: #4c4f69;
   text-align: left;
   word-wrap: break-word;
