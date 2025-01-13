@@ -4,7 +4,6 @@
     <h3 class="blog-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
   {{ end }}
   <ul class="blog-posts">
-  <h2><s><small>Writing</small></s> Healing</h2>
   <div>
     {{ range .Site.Taxonomies.tags }}
       <a class="blog-tags" href="{{ .Page.RelPermalink }}">#{{ lower .Page.Title }}</a>
