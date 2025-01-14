@@ -13,4 +13,4 @@ Doomscrolling makes me feel like a well-trained dog, just waiting for someone to
 
 Lately, I’ve been using two services to personalize my feeds: [Scour](https://scour.ing/@kang) and [Minifeed](https://minifeed.net/global). I can’t believe they’re free. Both respect privacy and are transparent about their development roadmaps. Kudos to the amazing developers.
 
-Now I spend a lot less time reading about the controversies of celebrities or billionaires. The other side of the Internet is filled with writers and programmers who actually take the time to reply to every email from their readers. This environment feels right.
+Now I spend a lot less time reading about the controversies of celebrities or billionaires. The other side of the Internet is filled with writers and programmers who actually take the time to reply to every email from their readers. This environment feels much better.
