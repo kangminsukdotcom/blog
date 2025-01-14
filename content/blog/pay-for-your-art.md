@@ -15,7 +15,7 @@ For all its scams and hype, the Web3 movement gave creators like me a glimmer of
 
 My question is: do we really want to get stuck in the same theater? I don’t want to be just another face in the crowd, watching whatever happens to be trending on Instagram. Diversity matters—because if we don’t support it, we risk becoming a bunch of programmed machines. That’s why I believe it’s so important to support independent creators who can’t help but express themselves.
 
-I already told you that [I’ll read your blog][1]. Let me go one step further. I’ll pay for your art. I’ll “buy you a coffee,” just like I would at a coffee shop with a friend. If you use Patreon, Ko-Fi, Liberapay, or something similar, send me the link. I’ll support your endeavor—now with both attention and money.
+I already told you that [I’ll read your blog][1]. Let me go one step further. I’ll pay for your art. I’ll “buy you a coffee,” just like I would at a coffee shop with a friend. If you use Patreon, Ko-Fi, Liberapay, or something similar, [send me the link](https://letterbird.co/kang). I’ll support your endeavor—now with both attention and money.
 
 I’m not rich. I’m struggling to make ends meet myself, so I won’t be able to support everyone in my feed. But as I earn more, I’ll support more creators. Because... why not? Creative work should be an exchange, not exploitation.
 
