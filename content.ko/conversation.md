@@ -150,7 +150,7 @@ description: 우리의 뜻깊은 대화를 위하여.
         }
     }
     button {
-        font-family: 'CLover', monospace;
+        font-family: 'Yeon Sung', monospace;
         font-size: 1em;
         padding: 10px 20px;
         cursor: pointer;

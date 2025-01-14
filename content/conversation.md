@@ -155,7 +155,7 @@ Don't forget! The answers must be as detailed as possible.
         }
     }
     button {
-        font-family: 'CLover', monospace;
+        font-family: 'Yeon Sung', monospace;
         font-size: 1em;
         padding: 10px 20px;
         cursor: pointer;
