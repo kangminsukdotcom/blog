@@ -1,5 +1,6 @@
 baseURL = "https://kangminsuk.com/"
 title = "Minsuk Kang 강민석"
+description = "A writer in Jeju, Korea."
 theme = "kang"
 enableRobotsTXT = true
 dateFormat = "2006-01-02"
@@ -15,7 +16,6 @@ timeZone = "Asia/Seoul"
   unsafe = true
 
 [params]
-  description = "Write every day."
   favicon = "images/favicon.webp"
 
 [languages]
@@ -26,7 +26,6 @@ timeZone = "Asia/Seoul"
     contentDir = "content"
     [languages.en.params]
       blogPath = "/blog"
-      titleImage = "/images/kang.jpg"
   [languages.ko]
     title = "강민석"
     languageName = "한국어"
@@ -34,7 +33,6 @@ timeZone = "Asia/Seoul"
     contentDir = "content.ko"
     [languages.ko.params]
       blogPath = "/ko/blog"
-      titleImage = "/images/kang2.jpg"
 
 [taxonomies]
    tag = "tags"
