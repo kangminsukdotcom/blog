@@ -24,7 +24,7 @@ title: 말머리씨
 
 그래서 말머리씨는 제주에 삽니다.
 
-[엽서가게 엽](https://www.instagram.com/yupp_jeju/)에서 만납시다.
+[엽서가게 옆](https://www.instagram.com/yupp_jeju/)에서 만납시다.
 
 "Humans to Seoul, Horses to Jeju."
 
