@@ -13,7 +13,7 @@ Most people don’t even realize they’re part of the “attention economy.” 
 
 For all its scams and hype, the Web3 movement gave creators like me a glimmer of hope. The idea was simple: a culture where audiences directly pay their favorite creators. Imagine tipping a blogger the way you’d buy a book at your local bookstore. That’s what I hoped for.
 
-My question is: do we really want to get stuck in the same theater? I don’t want to be just another face in the crowd, watching whatever happens to be trending on YouTube. Diversity matters—because if we don’t support it, we risk becoming a bunch of programmed machines. That’s why I believe it’s so important to support independent creators who can’t help but express themselves.
+My question is: do we really want to get stuck in the same theater? I don’t want to be just another face in the crowd, watching whatever happens to be trending on Instagram. Diversity matters—because if we don’t support it, we risk becoming a bunch of programmed machines. That’s why I believe it’s so important to support independent creators who can’t help but express themselves.
 
 I already told you that [I’ll read your blog][1]. Let me go one step further. I’ll pay for your art. I’ll “buy you a coffee,” just like I would at a coffee shop with a friend. If you use Patreon, Ko-Fi, Liberapay, or something similar, send me the link. I’ll support your endeavor—now with both attention and money.
 
