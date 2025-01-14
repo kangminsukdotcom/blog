@@ -26,6 +26,7 @@ timeZone = "Asia/Seoul"
     contentDir = "content"
     [languages.en.params]
       blogPath = "/blog"
+      titleImage = "/images/kang.jpg"
   [languages.ko]
     title = "강민석"
     languageName = "한국어"
@@ -33,6 +34,7 @@ timeZone = "Asia/Seoul"
     contentDir = "content.ko"
     [languages.ko.params]
       blogPath = "/ko/blog"
+      titleImage = "/images/kang2.jpg"
 
 [taxonomies]
    tag = "tags"
