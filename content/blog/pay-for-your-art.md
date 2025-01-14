@@ -5,7 +5,7 @@ description: Because... why not?
 tags: [essay]
 ---
 
-People are so used to getting online content for free. Why would anyone pay a blogger when they can dive into YouTube or TikTok for endless entertainment? Even if someone stumbles upon a personal website they find interesting, 99% won’t consider spending a dime to show their appreciation. A blog post could move them to tears, but they’d still never think about the writer’s mortgage.
+People are so used to getting online content for free. Why would anyone pay a blogger when they can dive into YouTube or TikTok for bottomless entertainment? Even if someone stumbles upon a personal website they find interesting, 99% won’t consider spending a dime to show their appreciation. A blog post could move them to tears, but they’d still never think about the writer’s mortgage.
 
 The flood of free content on the internet has made it incredibly hard for small-scale artists to thrive. Every creator, willingly or not, is competing with the likes of MrBeast and Squid Game. Sure, platforms highlight “rising creators,” but only a handful earn enough to pay their bills. Finding an audience is hard enough. Asking others to pay for your art? Even Ethan Hunt would say no to that mission.
 
