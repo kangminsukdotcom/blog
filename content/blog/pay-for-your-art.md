@@ -2,7 +2,7 @@
 title: I’ll pay for your art
 date: 2025-01-14
 description: Because... why not?
-tags: essay
+tags: [essay]
 ---
 
 People are so used to getting online content for free. Why would anyone pay a blogger when they can dive into YouTube or TikTok for endless entertainment? Even if someone stumbles upon a personal website they find interesting, 99% won’t consider spending a dime to show their appreciation. A blog post could move them to tears, but they’d still never think about the writer’s bank account.
