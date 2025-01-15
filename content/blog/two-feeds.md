@@ -1,5 +1,5 @@
 ---
-title: Minifeed and Scour Are 100X Better Than Instagram and X
+title: Scour and minifeed are 100X better than Instagram and X
 date: 2025-01-13
 description: I’m reading words to learn, not just to get drunk.
 tags: [review]

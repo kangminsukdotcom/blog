@@ -1,5 +1,5 @@
 ---
-title: My Growing List of “I Don’t Know”
+title: My growing list of “I don’t know”
 date: 2025-01-06
 description: When you think about it, we can’t be sure about anything.
 tags: [website]
