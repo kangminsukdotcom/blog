@@ -12,7 +12,6 @@
     {{ $grouped := .Pages.GroupByDate "2006" }}
     {{ range $grouped }}
 	<h3>{{ .Key }}</h3>
-      <ul>
         {{ range .Pages }}
         <li>
           {{ if .Params.link }}
@@ -22,7 +21,6 @@
           {{ end }}
         </li>
         {{ end }}
-      </ul>
     {{ else }}
     <li>
       {{ i18n "no-posts" }}
