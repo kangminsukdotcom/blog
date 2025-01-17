@@ -5,7 +5,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: none;
-  background: #DCDCDC;;
+  background: #E4E4E4;
 }
 
 :lang(ko) {
@@ -80,7 +80,7 @@ a:hover {
 
 nav a {
   margin-right: 10px;
-  color: #00278F;
+  color: blue;
   font-size: 17px;
   max-width: 100%;
 }
