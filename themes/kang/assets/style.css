@@ -41,7 +41,7 @@ body {
   line-height: 1.7;
   font-size: 17px;
   font-family: system-ui, sans-serif;
-  color: #261111;
+  color: #2D0000;
   text-align: left;
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -152,7 +152,7 @@ pre code {
 }
 
 blockquote {
-  border-left: 2px solid #919191; /* Updated border color for contrast */
+  border-left: 2px solid #3D3636; /* Updated border color for contrast */
   color: #4c4f69; /* Darker font color for contrast */
   padding-left: 1em;
   margin-left: 0;
@@ -335,11 +335,11 @@ nav.post-navigation {
 a.prev-post {
   text-align: left;
   text-decoration: none;
-  color: #919191;
+  color: #3D3636;
 }
 
 a.next-post {
   text-align: left;
   text-decoration: none;
-  color: #919191;
+  color: #3D3636;
 }
