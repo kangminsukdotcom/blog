@@ -53,6 +53,7 @@ p.byline {
 }
 
 h1.title {
+  font-family: 'Yeon Sung', system-ui;
   margin-bottom: 0.2em !important;
 }
 
