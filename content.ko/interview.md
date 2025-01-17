@@ -1,4 +1,5 @@
 ---
+type: page
 ---
 <!DOCTYPE html>
 <html lang="ko">
