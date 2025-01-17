@@ -21,7 +21,7 @@ nav {
 
 작가, 팟캐스터, 사워도우 제빵사, 아마추어 개발자, 진 메이커, 피자 사냥꾼, (전) 샌드위치 가게 사장, 폴더폰 사용자, 권위 혐오자, VTSAX 투자자, 구제와 헌책 소비자, 에어로프레스 바리스타, 중국·미국 유학생, 문학 전공자, 고양이 집사, [고은비](https://eunbiko.com)의 남편.
 
-제주에 사는 중. [이렇게](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/minsuk-kang-profile.webp) 생겼다. 지금 [이렇게](https://kangminsuk.com/ko/now/) 살고 있다.
+제주에 사는 중. [이렇게](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/minsuk-kang-profile.webp) 생겼다. 지금 [이렇게](https://kangminsuk.com/ko/now/) 살고 있다. 웹사이트 소스 코드는 [여기에](https://github.com/kangminsukdotcom/blog) 있다.
 </details>
 
 <details>
