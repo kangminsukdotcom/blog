@@ -5,7 +5,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: none;
-  background: #fafafa;;
+  background: #c7c7c7;;
 }
 
 :lang(ko) {
@@ -41,7 +41,7 @@ body {
   line-height: 1.7;
   font-size: 17px;
   font-family: system-ui, sans-serif;
-  color: #4c4f69;
+  color: #261111;
   text-align: left;
   word-wrap: break-word;
   overflow-wrap: break-word;
