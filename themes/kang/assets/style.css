@@ -57,7 +57,7 @@ h1.title {
 }
 
 a {
-  color: #3366CC;
+  color: #00278F;
   text-decoration: none;
 }
 
@@ -78,7 +78,7 @@ a:hover {
 
 nav a {
   margin-right: 10px;
-  color: #3366CC;
+  color: #00278F;
   font-size: 17px;
   max-width: 100%;
 }
