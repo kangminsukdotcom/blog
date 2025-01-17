@@ -33,6 +33,9 @@ h6 {
   body {
     text-wrap: pretty;
   }
+  h1.title {
+    font-family: Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', 'Nimbus Sans Narrow', sans-serif-condensed, sans-serif;
+  }
 }
 
 body {
@@ -53,7 +56,6 @@ p.byline {
 }
 
 h1.title {
-  font-family: 'Yeon Sung', system-ui;
   margin-bottom: 0.2em !important;
 }
 
