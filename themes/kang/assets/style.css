@@ -16,7 +16,7 @@ html {
 
 time {
   font-style: normal;
-  color: rgb(145, 145, 145);
+  color: #3d3636;
 }
 
 h1,
@@ -41,7 +41,7 @@ body {
   line-height: 1.7;
   font-size: 17px;
   font-family: system-ui, sans-serif;
-  color: #2D0000;
+  color: #171717;
   text-align: left;
   word-wrap: break-word;
   overflow-wrap: break-word;
