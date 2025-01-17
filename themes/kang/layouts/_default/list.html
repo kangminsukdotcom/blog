@@ -12,19 +12,17 @@
     {{ $grouped := .Pages.GroupByDate "2006" }}
     {{ range $grouped }}
 	<h3>{{ .Key }}</h3>
-      <li>
-        <ul>
-          {{ range .Pages }}
-          <li>
-            {{ if .Params.link }}
-              <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
-            {{ else }}
-              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            {{ end }}
-          </li>
+      <ul>
+        {{ range .Pages }}
+        <li>
+          {{ if .Params.link }}
+            <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
+          {{ else }}
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
           {{ end }}
-        </ul>
-      </li>
+        </li>
+        {{ end }}
+      </ul>
     {{ else }}
     <li>
       {{ i18n "no-posts" }}
