@@ -24,7 +24,7 @@
             margin-bottom: 0em;
         }
         textarea {
-            font-family: 'Yeon Sung', monospace;
+            font-family: monospace;
         }
         button {
             font-size: 14px;

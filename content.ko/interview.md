@@ -26,7 +26,7 @@ type: page
             margin-bottom: 0em;
         }
         textarea {
-            font-family: 'Yeon Sung', monospace;
+            font-family: monospace;
         }
         small {
             font-size: 16px;

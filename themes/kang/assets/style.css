@@ -1,5 +1,3 @@
-@import url(https://fonts.bunny.net/css?family=yeon-sung:400);
-
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -280,14 +278,14 @@ textarea#message {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-family: 'Yeon Sung', sans-serif;;
+  font-family: system-ui, sans-serif;;
 }
 
 textarea#letter {
   width: 100%;
   height: 200px;
   font-size: 16px;
-  font-family: 'Yeon Sung', sans-serif;;
+  font-family: system-ui, sans-serif;;
   background: rgba(255, 255, 255, 0.8);
   color: #444;
 }

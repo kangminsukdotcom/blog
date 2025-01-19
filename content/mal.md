@@ -3,7 +3,7 @@ title: 말머리씨
 ---
 <style>
   body {
-    font-family: 'Yeon Sung', sans-serif;
+    font-family: system-ui, sans-serif;
     text-align: center;
   }
   p.byline {
