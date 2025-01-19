@@ -14,7 +14,7 @@ robots: "noindex,nofollow"
     </div>
   </div>
   <em class="intro">
-    서울 사람에게 추천하는 아이템.
+    안녕히가세요.
   </em>
   <div class="download-links">
     <a href="https://kangminsuk.com/mal/">말머리씨 소개</a>

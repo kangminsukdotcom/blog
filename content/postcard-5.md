@@ -14,7 +14,7 @@ robots: "noindex,nofollow"
     </div>
   </div>
   <em class="intro">
-    어쩌면 진리는 엽서에 숨어있을 수도.
+    어쩌면 진리는 엽서에 숨어있을 수도 있다.
   </em>
   <div class="download-links">
     <a href="https://kangminsuk.com/mal/">말머리씨 소개</a>
