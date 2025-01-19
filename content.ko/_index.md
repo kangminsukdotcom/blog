@@ -32,7 +32,7 @@ nav {
 <details>
   <summary>창작</summary>
   <ul>
-    <li><a href="https://jagunbae.com/">온라인 출판사 작은배</a></li>
+    <li><a href="https://jagunbae.com/">창작 공간 작은배</a></li>
     <li><a href="https://podcast.jagunbae.com">팟캐스트 강소팟</a></li>
     <li><a href="https://jagunbae.com/too-small-to-fail/">책 망하지 않을 만큼 작은 식당 창업하기</a></li>
     <li><a href="https://room.kangminsuk.com/">숨 쉴 공간</a></li>
