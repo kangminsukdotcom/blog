@@ -11,7 +11,7 @@ robots: "noindex,nofollow"
     <img id="front" src="/images/postcard-6.png" alt="Postcard Front" class="front" style="background:white;">
     <div class="back-container" id="back-container">
       <img id="back" src="/images/postcard-back.png" alt="Postcard Back" class="back">
-      <textarea id="message" placeholder="너는 감옥가지마."></textarea>
+      <textarea id="message" placeholder="너는 감옥가지마..."></textarea>
     </div>
   </div>
   <em class="intro">
