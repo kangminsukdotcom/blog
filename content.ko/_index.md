@@ -33,7 +33,7 @@ nav {
   <summary>창작</summary>
   <ul>
     <li><a href="https://jagunbae.com/">작은배</a></li>
-    <li><a href="https://podcast.jagunbae.com">팟캐스트 강소팟</a></li>
+    <li><a href="https://podcast.jagunbae.com">강소팟</a></li>
     <li><a href="https://room.kangminsuk.com/">숨 쉴 공간</a></li>
     <li><a href="https://wooreenoon.bearblog.dev">커피가게 우리는 비공식 팬클럽</a></li>
     <li><a href="https://texts.bearblog.dev">라인 아이디 추가 안 한다고</a></li>
@@ -43,7 +43,7 @@ nav {
     <li><a href="https://kangminsuk.com/mal/">말머리씨</a></li>
     <li><a href="https://blogs.jagunbae.com">글 쓰는 블로그를 소개합니다</a></li>
     <li><a href="https://blogmansae.netlify.app">블로그 만세!</a></li>
-    <li><a href="https://reviews.cheesylazy.com/">샌드위치샵 치지레이지</a></li>
+    <li><a href="https://reviews.cheesylazy.com/">치지레이지 리뷰 모음</a></li>
     <li><a href="https://questions.jagunbae.com">질문 있는 사람들</a></li>
   </ul>
 </details>
