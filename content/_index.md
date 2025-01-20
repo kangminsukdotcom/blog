@@ -51,7 +51,7 @@ Currently in Jeju, Korea. I look like [this](https://bear-images.sfo2.cdn.digita
 <ul>
   <li><a href="https://letterbird.co/kang">Email</a></li>
   <li><a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> or <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a></li>
-  <li><a href="https://github.com/kangminsukdotcom/blog">Source code</a></li>
+  <li><a href="https://github.com/kangminsukdotcom/blog">Source code</a></li>
   <li><a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold;">Donate</a></li>
 </ul>  
 </details>
