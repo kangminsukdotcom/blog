@@ -4,10 +4,10 @@
     <h3 class="blog-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
   {{ end }}
   <ul class="blog-posts">
-    <pre>    |\__/,|   (`\
+  <pre>    |\__/,|   (`\
       _.|o o  |_   ) )
     -(((---(((--------
-    </pre>
+  </pre>
   <div>
     {{ range .Site.Taxonomies.tags }}
       <a class="blog-tags" href="{{ .Page.RelPermalink }}">#{{ lower .Page.Title }}</a>
