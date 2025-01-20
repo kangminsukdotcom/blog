@@ -40,7 +40,6 @@ nav {
     <li><a href="https://us.jagunbae.com">강단과 소신 사진 일기</a></li>
     <li><a href="https://kangminsuk.com/ko/interview/">(조금은 진지한) 부모님 인터뷰</a></li>
     <li><a href="https://kangminsuk.com/ko/conversation/">(조금은 진지한) 질문 생성기</a></li>
-    <li><a href="https://kangminsuk.com/mal/">말머리씨</a></li>
     <li><a href="https://blogs.jagunbae.com">글 쓰는 블로그를 소개합니다</a></li>
     <li><a href="https://blogmansae.netlify.app">블로그 만세!</a></li>
     <li><a href="https://reviews.cheesylazy.com/">치지레이지 리뷰 모음</a></li>
@@ -53,6 +52,7 @@ nav {
   <ul>
     <li><a href="https://jagunbae.com/too-small-to-fail/">망하지 않을 만큼 작은 식당 창업하기</a></li>
     <li><a href="https://jagunbae.com/taipei-book/">타이베이의 오래된 것들</a></li>
+    <li><a href="https://kangminsuk.com/mal/">말머리씨</a></li>
   </ul>
 </details>
 
