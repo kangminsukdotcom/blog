@@ -59,7 +59,7 @@ nav {
 <details>
 <summary>연결</summary>
 <ul>
-  <li><a href="https://letterbird.co/kang">Email</a></li>
+  <li><a href="https://letterbird.co/kang">이메일</a></li>
   <li><a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> or <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a></li>
   <li><a href="https://github.com/kangminsukdotcom/blog">소스 코드</a></li>
   <li><a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold;">후원</a></li>
