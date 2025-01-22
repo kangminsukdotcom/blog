@@ -53,6 +53,7 @@ nav {
   <ul>
     <li><a href="https://litt.ly/jagunbae_books/sale/c8KGbFy">망하지 않을 만큼 작은 식당 창업하기</a></li>
     <li><a href="https://litt.ly/jagunbae_books/sale/CBXlZ7n">타이베이의 오래된 것들</a></li>
+    <li><a href="https://jagunbae.com/tag/event">작은배 모임</a></li>
   </ul>
 </details>
 
