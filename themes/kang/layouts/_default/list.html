@@ -11,19 +11,12 @@
 
   <ul class="blog-posts">
 
-    {{/*
-      Only show the tags if we are NOT on a taxonomy page.
-      (.Kind can be "taxonomy", "taxonomyTerm", "section", etc.)
-      https://gohugo.io/content-management/taxonomies/#by-default
-    */}}
-    {{ if and (ne .Kind "taxonomy") (ne .Kind "taxonomyTerm") }}
       <div>
         {{ range .Site.Taxonomies.tags }}
           <a class="blog-tags" href="{{ .Page.RelPermalink }}">#{{ lower .Page.Title }}</a>
         {{ end }}
       </div>
-    {{ end }}
-
+      
     {{ $grouped := .Pages.GroupByDate "2006" }}
     {{ range $grouped }}
       <h3>{{ .Key }}</h3>
