@@ -66,4 +66,5 @@ li {
   <li>E: 영어</li>
   <li>K: 한국어</li>
   <li>N or ⇧+N: 페이지 내 이동</li> 
+  <li>← or →: 이전, 다음 글</li>
 </details>
