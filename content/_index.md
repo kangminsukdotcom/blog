@@ -57,4 +57,5 @@ Currently in Jeju, Korea. I look like [this](https://bear-images.sfo2.cdn.digita
   <li>E: English</li>
   <li>K: Korean</li>
   <li>N or ⇧+N: Navigation</li>
+  <li>← or →: Prev or next post</li>
 </details>
