@@ -1,8 +1,5 @@
-<script>
-/**
- * 1. Define which elements are "allowed" in our custom navigation
- *    (links, buttons, inputs, etc.) but skipping nav, closed details, etc.
- */
+// 1. Define which elements are "allowed" in our custom navigation
+//    (links, buttons, inputs, etc.) but skipping nav, closed details, etc.
 const focusableSelector = `
   a[href],
   button:not([disabled]),
@@ -12,6 +9,7 @@ const focusableSelector = `
   summary,
   [tabindex="0"]
 `;
+
 let focusableElements = [];
 
 /**
@@ -23,9 +21,8 @@ function initFocusableElements() {
   focusableElements = Array.from(document.querySelectorAll(focusableSelector))
     .filter(el => {
       // Skip anything in <nav>
-      if (el.closest("nav")) {
-        return false;
-      }
+      if (el.closest("nav")) return false;
+
       // If it's inside <details>...
       const det = el.closest("details");
       if (det) {
@@ -33,14 +30,14 @@ function initFocusableElements() {
         if (el.tagName.toLowerCase() === "summary") {
           return true;
         }
-        // Otherwise, only keep if details is open
+        // Otherwise, only keep if <details> is open
         return det.open;
       }
       return true;
     });
 }
 
-// Re-run this whenever a <details> opens or closes
+// When the page is loaded, run the function and set up "toggle" watchers
 document.addEventListener("DOMContentLoaded", () => {
   initFocusableElements();
   document.querySelectorAll("details").forEach(d => {
@@ -48,11 +45,9 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 
-/**
- * 2. Listen for key presses
- */
+// 2. Listen for key presses
 document.addEventListener("keydown", function (event) {
-  // If user is typing in a form field, skip
+  // If user is typing in an input/textarea/etc., skip
   if (
     event.target.matches("input, textarea, select") ||
     event.target.isContentEditable
@@ -60,13 +55,12 @@ document.addEventListener("keydown", function (event) {
     return;
   }
 
-  // For single-letter keys, let's compare lowercased:
+  // Convert the pressed key to lowercase for easier matching
   const keyPressed = event.key.toLowerCase();
   const currentPath = window.location.pathname;
   const normalizedPath = currentPath.replace(/\/+$/, "");
 
   switch (keyPressed) {
-
     /**
      * Single-Letter Shortcuts (English + Korean)
      */
@@ -98,7 +92,6 @@ document.addEventListener("keydown", function (event) {
         window.location.href = englishPath === "" ? "/" : englishPath;
       }
       break;
-
 
     /**
      * Arrow Keys
@@ -133,7 +126,6 @@ document.addEventListener("keydown", function (event) {
       window.scrollBy(0, -100);
       break;
 
-
     /**
      * N => Cycle forward in our custom focus list
      * Shift+N => Cycle backward
@@ -142,7 +134,6 @@ document.addEventListener("keydown", function (event) {
       event.preventDefault();
       moveFocus(event.shiftKey ? -1 : 1);
       break;
-
 
     /**
      * Esc => remove focus
@@ -168,7 +159,8 @@ function moveFocus(step) {
   if (!focusableElements.length) return;
 
   let currentIndex = focusableElements.indexOf(document.activeElement);
-  // If nothing is focused yet, treat as "before the first element"
+
+  // If nothing is focused yet, treat that as "before the first element"
   if (currentIndex === -1) {
     currentIndex = step > 0 ? -1 : 0;
   }
@@ -182,6 +174,6 @@ function moveFocus(step) {
     newIndex = 0;
   }
 
+  // Focus the new element
   focusableElements[newIndex].focus();
 }
-</script>
