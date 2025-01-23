@@ -31,7 +31,6 @@ nav {
 
 <details>
   <summary>창작</summary>
-  <ul>
     <li><a href="https://jagunbae.com/">작은배</a></li>
     <li><a href="https://podcast.jagunbae.com">강소팟</a></li>
     <li><a href="https://room.kangminsuk.com/">숨 쉴 공간</a></li>
@@ -45,35 +44,28 @@ nav {
     <li><a href="https://blogmansae.netlify.app">블로그 만세!</a></li>
     <li><a href="https://reviews.cheesylazy.com/">치지레이지 리뷰 모음</a></li>
     <li><a href="https://questions.jagunbae.com">질문 있는 사람들</a></li>
-  </ul>
 </details>
 
 <details>
   <summary>제품</summary>
-  <ul>
     <li><a href="https://litt.ly/jagunbae_books/sale/c8KGbFy">망하지 않을 만큼 작은 식당 창업하기</a></li>
     <li><a href="https://litt.ly/jagunbae_books/sale/CBXlZ7n">타이베이의 오래된 것들</a></li>
     <li><a href="https://jagunbae.com/tag/event">작은배 모임</a></li>
-  </ul>
 </details>
 
 <details>
 <summary>연결</summary>
-<ul>
   <li><a href="https://letterbird.co/kang">이메일</a></li>
   <li><a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> or <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a></li>
   <li><a href="https://github.com/kangminsukdotcom/blog">소스 코드</a></li>
   <li><a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold;">후원</a></li>
-</ul>
 </details>
 
 <details>
 <summary>단축키</summary>
-<ul>
   <li>H: 홈</li>
   <li>W: 모든 글</li>
   <li>E: 영어</li>
   <li>K: 한국어</li>
-  <li>←↑↓→: 페이지 내 이동</li>
-</ul>  
+  <li>←↑↓→: 페이지 내 이동</li>  
 </details>

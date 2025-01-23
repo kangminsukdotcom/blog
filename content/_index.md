@@ -31,7 +31,6 @@ Currently in Jeju, Korea. I look like [this](https://bear-images.sfo2.cdn.digita
 
 <details>
 <summary>Creations</summary>
-<ul>
 <li><a href="https://en.jagunbae.com">Jagunbae</a></li>
 <li><a href="https://kangminsuk.com/tags/fiction/">Short stories</a></li>
 <li><a href="https://infamous-interview-questions.vercel.app">Infamous Interview Questions</a></li>
@@ -43,26 +42,21 @@ Currently in Jeju, Korea. I look like [this](https://bear-images.sfo2.cdn.digita
 <li><a href="https://kangminsuk.com/mal/">Mal-muh-lee</a></li>
 <li><a href="https://reviews.cheesylazy.com/">Reviews of Cheesylazy</a></li>
 <li><a href="https://github.com/kangminsukdotcom/blog">kangminsuk.com</a></li>
-</ul>
 </details>
 
 <details>
 <summary>Connect</summary>
-<ul>
   <li><a href="https://letterbird.co/kang">Email</a></li>
   <li><a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> or <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a></li>
   <li><a href="https://github.com/kangminsukdotcom/blog">Source code</a></li>
   <li><a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold;">Donate</a></li>
-</ul>  
 </details>
 
 <details>
 <summary>Shortcuts</summary>
-<ul>
   <li>H: Home</li>
   <li>W: Writing</li>
   <li>E: English</li>
   <li>K: Korean</li>
   <li>←↑↓→: Navigation</li>
-</ul>  
 </details>

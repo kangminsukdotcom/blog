@@ -16,8 +16,19 @@ function initFocusableElements() {
   focusableElements = Array.from(
     document.querySelectorAll(focusableSelector)
   ).filter(el => {
-    // If the element is inside any <nav> tag, skip it
-    return !el.closest("nav");
+    // 1) Skip anything inside <nav>
+    if (el.closest("nav")) {
+      return false;
+    }
+
+    // 2) Skip anything inside a <ul> that is itself inside <details>
+    //    This means <details><ul>... or <details>...<ul>...
+    if (el.closest("details li")) {
+      return false;
+    }
+
+    // Otherwise, keep it
+    return true;
   });
 }
 
