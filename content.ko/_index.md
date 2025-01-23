@@ -65,5 +65,5 @@ li {
   <li>W: 모든 글</li>
   <li>E: 영어</li>
   <li>K: 한국어</li>
-  <li>N: 페이지 내 이동</li>  
+  <li>N/N+⇧: 페이지 내 이동</li>  
 </details>
