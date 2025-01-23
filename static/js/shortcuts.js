@@ -1,1 +1,106 @@
-const focusableSelector='\n  a[href],\n  button:not([disabled]),\n  input:not([disabled]):not([type="hidden"]),\n  select:not([disabled]),\n  textarea:not([disabled]),\n  summary,\n  [tabindex="0"]\n';let focusableElements=[];function initFocusableElements(){focusableElements=Array.from(document.querySelectorAll(focusableSelector)).filter((e=>{if(e.closest("nav"))return!1;const t=e.closest("details");return!t||("summary"===e.tagName.toLowerCase()||t.open)}))}function moveFocus(e){if(!focusableElements.length)return;let t=focusableElements.indexOf(document.activeElement);-1===t&&(t=e>0?-1:0);let n=t+e;n<0?n=focusableElements.length-1:n>=focusableElements.length&&(n=0),focusableElements[n].focus()}document.addEventListener("DOMContentLoaded",(()=>{initFocusableElements(),document.querySelectorAll("details").forEach((e=>{e.addEventListener("toggle",initFocusableElements)}))})),document.addEventListener("keydown",(e=>{if(e.target.matches("input, textarea, select")||e.target.isContentEditable)return;const t=e.key.toLowerCase(),n=window.location.pathname.replace(/\/+$/,"");switch(t){case"h":case"ㅗ":window.location.href="/";break;case"w":case"ㅈ":window.location.href="/blog/";break;case"k":case"ㅏ":n.startsWith("/ko")||(window.location.href="/ko"+n);break;case"e":case"ㄷ":if(n.startsWith("/ko")){const e=n.replace(/^\/ko/,"");window.location.href=""===e?"/":e}break;case"n":e.preventDefault(),moveFocus(e.shiftKey?-1:1)}}));
+<script>
+document.addEventListener("keydown", function (event) {
+  // If user is typing in a form field, skip all shortcuts
+  if (
+    event.target.matches("input, textarea, select") ||
+    event.target.isContentEditable
+  ) {
+    return;
+  }
+
+  // Grab the current path and remove trailing slash
+  const currentPath = window.location.pathname;
+  const normalizedPath = currentPath.replace(/\/+$/, "");
+
+  // Check the actual key pressed, in lowercase
+  const keyPressed = event.key.toLowerCase();
+
+  switch (keyPressed) {
+
+    /**
+     * Single-Letter Shortcuts (English + Korean)
+     */
+    // h / ㅗ => Home
+    case "h":
+    case "ㅗ":
+      event.preventDefault();
+      window.location.href = "/";
+      break;
+
+    // w / ㅈ => Blog
+    case "w":
+    case "ㅈ":
+      event.preventDefault();
+      window.location.href = "/blog/";
+      break;
+
+    // k / ㅏ => Switch to Korean (prefix /ko if not present)
+    case "k":
+    case "ㅏ":
+      event.preventDefault();
+      if (!normalizedPath.startsWith("/ko")) {
+        window.location.href = "/ko" + normalizedPath;
+      }
+      break;
+
+    // e / ㄷ => Switch to English (remove /ko if present)
+    case "e":
+    case "ㄷ":
+      event.preventDefault();
+      if (normalizedPath.startsWith("/ko")) {
+        const englishPath = normalizedPath.replace(/^\/ko/, "");
+        window.location.href = englishPath === "" ? "/" : englishPath;
+      }
+      break;
+
+
+    /**
+     * Arrow Keys
+     */
+    // ArrowLeft => Previous Post
+    case "arrowleft":
+      event.preventDefault();
+      const prevLink = document.querySelector(".prev-post");
+      if (prevLink && prevLink.href) {
+        window.location.href = prevLink.href;
+      }
+      break;
+
+    // ArrowRight => Next Post
+    case "arrowright":
+      event.preventDefault();
+      const nextLink = document.querySelector(".next-post");
+      if (nextLink && nextLink.href) {
+        window.location.href = nextLink.href;
+      }
+      break;
+
+    // ArrowDown => Scroll Down
+    case "arrowdown":
+      event.preventDefault();
+      window.scrollBy(0, 100); // scrolls down 100px
+      break;
+
+    // ArrowUp => Scroll Up
+    case "arrowup":
+      event.preventDefault();
+      window.scrollBy(0, -100); // scrolls up 100px
+      break;
+
+
+    /**
+     * Escape => Remove focus
+     */
+    case "escape":
+      event.preventDefault();
+      if (document.activeElement && document.activeElement.blur) {
+        document.activeElement.blur();
+      }
+      break;
+
+    default:
+      // For any other key, do nothing
+      break;
+  }
+});
+</script>
