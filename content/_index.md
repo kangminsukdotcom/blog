@@ -14,6 +14,9 @@ nav {
   margin-bottom: 1em;
 }
 
+li {
+  list-style: none;
+}
 </style>
 
 <details>
