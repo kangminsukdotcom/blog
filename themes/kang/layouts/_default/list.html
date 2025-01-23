@@ -11,7 +11,11 @@
 
   <ul class="blog-posts">
 
-    {{/* Only show the tags if we are NOT on a taxonomy page */}}
+    {{/*
+      Only show the tags if we are NOT on a taxonomy page.
+      (.Kind can be "taxonomy", "taxonomyTerm", "section", etc.)
+      https://gohugo.io/content-management/taxonomies/#by-default
+    */}}
     {{ if and (ne .Kind "taxonomy") (ne .Kind "taxonomyTerm") }}
       <div>
         {{ range .Site.Taxonomies.tags }}
