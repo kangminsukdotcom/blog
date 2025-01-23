@@ -66,3 +66,14 @@ nav {
   <li><a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold;">후원</a></li>
 </ul>
 </details>
+
+<details>
+<summary>단축키</summary>
+<ul>
+  <li>H: 홈</li>
+  <li>W: 모든 글</li>
+  <li>E: 영어</li>
+  <li>K: 한국어</li>
+  <li>←↑↓→: 페이지 내 이동</li>
+</ul>  
+</details>
