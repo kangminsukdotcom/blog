@@ -61,7 +61,7 @@ li {
 
 <details>
 <summary>단축키</summary>
-  <li>H: 홈</li>
+  <li>H: 홈</li>
   <li>W: 모든 글</li>
   <li>E: 영어</li>
   <li>K: 한국어</li>
