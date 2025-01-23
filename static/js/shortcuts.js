@@ -27,6 +27,10 @@ function initFocusableElements() {
       return false;
     }
 
+    if (el.closest("details a")) {
+      return false;
+    }
+
     // Otherwise, keep it
     return true;
   });

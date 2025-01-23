@@ -25,11 +25,6 @@ Currently in Jeju, Korea. I look like [this](https://bear-images.sfo2.cdn.digita
 </details>
 
 <details>
-<summary>Posts</summary>
-{{< recent-posts >}}
-</details>
-
-<details>
 <summary>Creations</summary>
 <li><a href="https://en.jagunbae.com">Jagunbae</a></li>
 <li><a href="https://kangminsuk.com/tags/fiction/">Short stories</a></li>

@@ -25,11 +25,6 @@ nav {
 </details>
 
 <details>
-<summary>최신 글</summary>
-{{< recent-posts >}}
-</details>
-
-<details>
   <summary>창작</summary>
     <li><a href="https://jagunbae.com/">작은배</a></li>
     <li><a href="https://podcast.jagunbae.com">강소팟</a></li>
