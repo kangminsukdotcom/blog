@@ -2,6 +2,7 @@
 title: "홈"
 menu: "main"
 weight: 1
+description: 제주도 사는 독립 창작자.
 ---
 
 <style>
