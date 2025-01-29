@@ -3,7 +3,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: none;
-  background: #FFF7ED;
+  background: #F1F1F1;
 }
 
 :lang(ko) {
