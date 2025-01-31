@@ -40,7 +40,6 @@ Currently in Jeju, Korea. I look like [this](https://bear-images.sfo2.cdn.digita
 <li><a href="https://kangminsuk.com/conversation/">(A Bit Serious) Question Generator</a></li>
 <li><a href="https://kangminsuk.com/mal/">Mal-muh-lee</a></li>
 <li><a href="https://reviews.cheesylazy.com/">Reviews of Cheesylazy</a></li>
-<li><a href="https://github.com/kangminsukdotcom/blog">kangminsuk.com</a></li>
 </details>
 
 <details>
