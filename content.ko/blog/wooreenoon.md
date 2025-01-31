@@ -2,7 +2,7 @@
 title: 우리는의 매력이 뭐길래
 date: 2025-01-29
 description: 커피가게 우리는은 하나의 완전한 시스템으로 존재한다.
-tags: [에세이]
+tags: [에세이, 웹사이트]
 ---
 
 *[커피가게 우리는 팬클럽 저희는](https://wooreenoon.bearblog.dev) 팬 잡지에 기고한 글입니다.*
