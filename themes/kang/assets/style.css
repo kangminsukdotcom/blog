@@ -3,7 +3,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: none;
-  background: #F1F1F1;
+  background: #FFF6F6;
 }
 
 :lang(ko) {
@@ -220,8 +220,8 @@ figcaption > p {
 }
 
 ::selection {
-  color: #444; /* Updated selection font color */
-  background-color: #f2f2ce; /* Updated selection background color */
+  color: #444;
+  background-color: #fef4c3;
 }
 
 .postcard-container {
