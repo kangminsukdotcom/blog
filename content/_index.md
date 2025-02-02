@@ -28,7 +28,7 @@ Minsuk Kang
 
 <h3>
 
-I'm Minsuk Kang. A writer, podcaster, sourdough baker, hobby coder, zine maker, pizza eater, former sandwich shop owner, comedy enthusiast, flip phone user, politician skeptic, VTSAX investor, secondhand shopper, Aeropress barista, former student at four middle schools·three high schools·two colleges in Korea, China, and the US, Literature major, guardian of [two cats](https://kangminsuk.com/blog/23-04-19/), and husband of Eunbi Ko.
+A writer, podcaster, sourdough baker, hobby coder, zine maker, pizza eater, former sandwich shop owner, comedy enthusiast, flip phone user, politician skeptic, VTSAX investor, secondhand shopper, Aeropress barista, former student at four middle schools·three high schools·two colleges in Korea, China, and the US, Literature major, guardian of [two cats](https://kangminsuk.com/blog/23-04-19/), and husband of Eunbi Ko.
 
 Currently in Jeju, Korea. I look like [this](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jagunbae/minsuk-kang-profile.webp). I'm doing [these](https://kangminsuk.com/now/) right now.
 
