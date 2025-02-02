@@ -44,4 +44,4 @@ li {
   <li><a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold;">후원</a></li>
 </details>
 
-*이 웹사이트는 [키보드 단축기](https://kangminsuk.com/keyboard-navigation/)를 지원합니다.*
+*이 웹사이트는 [키보드 단축기](https://kangminsuk.com/keyboard-navigation/)를 지원합니다.*
