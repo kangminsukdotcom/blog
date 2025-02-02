@@ -1,6 +1,5 @@
 ---
 title: Keyboard Navigation
-type: page
 ---
 
 Yes, this website supports keyboard shortcuts.
