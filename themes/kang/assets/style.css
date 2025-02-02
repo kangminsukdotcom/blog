@@ -40,9 +40,9 @@ body {
   margin: 3rem auto;
   max-width: 40rem;
   line-height: 1.7;
-  font-size: 1.15rem;
+  font-size: 18px;
   font-family: system-ui, sans-serif;
-  color: #111827;
+  color: #2e3440;
   text-align: left;
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -80,7 +80,7 @@ a:hover {
 nav a {
   margin-right: 10px;
   color: blue;
-  font-size: 1.15rem;
+  font-size: 18px;
   max-width: 100%;
 }
 
