@@ -19,12 +19,12 @@ Yes, this website supports keyboard shortcuts.
 - E: English
 - K: Korean
 - N or ⇧+N: Navigation
-- >← or →: Prev or next post
+- ← or →: Prev or next post
 
 - H: 홈
 - W: 글
 - E: 영어
-- K: 한국어
+- K: 한국어
 - N or ⇧+N: 페이지 내 이동
-- >← or →: 이전, 다음 글
+- ← or →: 이전, 다음 글
 ```
