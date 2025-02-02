@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
     <h1>(A Bit Serious) Parent Interview</h1>
-    <p> *Send this page to your parent. The content you write will not be saved anywhere. When you click ‘Show Results,’ you can copy all the questions and answers.</p>
+    <p>Send this page to your parent. The answers will not be saved anywhere. Click “Show Results” to copy all your answers.</p>
     <br><hr>
     <p><small><em>My father passed away two years ago. Here are some questions I wish I had asked him:</small></em></p>
     <style>

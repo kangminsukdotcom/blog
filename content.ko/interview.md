@@ -34,7 +34,7 @@ type: page
         button {
             font-size: 14px;
         }
-         time {
+         time, footer {
             display: none;
         }
     </style>

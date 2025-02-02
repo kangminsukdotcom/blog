@@ -169,7 +169,7 @@ type: page
     button:hover {
         background-color: #E91E63;
     }
-    time {
+    time, footer {
         display: none;
     }
 </style>
