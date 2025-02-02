@@ -42,6 +42,5 @@ li {
   <li><a href="https://kangminsuk.com/ko/interview/">(조금은 진지한) 부모님 인터뷰</a></li>
   <li><a href="https://kangminsuk.com/ko/conversation/">(조금은 진지한) 질문 생성기</a></li>
   <li><a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold;">후원</a></li>
+  <li>*이 웹사이트는 [키보드 단축기](https://kangminsuk.com/keyboard-navigation/)를 지원합니다.*</li>
 </details>
-
-*이 웹사이트는 [키보드 단축기](https://kangminsuk.com/keyboard-navigation/)를 지원합니다.*

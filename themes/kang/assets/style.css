@@ -83,6 +83,10 @@ nav a {
   max-width: 100%;
 }
 
+summary {
+  font-weight: 600;
+}
+
 mark {
   background-color: #fef4c3;
   font-family: Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', 'Nimbus Sans Narrow', sans-serif-condensed, sans-serif;
