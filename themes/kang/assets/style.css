@@ -79,9 +79,13 @@ a:hover {
 
 nav a {
   margin-right: 10px;
-  color: blue;
   font-size: 18px;
   max-width: 100%;
+}
+
+mark {
+  background-color: #fef4c3;
+  font-family: Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', 'Nimbus Sans Narrow', sans-serif-condensed, sans-serif;
 }
 
 textarea {
