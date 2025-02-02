@@ -28,6 +28,8 @@ li {
 
 </h2>
 
+---
+
 <details>
   <summary>창작</summary>
     <li><a href="https://jagunbae.com/">작은배</a></li>

@@ -28,6 +28,8 @@ Currently in Jeju, Korea. I look like [this](https://bear-images.sfo2.cdn.digita
 
 </h2>
 
+---
+
 <details>
 <summary>Creations</summary>
 <li><a href="https://en.jagunbae.com">Jagunbae</a></li>
