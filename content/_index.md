@@ -41,6 +41,6 @@ Working for [Jagunbae](https://en.jagunbae.com) in Jeju, Korea. I look like [thi
   <li><a href="https://github.com/kangminsukdotcom/blog">Source code</a></li>
   <li><a href="https://kangminsuk.com/interview/">(A Bit Serious) Parent Interview</a></li>
   <li><a href="https://kangminsuk.com/conversation/">(A Bit Serious) Question Generator</a></li>
-  <li><a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold;">Donate</a></li>
+  <li><a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold; margin: 0 -0.4em; padding: 0.1em 0.4em; border-radius: 0.8em 0.3em; -webkit-box-decoration-break: clone; box-decoration-break: clone;">Donate</a></li>
   <li><em>And yes, this website has <a href="https://kangminsuk.com/keyboard-navigation/">keyboard shortcuts</a>.</em></li>
 </details>

@@ -41,6 +41,6 @@ li {
   <li><a href="https://github.com/kangminsukdotcom/blog">소스 코드</a></li>
   <li><a href="https://kangminsuk.com/ko/interview/">(조금은 진지한) 부모님 인터뷰</a></li>
   <li><a href="https://kangminsuk.com/ko/conversation/">(조금은 진지한) 질문 생성기</a></li>
-  <li><a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold;">후원</a></li>
+  <li><a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold; margin: 0 -0.4em; padding: 0.1em 0.4em; border-radius: 0.8em 0.3em; -webkit-box-decoration-break: clone; box-decoration-break: clone;">후원</a></li>
   <li><em>이 웹사이트는 <a href="https://kangminsuk.com/keyboard-navigation/">키보드 단축기</a>를 지원합니다.</em></li>
 </details>
