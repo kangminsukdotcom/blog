@@ -38,8 +38,8 @@ li {
 <summary>더보기</summary>
   <li><a href="https://letterbird.co/kang">이메일</a> 보내면 이틀 안에 답장합니다</li>
   <li><a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> 혹은 <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a>로 구독할 수 있습니다</li>
-  <li><a href="https://kangminsuk.com/my-apps/">웹사이트 & 앱 창작도 합니다</a></li>
-  <li><a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold; margin: 0 -0.4em; padding: 0.1em 0.4em; border-radius: 0.8em 0.3em; -webkit-box-decoration-break: clone; box-decoration-break: clone;">이 웹사이트가 도움이 됐다면, Ko-fi에서 커피 한 잔 사줄 수 있습니다</a></li>
-  <li><a href="https://github.com/kangminsukdotcom/blog">이 웹사이트의 소스 코드는 Github에 있습니다</a></li>
+  <li><a href="https://kangminsuk.com/my-apps/">웹사이트 & 앱 창작</a>도 합니다</li>
+  <li>이 웹사이트가 도움이 됐다면, <a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold; margin: 0 -0.4em; padding: 0.1em 0.4em; border-radius: 0.8em 0.3em; -webkit-box-decoration-break: clone; box-decoration-break: clone;">Ko-fi에서 커피 한 잔</a> 사줄 수 있습니다</li>
+  <li>이 웹사이트의 소스 코드는 <a href="https://github.com/kangminsukdotcom/blog">Github에 있습니다</a></li>
   <li><em>이 웹사이트는 <a href="https://kangminsuk.com/keyboard-navigation/">키보드 단축기</a>를 지원합니다.</em></li>
 </details>
