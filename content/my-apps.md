@@ -4,6 +4,12 @@ type: page
 description: Yes, I like expressing myself through code. 
 ---
 
+<style>
+time, footer {
+display: none;
+}
+</style>
+
 ## 한국어
 - [작은배 웹사이트](https://jagunbae.com)
 - [(조금은 진지한) 부모님 인터뷰](https://kangminsuk.com/ko/interview/)
