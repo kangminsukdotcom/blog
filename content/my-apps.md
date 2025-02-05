@@ -1,0 +1,23 @@
+---
+title: My indie apps & websites
+type: page
+description: Yes, I like expressing myself through code. 
+---
+
+## 한국어
+- [작은배 웹사이트](https://jagunbae.com)
+- [(조금은 진지한) 부모님 인터뷰](https://kangminsuk.com/ko/interview/)
+- [(조금은 진지한) 질문 생성기](https://kangminsuk.com/ko/conversation/)
+- [커피가게 우리는 비공식 팬클럽 '저희는'](https://wooreenoon.bearblog.dev)
+- [숨 쉴 공간](https://room.kangminsuk.com)
+- [말머리씨](https://kangminsuk.com/mal/)
+- [라인 아이디 추가 안 한다고](https://texts.bearblog.dev)
+- [블로그 만세!](https://blogmansae.netlify.app)
+- [치지레이지 리뷰 모음](https://reviews.cheesylazy.com)
+- [질문 있는 사람들](https://questions.jagunbae.com)
+## English
+- [(A Bit Serious) Question Generator](https://kangminsuk.com/blog/my-tools/)
+- [(A Bit Serious) Parent Interview](https://kangminsuk.com/interview/)
+- [A room to breathe](https://room.kangminsuk.com)
+- [Infamous Interview Questions](https://infamous-interview-questions.vercel.app)
+- [I don’t know](https://idk.kangminsuk.com)
