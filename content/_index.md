@@ -36,11 +36,10 @@ Working for [Jagunbae](https://en.jagunbae.com) in Jeju, Korea. I look like [thi
 
 <details>
 <summary>More</summary>
-  <li><a href="https://letterbird.co/kang">Email</a></li>
-  <li><a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> or <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a></li>
-  <li><a href="https://github.com/kangminsukdotcom/blog">Source code</a></li>
-  <li><a href="https://kangminsuk.com/interview/">(A Bit Serious) Parent Interview</a></li>
-  <li><a href="https://kangminsuk.com/conversation/">(A Bit Serious) Question Generator</a></li>
-  <li><a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold; margin: 0 -0.4em; padding: 0.1em 0.4em; border-radius: 0.8em 0.3em; -webkit-box-decoration-break: clone; box-decoration-break: clone;">Donate</a></li>
-  <li><em>And yes, this website has <a href="https://kangminsuk.com/keyboard-navigation/">keyboard shortcuts</a>.</em></li>
+  <li><a href="https://letterbird.co/kang">Email me</a></li>
+  <li>Subscribe via <a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> or <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a></li>
+  <li><a href="https://github.com/kangminsukdotcom/blog">Source code of this website</a></li>
+  <li><a href="https://kangminsuk.com/my-apps/">My apps & websites</a></li>
+  <li><a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold; margin: 0 -0.4em; padding: 0.1em 0.4em; border-radius: 0.8em 0.3em; -webkit-box-decoration-break: clone; box-decoration-break: clone;">Donate to support my work</a></li>
+  <li><em>And yes, this website has <a href="https://kangminsuk.com/keyboard-navigation/">keyboard shortcuts</a></em></li>
 </details>
