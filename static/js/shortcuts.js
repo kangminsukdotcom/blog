@@ -45,8 +45,8 @@ document.addEventListener("keydown", function (e) {
       e.preventDefault();
       window.location.href = "/";
       break;
-    case "w":
-    case "ㅈ":
+    case "b":
+    case "ㅠ":
       e.preventDefault();
       // Redirect to '/ko/blog/' if the current path starts with '/ko'
       const prefix = currentPath.startsWith("/ko") ? "/ko" : "";
