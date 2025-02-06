@@ -43,7 +43,8 @@ document.addEventListener("keydown", function (e) {
     case "h":
     case "ㅗ":
       e.preventDefault();
-      window.location.href = "/";
+      // If already on the Korean domain (/ko), redirect to /ko; otherwise, redirect to "/"
+      window.location.href = currentPath.startsWith("/ko") ? "/ko" : "/";
       break;
     case "b":
     case "ㅠ":
