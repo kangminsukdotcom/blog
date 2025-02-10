@@ -3,8 +3,6 @@ html {
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: none;
-  background: rgb(255, 240, 240);
-  background-image: url('images/natural-paper.webp');
 }
 
 :lang(ko) {
@@ -51,6 +49,8 @@ body {
   word-wrap: break-word;
   overflow-wrap: break-word;
   text-rendering: optimizeLegibility;
+  background-image: url('images/natural-paper.webp');
+  padding: 1em;
 }
 
 p.byline {
