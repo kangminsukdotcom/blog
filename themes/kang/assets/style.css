@@ -3,7 +3,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: none;
-  background-image: url('images/natural-paper.webp');
+  background-color: #EEEDED;
 }
 
 :lang(ko) {
@@ -50,7 +50,8 @@ body {
   word-wrap: break-word;
   overflow-wrap: break-word;
   text-rendering: optimizeLegibility;
-  background-color: #EEEDED;
+  background-image: url('images/natural-paper.webp');
+  background-repeat: repeat;
   padding: 1em;
 }
 
