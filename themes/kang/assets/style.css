@@ -40,7 +40,7 @@ h6 {
 
 body {
   margin: 3rem auto;
-  max-width: 36rem;
+  max-width: 52ch;
   line-height: 1.7;
   font-size: 1.1em;
   font-family: system-ui, sans-serif;
@@ -82,7 +82,6 @@ a:hover {
 
 nav a {
   margin-right: 10px;
-  font-size: 1.1em;
   max-width: 100%;
 }
 
