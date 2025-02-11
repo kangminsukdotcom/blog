@@ -27,9 +27,6 @@ h6 {
 
 
 :lang(en) {
-  body {
-    text-wrap: pretty;
-  }
   h1.title {
     font-family: 'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive;
   }
