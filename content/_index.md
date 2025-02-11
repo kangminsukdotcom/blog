@@ -36,10 +36,10 @@ Working for [Jagunbae](https://en.jagunbae.com) in Jeju, Korea. I look like [thi
 
 <details>
 <summary>More</summary>
-  <li><a href="https://letterbird.co/kang">Exchange emails</a>(humans only)</li>
+  <li><a href="https://letterbird.co/kang">Email</a></li>
   <li>Subscribe via <a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> or <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a></li>
-  <li><a href="https://kangminsuk.com/my-apps/">Browse my non-famous apps & websites</a></li>
-  <li><a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold; margin: 0 -0.4em; padding: 0.1em 0.4em; border-radius: 0.8em 0.3em; -webkit-box-decoration-break: clone; box-decoration-break: clone;">Spend your hard-earned money to support my work</a></li>
-  <li>Check out the messy code of this website on <a href="https://github.com/kangminsukdotcom/blog">GitHub</a></li>
+  <li><a href="https://kangminsuk.com/my-apps/">Browse my apps & websites</a></li>
+  <li><a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold; margin: 0 -0.4em; padding: 0.1em 0.4em; border-radius: 0.8em 0.3em; -webkit-box-decoration-break: clone; box-decoration-break: clone;">Support my work</a></li>
+  <li>The messy code of this website is on <a href="https://github.com/kangminsukdotcom/blog">GitHub</a></li>
   <li><em>And yes, this website has <a href="https://kangminsuk.com/keyboard-navigation/">keyboard shortcuts</a></em></li>
 </details>
