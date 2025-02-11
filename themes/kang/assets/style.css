@@ -2,8 +2,7 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
-  -webkit-text-size-adjust: none;
-  background-image: url('images/natural-paper.webp');
+  background: #fff;
 }
 
 :lang(ko) {
@@ -47,10 +46,8 @@ body {
   font-family: system-ui, sans-serif;
   color: #2e3440;
   text-align: left;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
   background-image: url('images/natural-paper.webp');
-  padding: 1em;
+  padding: 2em;
   box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.2);
   border-radius: 3px;
 }
