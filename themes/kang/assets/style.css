@@ -85,7 +85,6 @@ summary {
 }
 
 mark {
-  margin: 8px;
   padding-right: 6px;
   padding-left: 6px;
   padding-top: 2px;
@@ -231,7 +230,7 @@ figcaption > p {
 
 ::selection {
   background-color: tomato;
-  color: white;
+  background-image: linear-gradient(to right, #FFD9DD 10%, #FBE2FF 100%);
 }
 
 .postcard-container {
