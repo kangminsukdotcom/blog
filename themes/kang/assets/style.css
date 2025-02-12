@@ -36,6 +36,7 @@ h6 {
 }
 
 body {
+  color: 
   margin: 3rem auto;
   max-width: 52ch;
   line-height: 1.6;
@@ -85,7 +86,8 @@ summary {
 }
 
 mark {
-  background-color: #fef4c3;
+  background-color: tomato;
+  color: white;
   margin: 0 -0.4em;
   padding: 0.1em 0.4em;
   border-radius: 0.8em 0.3em;
@@ -226,8 +228,8 @@ figcaption > p {
 }
 
 ::selection {
-  color: #444;
-  background-color: #fef4c3;
+  background-color: tomato;
+  color: white;
 }
 
 .postcard-container {
