@@ -229,8 +229,7 @@ figcaption > p {
 }
 
 ::selection {
-  background-color: tomato;
-  background-image: linear-gradient(to right, #FFD9DD 10%, #FBE2FF 100%);
+  background-color: #fcdff1;
 }
 
 .postcard-container {
