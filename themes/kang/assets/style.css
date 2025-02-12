@@ -85,7 +85,7 @@ summary {
 }
 
 mark {
-  background-color: tomato;
+  background: linear-gradient(-100deg, hsla(9, 100%, 64%, 0.5), hsla(9, 100%, 64%, 0.9) 95%, hsla(9, 100%, 64%, 0.3));
   color: white;
   margin: 0 -0.4em;
   padding: 0.1em 0.4em;
