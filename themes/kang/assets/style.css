@@ -58,7 +58,6 @@ h1.title {
 
 a {
   text-decoration: none;
-  color: #2563EB;
 }
 
 a:hover {
@@ -163,10 +162,7 @@ pre code {
 }
 
 blockquote {
-  border-left: 2px solid #3D3636; /* Updated border color for contrast */
-  color: #2D0000; /* Darker font color for contrast */
-  padding-left: 1em;
-  margin-left: 0;
+  font-style: italic;
 }
 
 .helptext {

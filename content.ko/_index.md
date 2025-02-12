@@ -36,7 +36,7 @@ li {
 
 <details>
 <summary>더보기</summary>
-  <li><a href="https://letterbird.co/kang">이메일</a> 받으면 이틀 안에 답장합니다</li>
+  <li><a href="https://letterbird.co/kang">이메일</a>은 이틀 안에 답장합니다</li>
   <li><a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> 혹은 <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a>로 구독할 수 있습니다</li>
   <li><a href="https://kangminsuk.com/my-apps/">웹사이트 & 앱</a>도 만듭니다</li>
   <li><a href="https://ko-fi.com/kangminsuk" style="background: #b0c4de; color: #202122; font-weight: bold; margin: 0 -0.4em; padding: 0.1em 0.4em; border-radius: 0.8em 0.3em; -webkit-box-decoration-break: clone; box-decoration-break: clone;">Ko-fi에서 커피 한 잔 사줄 수 있습니다</a></li>
