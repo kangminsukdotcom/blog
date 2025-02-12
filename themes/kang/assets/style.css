@@ -42,7 +42,7 @@ body {
   font-size: 1.1em;
   font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
   text-align: left;
-  background-image: url('images/natural-paper.webp');
+  background: #F4F6FF;
   padding: 2em;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
   border-radius: 3px;
