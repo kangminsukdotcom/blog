@@ -44,7 +44,7 @@ body {
   text-align: left;
   background-image: url('images/natural-paper.webp');
   padding: 2em;
-  box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.2);
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
   border-radius: 3px;
 }
 
