@@ -57,7 +57,7 @@ h1.title {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
   color: #333;
 }
 
@@ -77,6 +77,7 @@ a:hover {
 }
 
 nav a {
+  text-decoration: none;
   margin-right: 10px;
   max-width: 100%;
 }
@@ -88,10 +89,7 @@ summary {
 mark {
   padding: 2px 6px;
   border-radius: 4px;
-  background-color: #ddd; /* Subtle light gray highlight */
-  /* Removed gradient and bright colors for an e-ink look */
-  -webkit-box-decoration-break: clone;
-  box-decoration-break: clone;
+  background-color: #ddd
 }
 
 textarea {
@@ -225,7 +223,7 @@ figcaption > p {
 }
 
 ::selection {
-  background-color: #ccc;
+  background-color: #ddd;
 }
 
 .postcard-container {
