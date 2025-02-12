@@ -172,7 +172,6 @@ blockquote {
   font-size: small;
 }
 
-/* blog posts */
 ul.blog-posts {
   list-style-type: none;
   padding: unset;
@@ -184,6 +183,10 @@ ul.blog-posts li {
 
 ul.blog-posts li span {
   flex: 0 0 8.125em;
+}
+
+ul.blog-posts a {
+  text-decoration: none;
 }
 
 a.blog-tags {
