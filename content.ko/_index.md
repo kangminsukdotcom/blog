@@ -36,6 +36,7 @@ li {
 
 <details>
 <summary>더보기</summary>
+
   <li><a href="https://letterbird.co/kang">이메일</a>은 이틀 안에 답장합니다</li>
   <li><a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> 혹은 <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a>로 구독할 수 있습니다</li>
   <li><a href="https://kangminsuk.com/my-apps/">웹사이트 & 앱</a>도 만듭니다</li>
