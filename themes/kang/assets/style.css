@@ -85,11 +85,14 @@ summary {
 }
 
 mark {
-  background: linear-gradient(-100deg, hsla(9, 100%, 64%, 0.5), hsla(9, 100%, 64%, 0.9) 95%, hsla(9, 100%, 64%, 0.3));
-  color: white;
-  margin: 0 -0.4em;
-  padding: 0.1em 0.4em;
-  border-radius: 0.8em 0.3em;
+  margin: 8px;
+  padding-right: 6px;
+  padding-left: 6px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  border-radius: 4px;
+  background-color: tomato;
+  background-image: linear-gradient(to right, #FFD9DD 10%, #FBE2FF 100%);
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
 }
