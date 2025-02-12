@@ -2,7 +2,7 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
-  background: #fff;
+  background: #faf9f4;
 }
 
 :lang(ko) {
@@ -13,7 +13,7 @@ html {
 
 time {
   font-style: normal;
-  color: #3d3636;
+  color: #444;
 }
 
 h1,
@@ -24,7 +24,6 @@ h5,
 h6 {
   font-weight: bold;
 }
-
 
 :lang(en) {
   h1.title {
@@ -42,7 +41,8 @@ body {
   font-size: 1.1em;
   font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
   text-align: left;
-  background: #F4F6FF;
+  background: #F5F5DC;
+  color: #333;
   padding: 2em;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
   border-radius: 3px;
@@ -58,6 +58,7 @@ h1.title {
 
 a {
   text-decoration: none;
+  color: #333;
 }
 
 a:hover {
@@ -85,41 +86,38 @@ summary {
 }
 
 mark {
-  padding-right: 6px;
-  padding-left: 6px;
-  padding-top: 2px;
-  padding-bottom: 2px;
+  padding: 2px 6px;
   border-radius: 4px;
-  background-color: tomato;
-  background-image: linear-gradient(to right, #FFD9DD 10%, #FBE2FF 100%);
+  background-color: #ddd; /* Subtle light gray highlight */
+  /* Removed gradient and bright colors for an e-ink look */
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
 }
 
 textarea {
-  background-color: #f5f5f5; /* Light background color */
-  color: #444; /* Darker font color for contrast */
+  background-color: #FBF8F2; /* Slightly lighter than the body */
+  color: #333;
   width: 100%;
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 input {
-  background-color: #f5f5f5; /* Light background color */
-  color: #444; /* Darker font color for contrast */
+  background-color: #FBF8F2;
+  color: #333;
   font-size: 1em;
   font-family: monospace;
 }
 
 table {
   width: 100%;
+  color: #333;
 }
 
 table,
 th,
 td {
-  border: 1px solid;
+  border: 1px solid #999; /* Neutral gray borders */
   border-collapse: collapse;
-  border-color: #999; /* Updated border color for contrast */
   padding: 0.3125em;
 }
 
@@ -128,30 +126,28 @@ img {
   object-fit: cover;
   max-width: 100%;
   display: block;
-  margin: 0 auto;
+  margin: 0 auto 1em;
   image-rendering: pixelated;
-  margin-bottom: 1em;
+  filter: grayscale(100%);
 }
 
 @media only screen and (max-width: 767px) {
-body {
-  margin: 0 1rem;
-}
-nav {
-  margin-top: 1rem;
-}
-a.prev-post {
-  font-size: 1em;
-}
-a.next-post {
-  font-size: 1em;
-}
+  body {
+    margin: 0 1rem;
+  }
+  nav {
+    margin-top: 1rem;
+  }
+  a.prev-post,
+  a.next-post {
+    font-size: 1em;
+  }
 }
 
 code {
   padding: 0.125em 0.3125em;
-  color: #4c4f69; /* Updated code font color for contrast */
-  background-color: #fff; /* Light background color */
+  color: #333;
+  background-color: #FBF8F2;
   font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
 }
 
@@ -160,8 +156,8 @@ pre code {
   padding: 1.25em;
   white-space: pre-wrap;
   overflow-x: auto;
-  border: 1px solid #999; /* Updated border color for contrast */
-  border-radius: 4px; /* Added border radius */
+  border: 1px solid #999;
+  border-radius: 4px;
 }
 
 blockquote {
@@ -169,12 +165,12 @@ blockquote {
 }
 
 .helptext {
-  color: #777;
+  color: #555; /* Slightly darker for better readability */
   font-size: small;
 }
 
 .errorlist {
-  color: #cc3300; /* Updated error color for contrast */
+  color: #800; /* Dark maroon (appears as dark gray in grayscale) */
   font-size: small;
 }
 
@@ -229,7 +225,7 @@ figcaption > p {
 }
 
 ::selection {
-  background-color: #fcdff1;
+  background-color: #ccc;
 }
 
 .postcard-container {
@@ -270,7 +266,7 @@ figcaption > p {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #F5F5F5; /* Light background color */
+  background-color: #F5F5DC;
 }
 
 textarea#message {
@@ -281,22 +277,22 @@ textarea#message {
   padding: 10px;
   font-size: 16px;
   text-align: center;
-  background: rgba(255, 255, 255, 0.8);
-  color: black;
+  background: white;
+  color: #333;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-family: system-ui, sans-serif;;
+  font-family: system-ui, sans-serif;
 }
 
 textarea#letter {
   width: 100%;
   height: 200px;
   font-size: 16px;
-  font-family: system-ui, sans-serif;;
-  background: rgba(255, 255, 255, 0.8);
-  color: #444;
+  font-family: system-ui, sans-serif;
+  background: rgba(245,245,220,0.8);
+  color: #333;
 }
 
 textarea#message:focus {
@@ -327,9 +323,9 @@ button {
   border: 0;
   outline: 0;
   cursor: pointer;
-  color: rgb(60, 66, 87);
-  background-color: rgb(255, 255, 255);
-  box-shadow: rgb(0 0 0 / 0%) 0px 0px 0px
+  color: #333;
+  background-color: #F5F5DC;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px;
 }
 
 main {
@@ -341,14 +337,9 @@ nav.post-navigation {
   justify-content: space-between;
 }
 
-a.prev-post {
-  text-align: left;
-  text-decoration: none;
-  color: #3D3636;
-}
-
+a.prev-post,
 a.next-post {
   text-align: left;
   text-decoration: none;
-  color: #3D3636;
+  color: #444;
 }
