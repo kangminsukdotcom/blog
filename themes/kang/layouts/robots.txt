@@ -1,28 +1,4 @@
 User-agent: *
 Disallow: /
 
-User-agent: Googlebot
-Disallow:
-
-User-agent: Bingbot
-Disallow:
-
-User-agent: Baiduspider
-Disallow:
-
-User-agent: Yandex
-Disallow:
-
-User-agent: DuckDuckBot
-Disallow:
-
-User-agent: Slurp # Yahoo
-Disallow:
-
-User-agent: Yeti
-Disallow:
-
-User-agent: DAUM
-Disallow:
-
 Sitemap: {{ "sitemap.xml" | absURL }}
