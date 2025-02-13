@@ -42,7 +42,7 @@ body {
   font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
   text-align: left;
   background: #ededed;
-  color: #333;
+  color: #343634;
   padding: 2em;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
   border-radius: 3px;
@@ -59,7 +59,7 @@ h1.title {
 a {
   text-decoration: underline;
   text-underline-offset: 0.1em;
-  color: #333;
+  color: #343634;
 }
 
 a:hover {
@@ -91,26 +91,27 @@ summary {
 mark {
   padding: 2px 6px;
   border-radius: 4px;
-  background-color: beige;
+  background-color: #5d5d5d;
+  color: white;
 }
 
 textarea {
   background-color: #FBF8F2; /* Slightly lighter than the body */
-  color: #333;
+  color: #343634;
   width: 100%;
   font-size: 1.1em;
 }
 
 input {
   background-color: #FBF8F2;
-  color: #333;
+  color: #343634;
   font-size: 1em;
   font-family: monospace;
 }
 
 table {
   width: 100%;
-  color: #333;
+  color: #343634;
 }
 
 table,
@@ -146,7 +147,7 @@ img {
 
 code {
   padding: 0.125em 0.3125em;
-  color: #333;
+  color: #343634;
   background-color: #FBF8F2;
   font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
 }
@@ -327,7 +328,7 @@ button {
   border: 0;
   outline: 0;
   cursor: pointer;
-  color: #333;
+  color: #343634;
   background-color: #F5F5DC;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px;
 }
