@@ -58,6 +58,7 @@ h1.title {
 
 a {
   text-decoration: underline;
+  text-underline-offset: 0.1em;
   color: #333;
 }
 
