@@ -20,11 +20,7 @@ li {
 }
 </style>
 
-<h2>
-
 <mark>Minsuk Kang</mark>
-
-</h2>
 
 <details>
 <summary>About</summary>

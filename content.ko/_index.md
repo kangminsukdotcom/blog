@@ -20,11 +20,7 @@ li {
 }
 </style>
 
-<h2>
-
 <mark>강민석</mark>
-
-</h2>
 
 <details>
 <summary>소개</summary>

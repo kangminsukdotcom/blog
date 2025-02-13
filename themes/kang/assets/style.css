@@ -27,10 +27,10 @@ h6 {
 
 :lang(en) {
   h1.title {
-    font-family: 'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive;
+    font-family: Georgia, serif;
   }
   mark {
-    font-family: 'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive;
+    font-family: Georgia, serif;
   }
 }
 
