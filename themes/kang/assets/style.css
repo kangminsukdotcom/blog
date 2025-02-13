@@ -2,7 +2,7 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
-  background: #faf9f4;
+  background: #fafafa;
 }
 
 :lang(ko) {
@@ -91,7 +91,7 @@ summary {
 mark {
   padding: 2px 6px;
   border-radius: 4px;
-  background-color: #ddd
+  background-color: beige;
 }
 
 textarea {
