@@ -95,6 +95,10 @@ mark {
   color: white;
 }
 
+mark:hover {
+  font-style: italic;
+}
+
 textarea {
   background-color: #FBF8F2; /* Slightly lighter than the body */
   color: #343634;
