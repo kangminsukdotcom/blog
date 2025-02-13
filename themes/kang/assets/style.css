@@ -137,9 +137,10 @@ img {
 
 @media only screen and (max-width: 767px) {
   body {
-    background: #ededed;
+    background: #fafafa;
     font-size: 1em;
     margin: 0 1rem;
+    box-shadow: none;
   }
   nav {
     font-size: 1em;
