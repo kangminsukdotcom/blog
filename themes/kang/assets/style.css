@@ -191,6 +191,7 @@ ul.blog-posts a {
 }
 
 a.blog-tags {
+  text-decoration: none;
   margin-right: 3px;
 }
 
