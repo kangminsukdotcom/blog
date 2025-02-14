@@ -139,7 +139,7 @@ img {
   body {
     background: #fafafa;
     font-size: 1em;
-    margin: 0 1rem;
+    padding: 0 1rem;
     box-shadow: none;
   }
   nav {
