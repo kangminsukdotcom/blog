@@ -63,7 +63,7 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: underline !important;
   font-style: italic;
 }
 
