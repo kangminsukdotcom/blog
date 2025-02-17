@@ -1,7 +1,7 @@
 ---
 title: Uncle’s Funeral
 date: 2025-02-17
-description:
+description: Congressman Lee sent us a flag.
 tags: [fiction]
 ---
 
