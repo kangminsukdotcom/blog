@@ -1,7 +1,7 @@
 ---
 title: 강민석닷컴을 한 페이지에 욱여넣었다
 date: 2025-02-18
-tags: [website]
+tags: [웹사이트]
 description: Hugo 블로그에 있는 모든 텍스트를 한 페이지로 보여주기.
 ---
 
