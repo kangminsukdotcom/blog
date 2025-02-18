@@ -17,7 +17,7 @@
     img {
       display: none !important;
     }
-    /* Make all text inline with no extra spacing */
+    /* Minimal styling: all text inline with minimal spacing */
     #text-container, #text-container * {
       margin: 0;
       padding: 0;
@@ -27,14 +27,21 @@
     #text-container {
       padding: 0;
     }
+    article {
+      display: block;
+      margin-bottom: 1em;
+    }
+    h2 {
+      font-size: 1em;
+      margin-bottom: 0.25em;
+    }
   </style>
 </head>
 <body>
   <div id="text-container">
-    {{/* Initialize empty slices in Scratch for English and Korean pages */}}
+    {{/* Build two slices for English and Korean pages using Scratch */}}
     {{ $.Scratch.Set "eng" (slice) }}
     {{ $.Scratch.Set "ko" (slice) }}
-
     {{ range .Site.AllPages }}
       {{ $page := . }}
       {{ with $page.File }}
@@ -48,15 +55,24 @@
         {{ end }}
       {{ end }}
     {{ end }}
-
-    {{/* Merge the two slices */}}
     {{ $eng := $.Scratch.Get "eng" }}
     {{ $ko := $.Scratch.Get "ko" }}
     {{ $pages := union $eng $ko }}
     {{ range $pages }}
-    {{ .Plain 
-        | replace "\n" ""
-    }}
+      <article>
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <div>
+          {{/* 
+              Convert markdown link syntax [text](url) into HTML links 
+              using replaceRE. This only converts links and leaves the rest 
+              of the Markdown intact.
+          */}}
+          {{ .RawContent 
+            | replaceRE "\\[([^\\]]+)\\]\\(([^\\)]+)\\)" "<a href=\"$2\">$1</a>" 
+            | safeHTML
+         }}
+        </div>
+      </article>
     {{ end }}
   </div>
 </body>
