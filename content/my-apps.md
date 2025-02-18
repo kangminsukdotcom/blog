@@ -11,6 +11,7 @@ display: none;
 </style>
 
 ## 한국어
+- [강민석닷컴, 한 페이지에 욱여넣기](https://kangminsuk.com/all-texts/)
 - [작은배 웹사이트](https://jagunbae.com)
 - [(조금은 진지한) 부모님 인터뷰](https://kangminsuk.com/ko/interview/)
 - [(조금은 진지한) 질문 생성기](https://kangminsuk.com/ko/conversation/)
@@ -23,6 +24,7 @@ display: none;
 - [치지레이지 리뷰 모음](https://reviews.cheesylazy.com)
 - [질문 있는 사람들](https://questions.jagunbae.com)
 ## English
+- [All texts of kangminsuk.com](https://kangminsuk.com/all-texts/)
 - [(A Bit Serious) Parent Interview](https://kangminsuk.com/interview/)
 - [(A Bit Serious) Question Generator](https://kangminsuk.com/blog/my-tools/)
 - [A room to breathe](https://room.kangminsuk.com)
