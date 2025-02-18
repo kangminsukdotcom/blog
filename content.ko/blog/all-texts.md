@@ -7,7 +7,7 @@ description: Hugo 블로그에 있는 모든 텍스트를 한 페이지로 보�
 
 내가 여태까지 쓴 글을 [한 페이지](https://kangminsuk.com/all-texts/)로 모았다.
 
-Andrej Karpathy가 ChatGPT의 기본 원리를 설명을 하는 [영상](https://www.youtube.com/watch?v=7xTGNNLPyMI&t=482s)을 보다가, HTML 페이지에 텍스트만 가득 차 있는 모습을 보고 순간 영감을 받았다. *강민석닷컴에 있는 모든 텍스트를 한 페이지에 꽉 채워 넣으면 개멋있겠다.*
+Andrej Karpathy가 ChatGPT의 기본 원리를 설명을 하는 [영상](https://www.youtube.com/watch?v=7xTGNNLPyMI&t=482s)을 보다가, HTML 페이지에 텍스트만 가득 차 있는 모습을 보고 순간 영감을 받았다. *오, 강민석닷컴에 있는 모든 텍스트를 한 페이지에 꽉 채워 넣으면 개멋있겠다.*
 
 ![영감을 받은 영상](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kangko/022x.webp)
 
