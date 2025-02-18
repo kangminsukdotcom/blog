@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ .Title }}</title>
+  <style>
+    html, body {
+      font-size: 10px;
+      margin: 0;
+      padding: 0;
+      font-family: system-ui, sans-serif;
+      overflow-x: hidden;
+      text-align: left;
+    }
+    /* Hide images */
+    img {
+      display: none !important;
+    }
+    /* Make all text inline with no extra spacing */
+    #text-container, #text-container * {
+      margin: 0;
+      padding: 0;
+      line-height: 1;
+      display: inline;
+    }
+    #text-container {
+      padding: 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="text-container">
+    {{/* Initialize empty slices in Scratch for English and Korean pages */}}
+    {{ $.Scratch.Set "eng" (slice) }}
+    {{ $.Scratch.Set "ko" (slice) }}
+
+    {{ range .Site.AllPages }}
+      {{ $page := . }}
+      {{ with $page.File }}
+        {{ if hasPrefix .Path "blog/" }}
+          {{ $temp := $.Scratch.Get "eng" | append $page }}
+          {{ $.Scratch.Set "eng" $temp }}
+        {{ end }}
+        {{ if hasPrefix .Path "content.ko/blog/" }}
+          {{ $temp := $.Scratch.Get "ko" | append $page }}
+          {{ $.Scratch.Set "ko" $temp }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    {{/* Merge the two slices */}}
+    {{ $eng := $.Scratch.Get "eng" }}
+    {{ $ko := $.Scratch.Get "ko" }}
+    {{ $pages := union $eng $ko }}
+    {{ range $pages }}
+    {{ .Plain 
+        | replace "\n" ""
+    }}
+    {{ end }}
+  </div>
+</body>
+</html>

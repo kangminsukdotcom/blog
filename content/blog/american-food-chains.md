@@ -22,7 +22,7 @@ Why? Let’s first check what happened when these restaurants opened their first
 
 On July 22nd, 2016, Shake Shack opened its doors in Gangnam district of Seoul. The city’s excitement was through the roof; there were even people waiting the night before(just like how people used to sleep in front of an Apple Store).[^2]
 
-The line did not become any shorter for months; 4,000~5,000 customers had to wait at least an hour to experience the shack. As a result, in the opening year, Shake Shack Gangnam [reported](http://koreabizwire.com/shake-shack-burger-in-s-korea-tops-in-global-sales/76398) daily selling of 3,000~3,500 burgers, becoming the largest revenue-generator among 120 Shake Shack branches around the world.
+The line did not become any shorter for months; 4,000-5,000 customers had to wait at least an hour to experience the shack. As a result, in the opening year, Shake Shack Gangnam [reported](http://koreabizwire.com/shake-shack-burger-in-s-korea-tops-in-global-sales/76398) daily selling of 3,000-3,500 burgers, becoming the largest revenue-generator among 120 Shake Shack branches around the world.
 
 ### Eggslut
 
