@@ -181,7 +181,7 @@ Or...
 hr {
   border: none; /* Remove the default border */
   height: 1px; /* Set the height of the line */
-  background-color: white; /* Set the color of the line */
+  background-color: darkgray; /* Set the color of the line */
   margin-top: 20px; /* Set the top margin */
   margin-bottom: 20px; /* Set the bottom margin */
 }
