@@ -146,6 +146,12 @@ img {
   a.next-post {
     font-size: 1em;
   }
+  code {
+    font-size: 1em;
+  }
+  blockquote {
+    font-size: 1em;
+  }
 }
 
 code {
