@@ -11,6 +11,6 @@ The flag was visible from a kilometer away. The visitors all took a peek at the 
 
 When the flag got delivered by an old man in tracksuit, the adults were busy rearranging the condolence flowers like stage props. The flowers from college presidents, CEOs, and politicians had to stand in the first row.
 
-Even in death, the funeral was one last chance to prove my uncle's life was worth living. The visitors were expected to be surprised like "Oh, would you look at that - Look at the names, he must have been somebody."
+The funeral was one last chance to prove my uncle's life was worth living. The visitors were expected to be surprised like "Oh, would you look at that - Look at the names, he must have been somebody."
 
 My uncle was a humble man. He spent his weekends on a weathered fishing boat and never failed to make me laugh when I was stressed about school grades. "You study to learn, not to win over others," he would tell me. He didn't go to college and insisted he was happier than most of “the smart kids in the classroom." Now here we were, scattering borrowed prestige over his dead body.
