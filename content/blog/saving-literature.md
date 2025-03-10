@@ -39,4 +39,4 @@ That stung. Hyunsuk never realized his department was at the bottom of the acade
 
 Chu left his office, and Hyunsuk suddenly realized the need to arm himself with the knowledge to defend the study of literature.
 
-He headed straight to the library. He now had a sacred duty. His God awaits him.
+He headed straight to the library. He now had a sacred duty. His God awaited him.
