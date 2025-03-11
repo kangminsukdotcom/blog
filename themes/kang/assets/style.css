@@ -2,7 +2,7 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
-  background: #fafafa;
+  background: #f2f3f4;
 }
 
 :lang(ko) {
@@ -36,7 +36,7 @@ h6 {
 
 body {
   margin: 2rem auto;
-  max-width: 52ch;
+  max-width: 42ch;
   line-height: 1.6;
   font-size: 1.1em;
   font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
@@ -133,7 +133,7 @@ img {
 
 @media only screen and (max-width: 767px) {
   body {
-    background: #fafafa;
+    background: #f2f3f4;
     font-size: 1em;
     padding: 0 1rem;
     box-shadow: none;
