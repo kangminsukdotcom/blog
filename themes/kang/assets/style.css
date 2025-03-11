@@ -2,7 +2,7 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
-  background: #f2f3f4;
+  background: #F5F5F5;
 }
 
 :lang(ko) {
@@ -41,7 +41,7 @@ body {
   font-size: 1.1em;
   font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
   text-align: left;
-  background: #eaedf2;
+  background: #F0F0F0;
   color: #272727;
   padding: 2em;
   box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
@@ -133,7 +133,7 @@ img {
 
 @media only screen and (max-width: 767px) {
   body {
-    background: #f2f3f4;
+    background: #F5F5F5;
     font-size: 1em;
     padding: 0 1rem;
     box-shadow: none;
