@@ -11,7 +11,7 @@ display: none;
 </style>
 
 ## 한국어
-- [제주북페일](https://jejubookfail.com)
+- [제주북페일 웹사이트](https://jejubookfail.com)
 - [강민석닷컴, 한 페이지에 욱여넣기](https://kangminsuk.com/all-texts/)
 - [작은배 웹사이트](https://jagunbae.com)
 - [(조금은 진지한) 부모님 인터뷰](https://kangminsuk.com/ko/interview/)
