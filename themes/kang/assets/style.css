@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'Quattro';
+  src: url('/fonts/iAWriterQuattroV.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Quattro';
+  src: url('/fonts/iAWriterQuattroV-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -39,7 +53,7 @@ body {
   max-width: 40ch;
   line-height: 1.6;
   font-size: 1.1em;
-  font-family: "EB Garamond", Georgia, system-ui, sans-serif;
+  font-family: 'Quattro' system-ui, sans-serif;
   text-align: left;
   background: #F0F0F0;
   color: #272727;
