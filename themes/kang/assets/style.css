@@ -62,7 +62,6 @@ h1.title {
 }
 
 a {
-  text-decoration: none;
   text-underline-offset: 0.1em;
   color: #272727;
 }
