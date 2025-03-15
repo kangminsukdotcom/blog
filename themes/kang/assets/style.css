@@ -62,14 +62,13 @@ h1.title {
 }
 
 a {
-  text-decoration: underline;
+  text-decoration: none;
   text-underline-offset: 0.1em;
   color: #272727;
 }
 
 a:hover {
-  text-decoration: underline !important;
-  font-style: italic;
+  text-decoration: underline;
 }
 
 .title {
