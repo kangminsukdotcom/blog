@@ -1,7 +1,7 @@
 ---
 title: "Home"
 menu: "main"
-description: A Jeju-based nerd.
+description: A Jeju-based writer.
 weight: 1
 ---
 <style>
