@@ -39,21 +39,12 @@ h6 {
   font-weight: bold;
 }
 
-:lang(en) {
-  h1.title {
-    font-family: Georgia, serif;
-  }
-  mark {
-    font-family: Georgia, serif;
-  }
-}
-
 body {
   margin: 2rem auto;
   max-width: 40ch;
   line-height: 1.6;
   font-size: 1.1em;
-  font-family: 'Quattro' system-ui, sans-serif;
+  font-family: 'Quattro', system-ui, sans-serif;
   text-align: left;
   background: #F0F0F0;
   color: #272727;
