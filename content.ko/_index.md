@@ -38,5 +38,4 @@ li {
   <li><a href="https://kangminsuk.com/my-apps/">웹사이트 & 앱</a></li>
   <li><a href="https://ko-fi.com/kangminsuk">Ko-fi</a></li>
   <li><a href="https://github.com/kangminsukdotcom/blog">GitHub</a></li>
-  <li><em>이 웹사이트는 <a href="https://kangminsuk.com/keyboard-navigation/">키보드 단축기</a>를 지원합니다.</em></li>
 </details>
