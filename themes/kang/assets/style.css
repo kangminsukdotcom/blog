@@ -45,6 +45,7 @@ h1.title {
 
 a {
   text-underline-offset: 0.1em;
+  text-decoration-style: dotted;
   color: #272727;
 }
 
