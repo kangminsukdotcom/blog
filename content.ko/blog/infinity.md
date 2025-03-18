@@ -13,7 +13,7 @@ tags = ["에세이"]
 
 물리학자 [데이비드 도이치](https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%EB%B9%84%EB%93%9C_%EB%8F%84%EC%9D%B4%EC%B9%98)에 따르면 약 10만 년 간 현대 인류는 별다른 발전을 이루어내지 못했다. 매일 아침 햇빛을 받아도 태양이 어떻게 에너지를 방출하는지 알지 못했고 계절이 바뀌어도 지구가 기울어져 있다는 사실을 깨닫지 못했다.
 
-그렇다면 인간은 언제부터 발전하기 시작했을까? 도이치는 _좋은 설명_이 발생하기 시작한 17\~18세기 [유럽 계몽기](https://ko.wikipedia.org/wiki/%EA%B3%84%EB%AA%BD%EC%A3%BC%EC%9D%98)를 지식 발전의 시작점이라 말한다. 그리고 이 주장을 이해하려면 도이치가 정의한 좋은 설명(good explanation)과 나쁜 설명(bad explanation)을 이해해야 한다.
+그렇다면 인간은 언제부터 발전하기 시작했을까? 도이치는 좋은 설명이 발생하기 시작한 17\~18세기 [유럽 계몽기](https://ko.wikipedia.org/wiki/%EA%B3%84%EB%AA%BD%EC%A3%BC%EC%9D%98)를 지식 발전의 시작점이라 말한다. 그리고 이 주장을 이해하려면 도이치가 정의한 좋은 설명(good explanation)과 나쁜 설명(bad explanation)을 이해해야 한다.
 
 우리는 계절 변화를 두 가지 가설로 설명할 수 있다.
 
@@ -64,7 +64,7 @@ tags = ["에세이"]
 > 그림 그리는 화가는 진정한 계승자다. 우리는 램브란트, 벨라스케스, 세잔, 마티스를 잇는다. 화가에게는 언제나 아버지와 어머니가 있다. 우리는 아무런 배경 없이 나타날 수 없다.
 > [Pablo Picasso](https://www.theguardian.com/artanddesign/gallery/2014/jun/26/picasso-copycats-in-homage-pictures-art-bacon-warhol-influence)
 
-![](https://kangminsuk.com/content/images/2022/08/picasso-cow_o.webp)[파블로 피카소 ‘초상화’ 1896](https://www.wikiart.org/en/pablo-picasso/self-portrait-1896)
+![파블로 피카소 ‘초상화’ 1896](https://uploads3.wikiart.org/images/pablo-picasso/self-portrait-1896.jpg!Large.jpg)
 
 과학적 지식과 같이 예술적 가치 또한 지적 교류를 통해 발전한다. 파블로 피카소는 2\~3년 간격으로 [새로운 영향](https://news.masterworksfineart.com/2019/11/28/what-was-picassos-inspiration)을 받아들여 자신의 작품에 적용했다. 그리고 100년이 지나도 피카소의 작품은 또 다른 예술가를 위한 영감이 된다.
 
