@@ -42,7 +42,6 @@ AOTY에 들어가 올해 어떤 앨범이 호평받았나 살펴본다. 가장 �
 온라인에서만큼은 영어가 모국어인 환경을 쉽게 조성할 수 있다. 콘텐츠를 영어로 소비하는데 도움이 될 만한 링크를 모아봤다.
 - Read Something Wonderful - 웹에 발행된 글을 정성스레 큐레이션해서 보여주는 웹사이트.
 - Listen to Something Wonderful - 유명 팟캐스트의 하이라이트를 큐레이션해서 보여주는 웹사이트.
-- Perplexity - 무료로 사용할 수 있는 AI 검색엔진. 구체적인 명령어 전달을 통해 사전, 번역기, 교정 선생님으로 사용할 수 있다. 이 링크를 사용하면 PRO를 $10 할인된 가격으로 구독할 수 있다.
 - Merriam-Webster - 빠르고 정확한 dictionary와 thesaurus(유의어 사전).
 - Goodreads - 가장 유명한 책 리뷰 플랫폼.
 - Project Gutenberg - 저작권이 만료된 여러 고전의 전자책을 무료로 제공한다.
