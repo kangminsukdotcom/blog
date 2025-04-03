@@ -4,6 +4,8 @@ date: 2025-04-04
 description: 제주북페일에 대하여.
 ---
 
+![JEJU BOOK FAIL!](https://bear-images.sfo2.cdn.digitaloceanspaces.com/ms/46am.webp)
+
 제주북페어에 탈락한 친구들과 함께 여는 [제주북페일](https://jejubookfail.com/)이 코앞으로 다가왔다.
 
 제주북페일을 준비한 한 달 남짓한 시간은 너무 짧았다. 할 수 있는 일이 무궁무진할 것만 같아서 하루하루가 무척 귀중하게 느껴졌다.
