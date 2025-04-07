@@ -20,7 +20,7 @@ display: none;
 - [숨 쉴 공간](https://room.kangminsuk.com)
 - [강단과 소신 사진 일기](https://us.jagunbae.com)
 - [말머리씨](https://kangminsuk.com/mal/)
-- [라인 아이디 추가 안 한다고](https://texts.bearblog.dev)
+- [라인 아이디 추가 안 한다고](https://kangminsuk.com/ko/blog/line-id/)
 - [블로그 만세!](https://blogmansae.netlify.app)
 - [치지레이지 리뷰 모음](https://reviews.cheesylazy.com)
 - [질문 있는 사람들](https://questions.jagunbae.com)
