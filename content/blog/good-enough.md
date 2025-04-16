@@ -13,6 +13,7 @@ After deciding to cut back on subscriptions, I canceled [SetApp](https://setapp.
 
 - [Simpletext](https://simpletext.app/)
 - [CotEditor](https://coteditor.com/)
+- [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
 - [Enso](https://enso.sonnet.io/)
 - [Showdown](https://apps.apple.com/eg/app/showdown-presentation/id6504288864?mt=12)
 - [Readest](https://readest.com/)
