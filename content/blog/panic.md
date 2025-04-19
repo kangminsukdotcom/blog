@@ -5,7 +5,9 @@ tags: [essay]
 description: I don’t know where I’m going or what I’m feeling.
 ---
 
-Anxiety fills the void of my morning. I don’t know where I’m going or what I’m feeling. I see no value in my surroundings. I hear my feet rustling under the thick blanket. *I must go.* It’s time to walk outside and grasp the magic.
+Anxiety fills the void of my morning. I don’t know where I’m going or what I’m feeling. I see no value in my surroundings.
+
+I hear my feet rustling under the thick blanket. *I must go.* It’s time to walk outside and grasp the magic.
 
 I check what others are doing. I sense what they’re thinking. I’m trapped inside the web. *Help me.* I cry out in my thoughts.
 
