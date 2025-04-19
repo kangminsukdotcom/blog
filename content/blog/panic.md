@@ -2,10 +2,10 @@
 title: Panic Buying Books
 date: 2025-04-19
 tags: [essay]
-description: I don’t know where I’m going or what I’m feeling.
+description: I’ll read. I’ll read. I’ll read.
 ---
 
-Anxiety fills the void of my morning. I don’t know where I’m going or what I’m feeling. I see no value in my surroundings.
+Anxiety fills the void of my morning. I’m not sure where I’m going or what I’m feeling. I see no value in my surroundings.
 
 I hear my feet rustling under the thick blanket. *I must go.* It’s time to walk outside and grasp the magic.
 
