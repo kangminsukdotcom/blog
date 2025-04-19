@@ -13,4 +13,4 @@ I check what others are doing. I sense what they’re thinking. I’m trapped in
 
 I’ve made things, but they no longer are my voice. I search for books, anything that might save my day. I see the stacks on black shelves. They watch as I order another one. *Where am I*? I panic, pressed for time.
 
-I’m three steps from the end of this tunnel. The light’s filtering in. The darkness doesn't bother me anymore. My eyes are closed, and I tell myself once again: I’ll read. I’ll read. I’ll read.
+I’m three steps from the end of this tunnel. The light’s filtering in. This darkness doesn't bother me anymore. My eyes are closed, and I tell myself once again: I’ll read. I’ll read. I’ll read.
