@@ -1,5 +1,5 @@
 ---
-title: Jeju City Like a Local: Car-Free Travel, Vegan Spots, and Must-Try Restaurants & Cafés
+title: Jeju City Like a Local (Car-Free Travel, Vegan Spots, and Must-Try Restaurants & Cafés)
 date: 2025-04-24
 description: My friends and I created the ultimate Jeju City guidebook.
 ---
