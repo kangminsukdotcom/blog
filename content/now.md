@@ -16,7 +16,6 @@ type: page
 
 - I wake up at 5:45 AM every day to join [창작하는 아침][1](Creator’s Morning).
 - I publish a weekly podcast called [강소팟][2].
-- With friends, I’m planning to visit Shanghai in May.
 
 [1]:	https://jagunbae.com/creators-morning-23/
 [2]:	https://podcast.jagunbae.com
