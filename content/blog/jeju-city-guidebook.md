@@ -17,6 +17,6 @@ Who is this book for?
 - Visitors who would rather walk or use transit than rent a car
 - Anyone who wants to visit the stores, restaurants, and historic sites locals love
 
-A good guidebook is a great investment; it saves you hours of trial and error. Ours comes as a Google Sheet, and  you can download as Excel or PDF. The book will always be on your phone. Also, every place has a direct Naver Map link for quick navigation.
+A guidebook should save you hours of trial and error. Ours comes as a Google Sheet, and  you can download as Excel or PDF. The book will always be on your phone. Also, every place has a direct Naver Map link for quick navigation.
 
 [Check out the book](https://jejudeers.itch.io/jeju-city-like-a-local) and [let me know](https://letterbird.co/kang) if you have any questions. We hope this guidebook offers you a glimpse of the Jeju we love.❤️
