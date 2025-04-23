@@ -8,13 +8,14 @@ description: My friends and I created the ultimate Jeju City guidebook.
 
 I see many tourists in Jeju City struggle to find things to do. Most follow ChatGPT or TripAdvisor and end up at the same crowded spots locals avoid.
 
-My friends and I met every week for months to create [the ultimate Jeju City guide](https://jejudeers.itch.io/jeju-city-like-a-local).
+That's why my friends and I(we call ourselves Three Deers lol) met every week for months to create [the ultimate Jeju City guidebook](https://jejudeers.itch.io/jeju-city-like-a-local).
 
 Who is this book for?
-	•	Travelers exploring Jeju without a tour guide
-	•	Food lovers looking for the best eats (vegan spots included)
-	•	Visitors who would rather walk or use transit than rent a car
-	•	Anyone who wants to visit the stores, restaurants, and historic sites locals love
+
+- Travelers exploring Jeju without a tour guide
+- Food lovers looking for the best eats (vegan spots included)
+- Visitors who would rather walk or use transit than rent a car
+- Anyone who wants to visit the stores, restaurants, and historic sites locals love
 
 A good guidebook is a great investment; it saves you hours of trial and error. Ours comes as a Google Sheet, and  you can download as Excel or PDF. The book will always be on your phone. Also, every place has a direct Naver Map link for quick navigation.
 
