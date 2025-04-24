@@ -33,7 +33,7 @@ li {
 <details>
 <summary>더보기</summary>
 
-  <li><a href="https://letterbird.co/kang">이메일</a></li>
+  <li><a href="https://letterbird.co/kang">연락처</a></li>
   <li><a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> & <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a></li>
   <li><a href="https://kangminsuk.com/my-apps/">웹사이트 & 앱</a></li>
   <li><a href="https://ko-fi.com/kangminsuk">Ko-fi</a></li>
