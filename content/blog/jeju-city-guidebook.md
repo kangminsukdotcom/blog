@@ -6,7 +6,7 @@ description: My friends and I created the ultimate Jeju City guidebook.
 
 ![Jeju City Like a Local](https://img.itch.zone/aW1nLzIwNDgyOTE3LmpwZWc=/original/2FR4ga.jpeg)
 
-I see tourists in Jeju struggling to find things to do. Most follow ChatGPT or TripAdvisor and end up at the same crowded spots locals avoid.
+I see tourists in Jeju struggling to find things to do. Most rely on ChatGPT or TripAdvisor and end up at the same crowded spots that locals avoid.
 
 That's why my friends and I(we call ourselves Three Deers lol) met every week for months to create [the ultimate Jeju City guidebook](https://jejudeers.itch.io/jeju-city-like-a-local).
 
