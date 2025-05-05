@@ -41,6 +41,12 @@ document.addEventListener("DOMContentLoaded", function() {
 ```
 25-05-06
 
+Never mind. The page is not really discoverable since I added a password. This page is now password protected(very weak security, but enough to guard against 99%).
+```
+
+```
+25-05-06
+
 This page is discoverable, but I don't want to display the URL on my website. I want this page to be my private diary. For me to enjoy writing and expresssing random, potentially shitty, thoughts.
 ```
 
