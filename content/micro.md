@@ -39,10 +39,14 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 ```
-This page is discoverable, but I don't want to display the URL on my website. I want this page to be my private diary. For me to enjoy writing and expresssing random, potentially shitty, thoughts.25-05-06
+25-05-06
+
+This page is discoverable, but I don't want to display the URL on my website. I want this page to be my private diary. For me to enjoy writing and expresssing random, potentially shitty, thoughts.
 ```
 
 ```
-This is an experimental page for me to start a microblogging page on my website. I'll be posting random short shower thoughts on this page. Both in Korean and English. 25-05-06
+25-05-06
+
+This is an experimental page for me to start a microblogging page on my website. I'll be posting random short shower thoughts on this page. Both in Korean and English.
 ```
 
