@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function() {
 ```
 25-05-06
 
-Never mind. The page is not really discoverable since I added a password. This page is now password protected(very weak security, but enough to guard against 99%).
+This page is now password protected(very weak security, but enough to guard against 99%).
 ```
 
 ```
