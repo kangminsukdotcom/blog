@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function() {
   const isLoggedIn = localStorage.getItem("isLoggedIn") === "true";
 
   if (!isLoggedIn) {
-    const correctPassword = “1010”;
+    const correctPassword = "1010"; // ✅ fixed quote marks
     let userInput;
     let isPasswordCorrect = false;
 
@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 ```
-This page is discoverable, but I don't want to display the URL on my website. I want this page to be my private diary. For me to enjoy writing and expresssing random, potentially shitty, thoughts. 25-05-06
+This page is discoverable, but I don't want to display the URL on my website. I want this page to be my private diary. For me to enjoy writing and expresssing random, potentially shitty, thoughts.25-05-06
 ```
 
 ```
