@@ -17,6 +17,7 @@ After deciding to cut back on subscriptions, I canceled [SetApp](https://setapp.
 - [WriteRoom](https://support.hogbaysoftware.com/t/writeroom-latest-version-and-old-versions-too/2599)
 - [Freewrite](https://github.com/farzaa/freewrite)
 - [Plain Text Editor](https://sindresorhus.com/plain-text-editor)
+- [Focus](https://github.com/focus-editor/focus)
 - [Enso](https://enso.sonnet.io/)
 - [Showdown](https://apps.apple.com/eg/app/showdown-presentation/id6504288864?mt=12)
 - [Readest](https://readest.com/)
