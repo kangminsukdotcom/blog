@@ -41,6 +41,14 @@ document.addEventListener("DOMContentLoaded", function() {
 ```
 25-05-06
 
+없애야 하는 것이 있다. 지켜야 하는 것이 있다. 가볍게 살아야 한다. 다 버려야 한다. 
+
+허영심이 눈에 보일 때가 있다. 어떻게든 잘난 면을 드러내서 우울함을 꾹꾹 밀어 넣으려는 발악이 눈에 보일 정도로 클 때가 있다.
+```
+
+```
+25-05-06
+
 This page is now password protected(very weak security, but enough to guard against 99%).
 ```
 
