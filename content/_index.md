@@ -38,5 +38,5 @@ Working for [Jagunbae](https://en.jagunbae.com) in Jeju, Korea. I look like [thi
   <li><a href="https://kangminsuk.com/my-apps/">Apps & websites</a></li>
   <li><a href="https://ko-fi.com/kangminsuk">Donate</a></li>
   <li><a href="https://github.com/kangminsukdotcom/blog">GitHub</a></li>
-  <li><a href="https://github.com/kangminsukdotcom/micro">Microblog</a></li>
+  <li><a href="https://kangminsuk.com/micro/">Microblog</a></li>
 </details>
