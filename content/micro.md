@@ -12,6 +12,14 @@ display: none;
 ```
 25-05-08
 
+> One writes out of one thing only–one's own experience. Everything depends on how relentlessly one forces from this experience the last drop, sweet or bitter, it can possibly give. This is the only concern of the artist, to recreate out of the disorder of life that order which is art.
+
+James Baldwin
+```
+
+```
+25-05-08
+
 This page is no longer password-protected.
 ```
 
