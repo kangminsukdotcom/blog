@@ -9,34 +9,17 @@ display: none;
 }
 </style>
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  document.body.style.display = "none";
-  const isLoggedIn = localStorage.getItem("isLoggedIn") === "true";
+```
+25-05-08
 
-  if (!isLoggedIn) {
-    const correctPassword = "1010"; // ✅ fixed quote marks
-    let userInput;
-    let isPasswordCorrect = false;
+"그래도 백종원은 사업 잘 하잖아"라는 말을 했다. 그런데 과연 백종원은 사업을 잘할까? 사업을 잘한다는 것이 뭐지. 많은 사람의 삶을 망가뜨리더라도 돈만 많이 벌면 되는 것인가. 스스로 방송인이 아니라고 하지만, 어쩌면 백종원은 뛰어난 방송인이지 존경할만한 경영자는 아닐지도 모른다.
+```
 
-    while (!isPasswordCorrect) {
-      userInput = prompt("Please enter the password:");
+```
+25-05-08
 
-      if (userInput === null) {
-        break;
-      } else if (userInput === correctPassword) {
-        localStorage.setItem("isLoggedIn", "true");
-        document.body.style.display = "block";
-        isPasswordCorrect = true;
-      } else {
-        alert("Incorrect password. Please try again.");
-      }
-    }
-  } else {
-    document.body.style.display = "block";
-  }
-});
-</script>
+According to their colleagues, Steve was an asshole, Tim is an asshole, Bill is an asshole, and Mark is an asshole. Is it necessary for one to be an asshole to be a successful CEO?
+```
 
 ```
 25-05-08
