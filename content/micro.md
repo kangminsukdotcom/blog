@@ -10,6 +10,12 @@ display: none;
 </style>
 
 ```
+25-05-10
+
+I don't want my very own existence to cost money.
+```
+
+```
 25-05-08
 
 > One writes out of one thing only–one's own experience. Everything depends on how relentlessly one forces from this experience the last drop, sweet or bitter, it can possibly give. This is the only concern of the artist, to recreate out of the disorder of life that order which is art.
@@ -72,7 +78,7 @@ This page is now password protected(very weak security, but enough to guard agai
 ```
 25-05-06
 
-This page is discoverable, but I don't want to display the URL on my website. I want this page to be my private diary. For me to enjoy writing and expresssing random, potentially shitty, thoughts.
+This page is discoverable, but I don't want to display the URL on my website. I want this page to be my private diary. For me to enjoy writing and expressing random, potentially shitty, thoughts.
 ```
 
 ```
