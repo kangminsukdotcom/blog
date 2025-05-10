@@ -41,6 +41,11 @@ timeZone = "Asia/Seoul"
     [languages.ko.params]
       blogPath = "/ko/blog"
       titleImage = "/images/kang2.jpg"
+    [languages.ko.menu]
+      [[languages.en.menu.main]]
+        name = "일기"
+        url = "/micro/"
+        weight = 3
 
 [taxonomies]
    tag = "tags"
