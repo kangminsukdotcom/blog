@@ -1,6 +1,7 @@
 ---
 title: My new writing schedule for the rest of my life
 date: 2025-05-10
+tags: [essay]
 ---
 
 I want to be a professional writer, which means I want to make sure that I’m capable of crafting stories that are well-worth your time.
