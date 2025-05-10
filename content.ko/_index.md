@@ -40,5 +40,4 @@ li {
   <li><a href="https://kangminsuk.com/my-apps/">웹사이트 & 앱</a></li>
   <li><a href="https://ko-fi.com/kangminsuk">후원</a></li>
   <li><a href="https://github.com/kangminsukdotcom/blog">GitHub</a></li>
-  <li><a href="https://kangminsuk.com/micro/">Microblog</a></li>
 </details>
