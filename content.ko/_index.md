@@ -22,6 +22,8 @@ li {
 
 <mark>강민석</mark>
 
+![profile](https://www.scribophile.com/images/users/164/164199-510115942@2x.webp)
+
 <details>
 <summary>소개</summary>
 
