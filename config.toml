@@ -27,6 +27,7 @@ timeZone = "Asia/Seoul"
     [languages.en.params]
       blogPath = "/blog"
       titleImage = "/images/kang.jpg"
+  
   [languages.ko]
     title = "강민석"
     languageName = "한국어"
@@ -35,6 +36,12 @@ timeZone = "Asia/Seoul"
     [languages.ko.params]
       blogPath = "/ko/blog"
       titleImage = "/images/kang2.jpg"
+
+[menu]
+  [[menu.main]]
+    name = "Mircoblog"
+    url = "/micro/"
+    weight = 3
 
 [taxonomies]
    tag = "tags"
