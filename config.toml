@@ -29,7 +29,7 @@ timeZone = "Asia/Seoul"
       titleImage = "/images/kang.jpg"
     [languages.en.menu]
       [[languages.en.menu.main]]
-        name = "Daily"
+        name = "Journal"
         url = "/micro/"
         weight = 3
   

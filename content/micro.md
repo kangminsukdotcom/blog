@@ -1,5 +1,5 @@
 ---
-title: Microblog
+title: Journal
 type: page
 ---
 
