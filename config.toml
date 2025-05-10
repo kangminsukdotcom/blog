@@ -39,7 +39,7 @@ timeZone = "Asia/Seoul"
 
 [menu]
   [[menu.main]]
-    name = "Mircoblog"
+    name = "Daily"
     url = "/micro/"
     weight = 3
 
