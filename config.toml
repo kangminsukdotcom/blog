@@ -42,7 +42,7 @@ timeZone = "Asia/Seoul"
       blogPath = "/ko/blog"
       titleImage = "/images/kang2.jpg"
     [languages.ko.menu]
-      [[languages.en.menu.main]]
+      [[languages.ko.menu.main]]
         name = "일기"
         url = "/micro/"
         weight = 3
