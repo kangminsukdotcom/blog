@@ -12,6 +12,12 @@ display: none;
 ```
 25-05-11
 
+I'll be in Shanghai in a couple weeks. Let me know if there's any recommendations!
+```
+
+```
+25-05-11
+
 Jung-hoo Lee, Yunchan Lim, Heungmin Son. I feel a sense of accomplishment watching these Koreans succeed in the big leagues. I have zero personal connection to them. Still, it’s as if I’m wired to feel proud of their success—despite my discomfort with nationalism and Korean propaganda.
 ```
 
