@@ -10,6 +10,12 @@ display: none;
 </style>
 
 ```
+25-05-11
+
+Jung-hoo Lee, Yunchan Lim, Heungmin Son. I feel a sense of accomplishment watching these Koreans succeed in the big leagues. I have zero personal connection to them. Still, it’s as if I’m wired to feel proud of their success—despite my discomfort with nationalism and Korean propaganda.
+```
+
+```
 25-05-10
 
 I don't want my very own existence to cost money.
