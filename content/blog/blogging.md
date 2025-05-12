@@ -11,11 +11,16 @@ All of these services are subscription-based and privacy-friendly. [Let me know]
 - The most affordable blogging platform on the web. Publish for free or pay $9 yearly for custom domain. Great support from the developer.
 
 [Bear Blog](https://bearblog.dev/)
+
 - Minimal blogging platform. For premium features like custom domain and analytics, pay $5 per month or $48 per year. Possibly the best choice if you're looking for a simple blog with some stylization options.
 
 [Micro.Blog](https://micro.blog/)
 
 - Imagine Mastodon + Blogging. The best choice if you're looking for a communal way of publishing both short and long form content. The platform has an active community of people who've escaped from big tech social media. Micro.blog offers two premium plans: $5 or $10 per month.
+
+[Lykhari](https://lykhari.com)
+
+- A fast, simple, and feature-packed blogging platform. Lykhari could be the best alternative if you're looking to migrate from Ghost Pro.
 
 [Typora](https://typora.io/)
 
