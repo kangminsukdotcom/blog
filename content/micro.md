@@ -10,6 +10,14 @@ display: none;
 </style>
 
 ```
+25-05-12
+
+What books will remain as "classics" when AI is capable of generating words with a humane voice and unique style? Will people still want to write a book? What happens when humans can't discern the words of AI from the words of a human? What if readers acknowledge machine writers are funnier and smarter?
+
+I worry the process of writing a draft and editing each word will become a noble hobby rather than a admirable work of art. Maybe the task of writers for the next 10 years should be about breaking rules and boundaries that no LLMs can imitate.  
+```
+
+```
 25-05-11
 
 I'll be in Shanghai in a couple weeks. Let me know if there's any recommendations!
