@@ -10,6 +10,18 @@ display: none;
 </style>
 
 ```
+25-05-13
+
+Just some thoughts about the upcoming presidential election in South Korea:
+– The candidates call each other “a monster,” and many of their followers think losing the election means the end of the country.
+– Whoever becomes the next president, the other side of the political spectrum will likely try to impeach him again.
+– The three major candidates all have the same slogan: “To the New Korea.” Ironically, these are people who’ve already had enough power to propose nationwide reform.
+– The far-right strongly believes in election fraud, which means they won’t accept the result if their candidate loses.
+– Many Korean voters casually say, “I won’t vote this time.” Seeing so many presidents end up in jail, it’s hard to blame them for losing faith in the system.
+– Korea is facing serious issues, from the world’s lowest fertility rate to stagnant economic growth. It's funny how the candidates all propose investing heavily in AI to solve all kinds of social problems. Ask any AI developer in Korea, and they’ll tell you the country is far behind the U.S. and China.
+```
+
+```
 25-05-12
 
 What books will remain as "classics" when AI is capable of generating words with a human voice and unique style? Will people still want to write a book? What happens when humans can't discern the words of AI from the words of a human? What if readers acknowledge machine writers are funnier and smarter?
