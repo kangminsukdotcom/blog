@@ -10,6 +10,17 @@ display: none;
 </style>
 
 ```
+25-05-14
+
+What’s your definition of success? Let me tell you mine:
+- I get to spend most of my time reading and writing.
+- I’ve helped my wife achieve her definition of success.
+- I’ve maintained healthy relationships with my family and friends.
+- I’ve avoided spending the last days of my life inside a hospital.
+- People remember me as a kind person who tried his best to win and help others win.
+```
+
+```
 25-05-13
 
 Just some thoughts about the upcoming presidential election in South Korea:
