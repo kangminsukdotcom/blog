@@ -10,6 +10,20 @@ display: none;
 </style>
 
 ```
+25-05-15
+
+The three best (free/cheap) softwares for writing:
+- MarkEdit https://github.com/MarkEdit-app/MarkEdit
+- Plain Text Editor https://sindresorhus.com/plain-text-editor
+- Enso https://enso.sonnet.io
+
+The three best (expensive) softwares for writing:
+- iA Writer https://ia.net/writer
+- Bike https://www.hogbaysoftware.com/bike/
+- Paper https://paper.pro
+```
+
+```
 25-05-14
 
 What’s your definition of success? Let me tell you mine:
