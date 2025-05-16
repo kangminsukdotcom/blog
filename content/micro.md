@@ -10,6 +10,12 @@ display: none;
 </style>
 
 ```
+25-05-16
+
+Elon Musk’s fans say they love his first-principles approach, but they still won’t admit Bluesky’s UX is way better than X’s.
+```
+
+```
 25-05-15
 
 The three best (free/cheap) softwares for writing:
