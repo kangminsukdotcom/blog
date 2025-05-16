@@ -43,7 +43,7 @@ timeZone = "Asia/Seoul"
       titleImage = "/images/kang2.jpg"
     [languages.ko.menu]
       [[languages.ko.menu.main]]
-        name = "일기"
+        name = "기록"
         url = "/micro/"
         weight = 3
 
