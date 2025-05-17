@@ -10,6 +10,12 @@ display: none;
 </style>
 
 ```
+25-05-17
+
+"Distraction-free" is a new buzzword for non-believers.
+```
+
+```
 25-05-16
 
 Elon Musk’s fans say they love his first-principles approach, but they still won’t admit Bluesky’s UX is way better than X’s.
