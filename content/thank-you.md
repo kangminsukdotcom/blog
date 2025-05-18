@@ -15,4 +15,4 @@ type: page
 }
 </style>
 
-<p>You are the best.</p>
+<p>I’ll see you in the inbox.</p>
