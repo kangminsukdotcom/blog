@@ -1,4 +1,8 @@
-# I’ll send you a sentence every day
+---
+title: I’ll send you a sentence every day
+date: 2025-05-18
+description: Minsuk’s simple mailing service.
+---
 
 Because a sentence could change your life.
 
