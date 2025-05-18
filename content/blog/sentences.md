@@ -17,9 +17,9 @@ Just your friend sending you beautiful sentences.
 
   <div class="field">
     <label for="email">Email </label>
-    <input type="email" name="email" id="email" required>
+    <input type="email" name="email" id="email" required><br>
     <label for="antiSpam">What is 6 + 2?</label>
-  <input type="text" id="antiSpam" name="antiSpam" required>
+  <input type="text" id="antiSpam" name="antiSpam" required><br>
 	  <input type="submit" value="Submit">
   </div>
   
