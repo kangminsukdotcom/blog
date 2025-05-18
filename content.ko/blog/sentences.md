@@ -4,6 +4,8 @@ date: 2025-05-18
 description: 강민석의 초심플 메일링 서비스.
 ---
 
+![오늘의 문장](https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/20250518_205452.webp)
+
 좋은 문장을 읽는 것만으로 삶이 바뀔 수 있으니까.
 
 이메일 주소를 알려주시면 읽고 있는 책에서 발견한 문장을 보내드립니다.
