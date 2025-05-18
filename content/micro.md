@@ -10,6 +10,18 @@ display: none;
 </style>
 
 ```
+25-05-18
+
+You know when something's dipped in bull-shit when it's being talked about at every single table in a coffee shop.
+```
+
+```
+25-05-18
+
+Life is too short for two purposes. The happiest people I've met are the ones who spend their days with a single purpose.
+```
+
+```
 25-05-17
 
 "Distraction-free" is a new buzzword for non-believers.
