@@ -1,5 +1,5 @@
 ---
-title: My indie apps & websites
+title: Projects
 type: page
 description: Yes, I like expressing myself through code. 
 ---
@@ -11,6 +11,7 @@ display: none;
 </style>
 
 ## 한국어
+- [오늘의 문장을 보내드립니다](https://kangminsuk.com/ko/blog/sentences/)
 - [제주북페일 웹사이트](https://jejubookfail.com)
 - [강민석닷컴, 한 페이지에 욱여넣기](https://kangminsuk.com/all-texts/)
 - [작은배 웹사이트](https://jagunbae.com)
@@ -25,6 +26,7 @@ display: none;
 - [치지레이지 리뷰 모음](https://reviews.cheesylazy.com)
 - [질문 있는 사람들](https://questions.jagunbae.com)
 ## English
+- [I’ll send you a sentence every day](https://kangminsuk.com/blog/sentences/)
 - ["Jeju City Like a Local: Car-Free Travel, Vegan Spots, and Must-Try Restaurants & Cafés"](https://jejudeers.itch.io/jeju-city-like-a-local)
 - [All texts of kangminsuk.com](https://kangminsuk.com/all-texts/)
 - [(A Bit Serious) Parent Interview](https://kangminsuk.com/interview/)
