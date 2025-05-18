@@ -1,15 +1,15 @@
 ---
-title: I’ll send you a sentence every day
+title: 오늘의 문장을 보내드립니다
 date: 2025-05-18
-description: Minsuk’s simple mailing service.
+description: 강민석의 초심플 메일링 서비스.
 ---
 
-Because a sentence could change your life.
+좋은 문장을 읽는 것만으로 삶이 바뀔 수 있으니까.
 
-Let me know your email, and I’ll send you a handpicked sentence from a book I’m reading.
+이메일 주소를 알려주시면 읽고 있는 책에서 발견한 문장을 보내드립니다.
 
-No spam. No ads. No AI. No tracking.\
-Just your friend sending you beautiful sentences.
+스팸, 광고, 트래킹, AI는 없어요.\
+살고 싶게 하는 문장을 골라서 보냅니다.
 
 <form action="https://riku.miso.town/submit?user_id=42&label=emails" method="post">
 
@@ -21,4 +21,3 @@ Just your friend sending you beautiful sentences.
   
   <input type="hidden" name="redirect" value="https://kangminsuk.com/thank-you/">
 </form>
-
