@@ -22,6 +22,10 @@ description: 강민석의 초심플 메일링 서비스.
   <input type="text" id="antiSpam" name="antiSpam" required><br>
 	  <input type="submit" value="Submit">
   </div>
+
+  <div class="hidden-honeypot">
+    <label>Leave this field empty: <input name="contact_time" type="text" autocomplete="off"></label>
+  </div>
   
   <input type="hidden" name="redirect" value="https://kangminsuk.com/thank-you/">
 </form>
@@ -36,3 +40,14 @@ function validateForm() {
   return true; // Allow submission
 }
 </script>
+
+<style>
+  .hidden-honeypot {
+  position: absolute;
+  left: -9999px;
+  top: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+</style>
