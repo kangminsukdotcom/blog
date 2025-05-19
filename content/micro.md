@@ -10,6 +10,18 @@ display: none;
 </style>
 
 ```
+25-05-19
+
+Popularity is a terrible metric to evaluate someone's personality.
+```
+
+```
+25-05-19
+
+I want to feel pure joy. Unmeddled, undisturbed, unpretentious feeling that fulfills without any external help.
+```
+
+```
 25-05-18
 
 You know when something's dipped in bull-shit when it's being talked about at every single table in a coffee shop.
