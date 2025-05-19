@@ -13,7 +13,7 @@ description: 강민석의 초심플 메일링 서비스.
 스팸, 광고, 트래킹, AI는 없어요.\
 살고 싶게 하는 문장을 골라서 보냅니다.
 
-<form action="https://riku.miso.town/submit?user_id=42&label=emails" method="post">
+<form action="https://riku.miso.town/submit?user_id=42&label=emails" method="post" onsubmit="return validateForm();">
 
   <div class="field">
     <label for="email">Email </label>
