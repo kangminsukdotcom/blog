@@ -10,6 +10,12 @@ display: none;
 </style>
 
 ```
+25-05-20
+
+Life's goal: never try to take advantage of other people's strength.
+```
+
+```
 25-05-19
 
 Popularity is a terrible metric to evaluate someone's personality.
