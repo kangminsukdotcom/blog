@@ -10,6 +10,12 @@ display: none;
 </style>
 
 ```
+25-05-21
+
+It's impossible to be at peace without working towards a goal.
+```
+
+```
 25-05-20
 
 Life's goal: never try to take advantage of other people's strength.
