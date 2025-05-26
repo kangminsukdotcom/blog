@@ -35,9 +35,9 @@ Working for [Jagunbae](https://en.jagunbae.com) in Jeju, Korea. I look like [thi
 <details>
 <summary>More</summary>
 
-  <li><a href="https://letterbird.co/kang">Contact</a></li>
+  <li><a href="https://letterbird.co/kang">Say hello</a></li>
+  <li><a href="https://ko-fi.com/kangminsuk">☕️ Support me</a></li>
   <li><a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> or <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a></li>
   <li><a href="https://kangminsuk.com/my-apps/">Projects</a></li>
-  <li><a href="https://ko-fi.com/kangminsuk">☕️ Support me</a></li>
   <li><a href="https://github.com/kangminsukdotcom/blog">GitHub</a></li>
 </details>
