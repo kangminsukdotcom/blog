@@ -36,8 +36,8 @@ li {
 <summary>더보기</summary>
 
   <li><a href="https://letterbird.co/kang">연락처</a></li>
+  <li><a href="https://ko-fi.com/kangminsuk">☕️ 후원</a></li>
   <li><a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> & <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a></li>
   <li><a href="https://kangminsuk.com/my-apps/">Projects</a></li>
-  <li><a href="https://ko-fi.com/kangminsuk">후원</a></li>
   <li><a href="https://github.com/kangminsukdotcom/blog">GitHub</a></li>
 </details>
