@@ -10,6 +10,12 @@ display: none;
 </style>
 
 ```
+25-05-27
+
+After death, humans leave websites behind.
+```
+
+```
 25-05-21
 
 It's impossible to be at peace without working towards a goal.
