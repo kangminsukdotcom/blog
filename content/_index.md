@@ -22,7 +22,7 @@ li {
 
 <mark>Minsuk Kang</mark>
 
-![profile](https://www.scribophile.com/images/users/164/164199-510115942@2x.webp)
+![profile](https://www.scribophile.com/images/users/164/164199-510115942@2x.webp "Thinking...")
 
 <details>
 <summary>About</summary>

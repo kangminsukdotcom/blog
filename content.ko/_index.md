@@ -22,7 +22,7 @@ li {
 
 <mark>강민석</mark>
 
-![profile](https://www.scribophile.com/images/users/164/164199-510115942@2x.webp)
+![profile](https://www.scribophile.com/images/users/164/164199-510115942@2x.webp "생각 중...")
 
 <details>
 <summary>소개</summary>
