@@ -142,7 +142,7 @@ code {
   padding: 0.125em 0.3125em;
   color: #343634;
   background-color: #fdfcfb;
-  font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+  font-family: monospace;
 }
 
 pre code {
