@@ -10,6 +10,12 @@ display: none;
 </style>
 
 ```
+25-05-29
+
+Computer is my university.
+```
+
+```
 25-05-27
 
 After death, humans leave websites behind.
