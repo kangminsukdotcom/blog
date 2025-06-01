@@ -10,6 +10,12 @@ display: none;
 </style>
 
 ```
+25-06-02
+
+How do I take a picture of the future?
+```
+
+```
 25-05-31
 
 Would Jesus dance to Gangnam Style?
