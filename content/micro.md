@@ -12,6 +12,12 @@ display: none;
 ```
 25-06-02
 
+It's difficult to say "democracy is working great" when elections feel like civil wars without guns.
+```
+
+```
+25-06-02
+
 How do I take a picture of the future?
 ```
 
