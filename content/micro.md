@@ -10,6 +10,12 @@ display: none;
 </style>
 
 ```
+25-06-04
+
+We crave meanings so we drift into another world.
+```
+
+```
 25-06-02
 
 It's difficult to say "democracy is working great" when elections feel like civil wars without guns.
