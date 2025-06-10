@@ -13,73 +13,17 @@ description: 강민석의 초심플 메일링 서비스.
 스팸, 광고, 트래킹, AI는 없어요.\
 살고 싶게 하는 문장을 골라서 보냅니다.
 
-<form action="https://riku.miso.town/submit?user_id=42&label=emails" method="post" onsubmit="return validateForm();">
+<form action="https://api.web3forms.com/submit" method="POST">
+  <!-- Replace with your Access Key -->
+  <input type="hidden" name="access_key" value="c0adf9e2-5414-4ebb-a6f5-9494108608c7">
 
-  <div class="field">
-    <label for="email">Email </label>
-    <input type="email" name="email" id="email" required><br>
-    <label for="antiSpam">What is 6 + 2?</label>
-    <input type="text" id="antiSpam" name="antiSpam" required><br>
-    <input type="submit" value="Submit">
-  </div>
+  <!-- Form Inputs. Each input must have a name="" attribute -->
+  <input type="email" name="email" required>
 
-  <!-- Honeypot field -->
-  <div class="hidden-honeypot">
-    <label>Leave this field empty: 
-      <input name="contact_time" id="contact_time" type="text" autocomplete="off">
-    </label>
-  </div>
-
-  <!-- Hidden JS-set field -->
-  <input type="hidden" name="js_token" id="js_token" value="">
-
-  <!-- Hidden timestamp -->
-  <input type="hidden" name="load_time" id="load_time" value="">
+  <!-- Honeypot Spam Protection -->
+  <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
 
   <input type="hidden" name="redirect" value="https://kangminsuk.com/thank-you/">
+
+  <button type="submit">Submit</button>
 </form>
-
-<script>
-  document.getElementById("js_token").value = "human";
-  document.getElementById("load_time").value = Date.now();
-
-  function validateForm() {
-    const answer = document.getElementById('antiSpam').value.trim();
-    if (answer !== "8") {
-      alert("Wrong answer to the spam check question.");
-      return false;
-    }
-
-    const honeypot = document.getElementById("contact_time").value.trim();
-    if (honeypot.length > 0 && /[a-zA-Z0-9]/.test(honeypot)) {
-      alert("Bot detected (honeypot field filled).");
-      return false;
-    }
-
-    const jsToken = document.getElementById("js_token").value;
-    if (jsToken !== "human") {
-      alert("JS validation failed.");
-      return false;
-    }
-
-    const loadTime = parseInt(document.getElementById("load_time").value, 10);
-    const now = Date.now();
-    if ((now - loadTime) < 5000) {
-      alert("Form submitted too quickly.");
-      return false;
-    }
-
-    return true;
-  }
-</script>
-
-<style>
-  .hidden-honeypot {
-    position: absolute;
-    left: -9999px;
-    top: -9999px;
-    width: 1px;
-    height: 1px;
-    overflow: hidden;
-  }
-</style>

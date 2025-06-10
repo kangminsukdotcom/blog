@@ -18,7 +18,7 @@ display: none;
 ```
 25-06-04
 
-We crave meanings so we drift into another world.	
+We crave meanings so we drift into another world.
 ```
 
 ```
