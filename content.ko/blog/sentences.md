@@ -30,8 +30,6 @@ description: 강민석의 초심플 메일링 서비스.
     </label>
   </div>
 
-  <div class="cf-turnstile" data-sitekey="0x4AAAAAABgq5caVMNJepvDC"></div>
-
   <!-- Hidden JS-set field -->
   <input type="hidden" name="js_token" id="js_token" value="">
 
