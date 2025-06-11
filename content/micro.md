@@ -12,6 +12,12 @@ display: none;
 ```
 25-06-11
 
+K-pop idols say 'fuck' to look cool, but can never say 'sibal' on camera.
+```
+
+```
+25-06-11
+
 If you're appointed by a politician, there's a high chance you're a piece of shit.
 ```
 
