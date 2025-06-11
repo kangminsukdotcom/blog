@@ -20,7 +20,7 @@ description: 강민석의 초심플 메일링 서비스.
   <input type="email" name="email" id="email" required>
 
   <div class="cf-turnstile"
-       data-sitekey="your-site-key"
+       data-sitekey="0x4AAAAAABgq5caVMNJepvDC"
        data-callback="onTurnstileSuccess"></div>
   <input type="hidden" name="cf-turnstile-response" id="cf-turnstile-response">
 
