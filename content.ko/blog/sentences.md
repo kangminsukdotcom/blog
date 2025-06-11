@@ -29,6 +29,7 @@ description: 강민석의 초심플 메일링 서비스.
 </form>
 
 <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
 <script>
   function onTurnstileSuccess(token) {
     document.getElementById("cf-turnstile-response").value = token;
