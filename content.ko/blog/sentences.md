@@ -4,6 +4,8 @@ date: 2025-05-18
 description: 강민석의 초심플 메일링 서비스.
 ---
 
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
 ![오늘의 문장](https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/20250518_205452.webp)
 
 좋은 문장을 읽는 것만으로 삶이 바뀔 수 있으니까.
@@ -25,8 +27,6 @@ description: 강민석의 초심플 메일링 서비스.
   <input type="hidden" name="redirect" value="https://kangminsuk.com/thank-you/">
   <input type="submit" value="Submit">
 </form>
-
-<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 
 <script>
   function onTurnstileSuccess(token) {
