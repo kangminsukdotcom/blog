@@ -186,8 +186,8 @@ ul.blog-posts a {
 }
 
 a.blog-tags {
-  text-decoration: none;
-  margin-right: 3px;
+  text-decoration: underline;
+  margin-left: 5px;
 }
 
 h3.blog-filter {
