@@ -187,6 +187,7 @@ ul.blog-posts a {
 }
 
 a.blog-tags {
+  font-family: monospace;
   text-decoration: underline;
   margin-left: 5px;
 }
