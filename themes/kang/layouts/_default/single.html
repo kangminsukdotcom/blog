@@ -5,6 +5,11 @@
       <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
         {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
       </time>
+      <p>
+        {{ range (.GetTerms "tags") }}
+          <a class="blog-tags" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
+        {{ end }}
+      </p>
       {{ with .Params.author }}· {{ . }}{{ end }}
     </p>
   {{ end }}
@@ -15,11 +20,6 @@
   <footer>
   <hr>
   <a href="https://letterbird.co/kang">Reply by email.</a>
-  <p>
-    {{ range (.GetTerms "tags") }}
-      <a class="blog-tags" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
-    {{ end }}
-  </p>
   <nav class="post-navigation">
     {{ if .PrevInSection }}
         <a href="{{ .PrevInSection.Permalink }}" class="prev-post">
