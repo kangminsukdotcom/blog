@@ -333,6 +333,7 @@ main {
 nav.post-navigation {
   display: flex;
   justify-content: space-between;
+  margin-top: 14px;
 }
 
 a.prev-post,
