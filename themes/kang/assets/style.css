@@ -6,7 +6,6 @@ html {
 }
 
 time {
-  font-family: monospace;
   font-style: normal;
   color: #6f6f6f;
 }
@@ -187,7 +186,6 @@ ul.blog-posts a {
 }
 
 a.blog-tags {
-  font-family: monospace;
   text-decoration: underline;
   margin-left: 5px;
 }
