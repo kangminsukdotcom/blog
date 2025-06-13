@@ -16,7 +16,7 @@ Professional gamers like [Lim Yo-hwan](https://en.wikipedia.org/wiki/Lim_Yo-hwan
 
 **At the 2005 StarCraft League Final in Busan.**
 
-If you’ve played games like League of Legends and Overwatch, you’ve probably seen Koreans winning Esports championships. So, instead of talking about the great players like [Faker](https://en.wikipedia.org/wiki/Faker_(gamer)), I’d like to unravel the unprecedented success of StarCraft in Korea.
+If you’ve played games like League of Legends and Overwatch, you’ve probably seen Koreans winning Esports championships. So, instead of talking about the great players like Faker, I’d like to unravel the unprecedented success of StarCraft in Korea.
 
 ### Korean financial crisis
 
