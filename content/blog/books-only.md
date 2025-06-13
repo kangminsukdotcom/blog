@@ -10,7 +10,7 @@ What if you could spend a day reading books in a quiet space? No need to feel th
 
 If you want to rest like a reader in the pre-digital era, join us 01-20, 02-03, or 02-17 Saturday from 9 AM to 3 PM at Jagunbae Office(Jeju-si Seosa-ro 173 제주시 서사로 173).
 
-- The entrance fee for *Books Only* is 10,000 won. [Email me](mailto:kang@jagunbae.com) your name, phone number, and chosen date to join *Books Only*.
+- The entrance fee for *Books Only* is 10,000 won. Email me your name, phone number, and chosen date to join *Books Only*.
 - We provide coffee/tea and vegan soup & bread for lunch.
 - From 9 AM to 3 PM, you can spend as much time as you would like in the office.
 - Phones, laptops, and other electronic devices are not allowed during *Books Only.* We ask everyone to put their phones in airplane mode, and they will be stored in a separate box.
@@ -18,7 +18,7 @@ If you want to rest like a reader in the pre-digital era, join us 01-20, 02-03, 
 - Quiet and short conversations only. Just like in an old library's study room.
 - We will be playing ambient music in the background.
 
-Again, [email me](mailto:kang@jagunbae.com) your name, phone number, and chosen date to join *Books Only*. See you soon!
+Again, email me your name, phone number, and chosen date to join *Books Only*. See you soon!
 
 ### Reviews
 

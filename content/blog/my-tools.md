@@ -10,4 +10,4 @@ I just published [(A Bit Serious) Question Generator](https://kangminsuk.com/con
 
 I also translated [(A Bit Serious) Parent Interview](https://kangminsuk.com/interview/) into English. This tool helps you learn more about your parent(s).
 
-[Let me know](https://kangminsuk.com/message/) if you would like to add a question to the database. I would love to hear if these mini tools helped you in any way.
+Let me know if you would like to add a question to the database. I would love to hear if these mini tools helped you in any way.
