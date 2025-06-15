@@ -20,7 +20,7 @@ li {
 }
 </style>
 
-<mark>Minsuk Kang</mark>
+# Minsuk Kang
 
 ![profile](https://www.scribophile.com/images/users/164/164199-510115942@2x.webp "Thinking...")
 
