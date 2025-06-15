@@ -9,6 +9,7 @@ weight: 1
 img {
 max-width: 200px;
 margin: 0;
+border-radius: 5%;
 }
 
 nav {
