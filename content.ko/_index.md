@@ -26,12 +26,8 @@ li {
 
 제주에 사는 중. [이렇게](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kangko/img_2239-2.webp) 생겼다. 지금 [이렇게](https://kangminsuk.com/ko/now/) 살고 있다.
 
-<details>
-<summary>더보기</summary>
-
-  <li><a href="https://letterbird.co/kang">연락처</a></li>
-  <li><a href="https://ko-fi.com/kangminsuk">☕️ 후원</a></li>
+  <li><a href="https://letterbird.co/kang">이메일</a></li>
+  <li><a href="https://ko-fi.com/kangminsuk">후원</a></li>
   <li><a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> & <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a></li>
-  <li><a href="https://kangminsuk.com/my-apps/">Projects</a></li>
+  <li><a href="https://kangminsuk.com/my-apps/">프로젝트</a></li>
   <li><a href="https://github.com/kangminsukdotcom/blog">GitHub</a></li>
-</details>
