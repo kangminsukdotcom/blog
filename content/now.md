@@ -17,6 +17,7 @@ type: page
 - I wake up at 5:45 AM every day to join [창작하는 아침][1](Creator’s Morning).
 - I publish a weekly podcast called [강소팟][2].
 - I write short stories and publish them on this website.
+- [I send beautiful sentences](https://kangminsuk.com/blog/sentences/) every day.
 
 [1]:	https://jagunbae.com/creators-morning-23/
 [2]:	https://podcast.jagunbae.com
