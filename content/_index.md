@@ -26,12 +26,8 @@ A writer, podcaster, sourdough baker, hobby coder, zine maker, pizza eater, form
 
 Working for [Jagunbae](https://en.jagunbae.com) in Jeju, Korea. I look like [this](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kangko/img_2239-2.webp). I'm doing [these](https://kangminsuk.com/now/) right now.
 
-<details>
-<summary>More</summary>
-
   <li><a href="https://letterbird.co/kang">Say hello</a></li>
   <li><a href="https://ko-fi.com/kangminsuk">☕️ Back my work</a></li>
   <li><a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> or <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a></li>
   <li><a href="https://kangminsuk.com/my-apps/">Projects</a></li>
   <li><a href="https://github.com/kangminsukdotcom/blog">GitHub</a></li>
-</details>
