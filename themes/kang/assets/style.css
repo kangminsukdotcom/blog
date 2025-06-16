@@ -28,8 +28,8 @@ body {
   font-size: 1.1em;
   font-family: "Pretendard Variable", Inter, Roboto, 'Helvetica Neue', sans-serif;
   text-align: left;
-  background: #F0F0F0;
-  color: #272727;
+  background: #f1f1ef;
+  color: #353935;
   padding: 2em;
   box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
   border-radius: 3px;
@@ -223,7 +223,7 @@ figcaption > p {
 }
 
 ::selection {
-  background-color: #ddd;
+  background-color: rgba(45,170,219,.3);
 }
 
 .postcard-container {
@@ -340,5 +340,5 @@ a.prev-post,
 a.next-post {
   text-align: left;
   text-decoration: none;
-  color: #444;
+  color: #353935;
 }
