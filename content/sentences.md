@@ -3,6 +3,15 @@ title: Today’s Sentence
 description: An archive of all the sentences I’ve sent to the subscribers.
 ---
 
+<style>
+  p.byline {
+    display: none;
+  }
+  footer {
+    display: none;
+  }
+</style>
+
 ```
 25-05-19
 
