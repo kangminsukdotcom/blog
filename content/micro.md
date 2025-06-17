@@ -10,6 +10,12 @@ display: none;
 </style>
 
 ```
+25-06-18
+
+Figure out a way to showcase digital products offline.
+```
+
+```
 25-06-11
 
 K-pop idols say 'fuck' to look cool, but can never say 'sibal' on camera.
