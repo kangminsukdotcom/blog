@@ -25,6 +25,8 @@ li {
 
 제주에 사는 중. [이렇게](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kangko/img_2239-2.webp) 생겼다. 지금 [이렇게](https://kangminsuk.com/ko/now/) 살고 있다.
 
+[매일 오늘의 문장을 보내는 서비스](https://kangminsuk.com/ko/blog/sentences/)를 운영한다.
+
 <li><a href="https://letterbird.co/kang">이메일</a></li>
 <li><a href="https://ko-fi.com/kangminsuk">후원</a></li>
 <li><a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> & <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a></li>
