@@ -15,7 +15,7 @@ description: 강민석의 초심플 메일링 서비스.
 스팸, 광고, 트래킹, AI는 없어요.\
 살고 싶게 하는 문장을 골라서 보냅니다.
 
-*여태까지 보낸 문장들은 [여기](https://kangminsuk.com/sentences/)에 확인할 수 있습니다.
+[오늘의 문장 아카이브](https://kangminsuk.com/sentences/)도 있어요.
 
 <form action="https://emails.kang-2fb.workers.dev/" method="post" onsubmit="return validateTurnstile();">
   <label for="email">Email</label>
