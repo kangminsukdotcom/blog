@@ -26,7 +26,7 @@ body {
   font-size: 1.1em;
   font-family: "Pretendard Variable", Inter, Roboto, 'Helvetica Neue', sans-serif;
   text-align: left;
-  background: rgba(254, 255, 194, 0.5);
+  background: #faf4e6;
   color: #353935;
   padding: 2em;
   box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
