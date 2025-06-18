@@ -13,6 +13,18 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 </style>
 
 ```
+25-06-18
+
+Jhumpa Lahiri
+
+My father, seventy-eight, is a methodical man. For thirty-nine years, he has had the same job, cataloguing books for a university library. He drinks two glasses of water first thing in the morning, walks for an hour every day, and devotes almost as much time, before bed, to flossing his teeth. “Winging it” is not a term that comes to mind in describing my father. When he’s driving to new places, he does not enjoy getting lost.
+
+줌파 라히리
+
+아빠는 일흔여덟 살이고, 아주 꼼꼼한 사람이다. 39년 동안 대학교 도서관에서 책을 분류하는 일을 해왔다. 아빠는 아침마다 물 두 잔을 마시고, 매일 한 시간씩 걷고, 잠자기 전에 치실로 이를 손질하는 데도 거의 한 시간을 들인다. ‘즉흥적으로 한다’라는 말은 아빠를 설명할 때 전혀 어울리지 않는다. 운전해서 처음 가는 곳에 가더라도, 길을 헤매는 걸 정말 싫어하는 사람이다.
+```
+
+```
 25-06-17
 
 Ralph Waldo Emerson
