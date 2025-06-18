@@ -27,7 +27,7 @@ body {
   font-family: "Pretendard Variable", Inter, Roboto, 'Helvetica Neue', sans-serif;
   text-align: left;
   background: #faf4e6;
-  color: #353935;
+  color: #474747;
   padding: 2em;
   box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
   border-radius: 3px;
@@ -44,7 +44,8 @@ h1.title {
 a {
   text-underline-offset: 0.1em;
   text-decoration-style: dotted;
-  color: #272727;
+  color: #474747;
+  text-decoration-color: blue;
 }
 
 a:hover {
@@ -116,7 +117,7 @@ img {
 
 @media only screen and (max-width: 767px) {
   body {
-    background: #F5F5F5;
+    background: #faf4e6;
     font-size: 1em;
     padding: 0 1rem;
     box-shadow: none;
@@ -338,5 +339,5 @@ a.prev-post,
 a.next-post {
   text-align: left;
   text-decoration: none;
-  color: #353935;
+  color: #474747;
 }
