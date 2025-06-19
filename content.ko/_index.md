@@ -29,8 +29,10 @@ li {
 
 [매일 오늘의 문장을 보내는 서비스](https://kangminsuk.com/ko/blog/sentences/)를 운영한다.
 
+<ul>
 <li><a href="https://letterbird.co/kang">이메일</a></li>
 <li><a href="https://ko-fi.com/kangminsuk">후원</a></li>
 <li><a href="https://kangminsuk.com/blog/index.xml">RSS(English)</a> & <a href="https://kangminsuk.com/ko/blog/index.xml">RSS(한국어)</a></li>
 <li><a href="https://kangminsuk.com/my-apps/">프로젝트</a></li>
 <li><a href="https://github.com/kangminsukdotcom/blog">GitHub</a></li>
+</ul>
