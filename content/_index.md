@@ -5,19 +5,12 @@ description: A Jeju-based writer.
 weight: 1
 ---
 <style>
-
-img {
-max-width: 200px;
-margin: 0;
-border-radius: 5%;
-}
-
-nav {
-  margin-bottom: 1em;
-}
-
 li {
   list-style: none;
+}
+
+ul {
+  padding: 0;
 }
 </style>
 
