@@ -13,6 +13,18 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 </style>
 
 ```
+25-06-19
+
+Shirley Jackson
+
+Your coloring words, particularly adjectives and adverbs, must be used where they will do the most good. Not every action needs a qualifying adverb, not every object needs a qualifying adjective. Your reader probably has a perfectly serviceable mental picture of a lion; when a lion comes into your story you need not burden him with adjectives unless it is necessary, for instance, to point out that he is a green lion, something of which your reader might not have a very vivid mental picture.
+
+셜리 잭슨
+
+형용사나 부사처럼 뜻을 덧붙이는 말은 꼭 필요한 곳에만 써야 한다. 모든 동작에 부사를 붙일 필요는 없고, 모든 대상에 형용사를 붙일 필요도 없다. 대부분의 사람은 사자라는 말만 들어도 머릿속에 이미 떠오르는 이미지가 있다. 그러니 이야기 속에 사자가 등장한다고 해서, 그게 초록색 사자처럼 특별한 경우가 아니라면 굳이 형용사를 덧붙여 설명할 필요는 없다.
+```
+
+```
 25-06-18
 
 Jhumpa Lahiri
