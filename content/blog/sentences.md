@@ -15,7 +15,7 @@ Let me know your email, and Iâ€™ll send you a handpicked sentence from a book Iâ
 No spam. No ads. No AI. No tracking.\
 Just your friend sending you beautiful sentences.
 
-Check out [my archive of sentences](https://kangminsuk.com/sentences/) first, then decide if you want them in your inbox.
+Check out [the archive of sentences](https://kangminsuk.com/sentences/) to decide if you want them in your inbox.
 
 <form action="https://emails.kang-2fb.workers.dev/" method="post" onsubmit="return validateTurnstile();">
   <label for="email">Email</label>
