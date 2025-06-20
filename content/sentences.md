@@ -13,6 +13,26 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 </style>
 
 ```
+25-06-20
+
+Bo Burnham
+
+Why do poets always talk about the ocean's waves,
+about their single file march to shore,
+and yet never talk about my grandmother's farts,
+which arrive in time, one after the other, with equal
+     regularity?
+
+보 번햄
+
+왜 시인들은 늘 바다의 파도에 대해 말할까,
+차례차례 해변으로 밀려오는 그 모습에 대해,
+그런데 왜 아무도 우리 할머니 방귀를
+언급하지 않을까, 정해진 시간에, 하나씩, 똑같이
+규칙적으로 터져 나오는 그 방귀에 대해선?
+```
+
+```
 25-06-19
 
 Shirley Jackson
