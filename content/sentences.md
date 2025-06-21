@@ -13,6 +13,18 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 </style>
 
 ```
+25-06-21
+
+Robert M. Pirsig
+
+Mountains should be climbed with as little effort as possible and without desire. The reality of your own nature should determine the speed. If you become restless, speed up. If you become winded, slow down. You climb the mountain in an equilibrium between restlessness and exhaustion. Then, when you’re no longer thinking ahead, each footstep isn’t just a means to an end but a unique event in itself. This leaf has jagged edges. This rock looks loose. From this place the snow is less visible, even though closer. These are things you should notice anyway. To live only for some future goal is shallow. It’s the sides of the mountain which sustain life, not the top. Here’s where things grow. .... Mental reflection is so much more interesting than TV it’s a shame more people don’t switch over to it.
+
+로버트 M. 피어시그
+
+최대한 힘을 들이지 않고, 욕심 없이 등산해야 한다. 오르는 속도는 내면의 리듬에 맞추자. 조급해지면 속도를 높이고, 숨이 차면 속도를 늦춰라. 그렇게 산을 오르면 조급함과 탈진 사이의 균형 속에 있게 된다. 그리고 더 이상 미래를 떠올리지 않게 되면, 한 걸음 한 걸음이 목적지를 향한 수단뿐 아니라 그 자체로 고유한 사건이 된다. 이 잎은 가장자리가 들쭉날쭉하구나. 이 돌은 헐거워 보인다. 이 지점에서는 하얀 눈이 더 가까이 있지만 잘 보이지 않네. 이런 것들을 눈여겨봐야 한다. 오직 목표만을 위해 사는 삶은 얕다. 삶을 지탱하는 것은 산꼭대기가 아니라 산의 옆면이다. 삶이 자라는 건 바로 이곳이다. … 마음을 들여다보는 일은 TV보다 훨씬 흥미롭다. 사람들이 그쪽으로 채널을 돌리지 않는다는 건 참 안타까운 일이다.
+```
+
+```
 25-06-20
 
 Bo Burnham
