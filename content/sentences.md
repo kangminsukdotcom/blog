@@ -13,6 +13,18 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 </style>
 
 ```
+25-06-22
+
+Chuck Klosterman
+
+The process of compiling old articles is not difficult, but it also isn’t pleasant. It’s just not enjoyable to reread things you’ve written in the not-so-distant past (I think this is true for most writers, discounting those real crazy motherfuckers who believe the world would be radically different if they weren’t involved). Every positive memory is coated with the ooze of regret: You want to delete every semicolon and alter every joke. Moments that once seemed revelatory now seem banal. You’re forcibly reminded how rapidly society evolves, and it’s disheartening to revisit an arbitrary event from five years ago that suddenly feels like a factoid from 1958. It’s the worst kind of time machine.
+
+척 클로스터먼
+
+예전 글들을 모으는 작업이 어렵진 않지만, 유쾌하지도 않다. 쓴 지 얼마 지나지 않은 글을 다시 읽는 건 재미가 없다(대부분의 작가에게 적용되는 사실이다. 자신이 세상에 지대한 영향을 끼쳤다고 믿는 진짜 미친 사람들을 빼면 말이다). 기분 좋은 기억마저도 후회의 안개에 가려진다. 그래서 모든 세미콜론을 지우고, 모든 농담을 고치고 싶은 마음이 든다. 한때는 통찰처럼 느껴졌던 순간들이 이제는 진부하게 느껴지기도 한다. 세상이 얼마나 빨리 바뀌는지 강제로 실감하게 된다. 불과 5년 전의 일인데도, 갑자기 1958년쯤의 낡은 정보처럼 느껴지면서 침울해진다. 최악의 타임머신이다.
+```
+
+```
 25-06-21
 
 Robert M. Pirsig
