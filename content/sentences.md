@@ -13,6 +13,19 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 </style>
 
 ```
+25-06-23
+
+Jon Krakauer
+
+There were many, many fine reasons not to go, but attempting to climb Everest is an intrinsically irrational act—a triumph of desire over sensibility. Any person who would seriously consider it is almost by definition beyond the sway of reasoned argument. The plain truth is that I knew better but went to Everest anyway. And in doing so I was a party to the death of good people, which is something that is apt to remain on my conscience for a very long time.
+
+존 크라카우어
+
+에베레스트에 가지 말아야 할 이유는 수도 없이 많았다. 하지만 에베레스트를 오르려는 시도는 애초에 비이성적인, 이성보다 욕망이 앞서는 선택이다. 이와 같은 생각을 진지하게 해보는 사람이라면, 애당초 이성적인 설득이 통하지 않는 사람일 가능성이 크다. 부정할 수 없는 사실은, 나는 그 위험을 알고 있었다는 것이다. 그런데도 에베레스트에 갔다. 그리고 그 선택으로 인해 나는 선한 사람들의 죽음에 연루되었고, 그 일은 아마 평생 내 양심에 무겁게 남을 것이다.
+```
+
+
+```
 25-06-22
 
 Chuck Klosterman
