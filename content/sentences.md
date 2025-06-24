@@ -18,15 +18,12 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 Mary Oliver
 
 You may not agree, you may not care, but
-if you are holding this book you should know that of all the sights I
-love in this world — and there are plenty — very near the top of the
-list is this one: dogs without leashes.
+if you are holding this book you should know that of all the sights I love in this world — and there are plenty — very near the top of the list is this one: dogs without leashes.
 
 메리 올리버
 
 동의하지 않을 수 있고, 관심 없어도 괜찮지만,
-이 책을 들고 있다면 알아줬으면 해요. 이 세상에 내가 아끼는 풍경이 정말 많지만, 그중에서도 손에 꼽을 만큼 좋아하는 모습은
-목줄 없이 다니는 강아지들이라는 걸.
+이 책을 들고 있다면 알아줬으면 해요. 이 세상에 내가 아끼는 풍경이 정말 많지만, 그중에서도 손에 꼽을 만큼 좋아하는 모습은 목줄 없이 다니는 강아지들이라는 걸.
 ```
 
 ```
