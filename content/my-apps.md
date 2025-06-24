@@ -27,6 +27,7 @@ display: none;
 - [블로그 만세!](https://blogmansae.netlify.app)
 - [치지레이지 리뷰 모음](https://reviews.cheesylazy.com)
 - [질문 있는 사람들](https://questions.jagunbae.com)
+- [Now](https://kangminsuk.com/ko/now/)
 ## English
 - [Jagunbae](https://en.jagunbae.com)
 - [I’ll send you a sentence every day](https://kangminsuk.com/blog/sentences/)
@@ -39,3 +40,4 @@ display: none;
 - [The reviews of Cheesylazy](https://reviews.cheesylazy.com)
 - [Infamous Interview Questions](https://infamous-interview-questions.vercel.app)
 - [I don’t know](https://idk.kangminsuk.com)
+- [Now](https://kangminsuk.com/now/)
