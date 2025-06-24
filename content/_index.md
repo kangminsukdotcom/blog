@@ -18,7 +18,7 @@ Hi, I'm Minsuk Kang. I live in Jeju, Korea.
 
 <ul>
 <li><a href="https://letterbird.co/kang">Email</a></li>
-<li><a href="https://ko-fi.com/kangminsuk">Donate</a></li>
 <li><a href="https://kangminsuk.com/blog/index.xml">RSS</a></li>
 <li><a href="https://kangminsuk.com/my-apps/">Projects</a></li>
+<li><a href="https://ko-fi.com/kangminsuk">Donate</a></li>
 </ul>
