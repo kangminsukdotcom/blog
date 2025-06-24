@@ -15,7 +15,7 @@ ul {
 }
 </style>
 
-안녕하세요. 제주에 사는 강민석입니다.
+강민석은 제주에 산다.
 
 <ul>
 <li><a href="https://letterbird.co/kang">이메일</a></li>

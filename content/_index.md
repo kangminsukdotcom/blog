@@ -14,7 +14,7 @@ ul {
 }
 </style>
 
-Hi, I'm Minsuk Kang. I live in Jeju, Korea.
+Minsuk Kang lives in Jeju, Korea.
 
 <ul>
 <li><a href="https://letterbird.co/kang">Email</a></li>
