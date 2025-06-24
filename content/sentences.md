@@ -10,6 +10,9 @@ description: An archive of all the sentences I’ve sent to the subscribers.
   footer {
     display: none;
   }
+  a {
+	  text-align: right;
+  }
 </style>
 
 [Subscribe](https://kangminsuk.com/blog/sentences/)
