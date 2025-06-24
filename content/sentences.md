@@ -12,6 +12,8 @@ description: An archive of all the sentences I’ve sent to the subscribers.
   }
 </style>
 
+[Subscribe](https://kangminsuk.com/blog/sentences/)
+
 ```
 25-06-24
 
