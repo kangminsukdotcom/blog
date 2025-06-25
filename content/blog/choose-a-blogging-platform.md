@@ -35,4 +35,4 @@ Then choose [Bear Blog](https://bearblog.dev) or [Comma](https://www.comma.to).
 Then use [Gibberish](https://gibber.blog).
 
 **Do you want to turn your files into a blog?**\
-Then use [Blot](https://blot.im) or LMNO(https://lmno.lol).
+Then use [Blot](https://blot.im) or [LMNO](https://lmno.lol).
