@@ -1,5 +1,5 @@
 ---
-title: A simple guide to find your perfect blogging platform
+title: A simple guide to finding the right blogging platform
 date: 2025-06-25
 description: Choose a blogging platform based on your needs.
 ---
