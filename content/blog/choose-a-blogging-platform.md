@@ -8,7 +8,7 @@ description: Choose a blogging platform based on your needs.
 Then choose [Pagecord](https://pagecord.com), [Ghost](https://www.pikapods.com/apps#blog), or [Buttondown](https://buttondown.com).
 
 **Do you want your blog to be as minimal as possible?**\
-Then choose [Mataroa](http://mataroa.blog), [Smol.pub](https://smol.pub), or [LMNO](https://lmno.lol).
+Then choose [Mataroa](http://mataroa.blog), [Smol Pub](https://smol.pub), or [LMNO](https://lmno.lol).
 
 **Do you want your blog to be part of the fediverse?**\
 Then choose [Micro.blog](https://micro.blog) or [Ghost](https://www.pikapods.com/apps#blog).
