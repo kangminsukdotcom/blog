@@ -1,7 +1,7 @@
 ---
-title: How to choose a blogging platform based on what you need
+title: A simple guide to find your perfect blogging platform
 date: 2025-06-25
-description: A simple guide to find your perfect blogging platform.
+description: Choose a blogging platform based on your needs.
 ---
 
 Do you want to launch a newsletter?\
