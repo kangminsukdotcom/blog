@@ -18,6 +18,18 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-06-25
+
+Scott Adams
+
+All I'm suggesting is that thinking of goals and systems as very different concepts has power. Goal-oriented people exist in a state of continuous presuccess failure at best, and permanent failure at worst if things never work out. Systems people succeed every time they apply their systems, in the sense that they did what they intended to do. The goals people are fighting the feeling of discouragement at each turn. The systems people are feeling good everytime they apply their system. That's a big difference in terms of maintaining your personal energy in the right direction.
+
+스콧 애덤스
+
+내가 말하고 싶은 건, 목표와 시스템을 전혀 다른 개념으로 바라보는 것이 큰 힘을 발휘할 수 있다는 점이다. 목표 중심의 사람은 아무리 일이 잘 풀려도 늘 ‘성공 이전의 실패’ 상태에 머무르게 된다. 그리고 일이 끝내 잘못되면, 영영 실패한 채로 남을 수도 있다. 반면 시스템 중심의 사람은 시스템 속에서 의도한 대로 행동할 때마다 성공한다. 목표 중심의 사람은 매번 좌절감을 견뎌야 하지만, 시스템 중심의 사람은 시스템을 실천할 때마다 기분이 좋아진다. 에너지를 올바른 방향으로 쓰는 데 있어, 이 둘 사이에는 아주 큰 차이가 있다.
+```
+
+```
 25-06-24
 
 Mary Oliver
