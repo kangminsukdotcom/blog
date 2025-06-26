@@ -18,6 +18,18 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-06-26
+
+Barton Gellman
+
+Information is the oxygen of control.
+
+바튼 겔먼
+
+정보는 통제를 가능하게 하는 산소다.
+```
+
+```
 25-06-25
 
 Scott Adams
