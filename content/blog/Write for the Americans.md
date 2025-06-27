@@ -15,7 +15,7 @@ Also, the upcoming extinction of South Korea worries me. Korean babies are now a
 
 I’ve read work by Korean Americans and Korean adoptees struggling to understand their identities. But I rarely come across stories from people like me. People torn not by cultural clashes or racism, but by the lifelong pressure to be a “global citizen.”
 
-My parents gave up most of their assets to fund my education abroad. For years, I liked to brag that I was educated in China and the U.S. I knew I sounded more “interesting” if I acted unfamiliar with Korean culture. Based on others’ reactions, I told myself I had to become more American. Read the best American novels. Pick American role models. Always be prepared to leave Korea in case things start to fall apart.
+My parents gave up most of their assets to fund my education abroad. For years, I liked to brag that I was educated in China and the U.S. I knew my life sounded more “interesting” if I acted unfamiliar with Korean culture. Based on others’ reactions, I told myself I had to become more American. Read the best American novels. Pick American role models. Always be prepared to leave Korea in case things start to fall apart.
 
 Look at *gomtang*. It suddenly became a proud symbol of K-food when The New York Times praised a *gomtang* restaurant as one of the best in Manhattan. Even Korean food, the most Korean thing next to the language, becomes globally valuable when New Yorkers realize there’s more to it than just kimchi. Try running the best *gomtang* place in Seoul for decades. Even if you dedicate your life to that quest, no one will call you one of “the proud Koreans.” New York’s approval is like a blessing from Jesus himself.
 
