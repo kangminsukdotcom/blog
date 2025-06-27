@@ -11,7 +11,7 @@ Most of my close friends, the ones I actually meet in person at least once a mon
 
 Despite the circumstances, I’ve been pushing myself to write more in English. Why? Because the world has way more English speakers than Korean speakers. Because people say English speakers have the biggest purchasing power. Because English speakers come from more diverse backgrounds. Because it’s easier for me to express raw opinions in English. Because in Korea, writing in English just sounds sexier than writing in Korean.
 
-Also, the upcoming extinction of South Korea worries me. Korean babies are now as rare as giant pandas. This country will collapse when most of the population is over 60. That’s not a hundred years from now. I mean within fifty years, assuming the world’s lowest fertility rate doesn’t change. This statistic never fails to depress me to the core.
+Also, the upcoming extinction of South Korea worries me. Korean babies are now as rare as giant pandas. This country will collapse when most of the population is over sixty. That’s not a hundred years from now. I mean within fifty years, assuming the world’s lowest fertility rate doesn’t change. This statistic never fails to depress me to the core.
 
 I’ve read work by Korean Americans and Korean adoptees struggling to understand their identities. But I rarely come across stories from people like me. People torn not by cultural clashes or racism, but by the lifelong pressure to be a “global citizen.”
 
