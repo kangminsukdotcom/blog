@@ -18,6 +18,31 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-06-28
+
+Edward Snowden
+
+Ultimately, saying that you don't care about privacy because you have nothing to hide is no different from saying you don't care about freedom of speech because you have nothing to say.
+
+에드워드 스노든
+
+“숨길 게 없으니 프라이버시 따위 신경 쓰지 않는다”라고 말하는 건, “할 말이 없으니 표현의 자유도 필요 없다”라고 말하는 것과 다를 바 없다.
+
+```
+
+```
+25-06-27
+
+Charlie Munger
+
+Spend each day trying to be a little wiser than you were when you woke up. Day by day, and at the end of the day-if you live long enough-like most people, you will get out of life what you deserve.
+
+찰리 멍거
+
+매일 아침 눈 떴을 때 전날보다 조금 더 지혜로워지도록 노력하자. 그렇게 하루하루 쌓이며 오래 살다 보면 결국 마땅히 받을 만한 것을 얻게 될 것이다.
+```
+
+```
 25-06-26
 
 Barton Gellman
