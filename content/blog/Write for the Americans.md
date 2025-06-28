@@ -11,9 +11,9 @@ Most of my close friends, the ones I actually meet in person at least once a mon
 
 Despite the circumstances, I’ve been pushing myself to write more in English. Why? Because the world has way more English speakers than Korean speakers. Because people say English speakers have the biggest purchasing power. Because English speakers come from more diverse backgrounds. Because it’s easier for me to express raw opinions in English. Because in Korea, writing in English just sounds sexier than writing in Korean.
 
-Also, the upcoming extinction of South Korea worries me. Korean babies are now as rare as giant pandas. This country will collapse when most of the population is over sixty. That’s not a hundred years from now. I mean within fifty years, assuming the world’s lowest fertility rate doesn’t change. This statistic never fails to depress me to the core.
+Also, the upcoming extinction of South Korea worries the hell out of me. Korean babies are now as rare as giant pandas. This country will collapse when most of the population is over sixty. That’s not a hundred years from now. I mean within fifty years, assuming the world’s lowest fertility rate doesn’t suddenly rise. This statistic never fails to depress me to the core of my soul.
 
-I’ve read work by Korean Americans and Korean adoptees struggling to understand their identities. But I rarely come across stories from people like me. People torn not by cultural clashes or racism, but by the lifelong pressure to be a “global citizen.”
+I’ve read works by Korean Americans and Korean adoptees struggling to understand their identities. But I rarely come across stories from people like me. People torn not by cultural clashes or racism, but by the lifelong pressure to be a “global citizen.”
 
 My parents gave up most of their assets to fund my education abroad. For years, I liked to brag that I was educated in China and the U.S. I knew my life sounded more “interesting” if I acted unfamiliar with Korean culture. Based on others’ reactions, I told myself I had to become more American. Read the best American novels. Pick American role models. Always be prepared to leave Korea in case things start to fall apart.
 
