@@ -10,6 +10,12 @@ display: none;
 </style>
 
 ```
+25-06-29
+
+Just finished The Bear seaon four. I really hope it comes back for another season. The Bear and Severance. These two are the absolute best.
+```
+
+```
 25-06-18
 
 Figure out a way to showcase digital products offline.
