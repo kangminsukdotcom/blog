@@ -18,6 +18,18 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-06-29
+
+Wendell Berry, Why I Am Not Going to Buy a Computer
+
+To reduce or shortcut the intimacy of the body's involvement in the making of a work of art inevitably risks reducing the work of art and the art it self. I am not going to use a computer because I don't want to diminish or distort my bodily involvement in my work.
+
+웬델 베리, 내가 컴퓨터를 사지 않는 이유
+
+예술 작품을 만드는 데 있어 몸이 깊이 관여하는 과정을 줄이거나 건너뛰면, 어쩔 수 없이 작품과 예술성 자체가 약해질 수 있다. 그래서 나는 내 작업에서 몸의 개입이 줄어들거나 왜곡되는 일이 없도록 컴퓨터를 쓰지 않기로 했다.
+```
+
+```
 25-06-28
 
 Edward Snowden
