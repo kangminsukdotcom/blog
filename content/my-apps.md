@@ -1,7 +1,7 @@
 ---
-title: Projects
+title: Creations
 type: page
-description: Yes, I like expressing myself through code. 
+description: Yup, I like expressing myself through whatever.
 ---
 
 <style>
