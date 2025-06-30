@@ -5,6 +5,8 @@ description: 수많은 국가, 도시, 회사가 AI 우선주의를 신봉하는
 tags: [에세이]
 ---
 
+![AI 지옥](https://bear-images.sfo2.cdn.digitaloceanspaces.com/archive/02pm.webp)
+
 우리는 [AI 지옥](https://ai-hell.yay.boo)에 살고 있다.
 
 제주도가 7조8451억 원짜리 국정과제 예산을 이재명 정부에 제안한다는 [기사](https://www.jejusori.net/news/articleView.html?idxno=437471)를 봤다. 역시나 “K-컬처 밸리”, “우주산업클러스터”, “바이오 헬스 클러스터” 같은 뜬구름 잡는 계획으로 가득 차 있다. 이 와중에 가장 많이 쓰인 단어는 AI다. “K-AI Home&City Jeju”부터 “글로벌 기후테크 AI 혁신센터 구축”, “AI 디지털 미래인재 수도 제주 조성”, “AI 기반 관광”, “미래형 친환경 농업용 AI”까지. 누가 보면 OpenAI 본사가 제주에 있는 줄 알겠다 싶을 정도로 초현실적인 몸부림이다.
