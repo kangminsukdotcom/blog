@@ -13,6 +13,7 @@ display: none;
 ## 한국어
 - [작은배](https://jagunbae.com)
 - [강소팟](https://podcast.jagunbae.com)
+- [AI 지옥](https://ai-hell.yay.boo)
 - [만들기는 재밌어!](https://archive.bearblog.dev)
 - [오늘의 문장을 보내드립니다](https://kangminsuk.com/ko/blog/sentences/)
 - [제주북페일](https://jejubookfail.com)
