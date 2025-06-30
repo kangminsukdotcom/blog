@@ -18,6 +18,20 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-06-30
+
+25-06-30
+
+Lydia Davis, Essays One
+
+If you want to be original, don’t labor to be original. Rather, work on yourself, your mind, and then say what you think. This was Stendhal’s advice. Actually, he said: “If you want to be witty, work on your character and say what you think on every occasion.
+
+리디아 데이비스, Essays One
+
+독창적인 사람이 되고 싶다면 독창적인 사람이 되려고 애쓰지 않아야 한다. 대신 자신의 내면을 가다듬고, 떠오르는 생각을 솔직하게 표현해야 한다. 이것이 스탕달의 조언이었다. 사실 스탕달은 이렇게 말했다. “재치 있는 사람이 되고 싶다면 자기 자신을 잘 다듬으면서 매 순간 떠오르는 생각을 말하면 된다”라고.
+```
+
+```
 25-06-29
 
 Wendell Berry, Why I Am Not Going to Buy a Computer
