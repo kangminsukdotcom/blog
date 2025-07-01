@@ -18,8 +18,18 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
-25-06-30
+25-07-01
 
+Michel de Montaigne, The Complete Works
+
+The world always looks straight ahead; as for me, I turn my gaze inward. I fix it there and keep it busy. Everyone looks in front of him; as for me, I look inside of me; I have no business but with myself; I continually observe myself, I take stock of myself, I taste myself. Others always go elsewhere, if they stop to think about it; they always go forward ... As for me, I roll about in myself.
+
+미셸 드 몽테뉴, The Complete Works
+
+사람들은 늘 앞만 바라본다. 나는 다르다. 나는 내 안을 들여다본다. 거기에 시선을 고정하는 것만으로도 충분히 바쁘다. 다들 앞으로 가지만, 나는 내 안을 향한다. 나에게 중요한 건 나 자신뿐이다. 나는 끊임없이 나를 살피고, 관찰하고, 음미한다. 사람들은 늘 어딘가로 움직이지만, 가만히 생각해 보면 그건 언제나 앞으로 나아가는 일이다. 나는 그저 내 안을 맴돌며 살아간다.
+```
+
+```
 25-06-30
 
 Lydia Davis, Essays One
