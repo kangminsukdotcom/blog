@@ -18,6 +18,18 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-07-02
+
+George Saunders, A Swim in a Pond in the rain
+
+In Buddhism, it’s said that a teaching is like “a finger pointing at the moon.” The moon (enlightenment) is the essential thing and the pointing finger is trying to direct us to it, but it’s important not to confuse finger with moon.
+
+조지 손더스, A Swim in a Pond in the rain
+
+불교에서는 가르침을 “달을 가리키는 손가락”에 비유하곤 한다. 본질은 달(깨달음)이고, 손가락은 그 방향을 가리키는 도구일 뿐이다. 손가락과 달을 혼동하지 않는 것이 중요하다.
+```
+
+```
 25-07-01
 
 Michel de Montaigne, The Complete Works
