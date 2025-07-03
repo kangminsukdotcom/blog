@@ -18,6 +18,19 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-07-03
+
+Kevin Kelly, Flounder Mode
+
+Greatness is overrated. It’s a form of extremism, and it comes with extreme vices that I have no interest in. Steve Jobs was a jerk. Bob Dylan is a jerk.
+
+케빈 켈리, Flounder Mode
+
+위대함은 과대평가된 개념이다. 일종의 극단주의이기 때문에 내가 감당하고 싶지 않은 극단적인 결점들을 요구한다. 스티브 잡스는 괴팍했고, 밥 딜런도 마찬가지다
+```
+
+
+```
 25-07-02
 
 George Saunders, A Swim in a Pond in the rain
