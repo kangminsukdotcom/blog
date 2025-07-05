@@ -29,7 +29,7 @@ timeZone = "Asia/Seoul"
       titleImage = "/images/kang.jpg"
     [languages.en.menu]
       [[languages.en.menu.main]]
-        name = "Sentences"
+        name = "Quotes"
         url = "/sentences/"
         weight = 3
   
