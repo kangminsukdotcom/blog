@@ -18,6 +18,30 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-07-05
+
+Stéphane Pigeon, What a Hacker Stole From Me
+
+Let’s keep building things around us, and together, outnumber those who chose the opposite. Because in the end, building gives meaning to life. Destroying doesn’t.
+
+Stéphane Pigeon, What a Hacker Stole From Me
+
+계속해서 무언가를 만들자. 그리고 그런 사람들의 수가, 반대를 선택한 이들보다 많아지도록 하자. 결국 삶에 의미를 주는 건 만드는 일이지, 부수는 일이 아니다.
+```
+
+```
+25-07-04
+
+앤소니 드 멜로, 사랑으로 가는 길
+
+수천 송이 꽃의 향기를 즐길 줄 안다면, 단 하나에 집착하지도 그것을 얻지 못해 괴로워하지도 않을 것이다.
+
+Anthony de Mello, The Way to Love: Meditations for Life
+
+If you learn to enjoy the scent of a thousand flowers you will not cling to one or suffer when you cannot get it.
+```
+
+```
 25-07-03
 
 Kevin Kelly, Flounder Mode
