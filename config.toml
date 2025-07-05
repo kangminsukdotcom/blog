@@ -29,8 +29,8 @@ timeZone = "Asia/Seoul"
       titleImage = "/images/kang.jpg"
     [languages.en.menu]
       [[languages.en.menu.main]]
-        name = "Journal"
-        url = "/micro/"
+        name = "Sentences"
+        url = "/sentences/"
         weight = 3
   
   [languages.ko]
@@ -43,8 +43,8 @@ timeZone = "Asia/Seoul"
       titleImage = "/images/kang2.jpg"
     [languages.ko.menu]
       [[languages.ko.menu.main]]
-        name = "기록"
-        url = "/micro/"
+        name = "문장"
+        url = "/sentences/"
         weight = 3
 
 [taxonomies]
