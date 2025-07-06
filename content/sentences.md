@@ -18,6 +18,18 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-07-06
+
+Ursula K. Le Guin, A Few Words to a Young Writer
+
+Socrates said, “The misuse of language induces evil in the soul.” He wasn't talking about grammar. To misuse language is to use it the way politicians and advertisers do, for profit, without taking responsibility for what the words mean. Language used as a means to get power or make money goes wrong: it lies. Language used as an end in itself, to sing a poem or tell a story, goes right, goes towards the truth.
+
+어슐러 K. 르 귄, 젊은 작가에게 하고 싶은 말
+
+소크라테스는 “언어를 잘못 쓰면 영혼이 병든다”고 말했다. 문법 얘기가 아니다. 언어를 잘못 쓴다는 건 정치인이나 광고하는 사람들이 그렇듯, 말의 의미에 책임지지 않고 이익을 위해 쓰는 걸 말한다. 권력이나 돈을 얻기 위한 수단으로 쓰면, 언어는 엇나가고 거짓이 된다. 반대로 시를 읊거나 이야기를 들려주기 위해, 언어 그 자체를 목적으로 쓸 때는 올바른 방향을 향해 간다. 진실로 나아가는 것이다.
+```
+
+```
 25-07-05
 
 Stéphane Pigeon, What a Hacker Stole From Me
@@ -38,7 +50,7 @@ Stéphane Pigeon, What a Hacker Stole From Me
 
 Anthony de Mello, The Way to Love: Meditations for Life
 
-If you learn to enjoy the scent of a thousand flowers you will not cling to one or suffer when you cannot get it.
+- If you learn to enjoy the scent of a thousand flowers you will not cling to one or suffer when you cannot get it.
 ```
 
 ```
