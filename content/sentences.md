@@ -18,6 +18,19 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-07-07
+
+Jack Gilbert, The Great Fires
+
+We must unlearn the constellations to see the stars.
+
+잭 길버트, The Great Fires
+
+별을 제대로 보려면, 별자리부터 잊어야 한다.
+
+```
+
+```
 25-07-06
 
 Ursula K. Le Guin, A Few Words to a Young Writer
