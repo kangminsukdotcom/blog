@@ -18,6 +18,18 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-07-08
+
+Ursula K. Le Guin
+
+Books aren’t just commodities; the profit motive is often in conflict with the aims of art. We live in capitalism, its power seems inescapable — but then, so did the divine right of kings. Any human power can be resisted and changed by human beings. Resistance and change often begin in art. Very often in our art, the art of words.
+
+Ursula K. Le Guin
+
+책은 그저 상품이 아니다. 이윤을 추구하는 동기는 예술의 목적과 종종 충돌한다. 우리는 자본주의 사회에 살고 있고, 그 힘은 피할 수 없어 보인다. 그런데 신성하다고 믿었던 왕의 권위 또한 마찬가지였다. 인간이 만든 권력은 인간이 거부하고 바꿀 수 있다. 저항과 변화는 종종 예술에서 시작된다. 그중에서도 말의 예술, 즉 글에서 자주 시작된다.
+```
+
+```
 25-07-07
 
 Jack Gilbert, The Great Fires
