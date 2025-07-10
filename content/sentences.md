@@ -99,7 +99,7 @@ Stéphane Pigeon, What a Hacker Stole From Me
 
 Anthony de Mello, The Way to Love: Meditations for Life
 
-- If you learn to enjoy the scent of a thousand flowers you will not cling to one or suffer when you cannot get it.
+If you learn to enjoy the scent of a thousand flowers you will not cling to one or suffer when you cannot get it.
 ```
 
 ```
