@@ -18,6 +18,30 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-07-10
+
+Hannah Arendt, The Life of the Mind
+
+The sad truth is that most evil is done by people who never make up their minds to be good or evil.
+
+한나 아렌트, 정신의 삶
+
+슬픈 진실은 대부분의 악은 선이 될지 악이 될지 마음먹지 못한 사람들이 저지른다는 것이다.
+```
+
+```
+25-07-09
+
+Clarice Lispector, The Hour of the Star
+
+Everything in the world began with a yes. One molecule said yes to another molecule and life was born.
+
+클라리스 리스펙토르, 별의 시간
+
+이 세상 모든 것은 “예”로 시작됐다. 하나의 분자가 다른 분자에게 “예”라고 말했고, 그 순간 삶이 태어났다.
+```
+
+```
 25-07-08
 
 Ursula K. Le Guin
