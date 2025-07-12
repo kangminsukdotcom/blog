@@ -18,6 +18,18 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-07-11
+
+Yuval Noah Harari, Sapiens
+
+We did not domesticate wheat. It domesticated us.
+
+유발 하라리, 사피엔스
+
+우리가 밀을 길들인 것이 아니다. 밀이 우리를 길들였다.
+```
+
+```
 25-07-10
 
 Hannah Arendt, The Life of the Mind
