@@ -18,6 +18,66 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-07-16
+
+Isaac Babel
+
+No iron spike can pierce a human heart as icily as a period in the right place.
+
+이삭 바벨
+
+그 어떤 쇠못도 마침표가 제자리에 찍힐 때만큼 냉철하게 사람의 심장을 꿰뚫지 못한다.
+```
+
+```
+25-07-15
+
+George Saunders, The Braindead Megaphone
+
+Don't be afraid to be confused. Try to remain permanently confused. Anything is possible. Stay open, forever, so open it hurts, and then open up some more, until the day you die, world without end, amen.
+
+George Saunders, The Braindead Megaphone
+
+혼란스러워하는 것을 두려워하지 말자. 영원히 혼란스러운 상태를 유지하려고 해보자. 무엇이든 가능하니까. 평생 마음을 열어두자, 아플 정도로, 그리고 조금 더 열어보자, 죽는 그날까지, 끝없는 세상까지, 아멘.
+```
+
+```
+25-07-14
+
+Min Jin Lee, Light Source
+
+Fiction is a light source in a world that tells us that there is no daylight left.
+
+이민진, Light Source
+
+소설은 더 이상 햇빛이 남아있지 않다고 하는 세상에 빛을 비춰주는 광원이다.
+```
+
+```
+25-07-13
+
+Susan Sontag, Literature Is Freedom
+
+Literature was the passport to enter a larger life; that is, the zone of freedom.
+
+수전 손택, 문학은 자유다
+
+문학은 더 큰 삶으로 나아가는 통로였다. 다시 말해, 자유가 숨 쉬는 공간이었다.
+```
+
+```
+25-07-12
+
+David Wojnarowicz, DO NOT DOUBT THE DANGEROUSNESS OF THE 12-INCH-TALL POLITICIAN
+
+I have never called myself a “photographer.” If anyone ever asked me whether I was a photographer, I would say in return: “I sometimes make photographs.” I have never been comfortable calling myself anything that would label my acts of creativity because I don’t ever want to take myself so seriously that others would then pull out their magnifying glasses and hold me or my actions or the artifacts of those actions up to the ART WORLD criteria of any given medium.
+
+David Wojnarowicz, DO NOT DOUBT THE DANGEROUSNESS OF THE 12-INCH-TALL POLITICIAN
+
+나는 한 번도 스스로를 ‘사진작가’라고 불러본 적이 없다. 누군가 나에게 사진작가냐고 물으면, 나는 이렇게 대답하곤 했다. "종종 사진을 찍긴 해요." 나는 내 창작 행위를 규정짓는 그 어떤 명칭도 편하게 받아들인 적이 없다. 왜냐하면 내가 스스로를 너무 진지하게 받아들이는 순간, 다른 사람들이 확대경을 들고 나, 내 행동, 혹은 그 행동의 산물들을 예술계의 기준에 맞춰 평가하려 들 것이기 때문이다.
+```
+
+```
 25-07-11
 
 Yuval Noah Harari, Sapiens
