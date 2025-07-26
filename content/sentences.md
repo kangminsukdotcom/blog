@@ -18,6 +18,82 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-07-25
+
+Amy Hempel, In a Tub
+> When I was a girl I sneaked out at night. I pressed myself to hedges and fitted the shadows of trees. I went to a construction site near the lake. I took a concrete-mixing tub, slid it to the shore, and sat down inside it like a saucer. I would push off from the sand with one stolen oar and float, hearing nothing, for hours.
+
+에이미 헴펠, 욕조에서
+> 어릴 적, 밤이 되면 몰래 집을 빠져나왔다. 산울타리에 몸을 바싹 붙이고 나무 그림자에 몸을 숨겼다. 호수 근처 공사장으로 가서 콘크리트 배합통 하나를 가져와 해변까지 끌고 갔다. 그리고 접시인 것처럼 그 안에 앉았다. 훔친 노 하나로 모래를 밀어내고 물에 떠서, 몇 시간이고 아무 소리도 듣지 않은 채 표류했다.
+```
+
+```
+25-07-23
+
+Mikhail Bakunin
+> It would be sad for mankind ... if science alone were in charge of all social administration. Life would wither, and human society would turn into a voiceless and servile herd. The domination of life by science can have no other result than the brutalization of mankind.
+
+미하일 바쿠닌
+> 만일 과학만이 모든 사회 행정을 지배하게 된다면, 인류에게 참으로 비극적인 일이 될 것이다. 삶은 점차 메말라가며, 인간 사회는 목소리 없이 복종하는 무리로 전락할 것이다. 과학이 삶을 지배하고 얻는 유일한 결과는 인간성의 잔인한 타락이다.
+```
+
+```
+25-07-22
+
+Frank Herbert
+> A man is a fool not to put everything he has, at any given moment, into what he is creating. ... I don't worry about inspiration, or anything like that. It's a matter of just sitting down and working. I have never had the problem of a writing block. I've heard about it. I've felt reluctant to write on some days, for whole weeks, or sometimes even longer. I'd much rather go fishing, for example, or go sharpen pencils, or go swimming, or what not. But, later, coming back and reading what I have produced, I am unable to detect the difference between what came easily and when I had to sit down and say, "Well, now it's writing time and now I'll write." There's no difference on paper between the two.
+
+프랭크 허버트
+> 어느 때든 자신의 창작에 모든 것을 쏟아붓지 않는다면 바보일 뿐이다. ... 나는 영감 같은 것 때문에 걱정하지 않는다. 그냥 앉아서 일하면 해결될 문제다. 이런 문제가 있다는 걸 들어본 적은 있지만, 나는 글이 막혀서 힘들어한 적이 없다. 어떤 날은, 몇 주 동안, 심지어 더 긴 시간 동안 무언가 쓰는 것을 꺼리기도 한다. 일하는 것보다 낚시하거나 연필을 깎거나 수영하는 것이 훨씬 더 좋기 때문이다. 하지만 시간이 흐른 후 내가 쓴 것을 다시 읽어보면, 쉽게 나온 것과 억지로 앉아서 '자, 이제 쓰는 시간이다'라고 말하며 써야 했던 것 사이의 차이는 알아볼 수 없다. 종이에 쓰인 두 종류의 글은 전혀 다르지 않다.
+```
+
+```
+25-07-21
+
+Emma Goldman
+> The history of progress is written in the blood of men and women who have dared to espouse an unpopular cause, as, for instance, the black man's right to his body, or woman's right to her soul.
+
+엠마 골드만
+> 진보의 역사는 지지받지 못하는 대의를 과감히 옹호한 남성과 여성의 피로 쓰였다. 예를 들어 자신의 몸에 대한 흑인의 권리나 자신의 영혼에 대한 여성의 권리처럼 말이다.
+```
+
+```
+25-07-20
+
+Mikhail Bakunin
+
+I am truly free only when all human beings, men and women, are equally free. The freedom of other men, far from negating or limiting my freedom, is, on the contrary, its necessary premise and confirmation.
+
+미하일 바쿠닌
+
+모든 인간, 남녀 모두가 동등하게 자유로울 때 나는 진정으로 자유로울 것이다. 다른 이들의 자유는 내 자유를 훼손하거나 속박하는 것이 아니라, 오히려 근본적인 전제이자 확증이다.
+```
+
+```
+25-07-19
+
+George Saunders, A Swim in a Pond in the Rain
+
+The world is full of people with agendas, trying to persuade us to act on their behalf (spend on their behalf, fight and die on their behalf, oppress others on their behalf). But inside us is what Hemingway called a "built-in, shockproof, shit detector." How do we know something is shit? We watch the deep, honest part of our mind reacts to it. And that part of the mind is the one that reading and writing refine into sharpness.
+
+George Saunders, A Swim in a Pond in the Rain
+
+세상은 숨겨진 의도를 가진 사람들로 가득 차 있으며, 그들은 우리가 자신을 위해 행동하도록 설득한다(자신을 위해 돈을 쓰게, 자신을 위해 싸우고 죽게, 자신을 위해 다른 사람을 억압하게). 하지만 우리의 내면에는 헤밍웨이가 말했던 '붙박이, 충격 방지, 헛소리 탐지기'가 있다. 헛소리인지 어떻게 알 수 있냐고? 깊숙한 곳에 자리 잡은 정직한 마음이 어떻게 반응하는지 관찰하면 된다. 그리고 이 마음은 읽기와 쓰기로 날카롭게 단련할 수 있다.
+```
+
+```
+25-07-18
+
+Ursula K. Le Guin, Steering the Craft
+
+To make something well is to give yourself to it, to seek wholeness, to follow spirit. To learn to make something well can take your whole life. It's worth it.
+
+Ursula K. Le Guin, Steering the Craft
+
+무언가를 잘 만든다는 것은 자신을 바치고, 완전함을 추구하며, 정신을 따르는 것이다. 무언가를 잘 만드는 법을 배우는 데에는 평생이 걸릴 수 있다. 그럴 가치가 있는 일이다.
+```
+
+```
 25-07-16
 
 Isaac Babel
