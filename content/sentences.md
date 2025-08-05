@@ -18,6 +18,76 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-08-05
+
+Thomas Mann
+> A writer is someone for whom writing is more difficult than it is for other people.
+
+토마스 만
+> 작가란 다른 사람들보다 글쓰기를 더 어려워하는 사람이다.
+```
+
+```
+25-08-04
+
+John Green, The Anthropocene Reviewed
+> One of the strange things about adulthood is that you are your current self, but you are also all the selves you used to be, the ones you grew out of but can't ever quite get rid of.
+
+존 그린, The Anthropocene Reviewed
+> 어른이 된다는 것의 기묘한 점 중 하나는, 현재의 나 자신이면서도 과거의 모든 나를 동시에 품고 살아야 한다는 점이다. 커가면서 이미 벗어난 과거의 모습이라도, 이전의 나를 완전히 떨쳐낼 수는 없다.
+```
+
+```
+25-08-03
+
+Karen Hao, Empire of AI
+> I’ve found only one metaphor that encapsulates the nature of what these AI power players are: empires.
+
+Karen Hao, Empire of AI
+> AI 거대 기업들의 본질을 압축적으로 보여줄 수 있는 단 하나의 비유는 바로 '제국'이다.
+```
+
+```
+25-08-02
+
+Marcus Aurelius
+> Finding the way, is the way.
+
+마르쿠스 아우렐리우스
+> 길을 찾는 것, 그것이 길이다.
+```
+
+```
+25-08-01
+
+Sarah Wynn-Williams, Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism
+> In April 2017, a confidential document is leaked that reveals Facebook is offering advertisers the opportunity to target thirteen-to-seventeen-year-olds across its platforms, including Instagram, during moments of psychological vulnerability when they feel “worthless,” “insecure,” “stressed,” “defeated,” “anxious,” “stupid,” “useless,” and “like a failure.” Or to target them when they’re worried about their bodies and thinking of losing weight. Basically, when a teen is in a fragile emotional state. Facebook’s advertising team had made this presentation for an Australian client that explains that Instagram and Facebook monitor teenagers’ posts, photos, interactions, conversations with friends, visual communications, and internet activity on and off Facebook’s platforms and use this data to target young people when they’re vulnerable. In addition to the moments of vulnerability listed, Facebook finds moments when teenagers are concerned with “body confidence” and “working out & losing weight.
+
+Sarah Wynn-Williams, Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism
+> 2017년 4월, 페이스북의 청소년 광고 타겟팅 관련한 기밀 문서가 유출됐다. 이 문서에 따르면 페이스북은 인스타그램을 포함한 자사 플랫폼에서 13~17세 청소년을 대상으로 광고주들이 청소년이 정서적으로 취약한 순간, 예를 들어 “한심하다”, “불안정하다”, “스트레스를 받는다”, “패배감을 느낀다”, “불안하다”, “멍청하다”, “쓸모없다”, “실패자 같다”고 생각할 때, 광고를 노출할 수 있도록 했다. 또한 청소년이 자신의 몸에 대한 고민이 있거나 체중 감량을 생각하는 순간을 타겟팅할 수 있도록 했다. 페이스북 광고 팀은 호주 고객사를 대상으로 한 발표 자료에서, 인스타그램과 페이스북이 청소년의 게시물, 사진, 상호작용, 친구와의 대화, 시각적 소통, 페이스북 외부 인터넷 활동 등을 모니터링하고, 이를 분석해 청소년이 정서적으로 취약한 상태일 때 광고를 집행할 수 있다고 설명했다. 문서에는 위에 열거된 감정 외에도 “'바디 컨피던스'를 고민하거나 다이어트와 체중 감량을 생각하는 순간”을 포착해 타겟팅할 수 있다고도 명시되어 있다.
+```
+
+```
+25-07-27
+
+Brian Eno, The Studio as Compositional Tool
+> The effect of recording is that it takes music out of the time dimension and puts it in the space dimension. As soon as you do that, you're in a position of being able to listen again and again to a performance, to become familiar with details you most certainly had missed the first time through, and to become very fond of details that weren't intended by the composer or the musicians.
+
+브라이언 이노, 스튜디오는 작곡을 위한 도구다
+> 녹음은 음악을 시간의 차원에서 꺼내서 공간의 차원으로 옮겨 놓는다. 그렇게 우리는 한 연주를 몇 번이고 반복해서 듣는다. 처음 들었을 때는 놓쳤던 세세한 디테일을 발견하고, 작곡가나 연주자가 의도하지 않았던 디테일에도 깊이 매료될 수 있게 된다.
+```
+
+```
+25-07-26
+
+Shoshana Zuboff, The Age of Surveillance Capitalism
+> Surveillance capitalism unilaterally claims human experience as free raw material for translation into behavioral data.
+
+쇼샤나 주보프, 감시자본주의 시대
+> 감시자본주의는 인간 경험을 행동 데이터로 강제 변환하기 위한 무상 원자재로 간주한다.
+```
+
+```
 25-07-25
 
 Amy Hempel, In a Tub
