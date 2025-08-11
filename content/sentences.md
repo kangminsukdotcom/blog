@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-08-09
+
+Eric Hoffer, The True Believer
+> Hatred is the most accessible and comprehensive of all the unifying agents. Mass movements can rise and spread without belief in a god, but never without a belief in a devil.
+
+에릭 호퍼, 맹신자들
+> 증오는 모든 결속 수단 중 가장 접근하기 쉽고 포괄적인 요소다. 대중운동은 신을 향한 믿음 없이도 일어나고 퍼질 수 있지만, 악마를 향한 믿음 없이는 불가능하다. 
+```
+
+```
 25-08-05
 
 Thomas Mann
