@@ -18,6 +18,26 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-08-13
+
+Tyler Cowen, Average Is Over: Powering America Beyond the Age of the Great Stagnation
+> The measure of self-motivation in a young person will become the best way to predict upward mobility.
+
+Tyler Cowen, Average Is Over: Powering America Beyond the Age of the Great Stagnation
+> 젊은이의 자기 주도성은 사회경제적 성공을 예측하는 가장 좋은 지표가 될 것이다.
+```
+
+```
+25-08-12
+
+Bertrand Russell, Why I Am Not a Christian
+> Science can teach us, and I think our hearts can teach us, no longer to look around for imaginary supporters, no longer to invent allies in the sky, but rather to look to our own efforts here below to make the world a fit place to live.
+
+버트런드 러셀, 나는 왜 기독교인이 아닌가
+> 과학은 우리를 가르칠 수 있다. 그리고 나는 바로 우리의 마음도 우리를 가르칠 수 있다고 본다. 이제는 더 이상 가상의 후원을 찾아 두리번거리지 말고, 하늘에 있는 후원자를 만들어내지 말고, 여기 땅에서 우리 자신의 힘에 의지해, 이 세상을, 지난날 오랜 세월 교회가 만들어 온 그런 곳이 아니라 우리가 살기 적합한 곳으로 만들자고 말이다.
+```
+
+```
 25-08-09
 
 Eric Hoffer, The True Believer
