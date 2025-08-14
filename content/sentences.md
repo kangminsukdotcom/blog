@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-08-14
+
+Joan Didion, The White Album
+> We tell ourselves stories in order to live. .. We look for the sermon in the suicide, for the social or moral lesson in the murder of five. We interpret what we see, select the most workable of the multiple choices. We live entirely, especially if we are writers, by the imposition of a narrative line upon disparate images, by the "ideas" with which we have learned to freeze the shifting phantasmagoria which is our actual experience.
+
+조앤 디디온, The White Album
+> 우리는 살아남고자 이야기를 만들어낸다 ... 자살에서조차 의미를 찾으려 하고, 다섯 명이 살해된 사건에서도 사회적 또는 도덕적 교훈을 찾는다. 우리는 보이는 것을 해석하려고 하면서 객관식 선택지 중 가장 그럴싸한 정답을 고른다. 완전히, 특히 글 쓰는 사람이라면 더더욱, 다채로운 이미지에 서사를 부여하고, 실제 삶에서 주마등처럼 지나가는 환영을 붙잡기 위해 미리 학습했던 '관념'에 의지하며 살아간다.
+```
+
+```
 25-08-13
 
 Tyler Cowen, Average Is Over: Powering America Beyond the Age of the Great Stagnation
