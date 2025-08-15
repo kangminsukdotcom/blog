@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-08-15
+
+Brian Christian, Algorithms to Live By
+> Even the best strategy sometimes yields bad results—which is why computer scientists take care to distinguish between “process” and “outcome.” If you followed the best possible process, then you’ve done all you can, and you shouldn’t blame yourself if things didn’t go your way.
+
+브라이언 크리스찬, 알고리즘, 인생을 계산하다
+> 아무리 뛰어난 전략이라도 때로는 나쁜 결과를 낳기도 한다. 컴퓨터 과학자들이 '과정'과 '결과'를 신중하게 구분하는 것도 바로 이런 이유 때문이다. 만약 최선의 과정을 따랐다면, 할 수 있는 모든 것을 다 한 것이므로 일이 뜻대로 풀리지 않았다고 자신을 탓할 필요는 없다.
+```
+
+```
 25-08-14
 
 Joan Didion, The White Album
