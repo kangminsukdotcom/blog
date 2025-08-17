@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-08-17
+
+Ken Liu, The Paper Menagerie
+> Who can say if the thoughts you have in your mind as you read these words are the same thoughts I had in my mind as I typed them? We are different, you and I, and the qualia of our consciousnesses are as divergent as two stars at the end of the universe.
+
+켄 리우, 종이 동물원
+> 당신이 이 글을 읽으며 품는 생각이 내가 이 글을 쓸 때 가졌던 생각과 어찌 같다고 말할 수 있을까? 당신과 나는 다른 존재이며, 우리의 의식이 느끼는 본질적인 감각은 우주 양 끝에 놓인 두 별처럼 상이하다.
+```
+
+```
 25-08-15
 
 Brian Christian, Algorithms to Live By
