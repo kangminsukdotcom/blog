@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-08-18
+
+Ken Liu, The Paper Menagerie
+> And yet, whatever has been lost in translation in the long journey of my thoughts through the maze of civilization to your mind, I think you do understand me, and you think you do understand me. Our minds managed to touch, if but briefly and imperfectly. Does the thought not make the universe seem just a bit kinder, a bit brighter, a bit warmer and more human? We live for such miracles.
+
+켄 리우, 종이 동물원
+> 그럼에도 불구하고, 문명이라는 미로를 통해 내 생각이 당신의 마음에 닿기까지의 긴 여정에서 번역 과정에서 무엇이 사라졌든, 당신이 나를 이해한다고 생각하고, 당신도 자신이 나를 이해한다고 생각한다. 우리의 마음이 잠깐이고 불완전하지만 서로 닿았다. 이런 생각이 우주를 조금 더 친절하고, 조금 더 밝고, 조금 더 따뜻하고 인간적으로 느껴지게 하지 않는가? 우리는 바로 이런 기적을 위해 산다.
+```
+
+```
 25-08-17
 
 Ken Liu, The Paper Menagerie
