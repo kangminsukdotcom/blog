@@ -28,11 +28,6 @@ buildFuture = true
     [languages.en.params]
       blogPath = "/blog"
       titleImage = "/images/kang.jpg"
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        name = "Quotes"
-        url = "/sentences/"
-        weight = 3
   
   [languages.ko]
     title = "강민석"
@@ -42,11 +37,6 @@ buildFuture = true
     [languages.ko.params]
       blogPath = "/ko/blog"
       titleImage = "/images/kang2.jpg"
-    [languages.ko.menu]
-      [[languages.ko.menu.main]]
-        name = "문장"
-        url = "/sentences/"
-        weight = 3
 
 [taxonomies]
    tag = "tags"
