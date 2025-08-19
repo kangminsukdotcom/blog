@@ -5,6 +5,7 @@ theme = "kang"
 enableRobotsTXT = true
 dateFormat = "2006-01-02"
 timeZone = "Asia/Seoul"
+buildFuture = true
 
 [markup]
   [markup.highlight]
