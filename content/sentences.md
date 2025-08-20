@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-08-20
+
+김구, 나의 소원
+> 나는 우리 나라가 세계에서 가장 아름다운 나라가 되기를 원한다. 가장 부강한 나라가 되기를 원하는 것은 아니다. 내가 남의 침략에 가슴이 아팠으니 내 나라가 남을 침략하는 것을 원치 아니한다. 우리의 부력은 우리의 생활을 풍족히 할 만하고 우리의 강력은 남의 침략을 막을 만하면 족하다. 오직 한없이 가지고 싶은 것은 높은 문화의 힘이다. 문화의 힘은 우리 자신을 행복하게 하고 나아가서 남에게 행복을 주겠기 때문이다.
+
+Kim Gu, My Wish
+> I want our country to become the most beautiful nation in the world. I do not wish for it to become the most powerful and wealthy nation. Since I have felt heartache from foreign invasions, I do not want my country to invade others. It is sufficient if our wealth is enough to enrich our lives and our strength is enough to repel foreign invasions. The only thing I want to possess without limit is the power of advanced culture. The power of culture will make us happy and, furthermore, bring happiness to others.
+```
+
+```
 25-08-18
 
 Ken Liu, The Paper Menagerie
