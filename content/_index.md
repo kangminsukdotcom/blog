@@ -21,5 +21,5 @@ Minsuk Kang
 <li>   <a href="https://kangminsuk.com/blog/index.xml">RSS</a></li>
 <li>       <a href="https://kangminsuk.com/my-apps/">Creations</a></li>
 <li>         <a href="https://kangminsuk.com/sentences/">Sentences</a></li>
-<li>           <a href="https://ko-fi.com/kangminsuk">Donate</a></li>
+<li>                 <a href="https://ko-fi.com/kangminsuk">Donate</a></li>
 </ul>
