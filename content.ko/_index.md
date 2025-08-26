@@ -15,9 +15,7 @@ ul {
 }
 </style>
 
-강민석은 제주에 산다.
-
-> 영어로 공부하는 온라인 모임, [<번역 없이 공부하기> 3기](https://jagunbae.com/read-in-english-5/) 모집 중!
+강민석
 
 <ul>
 <li><a href="https://letterbird.co/kang">이메일</a></li>

@@ -14,7 +14,7 @@ ul {
 }
 </style>
 
-Minsuk Kang lives in Jeju.
+Minsuk Kang
 
 <ul>
 <li><a href="https://letterbird.co/kang">Email</a></li>
