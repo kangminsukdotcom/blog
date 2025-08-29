@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-08-29
+
+박용주, 첫 시집을 내면서
+> 갑작스런 환경의 뒤바뀜은 그런대로 참아낼 수 있었지만 읽고 싶은 책을 읽을 수 없다는 것은 참으로 고통이었습니다. 날짜 지난 신문 한 장이라도 눈에 띄면 음미하듯 아껴 읽었고 백지에 글자가 인쇄된 것이라면 무엇이든지 가리지 않고 읽었을 때, 나는 보고싶은 책이 너무 많아서 가끔은 혼자 울었습니다.
+
+Park Yong-ju, on publishing my first poetry collection:
+> While I could somehow endure the sudden upheaval of my circumstances, not being able to read the books I wanted to read was truly agonizing. I would savor even a single page of old newspaper when I came across one, and I read absolutely anything with printed text on blank paper—during those times, there were so many books I longed to see that sometimes I would cry alone.
+```
+
+```
 25-08-20
 
 김구, 나의 소원
