@@ -18,6 +18,17 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-09-01
+
+복잡한 세상 단순하게 사는 지혜, 김종오
+> <노자>에서 특히 유명한 말에 <화광동진>이 있다. 자기의 빛(재능)을 감추고 세상의 티끌 속에 묻혀 산다는 뜻이다. 예로부터 참으로 훌륭한 사람, 위대한 인물은 자기의 존재를 드러내기를 좋아하지 않았다. 자기표현이라는 것도 좋지만 나서기 좋아하는 사람에 참으로 훌륭한 사람 별로 없고 잘난 체하는 사람 잘난 사람 없다는 속담에도 역시 진리가 있다. '유능한 매는 발톱을 감춘다'는 속담도 있는데 특히 어지러운 세상에 있어서는 자기의 재능을 뽐내지 않는 일이야말로 무사히 살아 나가는 것이라고 노자는 말한다.
+
+The Wisdom of Living Simply in a Complex World, by Kim Jong-oh
+> In Laozi's teachings, there is a particularly famous saying called "hwa-gwang-dong-jin" (和光同塵). This means hiding one's light (talents) and living buried in the dust of the world. Since ancient times, truly excellent people and great figures have not liked to reveal their existence. Self-expression may be good, but there are rarely truly excellent people among those who like to show off, and there is truth in the saying that boastful people are seldom truly capable. There is also the proverb "a skilled hawk hides its talons." Laozi teaches that especially in a chaotic world, not flaunting one's talents is the way to live safely.
+
+```
+
+```
 25-08-29
 
 박용주, 첫 시집을 내면서
