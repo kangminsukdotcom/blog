@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-09-02
+
+숫타니파타, 뱀의경
+> 모든 사유를 불살라 남김없이 안으로 잘 제거한 수행승은, 마치 뱀이 묵은 허물을 벗어 버리는 것처럼 이 세상도 저 세상도 다 버린다.
+
+Uraga Sutta: The Snake
+> A monk who has burned away all mental formations and removed them completely within, abandons both this world and the next world, just as a snake sheds its old skin.
+```
+
+```
 25-09-01
 
 복잡한 세상 단순하게 사는 지혜, 김종오
