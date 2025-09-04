@@ -18,6 +18,33 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-09-04
+
+숫타니파타
+소리에 놀라지 않는 사자와 같이
+그물에 걸리지 않는 바람과 같이
+진흙물에 더럽혀지지 않는 연꽃과 같이
+무소의 뿔처럼 혼자서 가라.
+
+Khaggavisāṇa Sutta
+Like a lion unafraid of sounds,
+Like wind that doesn't get caught in nets,
+Like a lotus undefiled by muddy water,
+Go alone like the horn of a rhinoceros.
+
+```
+
+```
+25-09-03
+
+황제내경
+> 저는 모든 병은 기에서 생긴다고 알고 있습니다. 성내면 기가 거슬러 오르고, 기뻐하면 기가 느슨해지며, 슬퍼하면 기가 사그러지고, 두려워하면 기가 내려가며, 추우면 기가 수렴되고, 열이 나면 기가 빠져나가며, 놀라면 기가 어지러워지고, 피로하면 기가 소모되며, 생각을 하면 기가 맺힙니다.
+
+Huangdi Neijing (Yellow Emperor's Classic of Internal Medicine)
+> I understand that all diseases arise from qi (vital energy). When one is angry, qi moves upward in reverse; when joyful, qi becomes slack; when sad, qi dissipates; when fearful, qi descends; when cold, qi contracts; when feverish, qi escapes; when startled, qi becomes disordered; when fatigued, qi is consumed; when thinking deeply, qi becomes knotted.
+```
+
+```
 25-09-02
 
 숫타니파타, 뱀의경
