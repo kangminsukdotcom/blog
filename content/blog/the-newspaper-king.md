@@ -12,7 +12,7 @@ What? The question triggered a bug in my system. All I could grasp was my time w
 
 One time, Hwang made us write down our dream jobs.  Most kids turned in “Lawyer” or “Doctor,” but I wrote “Journalist!!!”. At the end of the class, Hwang asked me to visit her office after school. Other kids gave me those envious looks because they sensed I somehow handed in the correct answer.
 
-Peeping at graded papers on Hwang’s desk, I said, “Reading newspapers is so much fun. I always talk about the day’s news with my parents.” I ended the chat saying, “One day, I want to publish the greatest newspaper.” I turned around swiftly and stepped out the door. A few steps into the hallway, I could hear Hwang’s voice. “The kid’s a genius. What a newspaper king!”
+Peeping at graded papers on Hwang’s desk, I said, “Reading news is so much fun. I always talk about the day’s news with my parents.” I ended the chat saying, “One day, I want to publish the greatest newspaper.” I turned around swiftly and stepped out the door. A few steps into the hallway, I could hear Hwang’s voice. “The kid’s a genius. What a newspaper king!”
 
 I felt great all day that I could barely sleep. I had to match myself to the shadows of that title. I woke up with the sheer purpose to fetch and read the papers, faster than anyone in the country. I never stopped reading and eventually began writing articles. Even as a high schooler, I interviewed random local politicians. They loved taking pictures with “the youngest journalist.” I studied journalism in college. In two years, I became the chief editor of my college newspaper. 
 
