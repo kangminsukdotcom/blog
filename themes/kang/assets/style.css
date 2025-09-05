@@ -21,13 +21,13 @@ h6 {
 
 body {
   margin: 2rem auto;
-  max-width: 45ch;
+  max-width: 52ch;
   line-height: 1.6;
   font-size: 1.1em;
-  font-family: Inter, Roboto, 'Helvetica Neue', sans-serif;
+  font-family: georgia, charter, serif;
   text-align: left;
   background: #fbf6eb;
-  color: #474747;
+  color: #1c1c1c;
   padding: 2em;
   box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
   border-radius: 3px;
