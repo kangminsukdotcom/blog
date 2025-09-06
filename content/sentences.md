@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-09-06
+
+John Holt
+> A child whose life is full of the threat and fear of punishment is locked into babyhood. There is no way for him to grow up, to learn to take responsibility for his life and acts. Most important of all, we should not assume that having to yield to the threat of our superior force is good for the child's character. It is never good for anyone's character.
+
+존 홀트
+> 처벌에 대한 두려움 속에서 사는 아이는 유아기에 갇혀 있다. 이런 아이는 자라면서도 자신의 삶과 행동에 책임을 지는 법을 배울 수 없다. 무엇보다 중요한 것은, 어른의 강압적인 힘에 굴복하는 것이 아이의 인격 형성에 도움이 된다고 생각해서는 안 된다는 점이다. 이는 누구에게든 인격적으로 해로울 뿐이다.
+```
+
+```
 25-09-04
 
 숫타니파타
