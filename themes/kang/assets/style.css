@@ -21,6 +21,7 @@ h6 {
 
 :lang(ko) {
     word-break: keep-all;
+    font-family: system-ui, sans-serif;
 }
 
 body {
