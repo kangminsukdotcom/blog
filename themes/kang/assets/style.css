@@ -27,10 +27,10 @@ h6 {
 
 body {
   margin: 2rem auto;
-  max-width: 43ch;
+  max-width: 500px;
   line-height: 1.6;
   font-size: 1.1em;
-  font-family: georgia, charter, serif;
+  font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
   text-align: left;
   background: #fbf6eb;
   color: #2a2a2a;
