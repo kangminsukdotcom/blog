@@ -8,7 +8,7 @@
   other = "Reply to "
 
 [email-reply]
-  other = "Reply by email"
+  other = "email"
 
 [skip-link]
 other = "Skip to main content"
