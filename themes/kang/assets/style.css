@@ -8,7 +8,7 @@ html {
 time {
   font-family: monospace !important;
   font-style: normal;
-  color: #6f6f6f;
+  color: #6f6f6f !important;
 }
 
 h1,
