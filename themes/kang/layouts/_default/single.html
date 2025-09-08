@@ -5,6 +5,10 @@
       <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
         {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
       </time>
+        {{ range (.GetTerms "tags") }}
+          <a class="blog-tags" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
+        {{ end }}
+      {{ with .Params.author }}· {{ . }}{{ end }}
     </p>
   {{ end }}
   
