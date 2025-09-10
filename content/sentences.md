@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-09-10
+
+John Vervaeke, Awakening From the Meaning Crisis: Part 1: Origins
+> A life that lacks both truth and transformation is a life awash in bullshit, filled with unnecessary suffering and moral failure, beset by self-deception and self-destructive behavior.
+
+존 버베이키, Awakening From the Meaning Crisis: Part 1: Origins
+> 진실과 변화가 모두 결여된 삶은 온통 개소리로 넘쳐나고, 불필요한 고통과 도덕적 실패로 가득하며, 자기기만과 자기파괴적 행동에 시달리는 삶이다.
+```
+
+```
 25-09-06
 
 John Holt
