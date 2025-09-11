@@ -22,8 +22,6 @@ h6 {
 
 :lang(ko) {
     word-break: keep-all;
-    font-family: system-ui, sans-serif;
-    color: #383838;
 }
 
 body {
@@ -31,9 +29,9 @@ body {
   max-width: 500px;
   line-height: 1.6;
   font-size: 1.1em;
-  font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+  font-family: system-ui, sans-serif;
   text-align: left;
-  background: #fbf6eb;
+  background: #383838;
   color: #2a2a2a;
   padding: 2em;
   box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
