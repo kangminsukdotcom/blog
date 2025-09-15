@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'iA Writer Quattro V';
+    src: url('/fonts/iAWriterQuattroV-Regular.woff2') format('woff2'),
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -29,7 +37,7 @@ body {
   max-width: 500px;
   line-height: 1.6;
   font-size: 1.1em;
-  font-family: system-ui, sans-serif;
+  font-family: 'iA Writer Quattro V', system-ui, sans-serif;
   text-align: left;
   background: #fbf6eb;
   color: #383838;
