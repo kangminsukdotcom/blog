@@ -14,8 +14,9 @@ ul {
 }
 </style>
 
+# Minsuk Kang
+
 <ul>
-<li>Minsuk Kang</li>
 <li><a href="https://letterbird.co/kang">Email</a></li>
 <li><a href="https://kangminsuk.com/blog/index.xml">RSS</a></li>
 <li><a href="https://kangminsuk.com/my-apps/">Creations</a></li>
