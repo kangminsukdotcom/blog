@@ -14,7 +14,6 @@ html {
 }
 
 time {
-  font-family: monospace !important;
   font-style: normal;
   color: #6f6f6f !important;
 }
@@ -34,10 +33,10 @@ h6 {
 
 body {
   margin: 2rem auto;
-  max-width: 540px;
+  max-width: 520px;
   line-height: 1.6;
   font-size: 1.1em;
-  font-family: 'iA Writer Quattro V', system-ui, sans-serif;
+  font-family: 'iA Writer Quattro V', sans-serif;
   text-align: left;
   background: #fbf6eb;
   color: #383838;
