@@ -18,6 +18,26 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-09-17
+
+박경리
+> 상인과 작가의 차이는 무엇이며 기술자와 작가는 어떻게 다른 것인가. 차이가 없다면 결국 문학은 죽어갈 수밖에 없다. 의미를 상실한 문학, 맹목적으로 존재할 수밖에 없는 삶. 우리는 지금 그런 시대에 살고 있다. ...  나는 어떤 책에다 언어가 지는 숙명적인 마성에 대해 얘기한 적이 있다. 진실이 머문 강물 저켠을 향해 한치도 헤어나갈 수 없는 허수아비의 언어, 그럼에도 언어에 사로잡혀 빠져날 수 없는 것은 그것만이 강을 건널 가능성을 지닌 유일한 것이기 때문이라고. 나는 전율 없이 그 말을 되풀이할 수 없다.
+
+Park Kyung-Ri
+> What is the difference between a merchant and a writer, and how do technicians differ from writers? If there is no difference, then literature will inevitably die. Literature that has lost its meaning, life that can only exist blindly—we are living in such an era now. ... I once wrote in some book about the fateful demonic power that language bears. The language of a scarecrow that cannot move even an inch toward the other shore of the river where truth resides—yet the reason we cannot escape being captivated by language is that it is the only thing that holds the possibility of crossing the river. I cannot repeat those words without trembling.
+```
+
+```
+25-09-11
+
+John Rawls, Justice as Fairness: A Restatement
+> Many of our most serious conflicts are conflicts within ourselves. Those who suppose their judgements are always consistent are unreflective or dogmatic.
+
+존 롤스, Justice as Fairness: A Restatement
+> 우리가 겪는 가장 심각한 갈등 가운데 상당수는 우리 내면에서 일어난다. 자신의 판단이 언제나 일관적이라고 생각하는 사람은 성찰이 부족하거나 독단적이다.
+```
+
+```
 25-09-10
 
 John Vervaeke, Awakening From the Meaning Crisis: Part 1: Origins
