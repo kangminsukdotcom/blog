@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-09-23
+
+James Baldwin
+> You write in order to change the world, knowing perfectly well that you probably can't, but also knowing that literature is indispensable to the world.
+
+제임스 볼드윈
+> 당신은 세상을 바꾸기 위해 글을 쓴다. 아마도 그럴 수 없다는 것을 너무나 잘 알면서도, 문학이 이 세상에 반드시 필요하다는 것 또한 알고 있기 때문이다.
+```
+
+```
 25-09-17
 
 박경리
