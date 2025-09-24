@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-09-24
+
+함석헌
+> 왜 생각하는 인간은 자유함에 이르기가 어려운가? 다시 말해서 사람 노릇의 문제점은 어디 있는가? 생각함에 있다. 참은 한 점이다. 그 한 점에 이르자는 것이 천만 가지 생각의 원이지만 그 한 점으로 압축되지 못하면, 망상 곧 그릇된 생각이다. 압축이라기보다는, 모든 깨달은 이들이 말해준 대로, 사라진다 해야 옳을 것이다. 천만 가지 생각이 다 사라져야 그것이 옳은 생각이다. 생각 없음이, 생각을 잊음이, 생각하지 않음으로 하는 생각이 정말 참 생각이다.
+
+Ham Seok-heon
+> Why is it difficult for those who think to reach freedom? In other words, what is the problem with being human? It lies in thinking. Truth is a single point. Trying to reach that one point gives rise to countless thoughts, but if they cannot be compressed into that one point, they become delusions - false thinking. Rather than compression, as all enlightened beings have taught us, it would be more accurate to say they disappear. All thoughts must disappear for that to be right thinking. Not-thinking, forgetting thought, thinking by not thinking - this is truly genuine thinking.
+```
+
+```
 25-09-23
 
 James Baldwin
