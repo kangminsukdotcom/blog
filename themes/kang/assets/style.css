@@ -199,10 +199,6 @@ ul.blog-posts a {
   text-decoration: none;
 }
 
-ul.blog-posts a:hover {
-text-decoration: underline;
-}
-
 a.blog-tags {
   text-decoration: underline;
 }
