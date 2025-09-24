@@ -10,7 +10,7 @@ I was deep in the water trying to reach the bottom. I knew there was something p
 
 I couldn't move. I was possessed by this shallow yet vivid dream. I slowly moved my toes to confirm that I was alive. I heard loud chattering noises from outside the windows. I opened my eyes and breathed a sigh of relief. I was on land. I almost drowned on land.
 
-This experience repeated at least once a week for the next two years. My shrink told me it was stress that was trapping me inside these horrifying nightmares. My girlfriend said my subconscious was trying to send a message from the universe. She wanted me to meditate and resolve this issue with my own mind. I asked, "How exactly am I supposed to do that?" She said, "Close your eyes and pay attention to nothing but your breath." I was really confident I could do that. Focus on breathing. I'd been doing that for the past two years.
+This experience repeated at least once a week for two years. My shrink told me it was stress that was trapping me inside these horrifying nightmares. My girlfriend said my subconscious was trying to send a message from the universe. She wanted me to meditate and resolve this issue with my own mind. I asked, "How exactly am I supposed to do that?" She said, "Close your eyes and pay attention to nothing but your breath." I was really confident I could do that. Focus on breathing. I'd been doing that for the past two years.
 
 In our living room, I sat on a carpet and posed like a bearded guru at an ancient temple. Within a minute, I was completely in the water again. I never stopped meditating inside the water. I didn't care about reaching the top. I made no effort to break through the glass ceiling. I was free. Free from the worries that haunted my daily life.
 
