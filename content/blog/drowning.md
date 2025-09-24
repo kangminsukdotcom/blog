@@ -14,4 +14,4 @@ This experience repeated at least once a week for two years. My shrink told me i
 
 In our living room, I sat on a carpet and posed like a bearded guru at an ancient temple. Within a minute, I was completely stuck in the water again. I never stopped meditating inside the water. I didn't care about reaching the top. I made no effort to break through the glass ceiling. I was free. Free from all the worries that haunted my daily life.
 
-I finally drowned. This time, I drowned in the water, not on land. I passed out and felt my soul leaving my body. The water vibrated like it was wailing for my death. From the top of the water, I continued watching my body sinking into the darkness. I closed my eyes, waiting to return to the real world. Everything was too quiet. It was time to wake up.
+I finally drowned. This time, I drowned in the water, not on land. I passed out and felt my soul leaving my body. The water vibrated like it was wailing for my death. From the top of the water, I watched my body sinking into the darkness. I closed my eyes, waiting to return to the real world. Everything was too quiet. It was time to wake up.
