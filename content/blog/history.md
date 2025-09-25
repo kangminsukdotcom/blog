@@ -20,4 +20,4 @@ History must mean more than the mere biography of the powerful. I can't help but
 
 I'm afraid that I'll one day become a victim of the feuds between powerful bureaucrats. I get scared when I think of missiles flying across my town, signaling that my entire life didn't really matter in the grand scheme of geopolitical progression. At the same time, I feel the urge to resist being compliant and share my honest thoughts and feelings with the world.
 
-While the news celebrates destruction, I want to practice and appreciate the love around us. I want to understand others, even if they are on the other side of my views. Our history's highlights shouldn't be wars.
+While the news celebrates destruction, I want to practice and appreciate the love around us. I want to understand others, even if they are on the other side of my views. Our history's highlights shouldn't be wars. We deserve better.
