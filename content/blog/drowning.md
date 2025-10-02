@@ -1,5 +1,5 @@
 ---
-title: I'm drowning
+title: I'm Drowning
 date: 2025-09-24
 tags: [fiction]
 ---
