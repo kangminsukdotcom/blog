@@ -1,5 +1,5 @@
 ---
-title: The Message from God
+title: The Message from God #1
 date: 2025-10-02
 tags: [fiction]
 ---
