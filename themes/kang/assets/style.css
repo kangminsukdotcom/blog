@@ -36,7 +36,7 @@ body {
   max-width: 520px;
   line-height: 1.6;
   font-size: 1.1em;
-  font-family: 'iA Writer Quattro V', sans-serif;
+  font-family: 'iA Writer Quattro V', ui-monospace;
   text-align: left;
   background: #fbf6eb;
   color: #383838;
