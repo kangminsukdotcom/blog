@@ -36,5 +36,5 @@ Z.
 I closed the message, then another message appeared.
 
 ```
-This website allows you to hack into any computer around the world. You can search other people's texts, photos, and locations by providing the person's government-approved name and birthday. You'll be given access for a month.
+This website allows you to hack into any computer around the world. You can search other people's texts, photos, and locations by providing the person's government-issued name and birthday. You'll be given access for a month.
 ```
