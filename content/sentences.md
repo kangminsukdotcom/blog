@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-10-05
+
+Salman Rushdie, Wonder Tales
+> I believe that the books and stories we fall in love with make us who we are, or, not to claim too much, that the act of falling in love with a book or story changes us in some way, and the beloved tale becomes a part of our picture of the world, a part of the way in which we understand things and make judgments and choices in our daily lives. As adults, falling in love less easily, we may end up with only a handful of books that we can truly say we love. Maybe this is why we make so many bad judgments.
+
+살만 루슈디, Wonder Tales
+> 우리가 사랑하게 된 책과 이야기가 지금의 우리를 만든다고 믿는다. 과하게 말하지 않더라도, 책이나 이야기와 사랑에 빠지는 경험은 어떤 식으로든 우리를 바꾸고, 그 이야기는 우리가 세상을 바라보는 틀의 일부가 되어 일상에서 이해하고 판단하고 선택하는 방식에 스며든다. 어른이 되면 쉽게 사랑에 빠지지 않아서 진심으로 사랑한다고 말할 수 있는 책은 몇 권만 남는다. 어쩌면 그래서 우리가 그토록 많은 잘못된 판단을 하는지도 모른다.
+```
+
+```
 25-09-24
 
 함석헌
