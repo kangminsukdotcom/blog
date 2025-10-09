@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-10-09
+
+David Graeber and David Wengrow, The Dawn of Everything
+> We are projects of collective self-creation. What if we approached human history that way? What if we treat people, from the beginning, as imaginative, intelligent, playful creatures who deserve to be understood as such? What if, instead of telling a story about how our species fell from some idyllic state of equality, we ask how we came to be trapped in such tight conceptual shackles that we can no longer even imagine the possibility of reinventing ourselves?
+
+데이비드 그레이버 , 데이비드 웬그로, 모든 것의 새벽
+> 우리는 집단적 자기 창조의 프로젝트다. 인류사를 그런 식으로 접근해 본다면 어떨까? 처음부터 사람들을 상상력이 풍부하고 지적이며 유희적인 존재, 그리고 그렇게 이해받을 자격이 있는 존재로 대한다면 어떨까? 우리 종이 어떤 목가적 평등 상태에서 타락했다는 이야기를 들려주는 대신, 우리가 어떻게 그렇게 견고한 개념적 족쇄에 갇히게 되어 이제는 스스로를 다시 한번 발명할 가능성조차 상상하지 못하게 되었는지를 묻는다면 어떨까?
+```
+
+```
 25-10-05
 
 Salman Rushdie, Wonder Tales
