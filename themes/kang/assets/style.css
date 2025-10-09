@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'iA Writer Quattro V';
-    src: url('/fonts/iAWriterQuattroV.woff2') format('woff2'),
+    src: url('/fonts/iAWriterQuattroV.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
+    font-display: optional;
 }
 
 html {
