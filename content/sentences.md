@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-10-13
+
+한승원, 무엇을 쓸 것인가
+> 거리에는 사람이 없습니다. 사람 같은 사람이 있을 뿐입니다. 진짜 사람을 만나기가 힘들어졌습니다. 그들은 모두 꼬리 하나씩을 감추고 있습니다. 짐승들이 운전을 하고 짐승들이 시장을 보고 있습니다. 짐승들이 텔레비전에 출연하여 이야길 하고 있습니다. 자세히 보면 짐승의 꼬리를 발견할 수 있습니다. 물론 모두가 그렇다는 것이 아닙니다. 그 가운데는 진짜 사람들도 많습니다. 나의 소설 쓰기는 그 진짜 사람 찾기입니다.
+
+Han Seung-won, “What Shall I Write”
+> The streets are empty of people. There are only people who look like people. Meeting a real person has become rare. All of them hide a tail. Beasts drive cars, beasts run the market. Beasts appear on television and speak. Look closely and you’ll spot the tail. Of course, not everyone is like that. Among them are many real people. My writing is the search for those real people.
+```
+
+```
 25-10-09
 
 David Graeber and David Wengrow, The Dawn of Everything
