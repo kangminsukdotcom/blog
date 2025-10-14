@@ -18,6 +18,24 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-10-14
+
+김지하, 밥
+> 밥은 하늘과 땅과 사람이 서로 함께 협동해서 만드는 것입니다. 풀, 벌레, 흙, 공기, 바람, 눈, 서리, 천둥, 햇빛과 볍씨와 사람의 정신 및 육체적인 모든 일이 다같이 협동해서 만들어 내는 것이 쌀이요 밥입니다.
+
+> 이 밥은 오직 먹는 밥, 밥풀로 이루어진 밥, 들어가면 배부른 밥, 일해서 먹는 밥– 이러한 눈에 보이는 물질적인 밥만을 의미하는 것이 아닙니다. 밥은 물질적인 밥인 동시에 정신적인 밥, 정신의 밥입니다.
+
+> “혼자서 밥을 먹으면 밥맛이 없다“는 말의 뜻은 바로 이것 때문이라고 생각할 수 있겠읍니다. 밥맛이 없는 이유는 바로 <독점> 때문입니다. 혼자서 걸게 처먹으려 하기 때문에, 원래 밥상에 둘어앉아 나누어 먹도록 되어 있는 밥을 혼자서 처먹기 때문에, 본래 밥의 본질과 먹는 형식이 일치하지 않는데서 오는 당연한 귀결이라고 볼 수 있겠읍니다.
+
+Kim Jiha, Rice
+> Rice is something created through the cooperation of heaven, earth, and human beings. Grass, insects, soil, air, wind, snow, frost, thunder, sunlight, rice seeds, and every physical and spiritual effort of people all work together to produce rice, and that becomes our food.
+
+> This rice does not refer only to the visible, material rice—the kind made of grains, the kind that fills your stomach, the kind you earn through labor. Rice is both material and spiritual food; it nourishes not only the body but also the spirit.
+
+> The saying “Food doesn’t taste good when you eat alone” comes from this very idea. The reason food loses its flavor is because of monopoly: because one tries to eat greedily alone, even though rice was meant to be shared at a table with others. When the true nature of rice and the way it is eaten fall out of harmony, it is only natural that it loses its taste.
+```
+
+```
 25-10-13
 
 한승원, 무엇을 쓸 것인가
