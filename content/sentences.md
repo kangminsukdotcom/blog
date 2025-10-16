@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-10-16
+
+김지하
+> 자기가 자기 자신을 스스로 버린다는 것, 똥으로 썩게 만든다는 것, 똥처럼 더러운 것으로 밑마닥의 탁류 속으로 내던진다는 것은 바로 자기 자신을 <비우는> 것입니다. 자기를 <공>의 상태, <무>의 상태, <허>의 상태로 낮추고 겸비하여 자기를 똥으로 비워 버리는 것입니다. 그리고 바로 이것을 저는 ‘광대정신‘이라고 부릅니다.
+
+Kim Jiha
+> To abandon oneself, to let oneself rot into filth, to cast oneself into the muddy current like excrement—this means to *empty* oneself. It is to lower and humble oneself into a state of *emptiness (空)*, *nothingness (無)*, or *hollowness (虛)*, making oneself empty like excrement. This is what I call the *spirit of the clown*.
+```
+
+```
 25-10-14
 
 김지하, 밥
