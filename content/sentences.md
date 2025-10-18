@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-10-18
+
+전상국, 내가 선택한 최선의 생활방식
+> 자신이 하고 싶은 일을 할 수 있는 것, 그것은 일종의 구원이다. 소설 쓰는 일이 나를 구원했다. 다른 어떤 일보다 소설 쓰는 일이 나를 즐겁게 했던 것이다. ... 내 문학은 내 자신의 구원에서부터 시작되었다. 그리하여 소설 쓰는 일은 내 생활 전부를 지배하는 중심원리라고 할 수 있다.
+
+Jeon Sang-guk, The Best Way of Life I Have Chosen
+> To be able to do what one truly wants to do—that is a kind of salvation. Writing fiction has saved me. More than anything else, writing stories has brought me joy. … My literature began with my own salvation. Thus, I can say that writing fiction is the central principle that governs my entire life.
+```
+
+```
 25-10-16
 
 김지하
