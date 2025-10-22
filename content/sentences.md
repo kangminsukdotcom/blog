@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-10-22
+
+문순태, 고향의 역사와 한
+> 나는 고향을 단순히 현실적 공간으로만 파악한 것이 아니라, 한걸음 더 나아가서 인간존재양식의 개념으로 이해하고자 하였다. 그러니까 고향은 우리가 태어나서 자라난 곳일 뿐만 아니라, 우리 자신의 존재의 본질일 수가 있다는 것이다. 궁극적으로 말해서 고향의 철학적 개념은 <인간 본래의 모습>이라는 것이다. 그러기에 우리가 고향을 상실하였다는 것은 인간의 본래 모습을 잃어버렸다는 의미가 된다. 따라서 고향을 다시 찾자는 것은 단순히 우리들이 태어난 곳으로 되돌아가자는 것보다는 우리의 본래 모습, 즉 인간성을 되찾자는 의미인 것이다.
+
+Moon Soon-tae, Hometown's History and Han
+> I have not regarded my hometown merely as a physical or realistic space. I wanted to go a step further and understand it as a concept of human existence itself. In other words, a hometown is not only the place where we were born and raised but can also be the very essence of our being. Ultimately, the philosophical meaning of “hometown” is the original state of human existence. Therefore, to say that we have lost our hometown means that we have lost our original selves as human beings. To seek our hometown again is not simply to return to the place where we were born but to recover our original nature, that is, our humanity.
+```
+
+```
 25-10-18
 
 전상국, 내가 선택한 최선의 생활방식
