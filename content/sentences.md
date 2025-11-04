@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-11-04
+
+한완상, 불균형 시대의 문제의식
+> 문제의식을 갖춘 사람은 정직이라고 하는 허위의식으로 가리고 있는 지배집단의 거짓된 속셈을 궤뚫어 본다. 문제의식이 투철한 사람은 자유를 앞세우는 지배세력의 억압형태를 알아차린다. ... 그러니까 문제의식을 가진 사람은 일상성의 뚜껑을 열어 보는 사람이요, 그 일상성의 세계에서 주인노릇하는 사람들의 추한 속셈을 훤하게 꿰뚫어 보는 사람이다.
+
+Han Wan-sang, “The Sense of Problem in an Age of Imbalance”
+> A person with a sense of problem sees through the ruling class’s deceitful motives, which are hidden behind the false consciousness called honesty. One whose awareness of problems is sharp recognizes the oppressive forms disguised as freedom by those in power. ... In other words, a person with a sense of problem is someone who lifts the lid of everyday life and clearly perceives the ugly intentions of those who act as masters within it.
+```
+
+```
 25-10-22
 
 문순태, 고향의 역사와 한
