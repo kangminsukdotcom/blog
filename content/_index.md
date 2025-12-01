@@ -1,7 +1,7 @@
 ---
 title: "Home"
 menu: "main"
-description: A Jeju-based writer.
+description: Some writer in Korea.
 weight: 1
 ---
 <style>
