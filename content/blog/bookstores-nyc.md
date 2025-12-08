@@ -14,4 +14,3 @@ This is a very simple list of the best bookstores in NYC I found while traveling
 - [Argosy Book Store](https://maps.app.goo.gl/xxmMT64TWYgsBuRU8)
 - [Aeon Bookstore](https://maps.app.goo.gl/Xn7iKu7HVKBtpEBA6)
 - [Three Lives & Company](https://maps.app.goo.gl/uM7qQvzzQw4WPiuE9)
-
