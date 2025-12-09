@@ -4,6 +4,8 @@ date: 2025-12-08
 tags: ["만들기"]
 ---
 
+13,000원 • 235x45mm • 디자이너스 칼라 120g • 스프링 제본 • 개고생 수작업
+
 오직 [2026 만재 달력전](https://jagunbae.com/manjae-calendar/)에서 구매 가능합니다.
 
 ![벌써 1월 1일 이다](https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/img_4270-2.webp)
