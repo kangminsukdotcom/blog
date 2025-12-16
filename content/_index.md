@@ -26,6 +26,7 @@ ul {
 
 ---
 
+<html>
 <content>
   {{ if .Data.Singular }}
     <h3 class="blog-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
@@ -58,3 +59,4 @@ ul {
     {{ end }}
   </ul>
 </content>
+</html>
