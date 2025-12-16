@@ -24,3 +24,7 @@ ul {
 <li><a href="https://kangminsuk.com/sentences/">문장</a></li>
 <li><a href="https://ko-fi.com/kangminsuk">후원</a></li>
 </ul>
+
+---
+
+{{< post-list >}}

@@ -23,3 +23,7 @@ ul {
 <li><a href="https://kangminsuk.com/sentences/">Sentences</a></li>
 <li><a href="https://ko-fi.com/kangminsuk">Donate</a></li>
 </ul>
+
+---
+
+{{< post-list >}}
