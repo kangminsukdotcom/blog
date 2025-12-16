@@ -64,7 +64,7 @@ a:hover {
 }
 
 ul.blog-posts a:hover {
-  text-decoration: underline;
+  text-decoration: underline !important;
 }
 
 .title {
