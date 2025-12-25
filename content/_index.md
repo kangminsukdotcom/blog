@@ -16,6 +16,8 @@ ul {
 
 # Minsuk Kang
 
+![Minsuk Kang's picture](https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/img_2059-2.webp)
+
 <ul>
 <li><a href="https://letterbird.co/kang">Email</a></li>
 <li><a href="https://kangminsuk.com/blog/index.xml">RSS</a></li>
