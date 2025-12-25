@@ -29,6 +29,6 @@ img {
 <li><a href="https://letterbird.co/kang">이메일</a></li>
 <li><a href="https://kangminsuk.com/ko/blog/index.xml">RSS</a></li>
 <li><a href="https://kangminsuk.com/my-apps/">창작</a></li>
-<li><a href="https://kangminsuk.com/sentences/">문장</a></li>
+<li><a href="https://kangminsuk.com/ko/blog/sentences/">문장</a></li>
 <li><a href="https://ko-fi.com/kangminsuk">후원</a></li>
 </ul>
