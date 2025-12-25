@@ -13,6 +13,12 @@ li {
 ul {
   padding: 0;
 }
+
+img {
+	max-height: 120px;
+	display: inline-block;
+	border-radius: 50%;
+}
 </style>
 
 # 강민석
