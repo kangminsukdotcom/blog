@@ -18,6 +18,16 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+25-12-12
+
+Isaac Asimov
+> Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.
+
+아이작 아시모프
+> 당연하다고 여기는 전제들은 세상을 보는 창과 같다. 가끔씩 문질러 잘 닦아주지 않으면 빛이 들어오지 못한다.
+```
+
+```
 25-11-04
 
 한완상, 불균형 시대의 문제의식
