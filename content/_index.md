@@ -26,6 +26,7 @@ img {
 
 <ul>
 <li><a href="https://letterbird.co/kang">Email</a></li>
+<li><a href="https://cal.com/minsukkang">Zoom</a></li>
 <li><a href="https://kangminsuk.com/blog/index.xml">RSS</a></li>
 <li><a href="https://kangminsuk.com/my-apps/">Creations</a></li>
 <li><a href="https://kangminsuk.com/blog/sentences/">Sentences</a></li>
