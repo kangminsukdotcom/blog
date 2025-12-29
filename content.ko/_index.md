@@ -23,7 +23,7 @@ img {
 
 # 강민석
 
-![강민석 프로필 사진](https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/img_2059-2.webp)
+![강민석 프로필 사진](https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/img_4454-2.webp)
 
 <ul>
 <li><a href="https://letterbird.co/kang">메일</a></li>

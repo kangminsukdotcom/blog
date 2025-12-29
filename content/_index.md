@@ -22,7 +22,7 @@ img {
 
 # Minsuk Kang
 
-![Minsuk Kang's picture](https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/img_2059-2.webp)
+![Minsuk Kang's picture](https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/img_4454-2.webp)
 
 <ul>
 <li><a href="https://letterbird.co/kang">Email</a></li>
