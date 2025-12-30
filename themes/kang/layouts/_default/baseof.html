@@ -10,12 +10,6 @@
 
   {{- partial "seo_tags.html" . -}}
   <meta name="referrer" content="no-referrer-when-downgrade" />
-  
-  <link rel="preload" 
-      href="/fonts/iAWriterQuattroV.woff2" 
-      as="font" 
-      type="font/woff2" 
-      crossorigin>
 
   {{ $style := resources.Get "style.css" | minify }}
   <link href="{{ $style.RelPermalink }}" rel="stylesheet">
