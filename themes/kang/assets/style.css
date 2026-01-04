@@ -3,6 +3,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
   background: #F5F5F5;
+  color: canvastext;
 }
 
 time {
@@ -31,7 +32,6 @@ body {
   font-family: system-ui, sans-serif;
   text-align: left;
   background: #fbf6eb;
-  color: #242011;
   padding: 2em;
   box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
   border-radius: 3px;
