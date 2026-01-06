@@ -2,7 +2,7 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
-  background: #d1d1d1;
+  background: #E1DDD3;
   color: canvastext;
 }
 
@@ -46,7 +46,6 @@ h1.title {
 a {
   text-underline-offset: 0.1em;
   text-decoration-style: dotted;
-  color: #474747;
 }
 
 a:hover {
@@ -72,6 +71,7 @@ nav a {
   text-decoration: none;
   margin-right: 13px;
   max-width: 100%;
+  color: canvastext;
 }
 
 summary {
