@@ -2,8 +2,8 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
-  background: #F5F5F5;
-  color: #2d2c2c;
+  background: #c0c0c0;
+  color: canvastext;
 }
 
 time {
@@ -26,14 +26,12 @@ h6 {
 
 body {
   margin: 2rem auto;
-  max-width: 580px;
+  max-width: 720px;
   line-height: 1.6;
   font-size: 1.1em;
   font-family: system-ui, sans-serif;
   text-align: left;
-  background: #fbf6eb;
-  padding: 2em;
-  box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
+  padding: 1em;
   border-radius: 3px;
 }
 
