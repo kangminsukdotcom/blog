@@ -2,7 +2,7 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
-  background: #E1DDD3;
+  background: #FBF6EB;
   color: canvastext;
 }
 
@@ -120,7 +120,7 @@ img {
 
 @media only screen and (max-width: 767px) {
   body {
-    background: #E1DDD3;
+    background: #FBF6EB;
     font-size: 1em;
     padding: 0 1rem;
     box-shadow: none;
