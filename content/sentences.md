@@ -18,6 +18,26 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+26-01-16
+
+Megan O'Giblyn, Book: God, Human, Animal Machine
+
+> The psychologist Robert Epstein challenged researchers at one of the world's most prestigious research institutes to try to account for human behavior without resorting to computational metaphors. They could not do it. The metaphor has become so pervasive, Epstein points out that "there is virtually no form of discourse about intelligent human behavior that proceeds without employing this metaphor, just as no form of discourse about intelligent human behavior could proceed in certain eras and cultures without reference to a spirit or deity."
+
+> We invoke it every time we claim to be "processing" new ideas, or when we say that we have "stored" memories or are "retrieving" information from our brains.
+
+> Today, as AI continues to blow past us in benchmark after benchmark of higher cognition, we quell our anxiety by insisting that what distinguished true consciousness is emotions, perception, the ability to experience and feel: the qualities, in other words, that we share with animals.
+
+메건 오기블린, 책: 신, 인간, 동물, 기계
+
+> 심리학자 로버트 엡스타인은 저명한 기관에서 일하는 연구자들에게 컴퓨터에 관련된 은유적 표현을 쓰지 않고 인간의 행동을 설명해 볼 수 있냐고 물었다. 연구자들은 해내지 못했다. 엡스타인은 이러한 은유적 표현이 너무나 만연해져서 "특정 시대에 살았던 사람이 영혼이나 신을 언급하지 않고는 인간의 지적 행동을 논할 수 없었던 것처럼, 컴퓨터 관련 은유를 사용하지 않고는 인간의 지적 행동에 관한 어떤 형태의 담론도 사실상 진행되지 못한다"고 말했다.
+
+> 머리가 "잘 돌아간다"라거나 기억을 "저장했다"라거나 뇌에서 정보를 "찾아낸다"라고 말할 때마다 이러한 은유를 사용하는 것이다.
+
+> 이제는 AI가 인지 능력을 측정하는 벤치마크에서 인간을 능가해 가고 있다. 이로 인한 불안을 잠재우기 위해 인간은 진정한 의식에 감정, 지각, 경험하고 느낄 수 있는 능력 즉 인간이 다른 동물들과 공유하는 그런 특징들이 꼭 필요하다고 주장한다.
+```
+
+```
 25-12-12
 
 Isaac Asimov
