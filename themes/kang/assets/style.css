@@ -25,11 +25,13 @@ h6 {
 }
 
 body {
+  margin: 40px auto;
+  padding: 0 10px;
   line-height: 1.6;
   font-size: 1.1em;
   font-family: system-ui, sans-serif;
   text-align: left;
-  padding: 5px;
+  max-width: 650px;
 }
 
 p.byline {
@@ -117,6 +119,7 @@ img {
 
 @media only screen and (max-width: 767px) {
   body {
+    background-color: lemonchiffon;
     font-size: 1em;
     padding: 0 1rem;
     box-shadow: none;
