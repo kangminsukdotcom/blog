@@ -2,7 +2,7 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
-  background: #FBF6EB;
+  background-color: lemonchiffon;
   color: canvastext;
 }
 
@@ -25,14 +25,11 @@ h6 {
 }
 
 body {
-  margin: 2rem auto;
-  max-width: 720px;
   line-height: 1.6;
   font-size: 1.1em;
   font-family: system-ui, sans-serif;
   text-align: left;
-  padding: 1em;
-  border-radius: 3px;
+  padding: 5px;
 }
 
 p.byline {
