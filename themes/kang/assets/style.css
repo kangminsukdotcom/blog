@@ -45,11 +45,10 @@ h1.title {
 a {
   color: #0033cc;
   text-underline-offset: 0.1em;
-  text-decoration-style: dotted;
 }
 
-ul.blog-posts a:hover {
-  text-decoration: underline !important;
+a:hover {
+  text-decoration: underline;
 }
 
 .title {
