@@ -3,7 +3,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
   background-color: lemonchiffon;
-  color: canvastext;
+  color: #1a1a1a;
 }
 
 time {
@@ -25,13 +25,13 @@ h6 {
 }
 
 body {
-  margin: 40px auto;
-  padding: 0 10px;
+  margin: auto;
+  padding: 20px;
   line-height: 1.6;
   font-size: 1.1em;
   font-family: system-ui, sans-serif;
   text-align: left;
-  max-width: 650px;
+  max-width: 720px;
 }
 
 p.byline {
@@ -43,6 +43,7 @@ h1.title {
 }
 
 a {
+  color: #0033cc;
   text-underline-offset: 0.1em;
   text-decoration-style: dotted;
 }
