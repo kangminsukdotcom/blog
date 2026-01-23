@@ -1,14 +1,14 @@
-body {
-  font-family: system-ui, sans-serif;
-  margin: auto;
-  padding: 20px;
-  max-width: 720px;
-  text-align: left;
-  background-color: #1d1f27;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-  line-height: 1.5;
-  color: #c9d1d9;
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+  background-color: lemonchiffon;
+  color: #1a1a1a;
+}
+
+time {
+  font-style: normal;
+  color: #6f6f6f !important;
 }
 
 h1,
@@ -16,23 +16,46 @@ h2,
 h3,
 h4,
 h5,
-h6,
-strong,
-b {
-  color: #eee;
+h6 {
+  font-weight: bold;
+}
+
+:lang(ko) {
+    word-break: keep-all;
+}
+
+body {
+  margin: auto;
+  padding: 20px;
+  line-height: 1.6;
+  font-size: 1.1em;
+  font-family: system-ui, sans-serif;
+  text-align: left;
+  max-width: 720px;
+}
+
+p.byline {
+  margin-block-start: 0px !important;
+}
+
+h1.title {
+  margin-bottom: 0.2em !important;
 }
 
 a {
-  color: #8cc2dd;
+  color: #0033cc;
+  text-underline-offset: 0.1em;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 .title {
   text-decoration: none;
   border: 0;
-}
-.title h1 {
-  font-size: 24px;
-  margin: 19.92px 0 19.92px 0;
+  font-size: 1.8em;
+  line-height: 1.2141em;
 }
 
 .title span {
@@ -40,103 +63,131 @@ a {
 }
 
 nav a {
-  margin-right: 10px;
+  text-decoration: none;
+  margin-right: 13px;
+  max-width: 100%;
+}
+
+summary {
+  font-weight: 600;
+}
+
+mark {
+  padding: 2px 6px;
+  border-radius: 4px;
+  background-color: #5d5d5d;
+  color: white;
 }
 
 textarea {
-  background-color: #252525;
-  color: #ddd;
+  background-color: #FBF8F2; /* Slightly lighter than the body */
+  color: #343634;
   width: 100%;
-  font-size: 16px;
 }
 
 input {
-  background-color: #252525;
-  color: #ddd;
-  font-size: 16px;
-}
-
-content {
-  line-height: 1.6;
+  background-color: #FBF8F2;
+  color: #343634;
+  font-size: 1em;
+  font-family: monospace;
 }
 
 table {
   width: 100%;
+  color: #343634;
 }
 
 table,
 th,
 td {
-  border: 1px solid;
+  border: 1px solid #999; /* Neutral gray borders */
   border-collapse: collapse;
-  border-color: #c9d1d9;
-  padding: 5px;
+  padding: 0.3125em;
 }
 
 img {
+  max-height: 400px;
+  object-fit: cover;
   max-width: 100%;
-  height: auto;
+  display: block;
+  margin: 0 auto 1em;
+}
+
+@media only screen and (max-width: 767px) {
+  body {
+    background-color: lemonchiffon;
+    font-size: 1em;
+    padding: 0 1rem;
+    box-shadow: none;
+  }
+  nav {
+    font-size: 1em;
+    margin-top: 1rem;
+  }
+  a.prev-post,
+  a.next-post {
+    font-size: 1em;
+  }
+  code {
+    font-size: 1em;
+  }
+  blockquote {
+    font-size: 1em;
+  }
+  html {
+    background: none;
+  }
 }
 
 code {
-  padding: 2px 5px;
-  color: #f8f8f2;
-  background-color: #282a36;
+  padding: 0.125em 0.3125em;
+  color: #474747;
+  background-color: #fdfcfb;
+  font-family: monospace;
 }
 
 pre code {
   display: block;
-  padding: 20px;
+  padding: 1.25em;
   white-space: pre-wrap;
-  font-size: 14px;
   overflow-x: auto;
-  text-wrap: nowrap;
+  border: 1px solid #999;
+  border-radius: 4px;
 }
 
 blockquote {
-  border-left: 1px solid #999;
-  color: #ccc;
-  padding-left: 20px;
   font-style: italic;
 }
 
-footer {
-  padding: 25px;
-  text-align: center;
-}
-
 .helptext {
-  color: #aaa;
+  color: #555; /* Slightly darker for better readability */
   font-size: small;
 }
 
 .errorlist {
-  color: #eba613;
+  color: #800; /* Dark maroon (appears as dark gray in grayscale) */
   font-size: small;
 }
 
-/* blog posts */
 ul.blog-posts {
   list-style-type: none;
   padding: unset;
 }
 
 ul.blog-posts li {
-  display: flex;
-  margin-bottom: 10px;
+  margin-bottom: 0.625em;
 }
 
 ul.blog-posts li span {
-  flex: 0 0 130px;
+  flex: 0 0 8.125em;
 }
 
-ul.blog-posts li a:visited {
-  color: #8b6fcb;
+ul.blog-posts a {
+  text-decoration: none;
 }
 
 a.blog-tags {
-  line-height: 2;
-  margin-right: 12px;
+  text-decoration: underline;
 }
 
 h3.blog-filter {
@@ -144,27 +195,19 @@ h3.blog-filter {
 }
 
 .disabled {
-  color: currentColor;
+  color: gray;
   cursor: not-allowed;
   opacity: 0.7;
 }
 
-p.byline {
-  font-style: italic;
+hr {
+  border: none;
 }
 
-/* "Skip to main content" link */
-.skip-link {
-  position: absolute;
-  top: 5;
-  transform: translateY(-600%);
-  transition: transform 0.5s;
-  background-color: #1d1f27;
-  padding: 6px;
-}
-
-.skip-link:focus {
-  transform: translateY(0%);
+hr::before {
+  content: '---';
+  display: block;
+  text-align: center;
 }
 
 figure {
@@ -176,5 +219,126 @@ figcaption > p {
   margin-block-start: 0px;
   text-align: center;
   font-style: italic;
-  color: #ccc;
+  color: #777;
+}
+
+::selection {
+  background-color: rgba(45,170,219,.3);
+}
+
+.postcard-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.postcard {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  width: 100%;
+  max-width: 600px;
+}
+
+.postcard img {
+  width: 100%;
+  height: auto;
+  transition: transform 0.6s;
+  backface-visibility: hidden;
+}
+
+.postcard img.back {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: rotateY(180deg);
+}
+
+.back-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transform: rotateY(180deg);
+  backface-visibility: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F5F5DC;
+}
+
+textarea#message {
+  width: 80%;
+  height: 200px;
+  resize: none;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  text-align: center;
+  background: white;
+  color: #333;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: system-ui, sans-serif;
+}
+
+textarea#letter {
+  width: 100%;
+  height: 200px;
+  font-size: 16px;
+  font-family: system-ui, sans-serif;
+  background: rgba(245,245,220,0.8);
+  color: #333;
+}
+
+textarea#message:focus {
+  outline: none;
+}
+
+.intro {
+  margin-top: 20px;
+  font-size: 1.2em;
+}
+
+.download-links {
+  margin-top: 20px;
+}
+
+.video-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.video-container video {
+  width: 100%;
+  max-width: 600px;
+  height: 300px;
+}
+
+button {
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+  color: #343634;
+  background-color: #F5F5DC;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px;
+}
+
+main {
+  margin-bottom: 1em;
+}
+
+nav.post-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 14px;
+}
+
+a.prev-post,
+a.next-post {
+  text-align: left;
+  text-decoration: none;
+  color: #474747;
 }
