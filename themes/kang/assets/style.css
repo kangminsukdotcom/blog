@@ -48,10 +48,6 @@ a {
   text-decoration-style: dotted;
 }
 
-a:hover {
-  text-decoration: underline;
-}
-
 ul.blog-posts a:hover {
   text-decoration: underline !important;
 }
