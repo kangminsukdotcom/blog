@@ -68,6 +68,10 @@ nav a {
   max-width: 100%;
 }
 
+ul.blog-posts li {
+  text-decoration: none;
+  }
+
 summary {
   font-weight: 600;
 }
@@ -182,8 +186,12 @@ ul.blog-posts li span {
   flex: 0 0 8.125em;
 }
 
+ul.blog-posts a {
+  text-decoration: none;
+}
+
 a.blog-tags {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 h3.blog-filter {
