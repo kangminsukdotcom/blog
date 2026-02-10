@@ -13,6 +13,7 @@ display: none;
 ## 한국어
 - [작은배](https://jagunbae.com)
 - [강소팟](https://podcast.jagunbae.com)
+- [오늘의 문장](https://kangminsuk.com/ko/blog/sentences/)
 - [AI 지옥](https://ai-hell.yay.boo)
 - [만들기는 재밌어!](https://archive.bearblog.dev)
 - [오늘의 문장을 보내드립니다](https://kangminsuk.com/ko/blog/sentences/)
@@ -33,7 +34,7 @@ display: none;
 
 ## English
 - [Jagunbae](https://en.jagunbae.com)
-- [I’ll send you a sentence every day](https://kangminsuk.com/blog/sentences/)
+- [Today's Sentence](https://kangminsuk.com/blog/sentences/)
 - ["Jeju City Like a Local: Car-Free Travel, Vegan Spots, and Must-Try Restaurants & Cafés"](https://jejudeers.itch.io/jeju-city-like-a-local)
 - [All texts of kangminsuk.com](https://kangminsuk.com/all-texts/)
 - [(A Bit Serious) Parent Interview](https://kangminsuk.com/interview/)
