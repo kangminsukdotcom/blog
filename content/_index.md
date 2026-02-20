@@ -20,9 +20,9 @@ img {
 }
 </style>
 
-# Minsuk Kang
-
 ![Minsuk Kang's picture](https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/its-me.webp "I'm glad you're here.")
+
+I'm Minsuk Kang.
 
 <ul>
 <li><a href="https://letterbird.co/kang">Email</a></li>
