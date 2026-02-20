@@ -23,7 +23,8 @@ img {
 
 ![강민석 프로필 사진](https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/its-me.webp "이것도 인연입니다.")
 
-강민석입니다. 제주에 살고 있습니다.
+강민석입니다.    
+제주에 살고 있습니다.
 
 <ul>
 <li><a href="https://letterbird.co/kang">메일</a></li>
