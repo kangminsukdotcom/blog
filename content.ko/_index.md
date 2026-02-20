@@ -23,7 +23,7 @@ img {
 
 # 강민석
 
-![강민석 프로필 사진](https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/img_4454-2-2.webp "이것도 인연입니다.")
+![강민석 프로필 사진](https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/its-me.webp "이것도 인연입니다.")
 
 <ul>
 <li><a href="https://letterbird.co/kang">메일</a></li>
