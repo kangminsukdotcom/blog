@@ -1,5 +1,5 @@
 ---
-title: On Wars
+title: Praying
 date: 2026-03-02
 tags: [essay]
 ---
