@@ -1,6 +1,7 @@
 ---
 title: On Wars
 date: 2025-03-02
+tags: [essay]
 ---
 
 When the Russia-Ukraine war began, I was visiting my dad in Seoul. He was about to have major surgery to remove a tumor from his spine.
