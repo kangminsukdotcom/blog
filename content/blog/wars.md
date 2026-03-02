@@ -14,4 +14,4 @@ My immediate thought was, "I bet these people don't give a shit about the people
 
 Whenever a war, tragedy, or disaster strikes, people print and post "pray for" messages on posters and social media. I get it. I feel helpless when I realize, once again, that the world is a fucked up place. I get angry because a handful of corrupt harabeojis, never held responsible for their crimes against humanity, set the world on fire just to protect their power.
 
-What should we do then? Praying and voting. Too many people, myself included, are stuck with these two notoriously ineffective options for fighting injustice. I want to know if there's another way. Protesting might be an option, but I've never personally seen a protest create meaningful change.
+Praying and voting. Too many people, myself included, are stuck with these two notoriously ineffective options for fighting injustice. I want to know if there's another way. Protesting might be an option, but I've never personally seen a protest create meaningful change.
