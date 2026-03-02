@@ -6,7 +6,7 @@ tags: [essay]
 
 When the Russia-Ukraine war began, I was visiting my dad in Seoul. He was about to have major surgery to remove a tumor from his spine.
 
-I stayed at my sister's tiny studio. The building was run by a real estate startup desperate to become the next WeWork(before that bubble burst). Inside the elevators, there were announcements about yoga classes and rooftop parties. Half the residents seemed like rich college kids studying abroad for a semester.
+I stayed at my sister's tiny studio. The building was run by a real estate startup desperate to become the next WeWork(before that bubble burst). Inside the elevators, there were announcements about yoga classes and rooftop parties. Half the residents seemed like rich American college kids studying abroad for a semester.
 
 After spending the night at the hospital, I went back to my sister's place to clean up and rest. As I approached the building, I noticed dozens of colorful posters on the wall. I figured the apartment management had put out some ad, but I couldn't just walk past its message. Every poster carried the same words in the center: "Pray for Ukraine."
 
