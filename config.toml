@@ -40,6 +40,3 @@ buildFuture = true
 
 [taxonomies]
    tag = "tags"
-
-[permalinks]
-  "/" = "/blog/"
