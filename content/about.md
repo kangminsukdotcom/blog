@@ -1,22 +1,28 @@
 ---
-title: "Minsuk Kang"
+title: "About"
+type: page
 ---
 <style>
-  ul {
-   list-style: none; 
-  }
+li {
+  list-style: none;
+}
+
+ul {
+  padding: 0;
+}
+
+img {
+	max-height: 120px;
+	display: inline-block;
+	border-radius: 50%;
+}
 </style>
 
-![Minsuk Kang](https://mataroa.blog/images/3d2e27a1.jpeg)
+![Minsuk Kang's picture](https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/its-me.webp "I'm glad you're here.")
 
-## Now
-- [Jagunbae](https://en.jagunbae.com)
-
-## Projects
-- [Kang and Ko](https://us.jagunbae.com)
-- [(A Bit Serious) Parent Interview](https://kangminsuk.com/interview/)
-- [(A Bit Serious) Question Generator](https://kangminsuk.com/conversation/)
-- [Sandwich shop](https://reviews.cheesylazy.com/) (closed)
-
-## Contact
-- https://letterbird.co/kang
+<ul>
+<li><a href="https://letterbird.co/kang">Email</a></li>
+<li><a href="https://kangminsuk.com/blog/index.xml">RSS</a></li>
+<li><a href="https://kangminsuk.com/my-apps/">Creations</a></li>
+<li><a href="https://ko-fi.com/kangminsuk">Donate</a></li>
+</ul>
