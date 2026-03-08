@@ -18,6 +18,7 @@ buildFuture = true
 
 [params]
   favicon = "images/favicon.webp"
+  mainSections = ["blog"]
 
 [languages]
   [languages.en]
