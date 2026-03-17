@@ -9,4 +9,4 @@ So far, I've learned that taking care of a baby is no joke. Diaper changing, bat
 
 I'm still not sure how my life will change after our daughter is born. Even the 3-D ultrasound images of my daughter, made possible by alien-level technology, fail to convince me that I'm now responsible for a new human being in this universe. People say having a kid is one of the few chances to be truly selfless. Maybe I'll finally be free from my egocentric mindset and realize it's possible to lead a life of love.
 
-One day my daughter will read this post. I see you, Goyo. I welcome you to this world.
+One day my daughter will read this post. How amazing is that? I see you, Goyo. I welcome you to this world.
