@@ -4,8 +4,6 @@ date: 2026-03-20
 tags: [essay]
 ---
 
-I dedicate this post to all poor dads out there.
-
 Money seems vital to nurturing a child. Ask fathers whether they'd rather be a rich dad or a poor dad, and almost all will say, "Of course, the rich one."
 
 This poor dad thinks differently. He even relishes being called a poor dad. That’s strange. He makes half of minimum wage. He's terrible at building a fortune. He's not just a poor dad. He's a really poor dad.
