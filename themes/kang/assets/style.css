@@ -119,7 +119,6 @@ img {
 
 @media only screen and (max-width: 767px) {
   body {
-    background-color: lemonchiffon;
     font-size: 1em;
     padding: 0 1rem;
     box-shadow: none;
