@@ -10,7 +10,7 @@ This poor dad thinks differently. He even relishes being called a poor dad. That
 
 Some might say being poor is an abominable sin for someone expecting a baby in two months. This poor dad must disagree because he's about to become a full-time father, saving tons on extravagant spending. He earns less, but he saves more.
 
-This poor dad doesn't buy things to feel happy. He buys only what's absolutely necessary. He wears the same sweatshirt he wore in college. He's subscribed to the cheapest 1G data plan for his flip phone. Most of his clothes came from his late father. He wears socks and boxers until they rip to pieces. His wife cuts his hair. He bakes sourdough bread for breakfast. He puts art, friendship, and family at the epicenter of his life. This poor dad has an acute sense of what matters.
+This poor dad doesn't buy things to feel happy. He buys only what's absolutely necessary. He wears the same sweatshirt he wore in college. He's subscribed to the cheapest 1G data plan for his flip phone. Most of his clothes came from his late father. He wears socks and boxers until they rip to pieces. His wife cuts his hair. He bakes a loaf of sourdough for breakfast. He puts art, friendship, and family at the epicenter of his life. This poor dad has an acute sense of what matters.
 
 This poor dad says most people are brainwashed into believing material wealth is life's ultimate goal. He refuses to let his child become another cog in the capitalist machine. He says consumerism poisons our souls. His life's purpose is to make sure his child never says her dream is to become a doctor or lawyer just to make a lot of money.
 
