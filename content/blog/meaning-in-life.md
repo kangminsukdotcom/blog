@@ -10,6 +10,6 @@ Reading this news makes me feel like my life doesn't really matter. I feel lost 
 
 Look around. People at cafés don't talk about their lives anymore. They talk about what's happening in the world: the BTS concert, the war in the Middle East, the stock market, the price of gold and bitcoin. We all seem to acknowledge we are so hollow that we can't escape this soul-crushing meaning crisis.
 
-Let’s face it. Knowing has rotted my soul. I must start unknowing to regain my purpose and get the most out of this life. It's an ambitious challenge to stay oblivious to all the news and happenings around the world. I'm addicted to these compulsive feelings I get after learning how the world is corrupt beyond repair. It's impossible not to feel a shred of casino-anxiety after spending hours on CNN and Instagram.
+Knowing has rotted my soul. I must start unknowing to regain my purpose and get the most out of this life. It's an ambitious challenge to stay oblivious to all the news and happenings around the world. I'm addicted to these compulsive feelings I get after learning how the world is corrupt beyond repair. It's impossible not to feel a shred of casino-anxiety after spending hours on CNN and Instagram.
 
 It's unnatural for a human to be as powerful as a tech billionaire, president, or cult leader. I have nothing in common with them yet I'm still dominated by these old guard faces. I don't want to serve them. I want to stand for myself and take care of the people around me. It's that simple. That's my meaning of life.
