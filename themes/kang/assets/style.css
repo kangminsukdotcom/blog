@@ -340,10 +340,10 @@ nav.post-navigation {
 }
 
 #comments {
-  --comments-text: #333;
+  --comments-text: #1a1a1a;
   --comments-bg: transparent;
   --comments-accent-bg: #f5f7ff;
-  --comments-accent: #0d47a1;
+  --comments-accent: #03c;
   --comments-accent-hover: #1266e2;
   --comments-border: #e5e5e5;
   --comments-success: #1b5e20;
