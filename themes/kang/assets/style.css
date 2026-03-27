@@ -24,14 +24,14 @@ h6 {
     word-break: keep-all;
 }
 
+
 body {
   margin: auto;
-  padding: 20px;
-  line-height: 1.6;
-  font-size: 1.1em;
-  font-family: system-ui, sans-serif;
-  text-align: left;
-  max-width: 66ch;
+  padding: 1.5rem;
+  line-height: 1.7;
+  font-size: 1.125rem;
+  font-family: system-ui, -apple-system, sans-serif;
+  max-width: 42rem;
 }
 
 p.byline {
