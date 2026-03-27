@@ -2,7 +2,7 @@
 title: 한국식 영어 공부를 거부한다
 date: 2025-02-12
 description: 순수한 마음으로 공부를 논하고 싶다.
-tags: [에세이]
+tags: [생각]
 ---
 *[번역 없이 공부하기: Work](https://jagunbae.com/read-in-english-5/) 모임을 준비하며 쓴 글입니다.*
 

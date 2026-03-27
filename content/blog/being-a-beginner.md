@@ -1,7 +1,7 @@
 ---
 title: Practicing Being a Beginner
 date: 2024-06-22
-tags: ["essay"]
+tags: ["notes"]
 ---
 *This is a translated version of [Ko's fourth essay](https://jagunbae.com/courage-4/) of a series "Where Does the Courage to Take On Challenges Come From?"*
 

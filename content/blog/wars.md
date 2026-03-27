@@ -1,7 +1,7 @@
 ---
 title: Praying
 date: 2026-03-02
-tags: [essay]
+tags: [notes]
 ---
 
 When the Russia-Ukraine war began, I was visiting my dad in Seoul. He was about to have major surgery to remove a tumor from his spine.

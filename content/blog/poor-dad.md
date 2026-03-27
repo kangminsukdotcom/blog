@@ -1,7 +1,7 @@
 ---
 title: Poor Dad, Really Poor Dad
 date: 2026-03-20
-tags: [essay]
+tags: [notes]
 ---
 
 Money seems vital to nurturing a child. Ask fathers whether they'd rather be a rich dad or a poor dad, and almost all will say, "Of course, the rich one."

@@ -2,7 +2,7 @@
 title: AI 지옥
 date: 2025-06-30
 description: 수많은 국가, 도시, 회사가 AI 우선주의를 신봉하는 와중에 나 또한 AI 신기루에 꽂힌 소도시에 살고 있다.
-tags: [에세이]
+tags: [생각]
 ---
 
 ![AI 지옥](https://bear-images.sfo2.cdn.digitaloceanspaces.com/archive/02pm.webp)

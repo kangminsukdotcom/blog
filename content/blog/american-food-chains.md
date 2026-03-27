@@ -1,7 +1,7 @@
 +++
 title = "The Stories of McDonald's, Shake Shack, In-N-Out, Egg Slut, and Blue Bottle in South Korea"
 date = 2021-03-07
-tags = ["essay","korea"]
+tags = ["notes","korea"]
 +++
 
 ### It all starts with a McDonald’s

@@ -1,7 +1,7 @@
 +++
 title = "Baek Jong-won - the Most Famous Entrepreneur in Korea"
 date = 2021-03-14
-tags = ["essay","korea"]
+tags = ["notes","korea"]
 +++
 
 If I had to guess the most famous entrepreneur in Korea, I would say it’s Baek Jong-won.

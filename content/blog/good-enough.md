@@ -2,7 +2,7 @@
 title: I Use Good Enough Software
 date: 2025-04-08
 description: A list of the best free or low-cost Mac apps I use almost every day.
-tags: [Essay]
+tags: [notes]
 ---
 
 I love discovering and using well-made apps like [Paper](https://paper.pro/) and [Bartender](https://www.macbartender.com/). But the more time I spend searching for *the best* app for a task, the more I realize that there are plenty of cheaper — and often free — alternatives that do the job just fine.

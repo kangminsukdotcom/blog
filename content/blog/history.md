@@ -1,7 +1,7 @@
 ---
 title: What is History?
 date: 2025-09-26
-tags: [essay]
+tags: [notes]
 ---
 
 What is history? If we judge by today's media landscape, history appears to be nothing more than the diaries of powerful individuals. Turn on any news channel, listen to podcasts, or scroll through social feeds. The world seemingly revolves around what presidents and CEOs said today. Currently, Trump and Vance dominate the conversation—even in Korea—as if they're the only humans who matter, while the rest of us are relegated to passive observers.

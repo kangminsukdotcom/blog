@@ -1,7 +1,7 @@
 ---
 title: Does the world need my books?
 date: 2024-01-19
-tags: ["essay"]
+tags: ["notes"]
 ---
 
 I'm writing a book about death. This book will be [Jagunbae](https://en.jagunbae.com/)'s first publication.

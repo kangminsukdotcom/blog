@@ -1,7 +1,7 @@
 ---
 title: Panic Buying Books
 date: 2025-04-19
-tags: [essay]
+tags: [notes]
 description: I’ll read. I’ll read. I’ll read.
 ---
 

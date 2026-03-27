@@ -1,7 +1,7 @@
 ---
 title: I'm terrible at writing fiction
 date: 2026-03-23
-tags: [essay]
+tags: [notes]
 ---
 
 I recently realized I'm terrible at crafting stories. For years, I imagined I'd write a great story one day. I pictured random readers online recognizing my gift and elevating me toward a renowned workshop or artist grant.

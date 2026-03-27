@@ -1,7 +1,7 @@
 ---
 title: What is American Dream?
 date: 2025-12-08
-tags: ["essay"]
+tags: ["notes"]
 ---
 
 I just came back from a two-week trip to the US. My main objective was to attend my best friends’ wedding in LA and see my sister in NJ.

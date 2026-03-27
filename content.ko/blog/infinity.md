@@ -1,7 +1,7 @@
 +++
 title = "우리는 특별한 순간에 살고 있다"
 date = 2021-03-18
-tags = ["에세이"]
+tags = ["생각"]
 +++
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662215298.webp)

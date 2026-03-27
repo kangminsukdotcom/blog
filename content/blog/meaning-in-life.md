@@ -1,7 +1,7 @@
 ---
 title: How individuals find meaning in life
 date: 2026-03-26
-tags: [essay]
+tags: [notes]
 ---
 
 Every day, I let myself get trapped in this whirlpool of excessive information. When I wake up, I open my laptop to read news about the war and watch lectures on YouTube, immersing myself in the grand scheme that the world is controlled by a few cult-like, corporate, elitist, and financial cliques.

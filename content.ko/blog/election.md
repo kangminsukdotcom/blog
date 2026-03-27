@@ -1,7 +1,7 @@
 +++
 title = "대선 중독"
 date = 2022-03-09
-tags = ["에세이"]
+tags = ["생각"]
 +++
 
 ![Image title](https://bear-images.sfo2.cdn.digitaloceanspaces.com/kang-1662249997.webp)

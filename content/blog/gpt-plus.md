@@ -2,7 +2,7 @@
 title: Cancelling GPT Plus
 date: 2025-07-11
 description: It’s time to experiment if I could go back and stand on my own.
-tags: [essay]
+tags: [notes]
 ---
 
 I let go of my GPT Plus subscription today. Yoooo, I know, LLMs are cool, way too cool to the point of forcing everyone to be afraid of the future and implode while asking “will this thing replace my job and make my life miserable?”

@@ -2,7 +2,7 @@
 title: I’ll read it
 description: I’ll treat your posts like books. I’ll read them with the care you deserve.
 date: 2024-12-26
-tags: ["essay"]
+tags: ["notes"]
 ---
 
 *Inspired by [Manuel’s post][1].*

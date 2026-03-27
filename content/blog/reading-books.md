@@ -2,7 +2,7 @@
 title: I enjoy reading books because it makes me fall asleep
 date: 2025-01-07
 description: Reading a physical book is completely different from browsing on my laptop.
-tags: [essay]
+tags: [notes]
 ---
 
 After reading a few pages, my mind begins to wander. My eyes are half-closed already. I feel like I’m done for the day. I gaze out the window for a while and eventually doze off. Once again, I fail to finish more than a chapter because reading makes me so tired.

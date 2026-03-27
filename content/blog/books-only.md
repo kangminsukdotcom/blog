@@ -1,7 +1,7 @@
 ---
 title: Books Only
 date: 2024-01-16
-tags: ["essay"]
+tags: ["notes"]
 ---
 
 ![책과나.webp](https://mataroa.blog/images/5cc981a6.webp)

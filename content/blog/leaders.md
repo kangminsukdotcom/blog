@@ -1,7 +1,7 @@
 ---
 title: We Deserve Leaders Who Help Others Grow
 date: 2024-06-10
-tags: ["korea","essay"]
+tags: ["korea","notes"]
 ---
 
 Politicians are fighting again. I’m tired of seeing feeds full of arguments, not discussions. Politicians should care about the well-being of millions, but it seems like only the individualistic and power-hungry have succeeded in elections.

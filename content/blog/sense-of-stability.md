@@ -1,7 +1,7 @@
 ---
 title: Sharing a Sense of Stability
 date: 2024-06-18
-tags: ["essay"]
+tags: ["notes"]
 ---
 *This is a translated version of [Ko's third essay](https://jagunbae.com/courage-3/) of a series "Where Does the Courage to Take On Challenges Come From?"*
 

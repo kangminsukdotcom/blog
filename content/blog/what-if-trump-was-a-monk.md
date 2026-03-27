@@ -1,6 +1,7 @@
 ---
 title: What if trump was your wise buddhist uncle?
 date: 2026-03-27
+tags: [drawing]
 ---
 
 ![monk trump 1](https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/scan1-2.webp)

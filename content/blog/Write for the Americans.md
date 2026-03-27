@@ -2,7 +2,7 @@
 title: Write for the Americans
 date: 2025-06-26
 description: I’m a writer. One who kind of knows how to write in both English and Korean.
-tags: [essay]
+tags: [notes]
 ---
 
 I’m a writer. One who kind of knows how to write in both English and Korean. I mostly read in English, but I almost always speak in Korean, since I live in Korea (duh).
