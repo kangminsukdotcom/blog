@@ -1,7 +1,7 @@
 ---
 title: 장염, 다래끼, 발목
 date: 2025-02-16
-tags: [일기]
+tags: [생각]
 ---
 
 *[나-이야기-무대](https://jagunbae.com/naimu/)에서 쓴 "나의 오래된 기억".*

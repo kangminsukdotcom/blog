@@ -1,7 +1,7 @@
 ---
 title: 실례지만... 얼마버세요?
 date: 2026-03-27
-tags: [일기]
+tags: [생각]
 ---
 
 ![얼마버세요?](https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/scan5-2.webp)
