@@ -340,7 +340,7 @@ nav.post-navigation {
 }
 
 #comments {
-  --comments-text: #1a1a1a;
+  --comments-text: #1a1a;
   --comments-bg: transparent;
   --comments-accent-bg: #f5f7ff;
   --comments-accent: #03c;
@@ -368,6 +368,7 @@ nav.post-navigation {
 #comments h3 {
   margin-bottom: 0.75rem;
   font-size: 0.8125rem;
+  display: none;
 }
 
 #comments p {
