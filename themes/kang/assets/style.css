@@ -31,7 +31,7 @@ body {
   font-size: 1.1em;
   font-family: system-ui, sans-serif;
   text-align: left;
-  max-width: 720px;
+  max-width: 66ch;
 }
 
 p.byline {
