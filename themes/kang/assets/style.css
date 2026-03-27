@@ -2,7 +2,7 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
-  background-color: #fffbdf;
+  background-color: #fffce8;
   color: #1a1a1a;
 }
 
@@ -122,14 +122,11 @@ img {
     font-size: 1em;
     padding: 0 1rem;
     box-shadow: none;
+    background-color: #fffce8;
   }
   nav {
     font-size: 1em;
     margin-top: 1rem;
-  }
-  a.prev-post,
-  a.next-post {
-    font-size: 1em;
   }
   code {
     font-size: 1em;
@@ -530,6 +527,7 @@ nav.post-navigation {
   display: block;
   font-weight: 400;
   font-size: 0.875rem;
+  max-width: 400px;
 }
 
 #comments form input,
