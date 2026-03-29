@@ -452,6 +452,7 @@ nav.post-navigation {
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  font-size: 1rem;
 }
 
 #comments .comment-meta .comment-author {
@@ -467,6 +468,7 @@ nav.post-navigation {
 
 #comments .comment-body p {
   margin: 0.5rem 0;
+  font-size: 0.875rem;
 }
 
 #comments .comment-actions {
