@@ -365,7 +365,7 @@ nav.post-navigation {
 
 #comments h3 {
   margin-bottom: 0.75rem;
-  font-size: 0.8125rem;
+  font-size: 0.8rem;
 }
 
 #comments p {
@@ -378,7 +378,7 @@ nav.post-navigation {
 
 #comments time {
   opacity: 0.75;
-  font-size: 0.8125rem;
+  font-size: 0.8rem;
   color: #888;
 }
 
@@ -391,7 +391,7 @@ nav.post-navigation {
 }
 
 #comments .comments-header h2 {
-  font-size: 1.25rem;
+  font-size: 1.12rem;
 }
 
 #comments button,
@@ -404,7 +404,7 @@ nav.post-navigation {
   border: none;
   text-decoration: none;
   font: inherit;
-  font-size: 0.8125rem;
+  font-size: 0.8rem;
   cursor: pointer;
 }
 
@@ -452,7 +452,7 @@ nav.post-navigation {
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  font-size: 1rem;
+  font-size: 0.93rem;
 }
 
 #comments .comment-meta .comment-author {
@@ -468,7 +468,7 @@ nav.post-navigation {
 
 #comments .comment-body p {
   margin: 0.5rem 0;
-  font-size: 0.875rem;
+  font-size: 0.93rem;
 }
 
 #comments .comment-actions {
@@ -478,7 +478,7 @@ nav.post-navigation {
 #comments .comment-actions button {
   margin: 0;
   padding: 0.25rem 0.5rem;
-  font-size: 0.8125rem;
+  font-size: 0.8rem;
   color: #666;
   background: transparent;
   border: none;
@@ -502,7 +502,7 @@ nav.post-navigation {
 }
 
 #comments .replying-to {
-  font-size: 0.875rem;
+  font-size: 0.85rem;
   padding: 0.5rem;
   border: none;
   border-radius: 0;
@@ -528,7 +528,7 @@ nav.post-navigation {
 #comments form label {
   display: block;
   font-weight: 400;
-  font-size: 0.875rem;
+  font-size: 0.85rem;
   max-width: 400px;
 }
 
@@ -553,7 +553,7 @@ nav.post-navigation {
 
 #comments .form-status {
   min-height: 0;
-  font-size: 0.875rem;
+  font-size: 0.85rem;
   margin: 0;
   padding: 0;
 }
@@ -594,7 +594,6 @@ nav.post-navigation {
   }
 }
 
-/* Assso-style page author highlighting */
 #comments .comment-item.isso-is-page-author > .comment-body {
   background-color: var(--comments-accent-bg);
   padding: 0.5rem 0;
@@ -618,5 +617,6 @@ nav.post-navigation {
     align-items: flex-start;
   }
 }
+
 
 
