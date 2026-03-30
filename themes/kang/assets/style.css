@@ -716,3 +716,8 @@ textarea#letter {
     align-items: flex-start;
   }
 }
+
+#comments .comments-form label:has(input[name="email"]),
+#comments .comments-form label:has(input[name="website"]) {
+    display: none;
+}
