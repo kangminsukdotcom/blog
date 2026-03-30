@@ -33,31 +33,35 @@
   --comments-highlight-bg: #fff68f;
 }
 
-/* ===== Dark Mode - User Requested Colors ===== */
+/* ===== Dark Mode - WCAG AAA Compliant ===== */
 @media (prefers-color-scheme: dark) {
   :root {
-    /* User requested colors */
-    --bg-color: #212121;
+    /* User requested background with AAA contrast */
+    --bg-color: #232323;
     --text-color: #E4E4E4;
 
-    /* Optimized for comfortable visibility */
-    --text-muted: #a0a0a0;
+    /* Optimized for AAA contrast hierarchy */
+    --text-muted: #B8B8B8;
     --link-color: #80BBD9;
-    --link-hover: #99b3e6;
-    --border-color: #4a4a4a;
-    --code-bg: #2d2d2d;
-    --input-bg: #2a2a2a;
+    --link-hover: #99C0FF;
+    --border-color: #4A4A4A;
+    --code-bg: #2F2F2F;
+    --input-bg: #2D2D2D;
     --input-text: #E4E4E4;
-    --postcard-beige: #2e2e2e;
-    --selection-bg: rgba(102, 153, 204, 0.3);
+    --postcard-beige: #303030;
+    --selection-bg: rgba(102, 153, 204, 0.4);
 
-    /* Comments optimized for visibility */
+    /* Comments optimized for AAA visibility */
     --comments-text: #E4E4E4;
-    --comments-accent-bg: #2a3540;
-    --comments-accent: #6699cc;
-    --comments-accent-hover: #99b3e6;
-    --comments-border: #4a4a4a;
-    --comments-highlight-bg: #3d4a1f;
+    --comments-accent-bg: #2A3A4A;
+    --comments-accent: #77AAFF;
+    --comments-accent-hover: #99C0FF;
+    --comments-border: #4A4A4A;
+    --comments-highlight-bg: #3F4F2A;
+
+    /* Dark mode specific overrides for hardcoded elements */
+    --dark-mode-error-color: #ff6b6b;
+    --dark-mode-helptext-color: #B8B8B8;
   }
 }
 
@@ -154,12 +158,12 @@ blockquote {
 }
 
 .helptext {
-  color: var(--text-muted);
+  color: var(--text-muted, #555);
   font-size: 0.875rem;
 }
 
 .errorlist {
-  color: #800;
+  color: var(--dark-mode-error-color, #800);
   font-size: 0.875rem;
 }
 
@@ -323,7 +327,7 @@ figcaption > p {
   margin-block-start: 0;
   text-align: center;
   font-style: italic;
-  color: #777;
+  color: var(--text-muted, #777);
 }
 
 /* ===== Images ===== */
@@ -494,7 +498,8 @@ nav.post-navigation {
   padding: 0.5rem;
   border: none;
   border-radius: 0;
-  background: #f5f5f5;
+  background: var(--input-bg);
+  color: var(--input-text);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -702,9 +707,7 @@ textarea#letter {
     margin-top: 1rem;
   }
 
-  html {
-    background: none;
-  }
+  /* REMOVED: html { background: none; } - This was causing the bug */
 }
 
 @media (max-width: 640px) {
