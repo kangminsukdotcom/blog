@@ -12,12 +12,9 @@ type: page
     }
 </style>
 
-*This page is updated on 2025-06-15.*
+*This page is updated on 2026-04-07.*
 
-- I wake up at 5:45 AM every day to join [창작하는 아침][1](Creator’s Morning).
-- I publish a weekly podcast called [강소팟][2].
-- I write short stories and publish them on this website.
-- [I send beautiful sentences](https://kangminsuk.com/blog/sentences/) every day.
-
-[1]:	https://jagunbae.com/creators-morning-23/
-[2]:	https://podcast.jagunbae.com
+- Publishing a weekly podcast called 강소팟. I've published 82 episodes so far.
+- Preparing for an art book fair called [Jeju Book Fail](https://jejubookfail.com/)
+- Trying to publish as much as possible on this website.
+- Expecting a baby girl in one month.
