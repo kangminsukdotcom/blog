@@ -1,5 +1,5 @@
 ---
-title: Does the world need more distraction-free apps? 
+title: Does the world need more distraction-free apps?
 date: 2026-04-15
 tags: notes
 ---
