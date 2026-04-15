@@ -1,7 +1,7 @@
 ---
 title: Does the world need more distraction-free apps?
 date: 2026-04-15
-tags: "notes"
+tags: [notes]
 ---
 
 I'm a sucker for "distraction-free" plain text editors, markdown editors, code editors, sound generators, Pomodoro timers, ebook readers, blogging platforms, app blockers, wallpaper generators, social media, flight simulators, writing devices, to-do apps, and RSS readers.
