@@ -1,6 +1,6 @@
 baseURL = "https://kangminsuk.com/"
 title = "Minsuk Kang 강민석"
-description = "I write about being human."
+description = "I write to be a better human."
 theme = "kang"
 enableRobotsTXT = true
 dateFormat = "2006-01-02"
