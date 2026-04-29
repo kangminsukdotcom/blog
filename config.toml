@@ -18,6 +18,7 @@ buildFuture = true
 
 [params]
   favicon = "images/favicon.webp"
+  rss = true
 
 [languages]
   [languages.en]
@@ -32,7 +33,7 @@ buildFuture = true
   [languages.ko]
     title = "강민석"
     languageName = "한국어"
-    LanguageCode = "ko-KO"
+    LanguageCode = "ko"
     contentDir = "content.ko"
     [languages.ko.params]
       blogPath = "/ko/blog"
