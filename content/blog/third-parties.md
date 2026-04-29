@@ -1,5 +1,5 @@
 ---
-title: I’m voting for third parties from now on
+title: I’m voting for losers from now on
 date: 2026-04-29T21:45:00
 tags: [notes]
 ---
