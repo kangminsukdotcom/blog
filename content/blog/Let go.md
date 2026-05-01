@@ -16,4 +16,4 @@ I teared up and realized I'd never had this kind of experience: saying a final g
 
 I still feel a void when I think of our relationship. I won't be able to see her forever. I won't even know when she passes away. It’s difficult to let go of our connection, while she is praying for everyone, including me.
 
-One must be ruthless enough to let go and focus only on the essentials. Letting go is not a passive act of giving up on many temptations in our lives. I'd like to shrink my awareness to the size of a small bowl. It's time to close my eyes and breathe. It's okay to lose. It's okay to fall. It's okay to be unknown. This is the way. This is the way.
+Letting go isn't a passive act of giving up on the many temptations in our lives. You have to be ruthless enough to let go and focus only on what matters. It takes just a minute to close my eyes and breathe. I'd like to shrink my awareness down to the size of a small bowl. It's okay to lose. It's okay to fall. It's okay to be unknown. This is the way. This is the way.
