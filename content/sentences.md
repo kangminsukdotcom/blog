@@ -18,6 +18,15 @@ description: An archive of all the sentences I’ve sent to the subscribers.
 [Subscribe](https://kangminsuk.com/blog/sentences/)
 
 ```
+26-05-02
+The Wisdom of Insecurity by Alan W. Watts
+> Already man uses innumerable gadgets to displace the work done by bodily organs in the animals, and it would surely be in line with this tendency to externalize the reasoning functions of the brain-and thus hand over the government of life to electromagnetic monsters. In other words, the interests and goals of rationality are not those of man as a whole organism. If we are to continue to live for the future, and to make the chief work of the mind prediction and calculation, man must eventually become a parasitic appendage to a mass of clockwork.
+
+앨런 W. 와츠, 『불안의 지혜』
+> 인간은 이미 수많은 기계장치로 동물의 신체 기관이 하던 일을 대신하고 있다. 이러한 경향은 뇌의 추리 기능마저 외부화하는 쪽으로 이어질 것이며, 그 결과 삶의 통치를 전자기적 괴물들에게 넘기는 일이 될 것이다. 다시 말해, 이성의 이익과 목표는 인간이라는 전체 유기체의 목표와 일치하지 않는다. 만약 우리가 앞으로도 미래를 위해 살아가고, 정신의 주된 일을 예측과 계산으로 삼는다면, 인간은 결국 시계장치와 같은 큰 덩어리에 기생하는 부속물이 되고 말 것이다.
+```
+
+```
 26-01-16
 
 Megan O'Giblyn, Book: God, Human, Animal Machine
@@ -330,7 +339,7 @@ Eric Hoffer, The True Believer
 > Hatred is the most accessible and comprehensive of all the unifying agents. Mass movements can rise and spread without belief in a god, but never without a belief in a devil.
 
 에릭 호퍼, 맹신자들
-> 증오는 모든 결속 수단 중 가장 접근하기 쉽고 포괄적인 요소다. 대중운동은 신을 향한 믿음 없이도 일어나고 퍼질 수 있지만, 악마를 향한 믿음 없이는 불가능하다. 
+> 증오는 모든 결속 수단 중 가장 접근하기 쉽고 포괄적인 요소다. 대중운동은 신을 향한 믿음 없이도 일어나고 퍼질 수 있지만, 악마를 향한 믿음 없이는 불가능하다.
 ```
 
 ```
