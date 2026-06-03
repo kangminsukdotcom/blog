@@ -1,3 +1,5 @@
+anything wrong with this code?
+
 {{ define "main" }}
 
 <content>
@@ -5,29 +7,29 @@
     <h3 class="blog-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
   {{ end }}
 
-  <div>
-    <img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/img_5872-2.webp" style="max-width: 200px;">
-  </div>
-
   <ul class="blog-posts">
+
+    <div>
+    <img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/img_5872-2.webp" style="max-width: 200px;">
+    </div>
+      
     {{ $grouped := .Pages.GroupByDate "2006" }}
     {{ range $grouped }}
-      <li>
-        <h3>{{ .Key }}</h3>
-        <ul>
-          {{ range .Pages }}
-            <li>
-              {{ if .Params.link }}
-                <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
-              {{ else }}
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-              {{ end }}
-            </li>
+      <h3>{{ .Key }}</h3>
+      {{ range .Pages }}
+        <li>
+          {{ if .Params.link }}
+            <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
+          {{ else }}
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
           {{ end }}
-        </ul>
+        </li>
+      {{ end }}
+    {{ else }}
+      <li>
+        {{ i18n "no-posts" }}
       </li>
     {{ end }}
   </ul>
 </content>
-
 {{ end }}
