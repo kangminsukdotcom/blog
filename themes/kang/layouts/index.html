@@ -7,10 +7,13 @@
 
   <ul class="blog-posts">
 
-    <div>
-    <img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/img_5872-2.webp" style="max-width: 200px;">
-    </div>
-      
+      <div>
+        {{ range .Site.Taxonomies.tags }}
+          <a class="blog-tags" href="{{ .Page.RelPermalink }}">#{{ lower .Page.Title }}</a>
+        {{ end }}
+      <img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/img_5872-2.webp" style="max-width: 200px;">
+      </div>
+
     {{ $grouped := .Pages.GroupByDate "2006" }}
     {{ range $grouped }}
       <h3>{{ .Key }}</h3>
@@ -30,4 +33,3 @@
     {{ end }}
   </ul>
 </content>
-{{ end }}
