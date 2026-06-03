@@ -21,10 +21,11 @@
             <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
           {{ else }}
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-          {{ end }}
+         {{ end }}
         </li>
       {{ end }}
     {{ else }}
+      <li>{{ i18n "no-posts" }}</li>
     {{ end }}
   </ul>
 </content>
