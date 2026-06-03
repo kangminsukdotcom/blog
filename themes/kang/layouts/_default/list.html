@@ -5,29 +5,29 @@
     <h3 class="blog-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
   {{ end }}
 
-  <ul class="blog-posts">
-
-    <div>
+  <div>
     <img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/img_5872-2.webp" style="max-width: 200px;">
-    </div>
-      
+  </div>
+
+  <ul class="blog-posts">
     {{ $grouped := .Pages.GroupByDate "2006" }}
     {{ range $grouped }}
-      <h3>{{ .Key }}</h3>
-      {{ range .Pages }}
-        <li>
-          {{ if .Params.link }}
-            <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
-          {{ else }}
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-          {{ end }}
-        </li>
-      {{ end }}
-    {{ else }}
       <li>
-        {{ i18n "no-posts" }}
+        <h3>{{ .Key }}</h3>
+        <ul>
+          {{ range .Pages }}
+            <li>
+              {{ if .Params.link }}
+                <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
+              {{ else }}
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              {{ end }}
+            </li>
+          {{ end }}
+        </ul>
       </li>
     {{ end }}
   </ul>
 </content>
+
 {{ end }}
