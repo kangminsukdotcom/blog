@@ -8,9 +8,8 @@
   <ul class="blog-posts">
 
       <div>
-        {{ range .Site.Taxonomies.tags }}
-          <a class="blog-tags" href="{{ .Page.RelPermalink }}">#{{ lower .Page.Title }}</a>
-        {{ end }}
+      <img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/us/img_5872-2.webp" style="max-width: 200px;">
+      </img>
       </div>
       
     {{ $grouped := .Pages.GroupByDate "2006" }}
